@@ -15,8 +15,14 @@
   <img src="https://img.shields.io/badge/real--world%20values-8%2C000%2B-bf8700?style=for-the-badge" alt="8,000+ real-world values">
 </p>
 
+<div align="center">
+
+**English** · [Français](LISEZ-MOI.md) · [Русский](ПРОЧТИ%20МЕНЯ.md) · [Deutsch](LIESMICH.md) · [中文](使用说明.md)
+
+</div>
+
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%204.9.6-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download ALL-IN-ONE 4.9.6"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=drive_link"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%204.9.6-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 4.9.6"></a>
   <a href="https://discord.gg/UzUM6Yku7z"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
 </p>
 
@@ -40,6 +46,7 @@ This mod rewrites **more than 8,000 values** with real-world data, reads the gam
 - **You will think before you buy**, because one T-14 Armata costs more than four old T-72s and you only get two of them.
 - **You will choose what hangs under your wings**, because the pylon menu offers what the real aircraft carries and hides what it never did.
 - **You will guard your supply trucks**, because in Logistics Front your money is the stock sitting in your depots.
+- **You will fight for the bridges**, because a river now stops every tank, truck and soldier, and only amphibious vehicles swim across.
 - **You will use the terrain**, because a tank behind a forest is a tank you cannot see, and a launcher that cannot see you cannot shoot you.
 
 ---
@@ -50,10 +57,10 @@ This mod rewrites **more than 8,000 values** with real-world data, reads the gam
 |---|---|---|
 | [What's new in 4.9.6](#new-496) | [Air war](#air-war) | [Where it runs](#where-it-runs) |
 | [Read this first: your deck](#deck) | [Ground war](#ground-war) | [Download and install](#install) |
-| [Nations: NATO vs CSTO](#nations) | [Line of sight](#line-of-sight) | [Settings](#settings) |
-| [Logistics Front](#logistics-front) | [Underneath it all](#underneath) | [Known issues](#known-issues) |
+| [Nations: NATO vs CSTO](#nations) | [Line of sight](#line-of-sight) | [Update or uninstall](#update) |
+| [Logistics Front](#logistics-front) | [Underneath it all](#underneath) | [Settings](#settings) |
 | [The enemy commander](#commander) | [What is not possible](#not-possible) | [Release history](#history) |
-| [Campaign](#campaign) | [In development](#in-development) | [Feedback and credits](#credits) |
+| [Campaign](#campaign) | [Known issues](#known-issues) | [Feedback and credits](#credits) |
 
 ---
 
@@ -62,7 +69,7 @@ This mod rewrites **more than 8,000 values** with real-world data, reads the gam
 ## 🆕 What's new in 4.9.6
 
 > [!IMPORTANT]
-> **Replace 4.9.5 (and any older version), then check your decks.** The Bundeswehr equipment moved to the new Germany division: Leopard 2A4, 2A6, 2A7V and 2A8, Vilkas (Boxer), PzH 2000, M113 Panzermörser, IRIS-T SLM, Unimog and G-Wagen. The non-American equipment and squads of the Baltic DLC (22 cards, among them the CV9035, Scimitar, Spartan, XA-180, NASAMS, K9, and the Milan and Piorun teams) moved to the countries that really field them. Saved decks that held these cards were cleaned on their own, after a copy of all your decks was kept in `Decks\avant_factions`, and a message in the game tells you so. Open your decks and review them.
+> **Replace 4.9.5 (and any older version), then check your decks.** The Bundeswehr equipment moved to the new Germany division: Leopard 2A4, 2A6, 2A7V and 2A8, Vilkas (Boxer), PzH 2000, M113 Panzermörser, IRIS-T SLM, Unimog and G-Wagen. The non-American equipment and squads of the Baltic DLC (21 cards, among them the CV9035, Scimitar, Spartan, XA-180, K9, and the Milan and Piorun teams) moved to the countries that really field them. The NASAMS stays in USA MODE, because the United States really fields it. Saved decks that held these cards were cleaned on their own, after a copy of all your decks was kept in `Decks\avant_factions`, and a message in the game tells you so. Open your decks and review them.
 
 ### Nations: NATO against CSTO
 - The deck builder now asks **CHOOSE A FACTION** (NATO or CSTO), then **CHOOSE A COUNTRY**: one button per country, with its real flag and a one-line description. One click gives the deck both divisions of that country: one deck, one army, no mixing.
@@ -76,7 +83,26 @@ This mod rewrites **more than 8,000 values** with real-world data, reads the gam
 ### Logistics Front replaces Destruction
 - In **Play > Scenarios**, the **LOGISTICS FRONT** maps sit at the top of the list: **Chkalovsk Airbase** and **Meandering River**, both enlarged to about **15 x 15 km**. Destruction leaves the menu.
 - No income from the game: your money is the stock of your supply depots. Take the enemy base, protect your trucks. [Full rules below.](#logistics-front)
-- Meandering River is newly enlarged from 9 to 15 km, with its four bridges and its deep water. The enlarged maps are now tuned map by map: split hangars are glued back together and units no longer float above the ground.
+- **One enemy only**: the commander. The other enemy slots the game creates stay empty, with no units and no money, and their portraits are hidden.
+- **Air power comes with time**, for you and for the enemy: no helicopters and no aircraft for the first 10 minutes of play, helicopters from 10 minutes, aircraft from 20 minutes. A countdown sits in the banner at the top of the screen.
+- Meandering River is newly enlarged from 9 to 15 km. The enlarged maps are now tuned map by map: split hangars are glued back together and units no longer float above the ground.
+
+### A river you cannot ford
+- **The water is shown** along the whole winding river of the enlarged Meandering River, and no tree or object stands in it, bridges excepted.
+- **The whole river stops every ground unit**, deep water and fords alike: tanks, trucks and infantry cross by the **four bridges**. Only amphibious vehicles swim across, through the deep water. The small islands stay, and only amphibious vehicles reach them.
+- The same rule for you and for the enemy: his units take the bridges too.
+
+### A minimap that stays north up
+- In every battle of the mod, the minimap no longer turns with the camera: north stays at the top. Your own setting in the game options is left as you set it.
+- In Logistics Front, the blue and red squares of both bases now sit exactly on the bases.
+
+### Logistics Front: a commander who holds a front
+- He **buys units regularly** with his own money, under the same rules as you, and now pays for the infantry riding in his vehicles.
+- He holds a **front in three sectors**, with reconnaissance in front. On Meandering River each sector holds his bank of the river and **every bridge gets a garrison**: mounted infantry, anti-tank and short-range air defence.
+- His reconnaissance **searches the edges and corners of the map** for your depots, and finds them only from the ground, like you.
+- He **hides and scatters his depots**: never in his base, at least 1.5 km apart, at forest edges and on reverse slopes, away from the main roads, never across the river, never again near a spot where he lost one, each with its own infantry guard. His **empty trucks drive back to his base** and are reloaded there for the next convoy.
+- He attacks **only when he has the advantage**: a known air defence, one of your depots, or your base, but **only once his front line stands**: from 12 minutes with 85 % of his line in place, from 15 minutes with 60 %, at 20 minutes in any case.
+- **After a loss in the air, he stays on the ground**: once one of his helicopters or aircraft is shot down or hit, he sends no more until he has destroyed your air defence, and his ground units go looking for it.
 
 ### Enemy commander: the end of the helicopter spam
 - A known air defence becomes a **no-go zone** for his helicopters: MANPADS 5 km, short-range systems 8 km, C-RAM 2.5 km, long-range systems 12 km.
@@ -120,6 +146,7 @@ This mod rewrites **more than 8,000 values** with real-world data, reads the gam
 - Buildings no longer collapse under 25 to 30 mm fire.
 - No more errors when an effect pool is full (engineers, kamikaze drones, explosions).
 - Dodging, digging in, air-defence line of sight and low-flight rules now also run in Logistics Front.
+- In Logistics Front, the enemy no longer plays as if there were an airport to take, and a convoy destroyed on the road no longer stops all his next convoys.
 
 <details>
 <summary><b>Delivered in 4.9.5 (27 September 2026): click to open</b></summary>
@@ -179,7 +206,7 @@ The game only knows two sides, so every country belongs to one of them: NATO cou
 
 | Country | What it fields | Button needs |
 |---|---|---|
-| **United States** | USA MODE 1 and 2: the complete American arsenal of the game. The Bundeswehr equipment now belongs to Germany. | Base game |
+| **United States** | USA MODE 1 and 2: the complete American arsenal of the game. The Bundeswehr equipment now belongs to Germany and the Baltic equipment to the Baltic countries; the NASAMS stays, as the US Army really fields it. | Base game |
 | **Ukraine** | Soviet-era equipment and equipment delivered by partner countries. American squads, plus the Baltic Piorun and anti-tank teams of the DLC. The T-64BV, BTR-4E and 2S22 Bohdana use stand-ins. | Base game |
 | **Germany** | The Bundeswehr in 2026: Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM, and the Leopard 2A8 on order (first deliveries in 2027). The Puma, Marder, Fennek, Tiger and NH90 use stand-ins. | Baltic DLC |
 | **Poland** | K2 and Abrams tanks, Leopard 2, PT-91, Rosomak, Korean and American rocket artillery, Patriot, F-16. The K2, PT-91, Rosomak, Borsuk, Krab, Homar-K and Narew use stand-ins. | Base game |
@@ -207,17 +234,19 @@ The game only knows two sides, so every country belongs to one of them: NATO cou
 
 ## 🚚 Logistics Front
 
-The mod's own scenario. Two bases, a big map, and no money unless your supply lines hold. Open **Play > Scenarios**: the LOGISTICS FRONT maps are at the top of the list.
+The mod's own scenario. Two bases, a big map, one enemy, and no money unless your supply lines hold. Open **Play > Scenarios**: the LOGISTICS FRONT maps are at the top of the list.
 
 | | Rule |
 |---|---|
 | **Maps** | Chkalovsk Airbase and Meandering River, enlarged to about 15 x 15 km. No time limit. |
-| **Opponent** | You against the mod's commander, with a garrison and convoys of its own. This release plays solo. |
+| **Opponent** | One enemy only: the mod's commander, with a garrison, hidden depots and convoys of its own. The other enemy slots the game creates stay empty. This release plays solo. |
 | **Start** | From the middle of your map edge: 1,500 points, three 10-tonne supply trucks and a command vehicle. A short intro in pause shows the enemy base, then yours. |
+| **Air power** | No helicopters and no aircraft for the first 10 minutes of play, helicopters from 10 minutes, aircraft from 20 minutes, for you and for the enemy. Pause and the intro do not count. Infantry that rides a helicopter counts as a helicopter. A countdown sits in the banner at the top of the screen. |
 | **Income** | Nothing from the game. Every minute your side is paid from the total stock of its depots: 10 t = 85, 30 t = 190, 60 t = 259, never more than 300 a minute for the whole side. Three depots of 10 t pay exactly as much as one of 30 t. |
 | **Depots** | Your three trucks drive out and set up depots 3 to 7 km from your base. A depot is taken by moving into it (blue = yours, red = enemy). A destroyed truck explodes. |
-| **Scouting** | An enemy depot is never seen from the air: infantry spots it at 800 m, ground reconnaissance at 1.5 km. |
-| **Base** | A 2.5 km square. An enemy ground unit inside blocks your reinforcements; still there after 2 minutes, you lose. The same rule wins you the game in his base. |
+| **Scouting** | An enemy depot is never seen from the air: infantry spots it at 800 m, ground reconnaissance at 1.5 km. His depots are scattered and hidden at forest edges and behind crests, away from the main roads. |
+| **River** | On Meandering River the whole river stops every ground unit, deep water and fords alike: cross by the four bridges. Only amphibious vehicles swim across. |
+| **Base** | A 2.5 km square, drawn in blue and red on the minimap. An enemy ground unit inside blocks your reinforcements; still there after 2 minutes, you lose. The same rule wins you the game in his base. |
 | **Command vehicle** | Destroyed: your aviation and heavy artillery are cut for 5 minutes. |
 | **Wipe-out** | A side with no unit at all has 1 minute to bring one back. |
 
@@ -232,7 +261,7 @@ The mod's own scenario. Two bases, a big map, and no money unless your supply li
 
 ## 🧠 The enemy commander
 
-A second commander plays the enemy side of every campaign mission next to the mission script, takes the place of the weakest computer player in offline scenarios and skirmishes, and runs Logistics Front on its own. You choose his level on the briefing screen: script only, regular player, or pro. In Play > Scenarios, the **ENEMY** and **ALLY** choices sit under the map.
+A second commander plays the enemy side of every campaign mission next to the mission script, takes the place of the weakest computer player in offline scenarios and skirmishes, and is the only enemy in Logistics Front. You choose his level on the briefing screen: script only, regular player, or pro. In Play > Scenarios, the **ENEMY** and **ALLY** choices sit under the map.
 
 - **No economy of his own** in the campaign. He reads what you field every thirty seconds, and the value of your living units is the value he is allowed to keep on the map. He has cards like you: each unit type only in the number of its card, a lost unit back after the same delay as yours.
 - **Reconnaissance first**, then he answers what you do: your helicopters bring surface-to-air missiles, your artillery brings a long-range battery under short-range cover, your armour brings a flanking group. Infantry always arrives in vehicles and dismounts near the objective.
@@ -244,6 +273,17 @@ A second commander plays the enemy side of every campaign mission next to the mi
 - **He never breaks a mission.** He checks the script before adding anything and never breaks an objective.
 
 **An allied commander** can fight at your side, with the same brain as the enemy. It is off by default. In the campaign, at its top level, it drops squads behind the lines by helicopter every three minutes and covers an extraction with up to five attack helicopters.
+
+### In Logistics Front: a front, not a rush
+
+- **He spends his own money**, earned from his own depots under the same rules as yours, buys units regularly, and pays for the infantry riding in his vehicles.
+- **Three sectors**, left, centre and right as seen from your base, each with reconnaissance in front, armour, mounted infantry, short-range air defence behind and a forward supply truck, and a mobile reserve that counter-attacks where a sector is pressed. Without a river, his line moves forward in 900 m bounds and falls back when it meets a stronger force.
+- **Rivers and bridges**: on Meandering River each sector holds his bank, and every bridge gets a garrison of mounted infantry, an anti-tank team and short-range air defence.
+- **Reconnaissance tours** every three to six minutes, out to the edges and corners of the map. He finds your depots only from the ground, like you.
+- **Hidden, scattered depots**, as the rules reward: more stock means more income, but one big pile is one strike away from nothing. His depots sit at least 1.5 km apart, never in his base, under the trees or behind a crest, away from the main roads, and each gets an infantry guard. An empty truck never waits next to a depot: it **drives back to his base** and is reloaded there for the next convoy (only the supply is paid, like yours).
+- **He attacks only with the advantage**: against a known air defence, one of your depots, or your base, **after building his front line**: from 12 minutes with 85 % of his line in place, from 15 minutes with 60 %, at 20 minutes in any case. He gathers short of the target, assaults when most of his force has arrived, and falls back after heavy losses.
+- **After a loss in the air, he stays on the ground**: once one of his helicopters or aircraft is shot down or hit, he sends no more until your air defence is destroyed, and his ground units and artillery go after it. He also keeps to the air timing: helicopters from 10 minutes, aircraft from 20.
+- **He defends his base**: a ground unit in his square draws his reserve and nearby units onto it.
 
 <div align="right"><a href="#top">back to top</a></div>
 
@@ -442,18 +482,20 @@ Real calibres, penetration, dispersion and ballistics with real gravity; real ar
 
 ## 📦 Download and install
 
-**Requirements:** Broken Arrow 1.2.0.3 on Steam, Windows. The DLCs are optional. MelonLoader 0.7.3 is included in the archive ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), guide at [melonwiki.xyz](https://melonwiki.xyz/)).
+**Requirements:** Broken Arrow 1.2.0.3 on Steam, Windows. The DLCs are optional. MelonLoader 0.7.3 is included in the download ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), guide at [melonwiki.xyz](https://melonwiki.xyz/)).
 
 ### Install
 
-1. Download the **ALL-IN-ONE** archive from the [Releases page](../../releases/latest). It holds everything: the mod, MelonLoader, the music, and a README in five languages.
+1. Click the green **DOWNLOAD** button at the top of this page. It opens the file on Google Drive: click **Download**, then extract the archive (Windows 11, 7-Zip or WinRAR). It holds the folder **BROKEN ARROW REALISM OVERHAUL**: the mod, MelonLoader, the music and the licence (`LICENSE.txt`). This page and its translations stay here on GitHub.
 2. In Steam, right-click **Broken Arrow**, then **Manage**, then **Browse local files**.
-3. Copy `version.dll`, the `MelonLoader` folder, the `Mods` folder and the `UserData` folder from the archive into that folder, next to `BrokenArrow.exe`. The `UserData` folder holds the mod's music; without it the game keeps its own.
+3. Open the folder **BROKEN ARROW REALISM OVERHAUL** and copy `version.dll`, the `MelonLoader` folder, the `Mods` folder and the `UserData` folder into the game folder, next to `BrokenArrow.exe`. The `UserData` folder holds the mod's music; without it the game keeps its own. `LICENSE.txt` is the licence and does not need to be copied.
 4. Start the game from Steam with **Anti-Cheat Disabled**. The first launch takes a little longer while MelonLoader gets ready, and a console window opens: that is normal.
 5. A **Mod** tab appears in the Options window. In the Arsenal, create a deck: choose NATO or CSTO, then your country.
 
+<a id="update"></a>
+
 ### Update from an older version
-Copy the new files over the old ones, then open your decks and check them.
+Download the new archive with the **DOWNLOAD** button at the top of this page, copy the new files over the old ones, then open your decks and check them.
 
 ### Uninstall
 Delete `Mods\BrokenArrowRealismOverhaul.dll` and the `UserData\RealismOverhaul...` folders. To remove MelonLoader too, delete `version.dll` and the `MelonLoader` folder. The game's own divisions come back, exactly as before.
@@ -486,6 +528,8 @@ Everything in the mod is always on, except the few things you can change in **Es
 | **Cheats** | Optional, off at start, for your own solo games only |
 | `FacteurSonGuerre` | In `UserData\MelonPreferences.cfg`: 1 realistic sound, 0.5 quiet, 2 loud, 0 the game's own |
 
+The minimap stays north up in every battle of the mod. The game's own minimap rotation option is never changed: it works again as soon as you play without the mod.
+
 <div align="right"><a href="#top">back to top</a></div>
 
 ---
@@ -506,15 +550,10 @@ Everything in the mod is always on, except the few things you can change in **Es
 
 ---
 
-<a id="in-development"></a>
-
-## 🔭 In development
-
-- **A sharper opponent in Logistics Front** that searches the corners of the map and hides its depots.
-
 <a id="known-issues"></a>
 
-### Known issues
+## 🐞 Known issues
+
 - On the enlarged maps, trees do not fall under explosions yet.
 - The commander can cause a short hitch when he re-plans on the big maps.
 
@@ -528,7 +567,7 @@ Everything in the mod is always on, except the few things you can change in **Es
 
 | Version | Date | Highlights |
 |:-:|:-:|---|
-| **4.9.6** | September 2026 | Nations, NATO against CSTO: eleven countries with their flags, stand-ins under real names, trucks for every squad; Bundeswehr and Baltic equipment moved out of USA MODE to their own countries. Logistics Front replaces Destruction on Chkalovsk Airbase and Meandering River (15 x 15 km). Commander with no-go zones and road convoys. Decoys about 3 s before impact, fooled missiles missing near the aircraft, escort jamming. Supply and aircraft caught in explosions. 17 building types. 149 ammunition counts fixed. Smoke for every combat squad, 300 m sprint. Fires that last. Official servers closed by the mod. |
+| **4.9.6** | September 2026 | Nations, NATO against CSTO: eleven countries with their flags, stand-ins under real names, trucks for every squad; Bundeswehr and Baltic equipment moved out of USA MODE to their own countries. Logistics Front replaces Destruction on Chkalovsk Airbase and Meandering River (15 x 15 km), with one enemy only, helicopters after 10 minutes and aircraft after 20 for everyone, and a commander who holds a three-sector front, garrisons the bridges and hides his depots. Meandering River with its water shown, no trees in it, and a river crossed only by the bridges, amphibious vehicles excepted. A north-up minimap. Commander with no-go zones and road convoys. Decoys about 3 s before impact, fooled missiles missing near the aircraft, escort jamming. Supply and aircraft caught in explosions. 17 building types. 149 ammunition counts fixed. Smoke for every combat squad, 300 m sprint. Fires that last. Official servers closed by the mod. |
 | **4.9.5** | 27 September 2026 | Real countermeasures on 107 aircraft and 15 paid modernisations, 265 real seekers, real active protection, air defence you set yourself, glide bombs at 50 to 100 km, artillery aim times, radar stealth, automatic laser designation, commander v2 and allied commander, Destruction capture gauge, remote mine-laying cards, DIVE HERE for kamikaze drones, explosions by remaining ammunition, falling trees, far-reaching sound, performance. |
 
 <details>
