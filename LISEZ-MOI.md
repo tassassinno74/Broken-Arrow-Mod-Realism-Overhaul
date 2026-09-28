@@ -5,12 +5,12 @@
 <p align="center"><b>La campagne, les scénarios et l'escarmouche, menés comme le matériel a réellement été conçu pour combattre.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-4.9.6-2ea44f?style=for-the-badge" alt="Version 4.9.6">
+  <img src="https://img.shields.io/badge/version-4.9.7-2ea44f?style=for-the-badge" alt="Version 4.9.7">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
   <img src="https://img.shields.io/badge/languages-EN%20%7C%20FR%20%7C%20RU%20%7C%20DE%20%7C%20ZH-f0883e?style=for-the-badge" alt="Langues : EN, FR, RU, DE, ZH">
-  <img src="https://img.shields.io/badge/play-solo%20%26%20offline-d73a49?style=for-the-badge" alt="Solo et hors ligne">
+  <img src="https://img.shields.io/badge/play-solo%20%26%20co--op%20with%20friends-d73a49?style=for-the-badge" alt="Solo et coop entre amis">
   <img src="https://img.shields.io/badge/nations-NATO%20vs%20CSTO-0969da?style=for-the-badge" alt="OTAN contre OTSC">
   <img src="https://img.shields.io/badge/real--world%20values-8%2C000%2B-bf8700?style=for-the-badge" alt="Plus de 8 000 valeurs réelles">
 </p>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%204.9.6-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 4.9.6"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%204.9.7-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 4.9.7"></a>
   <a href="https://discord.gg/UzUM6Yku7z"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre le Discord"></a>
 </p>
 
@@ -32,13 +32,13 @@
 
 Broken Arrow te donne de vrais véhicules, de vraies armes et une vraie doctrine, puis laisse un obusier de 152 mm faire tomber un obus sur le char garé juste à côté de lui, laisse une mitrailleuse abattre un avion à trois kilomètres d'altitude, et plafonne chaque missile à 9 km, le bord de ses anciennes cartes.
 
-Ce mod réécrit **plus de 8 000 valeurs** avec des données réelles, lit les cartes et les scripts de mission du jeu lui-même, fixe le prix de chaque unité selon ce qu'elle peut vraiment faire, donne à chaque avion et à chaque canon les emports de son équivalent réel, donne à chaque arme sa portée publiée jusqu'à 100 km, et place un **second commandant** de l'autre côté de la carte, qui observe ce que tu déploies et y répond. Depuis la 4.9.6, tu combats aussi pour une **nation** : onze pays répartis en deux camps, l'OTAN et l'OTSC, chacun avec son vrai drapeau et le matériel qu'il utilise réellement.
+Ce mod réécrit **plus de 8 000 valeurs** avec des données réelles, lit les cartes et les scripts de mission du jeu lui-même, fixe le prix de chaque unité selon ce qu'elle peut vraiment faire, donne à chaque avion et à chaque canon les emports de son équivalent réel, donne à chaque arme sa portée publiée jusqu'à 100 km, et place un **second commandant** de l'autre côté de la carte, qui observe ce que tu déploies et y répond. Depuis la 4.9.6, tu combats aussi pour une **nation** : onze pays répartis en deux camps, l'OTAN et l'OTSC, chacun avec son vrai drapeau et le matériel qu'il utilise réellement. Et depuis la 4.9.7, dans Front Logistique, jusqu'à **deux amis** peuvent te rejoindre dans ton camp, en pair à pair via Steam (test).
 
 | 8 000+ | 100 km | 11 | 107 | 265 | 15 x 15 km |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | valeurs réelles | portées publiées, jusqu'à | pays répartis en deux camps | aéronefs avec leurs vraies contre-mesures | munitions guidées avec leur vrai autodirecteur | cartes Front Logistique |
 
-- **Tu escorteras tes transports**, parce qu'une roquette dans un blindé de transport léger tue désormais l'escouade à l'intérieur.
+- **Tu escorteras tes transports**, parce que lorsqu'un transport est détruit, toutes les escouades et tous les véhicules à bord sont perdus avec lui.
 - **Tu tireras des fumigènes parce que tu en auras besoin**, pas parce que c'est joli : chaque escouade de combat a ses propres grenades, les écrans sont larges, et la fumée bloque la vue, le guidage laser et le tir, pour les deux camps.
 - **Tu arrêteras de te servir de l'artillerie comme d'un bouton de panique**, parce que les pièces ont des portées minimales et de vrais temps de pointage, et que rien ne te sauve à bout portant.
 - **Tu craindras le sol en vol**, parce que deux coups au but de missiles antiaériens abattent n'importe quel hélicoptère, et que voler bas te cache des missiles radar à longue portée mais te livre à toutes les mitrailleuses et à tous les lanceurs courte portée à proximité.
@@ -55,12 +55,51 @@ Ce mod réécrit **plus de 8 000 valeurs** avec des données réelles, lit les c
 
 | Le mod | Le champ de bataille | Pratique |
 |---|---|---|
-| [Nouveautés de la 4.9.6](#new-496) | [Guerre aérienne](#air-war) | [Où il fonctionne](#where-it-runs) |
+| [Nouveautés de la 4.9.7](#new-497) · [4.9.6](#new-496) | [Guerre aérienne](#air-war) | [Où il fonctionne](#where-it-runs) |
 | [À lire d'abord : ton deck](#deck) | [Guerre au sol](#ground-war) | [Télécharger et installer](#install) |
 | [Nations : OTAN contre OTSC](#nations) | [Ligne de vue](#line-of-sight) | [Mettre à jour ou désinstaller](#update) |
 | [Front Logistique](#logistics-front) | [Sous le capot](#underneath) | [Réglages](#settings) |
 | [Le commandant ennemi](#commander) | [Ce qui n'est pas possible](#not-possible) | [Historique des versions](#history) |
 | [Campagne](#campaign) | [Problèmes connus](#known-issues) | [Retours et crédits](#credits) |
+
+---
+
+<a id="new-497"></a>
+
+## 🆕 Nouveautés de la 4.9.7
+
+> [!IMPORTANT]
+> **Remplace la 4.9.6 (et toute version plus ancienne).** Tes decks n'ont besoin de rien : un Stryker enregistré avec SRAT II + APS passe de lui-même en SRAT II. **La coop entre amis est une fonction de test** : tous les joueurs de la partie doivent avoir exactement le même fichier du mod, alors partage le même téléchargement avec tes amis, et signale tout problème sur le Discord.
+
+### Coop entre amis (test)
+- Dans **Jouer > Scénarios**, choisis une carte **FRONT LOGISTIQUE**, puis **Héberger avec des amis (Steam)** : toi et **jusqu'à 2 amis**, tous dans ton camp, contre le commandant du mod.
+- **En pair à pair, par les invitations Steam** : aucun serveur officiel du jeu n'est utilisé, c'est le PC de l'hôte qui sert de serveur.
+- **Tout le monde doit avoir exactement le même fichier du mod.** Un ami qui a une autre version du jeu, une autre version ou un autre fichier du mod, ou le mod désactivé, est refusé avec un message clair.
+- **Les règles et les réglages de l'hôte s'appliquent à tous** pendant la bataille, et le bouton **Lancer avec les amis** indique combien d'amis sont prêts.
+- **Au début de la bataille, chaque PC vérifie qu'il a le même état** : stats, règles, carte agrandie. Un message s'affiche si ce n'est pas le cas.
+- **Les effets propres au mod atteignent tous les joueurs** : explosions des véhicules et des dépôts, mines, drones kamikazes et réparations du génie. L'explosion d'un dépôt est vue par tout le monde.
+- **Uniquement sur les cartes Front Logistique** : les cartes d'escarmouche ordinaires n'ont pas d'adversaire ordinateur dans une partie entre amis. Tes amis ont besoin des mêmes DLC pour voir les mêmes unités.
+
+### Les unités transportées périssent avec leur transport
+- Quand un véhicule est détruit, **toutes les escouades et tous les véhicules transportés à bord sont perdus avec lui**, quel que soit le transport : camion, blindé de transport, véhicule de combat d'infanterie, char, hélicoptère ou avion. Avant, une partie d'une escouade pouvait survivre.
+
+### Drones kamikazes : les moteurs à hélice volent bas
+- Les moteurs à hélice du **Geran-2** et du **LUCAS** (150 et 185 km/h) **croisent maintenant à basse altitude, à 100 m** : ils sont plus exposés à la défense antiaérienne (roquettes antidrones, canons antiaériens de 30 mm, ZU-23, missiles tirés à l'épaule) et repérés de plus près.
+- Les moteurs à réaction (370, 500 et 600 km/h) croisent toujours à haute altitude, à 400 m.
+- Les fusils et les mitrailleuses ne peuvent toujours pas abattre les drones : c'est une limite du jeu.
+
+### Canons automatiques sans radar
+- Les **canons de 23 à 30 mm sans radar** des véhicules de combat d'infanterie, des blindés de transport et des hélicoptères (2A42, 2A72, Mk44, M230, M242 de 25 mm...) engagent les hélicoptères jusqu'à **1 500 m au maximum**, au lieu de 2 000 à 3 000 m. Comme avant, ils ne peuvent pas viser les avions.
+- **L'obus explosif de 30 mm** atteint maintenant les cibles au sol à **3 500 m** au lieu de 4 000 m, avec la même précision.
+- Les canons antiaériens à radar (Tunguska, Pantsir, M-SHORAD, Skyranger...) ne changent pas.
+
+### Stryker : pas de protection active
+- Le choix **SRAT II + APS** est masqué du menu sur les huit Stryker : aucun Stryker en service n'emporte de système de protection active, et le Trophy VPS n'a fait l'objet que d'essais, en 2021. Les decks enregistrés passent d'eux-mêmes en SRAT II.
+
+### Corrigé depuis la 4.9.6
+- **Les équipes antichar gardent leur lanceur.** Les vraies tailles d'équipes de la 4.9.3 gardaient les mauvais soldats dans certaines équipes : les VDV Metis-M et Metis-M1 avaient perdu leur Metis, les CAAT TOW-2A et TOW-2B leur TOW, et les VDV Kornet, Kornet-M, PTRK Fagot et Faktoriya n'avaient plus qu'un lanceur sur deux. Le lanceur est maintenant toujours conservé.
+
+<div align="right"><a href="#top">retour en haut</a></div>
 
 ---
 
@@ -187,7 +226,7 @@ Ce mod réécrit **plus de 8 000 valeurs** avec des données réelles, lit les c
 | **14 000 points par catégorie** | Dans chaque catégorie du deck. |
 | **Disponibilité réelle** | Les vieux véhicules produits en masse arrivent en nombre, les modernes en petites séries : deux T-14 par carte contre douze vieux T-72. |
 | **Prix réels** | Chaque unité est tarifée selon sa vraie valeur au combat ; le T-14 Armata est le char le plus puissant du jeu et coûte en conséquence. |
-| **Decks tout prêts** | Deux decks, RUSSIA et USA, sont mis à jour à chaque version, après qu'une copie a été conservée. Tes propres decks ne sont modifiés que lorsqu'une carte quitte une division, comme dans la 4.9.6, et toujours après une copie. |
+| **Decks tout prêts** | Deux decks, RUSSIA et USA, sont mis à jour à chaque version, après qu'une copie a été conservée. Tes propres decks ne sont modifiés que lorsqu'une carte quitte une division (comme dans la 4.9.6, toujours après une copie) ou lorsqu'un choix est retiré d'une carte (l'APS du Stryker dans la 4.9.7). |
 | **Decks enregistrés protégés** | Une carte au-dessus de son maximum redescend d'elle-même à ce maximum. Les cartes en double sont masquées. Tous les camouflages sont débloqués. |
 | **Campagne** | Seul ton deck USA ou Russie joue en campagne, et un message t'indique lequel. Tout ce que la mission te donne s'ajoute à tes cartes, donc les séquences scriptées continuent de fonctionner. |
 | **Partout ailleurs** | Les scénarios, l'escarmouche et Front Logistique acceptent le deck de n'importe quel pays. |
@@ -239,7 +278,8 @@ Le scénario propre au mod. Deux bases, une grande carte, un seul ennemi, et pas
 | | Règle |
 |---|---|
 | **Cartes** | Base aérienne de Chkalovsk et Méandres, agrandies à environ 15 x 15 km. Pas de limite de temps. |
-| **Adversaire** | Un seul ennemi : le commandant du mod, avec une garnison, des dépôts cachés et ses propres convois. Les autres places ennemies que le jeu crée restent vides. Cette version se joue en solo. |
+| **Adversaire** | Un seul ennemi : le commandant du mod, avec une garnison, des dépôts cachés et ses propres convois. Les autres places ennemies que le jeu crée restent vides. Joue-le en solo ou avec jusqu'à 2 amis dans ton camp (coop, test). |
+| **Entre amis** | Choisis la carte, puis **Héberger avec des amis (Steam)**. Tes amis te rejoignent par les invitations Steam, en pair à pair : le PC de l'hôte sert de serveur, et les règles et les réglages de l'hôte s'appliquent à tous. Tout le monde doit avoir exactement le même fichier du mod, et les mêmes DLC pour voir les mêmes unités. |
 | **Départ** | Depuis le milieu de ton bord de carte : 1 500 points, trois camions de ravitaillement de 10 tonnes et un véhicule de commandement. Une courte introduction en pause montre la base ennemie, puis la tienne. |
 | **Puissance aérienne** | Ni hélicoptères ni avions pendant les 10 premières minutes de jeu, les hélicoptères à partir de 10 minutes, les avions à partir de 20 minutes, pour toi comme pour l'ennemi. La pause et l'introduction ne comptent pas. L'infanterie transportée par hélicoptère compte comme un hélicoptère. Un compte à rebours s'affiche dans le bandeau en haut de l'écran. |
 | **Revenu** | Rien de la part du jeu. Chaque minute, ton camp est payé selon le stock total de ses dépôts : 10 t = 85, 30 t = 190, 60 t = 259, jamais plus de 300 par minute pour tout le camp. Trois dépôts de 10 t rapportent exactement autant qu'un seul de 30 t. |
@@ -313,7 +353,7 @@ Plusieurs contre-mesures s'additionnent, sans jamais dépasser 95 %. Un missile 
 
 ### Défense antiaérienne
 - **Deux coups au but de missiles antiaériens abattent tout ce qui vole.** Les missiles radar à longue portée laissent un hélicoptère volant sous 25 m aux systèmes courte portée et aux canons.
-- **Les mitrailleuses et les canons touchent les hélicoptères comme de vraies tourelles** : une 12,7 mm est mortelle entre 300 et 500 m et gaspille ses munitions au-delà.
+- **Les mitrailleuses et les canons touchent les hélicoptères comme de vraies tourelles** : une 12,7 mm est mortelle entre 300 et 500 m et gaspille ses munitions au-delà. Les canons de 23 à 30 mm sans radar des véhicules de combat d'infanterie, des blindés de transport et des hélicoptères atteignent les hélicoptères à 1 500 m au maximum ; les canons antiaériens à radar (Tunguska, Pantsir, M-SHORAD, Skyranger...) ne sont pas limités de cette façon.
 - **Tu règles chaque lanceur** : coche missiles, hélicoptères, avions, drones, dans n'importe quelle combinaison. Par défaut, tout est coché.
 - **Interception** : Pantsir, Tor, Buk, S-300, S-350, S-400, Patriot, IRIS-T et NASAMS abattent les roquettes lourdes et les bombes guidées, jamais les obus, les obus de mortier ni les roquettes Grad. Le Pantsir intercepte aussi avec son canon.
 - **Radars automatiques** : les systèmes à radar fixe allument leur radar d'eux-mêmes cinq secondes après s'être arrêtés. Les missiles infrarouges tirent sans radar.
@@ -328,7 +368,7 @@ Plusieurs contre-mesures s'additionnent, sans jamais dépasser 95 %. Un missile 
 - **Un transport vidé** rentre à la base de lui-même.
 
 ### Drones kamikazes
-Geran-2 pour la Russie et LUCAS pour les États-Unis. Sur la carte, tu choisis l'un des cinq moteurs (150 à 600 km/h, vrais noms, prix selon la vitesse) et l'une des trois charges militaires (fragmentation, effet de souffle sur une petite zone, charge creuse). Il croise à haute altitude, hors de portée des mitrailleuses, et plonge presque à la verticale sur sa cible. Appuie sur **PLONGER ICI**, puis clique au sol : le drone plonge et explose à cet endroit.
+Geran-2 pour la Russie et LUCAS pour les États-Unis. Sur la carte, tu choisis l'un des cinq moteurs (150 à 600 km/h, vrais noms, prix selon la vitesse) et l'une des trois charges militaires (fragmentation, effet de souffle sur une petite zone, charge creuse). Avec un moteur à hélice (150 ou 185 km/h), il croise à basse altitude, à 100 m, là où la défense antiaérienne l'atteint plus facilement et le repère de plus près ; avec un moteur à réaction (370, 500 ou 600 km/h), il croise à haute altitude, à 400 m. Les fusils et les mitrailleuses ne peuvent pas abattre les drones, une limite du jeu. Il plonge presque à la verticale sur sa cible. Appuie sur **PLONGER ICI**, puis clique au sol : le drone plonge et explose à cet endroit.
 
 <div align="right"><a href="#top">retour en haut</a></div>
 
@@ -343,7 +383,6 @@ Geran-2 pour la Russie et LUCAS pour les États-Unis. Sur la carte, tu choisis l
 | Système | Charges | Réaction |
 |---|:-:|:-:|
 | Trophy HV | 6 | 1 s |
-| Trophy VPS (Stryker) | 6 | 1 s |
 | Iron Fist | 4 | 0,5 s |
 | StrikeShield (Vilkas) | 3 | 0,2 s |
 | Arena-M | 6 | 0,4 s |
@@ -352,7 +391,7 @@ Geran-2 pour la Russie et LUCAS pour les États-Unis. Sur la carte, tu choisis l
 | Afganit (T-14, T-15) | 10 | 0,4 s |
 | Afganit (Kurganets, Bumerang) | 8 | 0,4 s |
 
-Les charges sont rechargées par les camions de ravitaillement (60 s et 100 points par charge). La protection active ne peut pas arrêter ce qui plonge sur le toit : Javelin, Spike LR, Hellfire, JAGM, Sokol-V, LMUR et munitions rôdeuses.
+Les charges sont rechargées par les camions de ravitaillement (60 s et 100 points par charge). La protection active ne peut pas arrêter ce qui plonge sur le toit : Javelin, Spike LR, Hellfire, JAGM, Sokol-V, LMUR et munitions rôdeuses. Le Stryker n'en a aucune : aucun Stryker en service n'en emporte, et son choix SRAT II + APS est masqué.
 
 ### Chars et artillerie
 - **Des versions de chars avec leur propre blindage, leur prix et leur disponibilité** : T-72M1, T-72B3 obr. 2022, T-80B, T-80BVM, Leopard 2A4, 2A6 et 2A7V, M1A1 SA, BMPT-72 Terminator-2 et d'autres. Un vrai blindage frontal contre les charges creuses sur 20 chars.
@@ -366,7 +405,8 @@ Les charges sont rechargées par les camions de ravitaillement (60 s et 100 poin
 - Une mine est **active dès qu'elle touche le sol**, **tout véhicule** qui roule sur une mine antichar est détruit, et l'infanterie ne les déclenche pas. Les véhicules de déminage voient les mines ennemies et les font sauter à distance.
 
 ### Infanterie et bâtiments
-- **Vraies tailles d'équipes** : 2 à 4 hommes pour une équipe Javelin, TOW, Kornet, Stinger ou Igla. Les missiles tirés à l'épaule se rechargent en 20 à 25 s.
+- **Vraies tailles d'équipes** : 2 à 4 hommes pour une équipe Javelin, TOW, Kornet, Stinger ou Igla, et l'équipe garde toujours son lanceur. Les missiles tirés à l'épaule se rechargent en 20 à 25 s.
+- **Les unités transportées périssent avec leur transport** : quand un camion, un blindé de transport, un véhicule de combat d'infanterie, un char, un hélicoptère ou un avion est détruit, toutes les escouades et tous les véhicules à bord sont perdus avec lui.
 - **Des grenades fumigènes pour chaque escouade de combat** et un **sprint d'environ 300 m**.
 - **L'infanterie se retranche** quand elle tient une position et progresse à un vrai rythme de combat. Le couvert dépend de l'endroit où elle se trouve : bâtiments, forêt, buissons ou terrain découvert.
 - **Camouflage** : une unité terrestre qui reste immobile dans une forêt sans tirer devient camouflée au bout de 30 s (infanterie) ou 60 s (véhicules), et le perd dès qu'elle bouge ou tire.
@@ -461,8 +501,12 @@ Vrais calibres, pénétration, dispersion et balistique avec la vraie gravité ;
 | Scénarios, hors ligne, depuis Jouer > Scénarios | ✅ Oui |
 | Escarmouche, hors ligne, depuis Jouer > Scénarios (le bouton Escarmouche n'ouvre jamais de salon en ligne) | ✅ Oui |
 | Front Logistique | ✅ Oui, en solo |
+| Front Logistique entre amis : tu héberges, jusqu'à 2 amis te rejoignent dans ton camp, en pair à pair par les invitations Steam, sans serveur officiel | ✅ Oui (test) |
 | Salons en ligne, invitations, recherche rapide, reconnexion : tout ce qui passe par les serveurs officiels | ⛔ Fermé par le mod |
 | Une partie lancée avec l'anti-triche | ⛔ Le mod ferme le jeu |
+
+> [!NOTE]
+> **La coop entre amis ne touche jamais aux serveurs officiels.** Les invitations passent par Steam et le PC de l'hôte sert de serveur. Tout le monde doit avoir exactement le même fichier du mod : un ami qui a une autre version du jeu, une autre version ou un autre fichier du mod, ou le mod désactivé, est refusé avec un message clair.
 
 > [!CAUTION]
 > **Lance toujours le jeu depuis Steam avec l'option de lancement « Anti-Cheat Disabled ».** Si l'anti-triche tourne, le mod affiche un message et ferme le jeu avant que quoi que ce soit ne se charge. Rien d'autre ne se passe : relance-le avec la bonne option.
@@ -472,7 +516,7 @@ Vrais calibres, pénétration, dispersion et balistique avec la vraie gravité ;
 > - **Rester avec le mod** : rien ne se connecte, tu restes dans le menu et tu joues hors ligne.
 > - **En ligne sans le mod** : le jeu se ferme et Steam le relance sans le mod. Tes decks du mod sont d'abord mis de côté et reviennent la prochaine fois que tu lances le jeu avec le mod. Si Steam te demande de confirmer le lancement avec `--no-mods`, accepte. Si le jeu ne redémarre pas, lance-le depuis Steam : le mod est de retour et tu peux réessayer.
 >
-> Si une bataille officielle démarre quand même, le mod reste inactif pendant celle-ci et te dit de la quitter. Pour jouer en ligne durablement, retire le mod et MelonLoader.
+> Si une bataille officielle démarre quand même, le mod reste inactif pendant celle-ci et te dit de la quitter. Pour jouer durablement sur les serveurs officiels, retire le mod et MelonLoader.
 
 <div align="right"><a href="#top">retour en haut</a></div>
 
@@ -495,7 +539,7 @@ Vrais calibres, pénétration, dispersion et balistique avec la vraie gravité ;
 <a id="update"></a>
 
 ### Mettre à jour depuis une ancienne version
-Télécharge la nouvelle archive avec le bouton **DOWNLOAD** en haut de cette page, copie les nouveaux fichiers par-dessus les anciens, puis ouvre tes decks et vérifie-les.
+Télécharge la nouvelle archive avec le bouton **DOWNLOAD** en haut de cette page, copie les nouveaux fichiers par-dessus les anciens, puis ouvre tes decks et vérifie-les. Pour jouer ensemble, tes amis et toi devez avoir exactement la même version.
 
 ### Désinstaller
 Supprime `Mods\BrokenArrowRealismOverhaul.dll` et les dossiers `UserData\RealismOverhaul...`. Pour retirer aussi MelonLoader, supprime `version.dll` et le dossier `MelonLoader`. Les divisions d'origine du jeu reviennent, exactement comme avant.
@@ -528,7 +572,7 @@ Tout le mod est toujours actif, sauf les quelques éléments que tu peux modifie
 | **Triches** | Facultatives, désactivées au départ, pour tes parties solo uniquement |
 | `FacteurSonGuerre` | Dans `UserData\MelonPreferences.cfg` : 1 son réaliste, 0.5 discret, 2 fort, 0 le son d'origine du jeu |
 
-La minicarte garde le nord en haut dans chaque bataille du mod. L'option de rotation de la minicarte du jeu n'est jamais modifiée : elle fonctionne de nouveau dès que tu joues sans le mod.
+Dans une partie en coop, les réglages de l'hôte s'appliquent à tous pendant la bataille. La minicarte garde le nord en haut dans chaque bataille du mod. L'option de rotation de la minicarte du jeu n'est jamais modifiée : elle fonctionne de nouveau dès que tu joues sans le mod.
 
 <div align="right"><a href="#top">retour en haut</a></div>
 
@@ -541,7 +585,7 @@ La minicarte garde le nord en haut dans chaque bataille du mod. L'option de rota
 - **Une traînée de fumée qui reste suspendue dans le ciel** une minute après l'impact. La traînée appartient au projectile : le jeu l'attache au missile et la reprend dès que le missile disparaît. Le mod la conserve pendant tout le vol jusqu'à l'impact, mais une traînée qui resterait au-dessus du champ de bataille après coup obligerait à livrer les fichiers d'effets compilés du jeu lui-même, et un mod ne devrait pas faire ça.
 - **Les avions du commandant uniquement là où la mission le permet.** En campagne, il n'utilise un avion que sur une carte où la mission elle-même en a fait voler un, parce que c'est la seule façon éprouvée de faire venir un avion et de le faire repartir.
 - **Les bombes sans ailes tombent toujours de façon balistique** depuis l'altitude de vol, environ 1,5 à 2,5 km avant la cible. Les kits planants sont de vraies armes de frappe à distance de sécurité depuis la 4.9.5, mais ils ne sont pas largués à basse altitude, et le commandant d'escarmouche ne donne pas l'ordre de frappe de précision.
-- **Pas de multijoueur dans cette version.** Les salons et les batailles du jeu passent par ses serveurs officiels, et ceux-ci peuvent bannir un client modifié. Le mod se joue en solo et hors ligne.
+- **Pas de multijoueur sur les serveurs officiels.** Les salons et les batailles du jeu passent par ses serveurs officiels, et ceux-ci peuvent bannir un client modifié. Le mod se joue en solo et, depuis la 4.9.7, en coop dans Front Logistique, avec jusqu'à 2 amis dans ton camp, en pair à pair via Steam (test). Les cartes d'escarmouche ordinaires n'ont pas d'adversaire ordinateur dans une partie entre amis.
 - **Deux camps seulement.** Le jeu connaît le camp américain et le camp russe, donc les pays de l'OTAN affrontent toujours les pays de l'OTSC.
 - **Les pays dont le matériel principal n'est pas dans le jeu**, comme la France ou le Royaume-Uni, ne peuvent pas être créés. Quand un seul véhicule n'a pas de modèle 3D, un véhicule de la même catégorie le remplace, avec le vrai nom et les vraies stats.
 - **Les munitions rôdeuses** attendent la version du jeu. Les cartes d'équipes Lancet et Switchblade restent masquées d'ici là.
@@ -567,6 +611,7 @@ La minicarte garde le nord en haut dans chaque bataille du mod. L'option de rota
 
 | Version | Date | Points forts |
 |:-:|:-:|---|
+| **4.9.7** | Septembre 2026 | Coop entre amis dans Front Logistique (test) : toi et jusqu'à 2 amis dans ton camp, en pair à pair via Steam, le même fichier du mod vérifié chez tous, les réglages de l'hôte pour tout le monde, les explosions, les mines et les drones du mod partagés par tous les joueurs. Les unités transportées périssent avec leur transport. Les équipes antichar gardent leur lanceur. Le choix APS du Stryker masqué. Les drones kamikazes à hélice croisent bas. Les canons automatiques sans radar limités à 1 500 m contre les hélicoptères. |
 | **4.9.6** | Septembre 2026 | Nations, l'OTAN contre l'OTSC : onze pays avec leurs drapeaux, des remplaçants sous leur vrai nom, des camions pour chaque escouade ; le matériel de la Bundeswehr et le matériel balte sortis de USA MODE pour rejoindre leurs propres pays. Front Logistique remplace Destruction sur la base aérienne de Chkalovsk et Méandres (15 x 15 km), avec un seul ennemi, les hélicoptères après 10 minutes et les avions après 20 pour tout le monde, et un commandant qui tient un front en trois secteurs, met des garnisons sur les ponts et cache ses dépôts. Méandres avec son eau affichée, sans arbres dedans, et une rivière qu'on ne franchit que par les ponts, véhicules amphibies exceptés. Une minicarte qui garde le nord en haut. Un commandant avec des zones interdites et des convois routiers. Des leurres environ 3 s avant l'impact, des missiles leurrés qui ratent près de l'avion, le brouillage d'escorte. Le ravitaillement et les aéronefs pris dans les explosions. 17 types de bâtiments. 149 dotations en munitions corrigées. Des fumigènes pour chaque escouade de combat, un sprint de 300 m. Des incendies qui durent. Les serveurs officiels fermés par le mod. |
 | **4.9.5** | 27 septembre 2026 | De vraies contre-mesures sur 107 aéronefs et 15 modernisations payantes, 265 vrais autodirecteurs, une vraie protection active, une défense antiaérienne que tu règles toi-même, des bombes planantes de 50 à 100 km, les temps de pointage de l'artillerie, la furtivité radar, la désignation laser automatique, le commandant v2 et le commandant allié, la jauge de capture de Destruction, les cartes de minage à distance, PLONGER ICI pour les drones kamikazes, des explosions selon les munitions restantes, des arbres qui tombent, un son qui porte loin, des performances améliorées. |
 
@@ -615,6 +660,6 @@ La minicarte garde le nord en haut dans chaque bataille du mod. L'option de rota
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Tous droits réservés.** Tu peux librement télécharger le mod et y jouer. Le republier où que ce soit (Steam, Steam Workshop, Nexus Mods, ModDB ou tout autre site), le redistribuer, réutiliser son code ou ses données, ou publier des versions modifiées sans l'autorisation écrite de l'auteur est interdit. Conditions complètes : [LICENSE](LICENSE). MelonLoader, inclus dans l'archive ALL-IN-ONE, conserve sa propre licence (Apache 2.0, fichier inclus).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-4.9.6-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 4.9.6"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-4.9.7-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 4.9.7"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
 
 <div align="right"><a href="#top">retour en haut</a></div>
