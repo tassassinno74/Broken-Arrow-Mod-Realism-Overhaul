@@ -5,7 +5,7 @@
 <p align="center"><b>The campaign, the scenarios and the skirmish, fought the way the equipment was actually built to fight.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-4.9.9-2ea44f?style=for-the-badge" alt="Version 4.9.9">
+  <img src="https://img.shields.io/badge/version-4.9.9.1-2ea44f?style=for-the-badge" alt="Version 4.9.9.1">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -32,7 +32,7 @@
 
 Broken Arrow gives you real vehicles, real weapons and real doctrine, and then lets a 152 mm howitzer drop a shell on the tank parked next to it, lets a machine gun swat an aircraft three kilometres up, and caps every missile at the 9 km edge of its old maps.
 
-This mod rewrites **more than 12,000 values** with real-world data, reads the game's own maps and mission scripts, prices every unit on what it can really do, gives every aircraft and every gun the loadouts its real counterpart carries, gives every weapon its published range up to 100 km, and puts a **second commander** on the other side of the map who reads what you field and answers it. Since 4.9.6 you also fight as a **nation**: eleven countries in two camps, NATO and CSTO, each with its real flag and the equipment it really uses. Since 4.9.7, up to **two friends** can join you on your side in Logistics Front, peer to peer through Steam (test). In 4.9.8 every vehicle, weapon and round got its **real armour, speed and rate of fire**. And 4.9.9 lets you **choose your realism** (realistic or semi-realistic), with real infantry sections, low and high flight, and about 75 new real munitions.
+This mod rewrites **more than 12,000 values** with real-world data, reads the game's own maps and mission scripts, prices every unit on what it can really do, gives every aircraft and every gun the loadouts its real counterpart carries, gives every weapon its published range up to 100 km, and puts a **second commander** on the other side of the map who reads what you field and answers it. Since 4.9.6 you also fight as a **nation**: eleven countries in two camps, NATO and CSTO, each with its real flag and the equipment it really uses. Since 4.9.7, up to **two friends** can join you on your side in Logistics Front, peer to peer through Steam (test). In 4.9.8 every vehicle, weapon and round got its **real armour, speed and rate of fire**. And 4.9.9 lets you **choose your realism** (realistic or semi-realistic), with real infantry sections, low and high flight, and about 75 new real munitions. 4.9.9.1 gives every explosive its **real blast and fragmentation radii** and replaces the game's nukes with a **real nuclear arsenal**.
 
 | 8,000+ | 100 km | 11 | 107 | 265 | 15 x 15 km |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -55,12 +55,62 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 
 | The mod | The battlefield | Practical |
 |---|---|---|
-| [What's new in 4.9.9](#new-499) · [4.9.8](#new-498) · [4.9.7](#new-497) | [Air war](#air-war) | [Where it runs](#where-it-runs) |
+| [What's new in 4.9.9.1](#new-4991) · [4.9.9](#new-499) · [4.9.8](#new-498) · [4.9.7](#new-497) | [Air war](#air-war) | [Where it runs](#where-it-runs) |
 | [Read this first: your deck](#deck) | [Ground war](#ground-war) | [Download and install](#install) |
 | [Nations: NATO vs CSTO](#nations) | [Line of sight](#line-of-sight) | [Update or uninstall](#update) |
 | [Logistics Front](#logistics-front) | [Underneath it all](#underneath) | [Settings](#settings) |
 | [The enemy commander](#commander) | [What is not possible](#not-possible) | [Release history](#history) |
 | [Campaign](#campaign) | [Known issues](#known-issues) | [Feedback and credits](#credits) |
+
+---
+
+<a id="new-4991"></a>
+
+## 🆕 What's new in 4.9.9.1: real blast, real nuclear arsenal
+
+> [!IMPORTANT]
+> **Replace 4.9.9 (and any older version).** Your decks need nothing: the game's own nuclear cards are hidden, never deleted, so a saved deck that holds one still opens. For co-op, everyone needs the same 4.9.9.1 file: everything is shared and the host decides.
+
+### Real blast and fragmentation for every explosive
+- Every bomb, shell, mortar bomb, rocket and missile has **real effect circles**, built from real blast and fragmentation data (Kingery-Bulmash, the Jarrett house-damage law, published casualty radii): **dead, almost dead, half health, light damage**, different for infantry, trucks, light armour and tanks.
+- A **MOAB** kills infantry within about 43 m and tanks within about 19 m; a **152 mm shell** kills infantry within about 24 m and tanks within about 1.7 m. A heavy bomb landing on a tank no longer leaves it half alive.
+- **Buildings are razed** inside their real collapse radius: reinforced concrete holds out longer, bunkers never fall.
+- **Trees fall** under every explosion within their real radius, and long autocannon bursts fell them one by one. A felled forest becomes open ground: no more concealment, and the line of sight opens.
+- **Big explosions look right**: no more flames floating in the sky and no more orange cloud; the game's own grey smoke rises with the blast and fades.
+
+### Armour checked on every ground vehicle
+- A dart that really penetrates does **full damage**; a rocket or missile that does not penetrate does **nothing**.
+- **Tandem warheads** defeat light reactive armour (Kontakt-1, Kontakt-5, TUSK I, BUSK...) but not heavy reactive armour (Relikt, Malakhit, TUSK II...).
+- Corrected: M1A2 SEP v2, M1A1 SA, Abrams TUSK sides, T-62MV, Stryker, Bradley and AMPV, BMP-3, CV90, Puma, Marder. **The T-14 is still the best tank in the game.**
+
+### A real nuclear arsenal
+- The game's own nuclear weapons are hidden and replaced by **real warheads on their real carriers**, with real flight data and very high prices. Their blast radii are playable, not real, so that one strike does not wipe out the whole map.
+
+| Side | Carrier and weapon | Yield | Price |
+|---|---|:-:|:-:|
+| USA | F-35A, B61-12 | 10 kt | 3,000 |
+| USA | B-52H, AGM-86B (W80-1) | 80 kt | 5,000 |
+| USA | B-2A, B61-13 | 360 kt | 7,500 |
+| Russia | Su-34, RN-41 | 20 kt | 3,000 |
+| Russia | MiG-31K, Kh-47M2 Kinzhal | 50 kt | 5,000 |
+| Russia | Tu-160, Kh-102 | 250 kt | 7,500 |
+
+- **The endgame weapon**, one per side, 12,000 points: **9K720 Iskander-M** for Russia, **MGM-31C Pershing II** for the USA. When it detonates, everything on the map dies and every building is razed; 30 seconds later nobody can deploy, a global nuclear apocalypse message appears and the game ends.
+
+### Scenarios and campaign
+- **The mod's commanders pause while you cannot deploy**: no more endless waves against an empty defence. The game's own scripts are untouched.
+- **The orange restricted zones are gone** from every official scenario and campaign mission: air defence hidden behind them can now be reached.
+
+### Map size and weather
+- **Map size** in **More settings**: Vanilla, 12 x 12 km or 15 x 15 km on the enlarged maps, also in the game's official PvE defences and skirmishes on those maps. Objectives, spawns and waves move with the map. **The campaign always keeps the vanilla size**, with the whole map open.
+- **Weather** in **Esc > Options > Mod**: Automatic, Clear, Cloudy, Overcast, Rain, Fog. Rain, overcast and fog also shorten sight, for both sides.
+
+### Also
+- **50,000 points per category** in the deck builder, for every faction (logistics unchanged).
+- **Real flight data** for the mod's new munitions: the Pershing II flies at 2,720 m/s.
+- **The MC-130H MOAB card works**: Bombing run and Precision strike, two GBU-43/B MOAB, no passengers, no cargo.
+
+<div align="right"><a href="#top">back to top</a></div>
 
 ---
 
@@ -211,7 +261,7 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 - Your decks are protected: a default deck is only ever replaced by one of the same country, all decks are copied before the game reads them, and a card is only taken out of a saved deck when a country you can pick offers it instead.
 
 ### Logistics Front replaces Destruction
-- In **Play > Scenarios**, the **LOGISTICS FRONT** maps sit at the top of the list: **Chkalovsk Airbase** and **Meandering River**, both enlarged to about **15 x 15 km**. Destruction leaves the menu.
+- In **Play > Scenarios**, the **LOGISTICS FRONT** maps sit at the top of the list: **Chkalovsk Airbase** and **Meandering River**, enlarged to **12 x 12 or 15 x 15 km** (chosen in **More settings**). Destruction leaves the menu.
 - No income from the game: your money is the stock of your supply depots. Take the enemy base, protect your trucks. [Full rules below.](#logistics-front)
 - **One enemy only**: the commander. The other enemy slots the game creates stay empty, with no units and no money, and their portraits are hidden.
 - **Air power comes with time**, for you and for the enemy: no helicopters and no aircraft for the first 10 minutes of play, helicopters from 10 minutes, aircraft from 20 minutes. A countdown sits in the banner at the top of the screen.
@@ -314,7 +364,7 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 | Rule | What it means |
 |---|---|
 | **7 cards per category** | The same for everyone. |
-| **14,000 points per category** | In every category of the deck. |
+| **50,000 points per category** | In every category of the deck, for every country (logistics unchanged). |
 | **Real availability** | Old, mass-produced vehicles come in numbers, modern ones in small batches: two T-14 per card against twelve old T-72s. |
 | **Real prices** | Every unit priced on its real combat value; the T-14 Armata is the strongest tank in the game and priced like it. |
 | **Ready-made decks** | Two decks, RUSSIA and USA, are updated with each version, after a copy is kept. Your own decks are only changed when a card leaves a division (as in 4.9.6, always after a copy) or when a choice is withdrawn from a card (the Stryker's APS in 4.9.7). |
@@ -368,7 +418,7 @@ The mod's own scenario. Two bases, a big map, one enemy, and no money unless you
 
 | | Rule |
 |---|---|
-| **Maps** | Chkalovsk Airbase and Meandering River, enlarged to about 15 x 15 km. No time limit. |
+| **Maps** | Chkalovsk Airbase and Meandering River, enlarged to 12 x 12 or 15 x 15 km (More settings). No time limit. |
 | **Opponent** | One enemy only: the mod's commander, with a garrison, hidden depots and convoys of its own. The other enemy slots the game creates stay empty. Play it solo or with up to 2 friends on your side (co-op, test). |
 | **With friends** | Pick the map, then **Host with friends (Steam)**. Your friends join through Steam invitations, peer to peer: the host's PC acts as the server, and the host's rules and settings apply to everyone. Everyone needs exactly the same mod file, and the same DLCs to see the same units. |
 | **Start** | From the middle of your map edge: 1,500 points, three 10-tonne supply trucks and a command vehicle. A short intro in pause shows the enemy base, then yours. |
@@ -401,7 +451,7 @@ A second commander plays the enemy side of every campaign mission next to the mi
 - **He learns.** He climbs a ladder of eighteen techniques on six levels. A technique that fails moves him one level up and to the other flank, and he never plays the same one twice on the same objective. An attack axis that failed is not used again before two others. On the pro level he flanks, gathers at a rally point and assaults together.
 - **Disciplined fire.** His artillery never fires without a contact seen in the last 75 seconds, and never three times on the same spot. An isolated unit under fire takes cover.
 - **His pilots want to come home**: they strike from three to six kilometres and return to base when hit, at half health or at half their flares.
-- **He never breaks a mission.** He checks the script before adding anything and never breaks an objective.
+- **He never breaks a mission.** He checks the script before adding anything, never breaks an objective, and pauses while you cannot deploy.
 
 **An allied commander** can fight at your side, with the same brain as the enemy. It is off by default. In the campaign, at its top level, it drops squads behind the lines by helicopter every three minutes and covers an extraction with up to five attack helicopters.
 
@@ -546,7 +596,7 @@ One to three echoes at the real speed of sound and an outdoor reverb. One settin
 ## 🎖️ Campaign
 
 - **Your own deck in every mission**: its units are added to what the mission gives you, so the scripted parts keep working. Only USA and Russia decks play in the campaign.
-- **The playable zone is the whole map.**
+- **The playable zone is the whole map**, at the game's own map size, and the orange restricted zones are gone.
 - **Objectives that could never be completed repair themselves**, on all seventeen missions of both campaigns.
 - **Campaign money is rebuilt** around the new prices, without modifying a single mission file.
 - **Restart mission** works.
@@ -656,10 +706,11 @@ Everything in the mod is always on, except the few things you can change in **Es
 | **Wreck duration** | 5, 15, 30 or 60 minutes (30 by default) |
 | **Duration of the dead** | 5, 15, 30 or 60 minutes (30 by default); many bodies at once can lower the frame rate on small PCs |
 | **Fires and smoke** | 5, 15, 30 or 60 minutes (30 by default), on your screen only |
+| **Weather** | Automatic, Clear, Cloudy, Overcast, Rain or Fog; rain, overcast and fog shorten sight for both sides |
 | **Cheats** | Optional, off at start: only the host (or a solo player) can use them, on his own units only |
 | `FacteurSonGuerre` | In `UserData\MelonPreferences.cfg`: 1 realistic sound, 0.5 quiet, 2 loud, 0 the game's own |
 
-In a co-op game, the host's settings apply to everyone for the battle. The minimap stays north up in every battle of the mod. The game's own minimap rotation option is never changed: it works again as soon as you play without the mod.
+The **map size** (Vanilla, 12 x 12 km or 15 x 15 km on the enlarged maps) is chosen in **More settings** before the battle; the campaign always keeps the game's own size. In a co-op game, the host's settings apply to everyone for the battle. The minimap stays north up in every battle of the mod. The game's own minimap rotation option is never changed: it works again as soon as you play without the mod.
 
 <div align="right"><a href="#top">back to top</a></div>
 
@@ -685,7 +736,6 @@ In a co-op game, the host's settings apply to everyone for the battle. The minim
 
 ## 🐞 Known issues
 
-- On the enlarged maps, trees do not fall under explosions yet.
 - The commander can cause a short hitch when he re-plans on the big maps.
 - **Wreck duration** has no visible effect yet: the game keeps wrecks somewhere the mod does not reach.
 - Sections of 20 men are new for the game (it never had more than 14 in one squad): report anything odd in how they move.
@@ -700,6 +750,7 @@ In a co-op game, the host's settings apply to everyone for the battle. The minim
 
 | Version | Date | Highlights |
 |:-:|:-:|---|
+| **4.9.9.1** | September 2026 | Real blast and fragmentation circles for every explosive, by target type; buildings razed and trees felled at their real radius, felled forest opens the line of sight; cleaner big explosions. Armour check of every ground vehicle, tandem warheads beat light reactive armour only. The game's nukes replaced by real warheads on real carriers, plus one endgame weapon per side (Iskander-M, Pershing II). Commanders pause while you cannot deploy; orange restricted zones removed. Map size (Vanilla, 12 or 15 km) and weather settings. 50,000 points per category. MC-130H MOAB card fixed. |
 | **4.9.9** | September 2026 | Choose your realism: Realistic (4.9.8 exactly) or Semi-realistic (+60 % hit points for ground vehicles, tougher infantry), the host decides in co-op. Destroyed vehicles no longer kill armoured neighbours. Low flight hidden from radars and radar missiles, high flight seen by all, automatic climb to fire. Visible ricochets and real tracer ratios. Real infantry sections in every faction, 20-man truck-borne sections, weapon choices. Three buttons per scenario: solo, the mod's co-op on 16 PvE scenarios, official lobby after a warning. The mod is always on; cheats for the host only. Explosion smoke sized by each real charge. About 75 new real munitions and one kamikaze drone per country. |
 | **4.9.8** | September 2026 | Everything real, ranges unchanged: real armour of every vehicle and upgrade on each face, shown in real millimetres, and a round that does not penetrate in real life does no damage (the T-14 is the best tank); real penetration of machine guns and cannons up to 57 mm; real rate of fire for every weapon, one projectile = one real round; real speeds of vehicles, stand-ins, bullets, rockets, mortars and missiles; Germany gets 12 Bundeswehr infantry cards, the Eurofighter and the Tornado. |
 | **4.9.7** | September 2026 | Co-op with friends in Logistics Front (test): you and up to 2 friends on your side, peer to peer through Steam, the same mod file checked for everyone, the host's settings for all, the mod's explosions, mines and drones shared by every player. Carried units die with their carrier. Anti-tank teams keep their launcher. Stryker APS choice hidden. Propeller kamikaze drones cruise low. Autocannons without radar limited to 1,500 m against helicopters. |
@@ -751,6 +802,6 @@ In a co-op game, the host's settings apply to everyone for the battle. The minim
 > [!IMPORTANT]
 > **© 2026 tassassinno74. All rights reserved.** You are welcome to download the mod and play it. Re-uploading it anywhere (Steam, Steam Workshop, Nexus Mods, ModDB or any other site), redistributing it, reusing its code or data, or publishing modified versions without the author's written permission is not allowed. Full terms: [LICENSE](LICENSE). MelonLoader, included in the ALL-IN-ONE archive, keeps its own licence (Apache 2.0, file included).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-4.9.9-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 4.9.9"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-4.9.9.1-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 4.9.9.1"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
 
 <div align="right"><a href="#top">back to top</a></div>
