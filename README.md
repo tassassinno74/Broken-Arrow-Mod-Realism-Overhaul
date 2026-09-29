@@ -5,7 +5,7 @@
 <p align="center"><b>The campaign, the scenarios and the skirmish, fought the way the equipment was actually built to fight.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-4.9.7-2ea44f?style=for-the-badge" alt="Version 4.9.7">
+  <img src="https://img.shields.io/badge/version-4.9.8-2ea44f?style=for-the-badge" alt="Version 4.9.8">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%204.9.7-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 4.9.7"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%204.9.8-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 4.9.8"></a>
   <a href="https://discord.gg/UzUM6Yku7z"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
 </p>
 
@@ -32,7 +32,7 @@
 
 Broken Arrow gives you real vehicles, real weapons and real doctrine, and then lets a 152 mm howitzer drop a shell on the tank parked next to it, lets a machine gun swat an aircraft three kilometres up, and caps every missile at the 9 km edge of its old maps.
 
-This mod rewrites **more than 8,000 values** with real-world data, reads the game's own maps and mission scripts, prices every unit on what it can really do, gives every aircraft and every gun the loadouts its real counterpart carries, gives every weapon its published range up to 100 km, and puts a **second commander** on the other side of the map who reads what you field and answers it. Since 4.9.6 you also fight as a **nation**: eleven countries in two camps, NATO and CSTO, each with its real flag and the equipment it really uses. And since 4.9.7, up to **two friends** can join you on your side in Logistics Front, peer to peer through Steam (test).
+This mod rewrites **more than 12,000 values** with real-world data, reads the game's own maps and mission scripts, prices every unit on what it can really do, gives every aircraft and every gun the loadouts its real counterpart carries, gives every weapon its published range up to 100 km, and puts a **second commander** on the other side of the map who reads what you field and answers it. Since 4.9.6 you also fight as a **nation**: eleven countries in two camps, NATO and CSTO, each with its real flag and the equipment it really uses. Since 4.9.7, up to **two friends** can join you on your side in Logistics Front, peer to peer through Steam (test). And in 4.9.8 every vehicle, weapon and round got its **real armour, speed and rate of fire**.
 
 | 8,000+ | 100 km | 11 | 107 | 265 | 15 x 15 km |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -55,12 +55,48 @@ This mod rewrites **more than 8,000 values** with real-world data, reads the gam
 
 | The mod | The battlefield | Practical |
 |---|---|---|
-| [What's new in 4.9.7](#new-497) · [4.9.6](#new-496) | [Air war](#air-war) | [Where it runs](#where-it-runs) |
+| [What's new in 4.9.8](#new-498) · [4.9.7](#new-497) · [4.9.6](#new-496) | [Air war](#air-war) | [Where it runs](#where-it-runs) |
 | [Read this first: your deck](#deck) | [Ground war](#ground-war) | [Download and install](#install) |
 | [Nations: NATO vs CSTO](#nations) | [Line of sight](#line-of-sight) | [Update or uninstall](#update) |
 | [Logistics Front](#logistics-front) | [Underneath it all](#underneath) | [Settings](#settings) |
 | [The enemy commander](#commander) | [What is not possible](#not-possible) | [Release history](#history) |
 | [Campaign](#campaign) | [Known issues](#known-issues) | [Feedback and credits](#credits) |
+
+---
+
+<a id="new-498"></a>
+
+## 🆕 What's new in 4.9.8: everything real
+
+> [!IMPORTANT]
+> **Replace 4.9.7 (and any older version).** Your decks need nothing. **No range was changed**: every weapon keeps the range it had in 4.9.7. For co-op, everyone needs the same 4.9.8 file: 4.9.7 and 4.9.8 cannot play together.
+
+### Real armour, shown in real millimetres
+- **Every vehicle** of the game and of the mod (tanks, IFVs, APCs, MRAPs, trucks, artillery, launchers, helicopters, aircraft) and **every protection upgrade** (reactive armour, TUSK, BUSK, SRAT, slat and cage armour, add-on kits) has its real protection on each face: front, sides, rear and roof.
+- **A round that does not penetrate in real life does no damage.** A round that only just penetrates does little; a round that overmatches the armour does full damage. Head-on, modern tanks now hardly hurt each other: take their flanks, as in real life. Old tanks still die from one modern shell.
+- **Unit cards show the real millimetres**, in the arsenal and in battle.
+- **The T-14 Armata is the best tank in the game**: 1,050 mm against shells from the front (1,100 for the 2021 version). No NATO shell pierces it head-on; missiles and top attacks still can.
+- **Machine guns and cannons up to 57 mm have their real penetration**, together with real light armour: a 7.62 no longer scratches a BMP-2 from the front, a 12.7 goes through a BTR-80's side at close range, 30 mm APFSDS pierces a Bradley from the front. Rifles still kill soldiers at the same distances.
+- Stand-ins get their own armour: Puma, Marder 1A3, Fuchs, Fennek, AMX-10 RC.
+- Artillery and mortar HE have their real penetration: no more tanks killed through the roof by a near miss.
+
+### Real rate of fire
+- **Every weapon fires at its real rate**: MG3 1,200 rounds/min, PKT 750, GAU-8 3,900, M61 6,000, GSh-6-23 9,000, 2A38M 4,800, rocket pods in real ripple. Range, accuracy and burst length are unchanged.
+- **One projectile on screen is one real round.** The number of rounds carried does not change, but it now lasts as long as in real life: before, the counter could drain up to 20 times too fast. A full resupply costs and lasts the same.
+- **BMPT Terminator**: its two 2A42 fire in fast mode, about 1,200 rounds/min together, with its real ammunition (850 rounds of 30 mm, 600 grenades, 2,100 rounds of 7.62).
+- Real reload for the RPG-7 and Carl Gustaf families (10 to 12 s).
+
+### Real speeds
+- **Vehicles**: real road, off-road, reverse and swimming speeds (Bradley, T-72B3, T-90A and T-90M, T-80U, Leopard 2A7 and 2A8, CV9035, Koalitsiya...).
+- **Stand-ins drive at the speed of the real vehicle**, no longer at their model's: K2, Rosomak, Dingo 2, Fennek, Cobra, BTR-60PB and 31 more.
+- **Projectiles**: real muzzle velocities for bullets, infantry rockets (RPG-28, RPG-30, SRAW, C90, M202, SPG-9...) and mortar bombs, never faster than their real maximum charge. 12 missiles that fell short of their range now reach it (AMRAAM, R-77, R-27ER, R-33, SM-6, Kh-22...).
+- MiG-35, MiG-29K and the Orion and Korsar drones fly at their real speeds.
+
+### Germany: the real Bundeswehr
+- **12 German infantry cards** on the Baltic DLC soldiers, with real Bundeswehr weapons (G36, MG3, MG5, MG4, Panzerfaust 3, RGW 90, G22 and G28 sniper rifles, AG40 grenade launchers): Panzergrenadiere, Jäger, Fallschirmjäger, Heimatschutz, Fernspäher, snipers, MG3 team, heavy machine gun team, GMW grenade launcher team, MELLS team, Fliegerfaust team and KSK. Each rides a Unimog, a Wolf or a Dingo, and its real IFV or APC. The American squads are hidden from the German deck builder; saved decks still work.
+- **Four Luftwaffe aircraft**: Eurofighter Typhoon Tranche 2 and Tranche 3A (on the F-16 models), Tornado IDS with the Taurus KEPD 350 and Tornado ECR with the HARM (on the Su-24 models), with IRIS-T, Meteor, AMRAAM, GBU-48 and the Mauser BK-27 cannon.
+
+<div align="right"><a href="#top">back to top</a></div>
 
 ---
 
@@ -247,7 +283,7 @@ The game only knows two sides, so every country belongs to one of them: NATO cou
 |---|---|---|
 | **United States** | USA MODE 1 and 2: the complete American arsenal of the game. The Bundeswehr equipment now belongs to Germany and the Baltic equipment to the Baltic countries; the NASAMS stays, as the US Army really fields it. | Base game |
 | **Ukraine** | Soviet-era equipment and equipment delivered by partner countries. American squads, plus the Baltic Piorun and anti-tank teams of the DLC. The T-64BV, BTR-4E and 2S22 Bohdana use stand-ins. | Base game |
-| **Germany** | The Bundeswehr in 2026: Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM, and the Leopard 2A8 on order (first deliveries in 2027). The Puma, Marder, Fennek, Tiger and NH90 use stand-ins. | Baltic DLC |
+| **Germany** | The Bundeswehr in 2026: Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM, its own infantry (G36, MG3, MG5, Panzerfaust 3), Eurofighter and Tornado, and the Leopard 2A8 on order (first deliveries in 2027). The Puma, Marder, Fennek, Tiger, NH90, Eurofighter and Tornado use stand-ins. | Baltic DLC |
 | **Poland** | K2 and Abrams tanks, Leopard 2, PT-91, Rosomak, Korean and American rocket artillery, Patriot, F-16. The K2, PT-91, Rosomak, Borsuk, Krab, Homar-K and Narew use stand-ins. | Base game |
 | **Lithuania** | Vilkas (Boxer) and M113, PzH 2000 and HIMARS, NASAMS, the first Black Hawks, and the Leopard 2A8 on order. No tanks in service. Lithuanian squads and crews with their own voices. | Baltic DLC |
 | **Latvia** | CVR(T) Scimitar and Spartan, Patria 6x6, the ASCOD 2 on order, M109A5Ö howitzers, RBS 70, Spike and Piorun, Black Hawk helicopters. No combat aircraft; its only tanks are a few old T-55s kept for training. | Baltic DLC |
@@ -479,9 +515,9 @@ Real calibres, penetration, dispersion and ballistics with real gravity; real ar
 - **The 9 km cap is gone.** Artillery, rocket launchers, ballistic and cruise missiles, air defence, air-to-air, air-to-ground and anti-radar missiles, anti-tank missiles, radars, sensors and laser designators have their published range, up to a technical 100 km. Artillery minimum ranges and the 1 km minimum of air defence are kept for playability.
 - **Every missile, rocket, bomb, gun round and unit checked one by one** against real sources: speeds, acceleration, burn time, warheads, penetration, dispersion, rate of fire, reload, armour, reactive armour, loadouts, seats, road and off-road speeds.
 - **An APFSDS round** loses about 4 % of its penetration per km.
-- **Real burst rate of fire** for autocannons, anti-aircraft guns and vehicle machine guns.
-- **Real speeds** for 51 aircraft and 122 missiles.
-- **Damage depends on calibre** against realistic armour, and gunners aiming by eye are limited by what the eye can do.
+- **Real rate of fire** for every weapon, and one projectile on screen is one real round, so ammunition lasts as long as in real life.
+- **Real speeds** for vehicles, stand-ins, 51 aircraft, 122 missiles, bullets, infantry rockets and mortar bombs.
+- **Damage depends on calibre** against real armour: a round that does not penetrate in real life does no damage, and unit cards show the real millimetres. Gunners aiming by eye are limited by what the eye can do.
 - **The game's own "Hold fire"** holds fire but shoots back as soon as the unit is fired upon.
 - **Nothing is written into the game's own files.** Every value is changed in memory and handed back when the mod stops.
 
@@ -611,6 +647,7 @@ In a co-op game, the host's settings apply to everyone for the battle. The minim
 
 | Version | Date | Highlights |
 |:-:|:-:|---|
+| **4.9.8** | September 2026 | Everything real, ranges unchanged: real armour of every vehicle and upgrade on each face, shown in real millimetres, and a round that does not penetrate in real life does no damage (the T-14 is the best tank); real penetration of machine guns and cannons up to 57 mm; real rate of fire for every weapon, one projectile = one real round; real speeds of vehicles, stand-ins, bullets, rockets, mortars and missiles; Germany gets 12 Bundeswehr infantry cards, the Eurofighter and the Tornado. |
 | **4.9.7** | September 2026 | Co-op with friends in Logistics Front (test): you and up to 2 friends on your side, peer to peer through Steam, the same mod file checked for everyone, the host's settings for all, the mod's explosions, mines and drones shared by every player. Carried units die with their carrier. Anti-tank teams keep their launcher. Stryker APS choice hidden. Propeller kamikaze drones cruise low. Autocannons without radar limited to 1,500 m against helicopters. |
 | **4.9.6** | September 2026 | Nations, NATO against CSTO: eleven countries with their flags, stand-ins under real names, trucks for every squad; Bundeswehr and Baltic equipment moved out of USA MODE to their own countries. Logistics Front replaces Destruction on Chkalovsk Airbase and Meandering River (15 x 15 km), with one enemy only, helicopters after 10 minutes and aircraft after 20 for everyone, and a commander who holds a three-sector front, garrisons the bridges and hides his depots. Meandering River with its water shown, no trees in it, and a river crossed only by the bridges, amphibious vehicles excepted. A north-up minimap. Commander with no-go zones and road convoys. Decoys about 3 s before impact, fooled missiles missing near the aircraft, escort jamming. Supply and aircraft caught in explosions. 17 building types. 149 ammunition counts fixed. Smoke for every combat squad, 300 m sprint. Fires that last. Official servers closed by the mod. |
 | **4.9.5** | 27 September 2026 | Real countermeasures on 107 aircraft and 15 paid modernisations, 265 real seekers, real active protection, air defence you set yourself, glide bombs at 50 to 100 km, artillery aim times, radar stealth, automatic laser designation, commander v2 and allied commander, Destruction capture gauge, remote mine-laying cards, DIVE HERE for kamikaze drones, explosions by remaining ammunition, falling trees, far-reaching sound, performance. |
@@ -660,6 +697,6 @@ In a co-op game, the host's settings apply to everyone for the battle. The minim
 > [!IMPORTANT]
 > **© 2026 tassassinno74. All rights reserved.** You are welcome to download the mod and play it. Re-uploading it anywhere (Steam, Steam Workshop, Nexus Mods, ModDB or any other site), redistributing it, reusing its code or data, or publishing modified versions without the author's written permission is not allowed. Full terms: [LICENSE](LICENSE). MelonLoader, included in the ALL-IN-ONE archive, keeps its own licence (Apache 2.0, file included).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-4.9.7-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 4.9.7"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-4.9.8-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 4.9.8"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
 
 <div align="right"><a href="#top">back to top</a></div>

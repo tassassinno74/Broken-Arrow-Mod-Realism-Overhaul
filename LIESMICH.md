@@ -5,7 +5,7 @@
 <p align="center"><b>Kampagne, Szenarien und Gefecht, ausgetragen so, wie das Gerät wirklich zum Kämpfen gebaut wurde.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-4.9.7-2ea44f?style=for-the-badge" alt="Version 4.9.7">
+  <img src="https://img.shields.io/badge/version-4.9.8-2ea44f?style=for-the-badge" alt="Version 4.9.8">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%204.9.7-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 4.9.7 herunterladen"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%204.9.8-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 4.9.8 herunterladen"></a>
   <a href="https://discord.gg/UzUM6Yku7z"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Dem Discord beitreten"></a>
 </p>
 
@@ -32,7 +32,7 @@
 
 Broken Arrow gibt dir echte Fahrzeuge, echte Waffen und echte Doktrin, und dann lässt es eine 152-mm-Haubitze eine Granate auf den Panzer setzen, der direkt neben ihr steht, lässt ein Maschinengewehr ein Flugzeug in drei Kilometern Höhe vom Himmel holen und deckelt jede Rakete bei 9 km, dem Rand seiner alten Karten.
 
-Diese Mod schreibt **mehr als 8.000 Werte** mit realen Daten neu, liest die Karten und Missionsskripte des Spiels selbst, bepreist jede Einheit nach dem, was sie wirklich kann, gibt jedem Flugzeug und jedem Geschütz die Bewaffnung seines realen Vorbilds, gibt jeder Waffe ihre veröffentlichte Reichweite bis 100 km und setzt dir auf der anderen Seite der Karte einen **zweiten Kommandeur** gegenüber, der liest, was du aufstellst, und darauf antwortet. Seit 4.9.6 kämpfst du außerdem als **Nation**: elf Länder in zwei Lagern, NATO und OVKS, jedes mit seiner echten Flagge und dem Gerät, das es wirklich einsetzt. Und seit 4.9.7 können sich dir in der Logistikfront bis zu **zwei Freunde** auf deiner Seite anschließen, Peer-to-Peer über Steam (Test).
+Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Karten und Missionsskripte des Spiels selbst, bepreist jede Einheit nach dem, was sie wirklich kann, gibt jedem Flugzeug und jedem Geschütz die Bewaffnung seines realen Vorbilds, gibt jeder Waffe ihre veröffentlichte Reichweite bis 100 km und setzt dir auf der anderen Seite der Karte einen **zweiten Kommandeur** gegenüber, der liest, was du aufstellst, und darauf antwortet. Seit 4.9.6 kämpfst du außerdem als **Nation**: elf Länder in zwei Lagern, NATO und OVKS, jedes mit seiner echten Flagge und dem Gerät, das es wirklich einsetzt. Seit 4.9.7 können sich dir in der Logistikfront bis zu **zwei Freunde** auf deiner Seite anschließen, Peer-to-Peer über Steam (Test). Und mit 4.9.8 haben jedes Fahrzeug, jede Waffe und jedes Geschoss ihre **echte Panzerung, Geschwindigkeit und Feuerrate** erhalten.
 
 | 8.000+ | 100 km | 11 | 107 | 265 | 15 x 15 km |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -55,12 +55,48 @@ Diese Mod schreibt **mehr als 8.000 Werte** mit realen Daten neu, liest die Kart
 
 | Die Mod | Das Schlachtfeld | Praktisches |
 |---|---|---|
-| [Neu in 4.9.7](#new-497) · [4.9.6](#new-496) | [Luftkrieg](#air-war) | [Wo die Mod läuft](#where-it-runs) |
+| [Neu in 4.9.8](#new-498) · [4.9.7](#new-497) · [4.9.6](#new-496) | [Luftkrieg](#air-war) | [Wo die Mod läuft](#where-it-runs) |
 | [Zuerst lesen: dein Deck](#deck) | [Landkrieg](#ground-war) | [Download und Installation](#install) |
 | [Nationen: NATO gegen OVKS](#nations) | [Sichtlinie](#line-of-sight) | [Update oder Deinstallation](#update) |
 | [Logistikfront](#logistics-front) | [Unter der Haube](#underneath) | [Einstellungen](#settings) |
 | [Der feindliche Kommandeur](#commander) | [Was nicht möglich ist](#not-possible) | [Versionsgeschichte](#history) |
 | [Kampagne](#campaign) | [Bekannte Probleme](#known-issues) | [Feedback und Danksagungen](#credits) |
+
+---
+
+<a id="new-498"></a>
+
+## 🆕 Neu in 4.9.8: alles echt
+
+> [!IMPORTANT]
+> **Ersetze 4.9.7 (und jede ältere Version).** Deine Decks brauchen nichts. **Keine Reichweite wurde geändert**: Jede Waffe behält die Reichweite, die sie in 4.9.7 hatte. Für Koop brauchen alle dieselbe 4.9.8-Datei: 4.9.7 und 4.9.8 können nicht zusammen spielen.
+
+### Echte Panzerung, angezeigt in echten Millimetern
+- **Jedes Fahrzeug** des Spiels und der Mod (Panzer, Schützenpanzer, Transportpanzer, MRAPs, Lkw, Artillerie, Werfer, Hubschrauber, Flugzeuge) und **jede Schutzaufrüstung** (Reaktivpanzerung, TUSK, BUSK, SRAT, Gitter- und Käfigpanzerung, Zusatzpanzerungssätze) haben ihren echten Schutz auf jeder Seite: Front, Flanken, Heck und Dach.
+- **Ein Geschoss, das in Wirklichkeit nicht durchschlägt, richtet keinen Schaden an.** Ein Geschoss, das nur knapp durchschlägt, richtet wenig an; ein Geschoss, das der Panzerung weit überlegen ist, richtet vollen Schaden an. Frontal fügen sich moderne Panzer jetzt kaum noch Schaden zu: Greif ihre Flanken an, wie in Wirklichkeit. Alte Panzer sterben weiterhin durch eine einzige moderne Granate.
+- **Die Einheitenkarten zeigen die echten Millimeter**, im Arsenal und in der Schlacht.
+- **Der T-14 Armata ist der beste Panzer im Spiel**: 1.050 mm gegen Granaten von vorn (1.100 für die Version von 2021). Keine NATO-Granate durchschlägt ihn frontal; Lenkflugkörper und Angriffe von oben schaffen es weiterhin.
+- **Maschinengewehre und Kanonen bis 57 mm haben ihren echten Durchschlag**, zusammen mit echter leichter Panzerung: Ein 7,62-mm-MG kratzt einen BMP-2 von vorn nicht mehr an, ein 12,7-mm-MG durchschlägt die Flanke eines BTR-80 auf kurze Distanz, 30-mm-APFSDS durchschlägt einen Bradley von vorn. Gewehre töten Soldaten weiterhin auf denselben Entfernungen.
+- Stellvertreter erhalten ihre eigene Panzerung: Puma, Marder 1A3, Fuchs, Fennek, AMX-10 RC.
+- Sprenggranaten von Artillerie und Mörsern haben ihren echten Durchschlag: Ein knapper Fehltreffer zerstört keinen Panzer mehr durch das Dach.
+
+### Echte Feuerrate
+- **Jede Waffe feuert mit ihrer echten Feuerrate**: MG3 1.200 Schuss/min, PKT 750, GAU-8 3.900, M61 6.000, GSh-6-23 9.000, 2A38M 4.800, Raketenbehälter im echten Salventakt. Reichweite, Treffgenauigkeit und Feuerstoßlänge bleiben unverändert.
+- **Ein Geschoss auf dem Bildschirm ist ein echter Schuss.** Die mitgeführte Munitionsmenge ändert sich nicht, reicht aber jetzt so lange wie in Wirklichkeit: Früher konnte sich der Zähler bis zu 20-mal zu schnell leeren. Volles Aufmunitionieren kostet gleich viel und dauert gleich lange.
+- **BMPT Terminator**: Seine zwei 2A42 feuern im schnellen Modus, zusammen etwa 1.200 Schuss/min, mit seiner echten Munition (850 Schuss 30 mm, 600 Granaten, 2.100 Schuss 7,62 mm).
+- Echte Nachladezeit für die Familien RPG-7 und Carl Gustaf (10 bis 12 s).
+
+### Echte Geschwindigkeiten
+- **Fahrzeuge**: echte Geschwindigkeiten auf der Straße, im Gelände, rückwärts und schwimmend (Bradley, T-72B3, T-90A und T-90M, T-80U, Leopard 2A7 und 2A8, CV9035, Koalitsiya...).
+- **Stellvertreter fahren mit der Geschwindigkeit des echten Fahrzeugs**, nicht mehr mit der ihres Modells: K2, Rosomak, Dingo 2, Fennek, Cobra, BTR-60PB und 31 weitere.
+- **Projektile**: echte Mündungsgeschwindigkeiten für Gewehr- und MG-Geschosse, Infanterieraketen (RPG-28, RPG-30, SRAW, C90, M202, SPG-9...) und Mörsergranaten, nie schneller als mit ihrer echten Höchstladung. 12 Raketen, die ihre Reichweite nicht erreichten, erreichen sie jetzt (AMRAAM, R-77, R-27ER, R-33, SM-6, Kh-22...).
+- MiG-35, MiG-29K und die Drohnen Orion und Korsar fliegen mit ihren echten Geschwindigkeiten.
+
+### Deutschland: die echte Bundeswehr
+- **12 deutsche Infanteriekarten** mit den Soldaten des Baltic-DLC und echten Waffen der Bundeswehr (G36, MG3, MG5, MG4, Panzerfaust 3, RGW 90, Scharfschützengewehre G22 und G28, Anbaugranatwerfer AG40): Panzergrenadiere, Jäger, Fallschirmjäger, Heimatschutz, Fernspäher, Scharfschützen, MG3-Trupp, Trupp mit schwerem Maschinengewehr, Trupp mit Granatmaschinenwaffe GMW, MELLS-Trupp, Fliegerfaust-Trupp und KSK. Jeder Trupp fährt in einem Unimog, einem Wolf oder einem Dingo sowie in seinem echten Schützen- oder Transportpanzer. Die amerikanischen Trupps sind im deutschen Deck-Editor ausgeblendet; gespeicherte Decks funktionieren weiterhin.
+- **Vier Flugzeuge der Luftwaffe**: Eurofighter Typhoon Tranche 2 und Tranche 3A (auf den Modellen der F-16), Tornado IDS mit dem Taurus KEPD 350 und Tornado ECR mit der HARM (auf den Modellen der Su-24), mit IRIS-T, Meteor, AMRAAM, GBU-48 und der Kanone Mauser BK-27.
+
+<div align="right"><a href="#top">nach oben</a></div>
 
 ---
 
@@ -247,7 +283,7 @@ Das Spiel kennt nur zwei Seiten, daher gehört jedes Land zu einer davon: NATO-L
 |---|---|---|
 | **Vereinigte Staaten** | USA MODE 1 und 2: das vollständige amerikanische Arsenal des Spiels. Das Gerät der Bundeswehr gehört jetzt zu Deutschland und das baltische Gerät zu den baltischen Ländern; das NASAMS bleibt, da die US Army es wirklich einsetzt. | Grundspiel |
 | **Ukraine** | Gerät aus der Sowjetzeit und von Partnerländern geliefertes Gerät. Amerikanische Trupps, dazu die baltischen Piorun- und Panzerabwehrtrupps des DLC. T-64BV, BTR-4E und 2S22 Bohdana nutzen Stellvertreter. | Grundspiel |
-| **Deutschland** | Die Bundeswehr im Jahr 2026: Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM und der bestellte Leopard 2A8 (erste Auslieferungen 2027). Puma, Marder, Fennek, Tiger und NH90 nutzen Stellvertreter. | Baltic-DLC |
+| **Deutschland** | Die Bundeswehr im Jahr 2026: Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM, ihre eigene Infanterie (G36, MG3, MG5, Panzerfaust 3), Eurofighter und Tornado sowie der bestellte Leopard 2A8 (erste Auslieferungen 2027). Puma, Marder, Fennek, Tiger, NH90, Eurofighter und Tornado nutzen Stellvertreter. | Baltic-DLC |
 | **Polen** | Panzer K2 und Abrams, Leopard 2, PT-91, Rosomak, koreanische und amerikanische Raketenartillerie, Patriot, F-16. K2, PT-91, Rosomak, Borsuk, Krab, Homar-K und Narew nutzen Stellvertreter. | Grundspiel |
 | **Litauen** | Vilkas (Boxer) und M113, PzH 2000 und HIMARS, NASAMS, die ersten Black Hawks und der bestellte Leopard 2A8. Keine Panzer im Dienst. Litauische Trupps und Besatzungen mit eigenen Stimmen. | Baltic-DLC |
 | **Lettland** | CVR(T) Scimitar und Spartan, Patria 6x6, der bestellte ASCOD 2, Haubitzen M109A5Ö, RBS 70, Spike und Piorun, Black-Hawk-Hubschrauber. Keine Kampfflugzeuge; seine einzigen Panzer sind ein paar alte T-55 für die Ausbildung. | Baltic-DLC |
@@ -479,9 +515,9 @@ Echte Kaliber, Durchschlag, Streuung und Ballistik mit echter Schwerkraft; echte
 - **Die 9-km-Grenze ist weg.** Artillerie, Raketenwerfer, ballistische Raketen und Marschflugkörper, Flugabwehr, Luft-Luft-, Luft-Boden- und Anti-Radar-Raketen, Panzerabwehrraketen, Radare, Sensoren und Laserzielbeleuchter haben ihre veröffentlichte Reichweite, bis zu einer technischen Grenze von 100 km. Die Mindestschussweiten der Artillerie und das Minimum von 1 km der Flugabwehr bleiben der Spielbarkeit halber erhalten.
 - **Jeder Lenkflugkörper, jede Rakete, jede Bombe, jedes Geschoss und jede Einheit einzeln geprüft** anhand echter Quellen: Geschwindigkeiten, Beschleunigung, Brenndauer, Gefechtsköpfe, Durchschlag, Streuung, Feuerrate, Nachladen, Panzerung, Reaktivpanzerung, Bewaffnung, Sitzplätze, Straßen- und Geländegeschwindigkeiten.
 - **Ein APFSDS-Geschoss** verliert etwa 4 % seines Durchschlags pro km.
-- **Echte Feuerrate im Feuerstoß** für Maschinenkanonen, Flugabwehrkanonen und Fahrzeug-Maschinengewehre.
-- **Echte Geschwindigkeiten** für 51 Flugzeuge und 122 Raketen.
-- **Der Schaden hängt vom Kaliber ab**, gegen realistische Panzerung, und Schützen, die mit dem Auge zielen, sind durch das begrenzt, was das Auge leisten kann.
+- **Echte Feuerrate** für jede Waffe, und ein Geschoss auf dem Bildschirm ist ein echter Schuss, sodass die Munition so lange reicht wie in Wirklichkeit.
+- **Echte Geschwindigkeiten** für Fahrzeuge, Stellvertreter, 51 Flugzeuge, 122 Raketen, Gewehr- und MG-Geschosse, Infanterieraketen und Mörsergranaten.
+- **Der Schaden hängt vom Kaliber ab**, gegen echte Panzerung: Ein Geschoss, das in Wirklichkeit nicht durchschlägt, richtet keinen Schaden an, und die Einheitenkarten zeigen die echten Millimeter. Schützen, die mit dem Auge zielen, sind durch das begrenzt, was das Auge leisten kann.
 - **Das „Feuer einstellen“ des Spiels selbst** stellt das Feuer ein, erwidert es aber, sobald die Einheit beschossen wird.
 - **Nichts wird in die eigenen Dateien des Spiels geschrieben.** Jeder Wert wird im Speicher geändert und zurückgegeben, wenn die Mod stoppt.
 
@@ -611,6 +647,7 @@ In einer Koop-Partie gelten die Einstellungen des Hosts für alle in der Schlach
 
 | Version | Datum | Höhepunkte |
 |:-:|:-:|---|
+| **4.9.8** | September 2026 | Alles echt, Reichweiten unverändert: echte Panzerung jedes Fahrzeugs und jeder Aufrüstung auf jeder Seite, angezeigt in echten Millimetern, und ein Geschoss, das in Wirklichkeit nicht durchschlägt, richtet keinen Schaden an (der T-14 ist der beste Panzer); echter Durchschlag von Maschinengewehren und Kanonen bis 57 mm; echte Feuerrate jeder Waffe, ein Geschoss = ein echter Schuss; echte Geschwindigkeiten von Fahrzeugen, Stellvertretern, Gewehr- und MG-Geschossen, Raketen, Mörsergranaten und Lenkflugkörpern; Deutschland erhält 12 Infanteriekarten der Bundeswehr, den Eurofighter und den Tornado. |
 | **4.9.7** | September 2026 | Koop mit Freunden in der Logistikfront (Test): du und bis zu 2 Freunde auf deiner Seite, Peer-to-Peer über Steam, dieselbe Mod-Datei bei allen geprüft, die Einstellungen des Hosts für alle, Explosionen, Minen und Drohnen der Mod bei jedem Spieler. Mitgeführte Einheiten sterben mit ihrem Transportmittel. Panzerabwehrtrupps behalten ihren Werfer. APS-Auswahl des Strykers ausgeblendet. Kamikaze-Drohnen mit Propeller fliegen tief. Maschinenkanonen ohne Radar gegen Hubschrauber auf 1.500 m begrenzt. |
 | **4.9.6** | September 2026 | Nationen, NATO gegen OVKS: elf Länder mit ihren Flaggen, Stellvertreter unter echten Namen, Lkw für jeden Trupp; Gerät der Bundeswehr und des Baltikums aus USA MODE in die eigenen Länder verlegt. Logistikfront ersetzt Zerstörung auf Chkalovsk Airbase und Meandering River (15 x 15 km), mit nur einem Gegner, Hubschraubern nach 10 Minuten und Flugzeugen nach 20 für alle und einem Kommandeur, der eine Front in drei Abschnitten hält, die Brücken besetzt und seine Depots versteckt. Meandering River mit sichtbarem Wasser, ohne Bäume darin, und einem Fluss, der nur über die Brücken zu überqueren ist, Schwimmfahrzeuge ausgenommen. Eine genordete Minikarte. Kommandeur mit Sperrzonen und Straßenkonvois. Täuschkörper etwa 3 s vor dem Einschlag, getäuschte Raketen verfehlen nahe am Flugzeug, Begleitstörung. Versorgung und Luftfahrzeuge werden von Explosionen erfasst. 17 Gebäudetypen. 149 Munitionsmengen korrigiert. Nebel für jeden Kampftrupp, Sprint über 300 m. Brände, die anhalten. Offizielle Server von der Mod gesperrt. |
 | **4.9.5** | 27. September 2026 | Echte Gegenmaßnahmen an 107 Luftfahrzeugen und 15 kostenpflichtige Kampfwertsteigerungen, 265 echte Suchköpfe, echte aktive Schutzsysteme, selbst eingestellte Flugabwehr, Gleitbomben auf 50 bis 100 km, Richtzeiten der Artillerie, Radar-Tarnkappe, automatische Laserzielbeleuchtung, Kommandeur v2 und verbündeter Kommandeur, Eroberungsleiste in Zerstörung, Karten zur Fernverlegung von Minen, STURZFLUG HIERHER für Kamikaze-Drohnen, Explosionen nach verbleibender Munition, fallende Bäume, weit tragender Schall, Leistung. |
@@ -660,6 +697,6 @@ In einer Koop-Partie gelten die Einstellungen des Hosts für alle in der Schlach
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Alle Rechte vorbehalten.** Du darfst die Mod gern herunterladen und spielen. Sie irgendwo erneut hochzuladen (Steam, Steam Workshop, Nexus Mods, ModDB oder jede andere Seite), sie weiterzuverbreiten, ihren Code oder ihre Daten wiederzuverwenden oder veränderte Versionen zu veröffentlichen, ist ohne die schriftliche Genehmigung des Autors nicht erlaubt. Vollständige Bedingungen: [LICENSE](LICENSE). MelonLoader, im ALL-IN-ONE-Archiv enthalten, behält seine eigene Lizenz (Apache 2.0, Datei beiliegend).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-4.9.7-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 4.9.7"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-4.9.8-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 4.9.8"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
 
 <div align="right"><a href="#top">nach oben</a></div>

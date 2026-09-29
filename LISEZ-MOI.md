@@ -5,7 +5,7 @@
 <p align="center"><b>La campagne, les scénarios et l'escarmouche, menés comme le matériel a réellement été conçu pour combattre.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-4.9.7-2ea44f?style=for-the-badge" alt="Version 4.9.7">
+  <img src="https://img.shields.io/badge/version-4.9.8-2ea44f?style=for-the-badge" alt="Version 4.9.8">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%204.9.7-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 4.9.7"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%204.9.8-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 4.9.8"></a>
   <a href="https://discord.gg/UzUM6Yku7z"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre le Discord"></a>
 </p>
 
@@ -32,7 +32,7 @@
 
 Broken Arrow te donne de vrais véhicules, de vraies armes et une vraie doctrine, puis laisse un obusier de 152 mm faire tomber un obus sur le char garé juste à côté de lui, laisse une mitrailleuse abattre un avion à trois kilomètres d'altitude, et plafonne chaque missile à 9 km, le bord de ses anciennes cartes.
 
-Ce mod réécrit **plus de 8 000 valeurs** avec des données réelles, lit les cartes et les scripts de mission du jeu lui-même, fixe le prix de chaque unité selon ce qu'elle peut vraiment faire, donne à chaque avion et à chaque canon les emports de son équivalent réel, donne à chaque arme sa portée publiée jusqu'à 100 km, et place un **second commandant** de l'autre côté de la carte, qui observe ce que tu déploies et y répond. Depuis la 4.9.6, tu combats aussi pour une **nation** : onze pays répartis en deux camps, l'OTAN et l'OTSC, chacun avec son vrai drapeau et le matériel qu'il utilise réellement. Et depuis la 4.9.7, dans Front Logistique, jusqu'à **deux amis** peuvent te rejoindre dans ton camp, en pair à pair via Steam (test).
+Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles, lit les cartes et les scripts de mission du jeu lui-même, fixe le prix de chaque unité selon ce qu'elle peut vraiment faire, donne à chaque avion et à chaque canon les emports de son équivalent réel, donne à chaque arme sa portée publiée jusqu'à 100 km, et place un **second commandant** de l'autre côté de la carte, qui observe ce que tu déploies et y répond. Depuis la 4.9.6, tu combats aussi pour une **nation** : onze pays répartis en deux camps, l'OTAN et l'OTSC, chacun avec son vrai drapeau et le matériel qu'il utilise réellement. Depuis la 4.9.7, dans Front Logistique, jusqu'à **deux amis** peuvent te rejoindre dans ton camp, en pair à pair via Steam (test). Et dans la 4.9.8, chaque véhicule, chaque arme et chaque munition a reçu **son vrai blindage, sa vraie vitesse et sa vraie cadence de tir**.
 
 | 8 000+ | 100 km | 11 | 107 | 265 | 15 x 15 km |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -55,12 +55,48 @@ Ce mod réécrit **plus de 8 000 valeurs** avec des données réelles, lit les c
 
 | Le mod | Le champ de bataille | Pratique |
 |---|---|---|
-| [Nouveautés de la 4.9.7](#new-497) · [4.9.6](#new-496) | [Guerre aérienne](#air-war) | [Où il fonctionne](#where-it-runs) |
+| [Nouveautés de la 4.9.8](#new-498) · [4.9.7](#new-497) · [4.9.6](#new-496) | [Guerre aérienne](#air-war) | [Où il fonctionne](#where-it-runs) |
 | [À lire d'abord : ton deck](#deck) | [Guerre au sol](#ground-war) | [Télécharger et installer](#install) |
 | [Nations : OTAN contre OTSC](#nations) | [Ligne de vue](#line-of-sight) | [Mettre à jour ou désinstaller](#update) |
 | [Front Logistique](#logistics-front) | [Sous le capot](#underneath) | [Réglages](#settings) |
 | [Le commandant ennemi](#commander) | [Ce qui n'est pas possible](#not-possible) | [Historique des versions](#history) |
 | [Campagne](#campaign) | [Problèmes connus](#known-issues) | [Retours et crédits](#credits) |
+
+---
+
+<a id="new-498"></a>
+
+## 🆕 Nouveautés de la 4.9.8 : tout comme en vrai
+
+> [!IMPORTANT]
+> **Remplace la 4.9.7 (et toute version plus ancienne).** Tes decks n'ont besoin de rien. **Aucune portée n'a changé** : chaque arme garde la portée qu'elle avait dans la 4.9.7. Pour la coop, tout le monde doit avoir le même fichier 4.9.8 : la 4.9.7 et la 4.9.8 ne peuvent pas jouer ensemble.
+
+### Vrai blindage, affiché en vrais millimètres
+- **Chaque véhicule** du jeu et du mod (chars, véhicules de combat d'infanterie, blindés de transport, MRAP, camions, artillerie, lanceurs, hélicoptères, avions) et **chaque amélioration de protection** (blindage réactif, TUSK, BUSK, SRAT, grilles et cages anti-roquettes, kits de surblindage) a sa vraie protection sur chaque face : avant, flancs, arrière et toit.
+- **Un coup qui ne perce pas en réalité ne fait aucun dégât.** Un coup qui perce tout juste en fait peu ; un coup qui surclasse le blindage fait tous ses dégâts. De face, les chars modernes ne se font maintenant presque plus de mal entre eux : prends-les par les flancs, comme en réalité. Les vieux chars meurent toujours d'un seul obus moderne.
+- **Les cartes d'unité affichent les vrais millimètres**, dans l'arsenal et en bataille.
+- **Le T-14 Armata est le meilleur char du jeu** : 1 050 mm contre les obus de face (1 100 pour la version 2021). Aucun obus de l'OTAN ne le perce de face ; les missiles et les attaques par le toit le peuvent encore.
+- **Les mitrailleuses et les canons jusqu'à 57 mm ont leur vraie pénétration**, avec de vrais blindages légers : une 7,62 n'égratigne plus un BMP-2 de face, une 12,7 traverse le flanc d'un BTR-80 à courte distance, un obus-flèche APFSDS de 30 mm perce un Bradley de face. Les fusils tuent toujours les soldats aux mêmes distances.
+- Les remplaçants reçoivent leur propre blindage : Puma, Marder 1A3, Fuchs, Fennek, AMX-10 RC.
+- Les obus explosifs d'artillerie et de mortier ont leur vraie pénétration : fini les chars détruits par le toit par un obus tombé à côté.
+
+### Vraie cadence de tir
+- **Chaque arme tire à sa vraie cadence** : MG3 1 200 coups/min, PKT 750, GAU-8 3 900, M61 6 000, GSh-6-23 9 000, 2A38M 4 800, paniers de roquettes au vrai rythme de salve. La portée, la précision et la longueur des rafales ne changent pas.
+- **Un projectile à l'écran, c'est un vrai coup.** La dotation en munitions ne change pas, mais elle dure maintenant aussi longtemps qu'en réalité : avant, le compteur pouvait se vider jusqu'à 20 fois trop vite. Un ravitaillement complet coûte le même prix et prend le même temps.
+- **BMPT Terminator** : ses deux canons 2A42 tirent en cadence rapide, environ 1 200 coups/min à eux deux, avec ses vraies munitions (850 obus de 30 mm, 600 grenades, 2 100 cartouches de 7,62).
+- Vrai temps de rechargement pour les familles RPG-7 et Carl Gustaf (10 à 12 s).
+
+### Vraies vitesses
+- **Véhicules** : vraies vitesses sur route, en tout-terrain, en marche arrière et à la nage (Bradley, T-72B3, T-90A et T-90M, T-80U, Leopard 2A7 et 2A8, CV9035, Koalitsiya...).
+- **Les remplaçants roulent à la vitesse du vrai véhicule**, et non plus à celle de leur modèle : K2, Rosomak, Dingo 2, Fennek, Cobra, BTR-60PB et 31 autres.
+- **Projectiles** : vraies vitesses initiales pour les balles, les roquettes d'infanterie (RPG-28, RPG-30, SRAW, C90, M202, SPG-9...) et les obus de mortier, jamais plus rapides qu'avec leur vraie charge maximale. 12 missiles qui n'atteignaient pas leur portée l'atteignent maintenant (AMRAAM, R-77, R-27ER, R-33, SM-6, Kh-22...).
+- Le MiG-35, le MiG-29K et les drones Orion et Korsar volent à leur vraie vitesse.
+
+### Allemagne : la vraie Bundeswehr
+- **12 cartes d'infanterie allemande** sur les modèles de soldats du DLC balte, avec les vraies armes de la Bundeswehr (G36, MG3, MG5, MG4, Panzerfaust 3, RGW 90, fusils de précision G22 et G28, lance-grenades AG40) : Panzergrenadiere, Jäger, Fallschirmjäger, Heimatschutz, Fernspäher, tireurs d'élite, équipe MG3, équipe de mitrailleuse lourde, équipe de lance-grenades GMW, équipe MELLS, équipe Fliegerfaust et KSK. Chacune monte dans un Unimog, un Wolf ou un Dingo, et dans son vrai véhicule de combat d'infanterie ou blindé de transport. Les escouades américaines sont masquées du créateur de deck allemand ; les decks enregistrés fonctionnent toujours.
+- **Quatre avions de la Luftwaffe** : Eurofighter Typhoon Tranche 2 et Tranche 3A (sur les modèles du F-16), Tornado IDS avec le Taurus KEPD 350 et Tornado ECR avec le HARM (sur les modèles du Su-24), avec IRIS-T, Meteor, AMRAAM, GBU-48 et le canon Mauser BK-27.
+
+<div align="right"><a href="#top">retour en haut</a></div>
 
 ---
 
@@ -247,7 +283,7 @@ Le jeu ne connaît que deux camps, donc chaque pays appartient à l'un d'eux : l
 |---|---|---|
 | **États-Unis** | USA MODE 1 et 2 : tout l'arsenal américain du jeu. Le matériel de la Bundeswehr appartient désormais à l'Allemagne et le matériel balte aux pays baltes ; le NASAMS reste, car l'US Army l'utilise réellement. | Jeu de base |
 | **Ukraine** | Matériel d'époque soviétique et matériel livré par les pays partenaires. Escouades américaines, plus les équipes Piorun et antichar baltes du DLC. Le T-64BV, le BTR-4E et le 2S22 Bohdana utilisent des remplaçants. | Jeu de base |
-| **Allemagne** | La Bundeswehr en 2026 : Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM, et le Leopard 2A8 en commande (premières livraisons en 2027). Le Puma, le Marder, le Fennek, le Tiger et le NH90 utilisent des remplaçants. | DLC balte |
+| **Allemagne** | La Bundeswehr en 2026 : Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM, sa propre infanterie (G36, MG3, MG5, Panzerfaust 3), Eurofighter et Tornado, et le Leopard 2A8 en commande (premières livraisons en 2027). Le Puma, le Marder, le Fennek, le Tiger, le NH90, l'Eurofighter et le Tornado utilisent des remplaçants. | DLC balte |
 | **Pologne** | Chars K2 et Abrams, Leopard 2, PT-91, Rosomak, artillerie à roquettes coréenne et américaine, Patriot, F-16. Le K2, le PT-91, le Rosomak, le Borsuk, le Krab, le Homar-K et le Narew utilisent des remplaçants. | Jeu de base |
 | **Lituanie** | Vilkas (Boxer) et M113, PzH 2000 et HIMARS, NASAMS, les premiers Black Hawk, et le Leopard 2A8 en commande. Aucun char en service. Escouades et équipages lituaniens avec leurs propres voix. | DLC balte |
 | **Lettonie** | CVR(T) Scimitar et Spartan, Patria 6x6, l'ASCOD 2 en commande, obusiers M109A5Ö, RBS 70, Spike et Piorun, hélicoptères Black Hawk. Aucun avion de combat ; ses seuls chars sont quelques vieux T-55 conservés pour l'instruction. | DLC balte |
@@ -479,9 +515,9 @@ Vrais calibres, pénétration, dispersion et balistique avec la vraie gravité ;
 - **Le plafond de 9 km a disparu.** L'artillerie, les lance-roquettes, les missiles balistiques et de croisière, la défense antiaérienne, les missiles air-air, air-sol et antiradar, les missiles antichars, les radars, les capteurs et les désignateurs laser ont leur portée publiée, jusqu'à un plafond technique de 100 km. Les portées minimales de l'artillerie et le minimum de 1 km de la défense antiaérienne sont conservés pour la jouabilité.
 - **Chaque missile, roquette, bombe, obus et unité vérifié un par un** d'après des sources réelles : vitesses, accélération, durée de combustion, charges militaires, pénétration, dispersion, cadence de tir, rechargement, blindage, blindage réactif, emports, places, vitesses sur route et en tout-terrain.
 - **Un obus-flèche APFSDS** perd environ 4 % de sa pénétration par km.
-- **Vraie cadence de tir en rafale** pour les canons automatiques, les canons antiaériens et les mitrailleuses de véhicule.
-- **Vraies vitesses** pour 51 avions et 122 missiles.
-- **Les dégâts dépendent du calibre** face à un blindage réaliste, et les tireurs qui visent à l'œil sont limités par ce que l'œil peut faire.
+- **Vraie cadence de tir** pour chaque arme, et un projectile à l'écran est un vrai coup, donc les munitions durent aussi longtemps qu'en réalité.
+- **Vraies vitesses** pour les véhicules, les remplaçants, 51 avions, 122 missiles, les balles, les roquettes d'infanterie et les obus de mortier.
+- **Les dégâts dépendent du calibre** face à un vrai blindage : un coup qui ne perce pas en réalité ne fait aucun dégât, et les cartes d'unité affichent les vrais millimètres. Les tireurs qui visent à l'œil sont limités par ce que l'œil peut faire.
 - **Le « Ne pas tirer » du jeu** retient le tir mais riposte dès que l'unité est prise pour cible.
 - **Rien n'est écrit dans les fichiers du jeu.** Chaque valeur est modifiée en mémoire et restituée quand le mod s'arrête.
 
@@ -611,6 +647,7 @@ Dans une partie en coop, les réglages de l'hôte s'appliquent à tous pendant l
 
 | Version | Date | Points forts |
 |:-:|:-:|---|
+| **4.9.8** | Septembre 2026 | Tout comme en vrai, portées inchangées : le vrai blindage de chaque véhicule et de chaque amélioration sur chaque face, affiché en vrais millimètres, et un coup qui ne perce pas en réalité ne fait aucun dégât (le T-14 est le meilleur char) ; la vraie pénétration des mitrailleuses et des canons jusqu'à 57 mm ; la vraie cadence de tir de chaque arme, un projectile = un vrai coup ; les vraies vitesses des véhicules, des remplaçants, des balles, des roquettes, des mortiers et des missiles ; l'Allemagne reçoit 12 cartes d'infanterie de la Bundeswehr, l'Eurofighter et le Tornado. |
 | **4.9.7** | Septembre 2026 | Coop entre amis dans Front Logistique (test) : toi et jusqu'à 2 amis dans ton camp, en pair à pair via Steam, le même fichier du mod vérifié chez tous, les réglages de l'hôte pour tout le monde, les explosions, les mines et les drones du mod partagés par tous les joueurs. Les unités transportées périssent avec leur transport. Les équipes antichar gardent leur lanceur. Le choix APS du Stryker masqué. Les drones kamikazes à hélice croisent bas. Les canons automatiques sans radar limités à 1 500 m contre les hélicoptères. |
 | **4.9.6** | Septembre 2026 | Nations, l'OTAN contre l'OTSC : onze pays avec leurs drapeaux, des remplaçants sous leur vrai nom, des camions pour chaque escouade ; le matériel de la Bundeswehr et le matériel balte sortis de USA MODE pour rejoindre leurs propres pays. Front Logistique remplace Destruction sur la base aérienne de Chkalovsk et Méandres (15 x 15 km), avec un seul ennemi, les hélicoptères après 10 minutes et les avions après 20 pour tout le monde, et un commandant qui tient un front en trois secteurs, met des garnisons sur les ponts et cache ses dépôts. Méandres avec son eau affichée, sans arbres dedans, et une rivière qu'on ne franchit que par les ponts, véhicules amphibies exceptés. Une minicarte qui garde le nord en haut. Un commandant avec des zones interdites et des convois routiers. Des leurres environ 3 s avant l'impact, des missiles leurrés qui ratent près de l'avion, le brouillage d'escorte. Le ravitaillement et les aéronefs pris dans les explosions. 17 types de bâtiments. 149 dotations en munitions corrigées. Des fumigènes pour chaque escouade de combat, un sprint de 300 m. Des incendies qui durent. Les serveurs officiels fermés par le mod. |
 | **4.9.5** | 27 septembre 2026 | De vraies contre-mesures sur 107 aéronefs et 15 modernisations payantes, 265 vrais autodirecteurs, une vraie protection active, une défense antiaérienne que tu règles toi-même, des bombes planantes de 50 à 100 km, les temps de pointage de l'artillerie, la furtivité radar, la désignation laser automatique, le commandant v2 et le commandant allié, la jauge de capture de Destruction, les cartes de minage à distance, PLONGER ICI pour les drones kamikazes, des explosions selon les munitions restantes, des arbres qui tombent, un son qui porte loin, des performances améliorées. |
@@ -660,6 +697,6 @@ Dans une partie en coop, les réglages de l'hôte s'appliquent à tous pendant l
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Tous droits réservés.** Tu peux librement télécharger le mod et y jouer. Le republier où que ce soit (Steam, Steam Workshop, Nexus Mods, ModDB ou tout autre site), le redistribuer, réutiliser son code ou ses données, ou publier des versions modifiées sans l'autorisation écrite de l'auteur est interdit. Conditions complètes : [LICENSE](LICENSE). MelonLoader, inclus dans l'archive ALL-IN-ONE, conserve sa propre licence (Apache 2.0, fichier inclus).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-4.9.7-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 4.9.7"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-4.9.8-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 4.9.8"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
 
 <div align="right"><a href="#top">retour en haut</a></div>
