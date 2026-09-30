@@ -5,14 +5,14 @@
 <p align="center"><b>Kampagne, Szenarien und Gefecht, ausgetragen so, wie das Gerät wirklich zum Kämpfen gebaut wurde.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-4.9.9.1-2ea44f?style=for-the-badge" alt="Version 4.9.9.1">
+  <img src="https://img.shields.io/badge/version-5.1-2ea44f?style=for-the-badge" alt="Version 5.1">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
   <img src="https://img.shields.io/badge/languages-EN%20%7C%20FR%20%7C%20RU%20%7C%20DE%20%7C%20ZH-f0883e?style=for-the-badge" alt="Sprachen: EN, FR, RU, DE, ZH">
-  <img src="https://img.shields.io/badge/play-solo%20%26%20co--op%20with%20friends-d73a49?style=for-the-badge" alt="Solo und Koop mit Freunden">
-  <img src="https://img.shields.io/badge/nations-NATO%20vs%20CSTO-0969da?style=for-the-badge" alt="NATO gegen OVKS">
-  <img src="https://img.shields.io/badge/real--world%20values-8%2C000%2B-bf8700?style=for-the-badge" alt="Über 8.000 reale Werte">
+  <img src="https://img.shields.io/badge/play-solo%20%7C%20co--op%20%7C%20PvP%20via%20Steam-d73a49?style=for-the-badge" alt="Solo, Koop und PvP über Steam-Lobbys">
+  <img src="https://img.shields.io/badge/nations-NATO%20vs%20CSTO-0969da?style=for-the-badge" alt="NATO gegen OVKS"> <img src="https://img.shields.io/badge/Logistics%20Front-22%20maps-6f42c1?style=for-the-badge" alt="Logistikfront: 22 Karten">
+  <img src="https://img.shields.io/badge/real--world%20values-8%2C000%2B-bf8700?style=for-the-badge" alt="Über 8.000 reale Werte"> <img src="https://img.shields.io/badge/official%20servers-never%20used-555555?style=for-the-badge" alt="Offizielle Server: nie genutzt">
 </p>
 
 <div align="center">
@@ -22,21 +22,28 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%204.9.9-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 4.9.9 herunterladen"></a>
-  <a href="https://discord.gg/UzUM6Yku7z"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Dem Discord beitreten"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.1-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 5.1 herunterladen"></a>
+  <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Dem Discord beitreten"></a>
+  <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube-Kanal"></a>
 </p>
 
-<p align="center">Eine Mod von <b>tassassinno74</b></p>
+<p align="center">Eine Mod von <b>tassassinno74</b> · <b>Noichi</b> auf Discord</p>
 
 ---
 
 Broken Arrow gibt dir echte Fahrzeuge, echte Waffen und echte Doktrin, und dann lässt es eine 152-mm-Haubitze eine Granate auf den Panzer setzen, der direkt neben ihr steht, lässt ein Maschinengewehr ein Flugzeug in drei Kilometern Höhe vom Himmel holen und deckelt jede Rakete bei 9 km, dem Rand seiner alten Karten.
 
-Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Karten und Missionsskripte des Spiels selbst, bepreist jede Einheit nach dem, was sie wirklich kann, gibt jedem Flugzeug und jedem Geschütz die Bewaffnung seines realen Vorbilds, gibt jeder Waffe ihre veröffentlichte Reichweite bis 100 km und setzt dir auf der anderen Seite der Karte einen **zweiten Kommandeur** gegenüber, der liest, was du aufstellst, und darauf antwortet. Seit 4.9.6 kämpfst du außerdem als **Nation**: elf Länder in zwei Lagern, NATO und OVKS, jedes mit seiner echten Flagge und dem Gerät, das es wirklich einsetzt. Seit 4.9.7 können sich dir in der Logistikfront bis zu **zwei Freunde** auf deiner Seite anschließen, Peer-to-Peer über Steam (Test). Mit 4.9.8 haben jedes Fahrzeug, jede Waffe und jedes Geschoss ihre **echte Panzerung, Geschwindigkeit und Feuerrate** erhalten. Und mit 4.9.9 **wählst du deinen Realismus** (realistisch oder halbrealistisch), mit echten Infanterietrupps, Tief- und Hochflug und rund 75 neuen echten Munitionen. Mit 4.9.9.1 erhält jeder Sprengkörper seine **echten Druck- und Splitterradien**, und die Atomwaffen des Spiels weichen einem **echten Nukleararsenal**.
+Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Karten und Missionsskripte des Spiels selbst, bepreist jede Einheit nach dem, was sie wirklich kann, gibt jedem Flugzeug und jedem Geschütz die Bewaffnung seines realen Vorbilds, gibt jeder Waffe ihre veröffentlichte Reichweite bis 100 km und setzt dir auf der anderen Seite der Karte einen **zweiten Kommandeur** gegenüber, der liest, was du aufstellst, und darauf antwortet. Du kämpfst als **Nation**, als eines von elf Ländern in zwei Lagern, NATO und OVKS. Jedes Fahrzeug, jede Waffe und jedes Geschoss hat seine **echte Panzerung, Geschwindigkeit und Feuerrate**, jeder Sprengkörper seine **echte Druck- und Splitterwirkung**, und du **wählst deinen Realismus**: realistisch oder halbrealistisch.
 
-| 8.000+ | 100 km | 11 | 107 | 265 | 15 x 15 km |
+**5.1 öffnet das ganze Schlachtfeld.** Die Logistikfront, das eigene Szenario der Mod, läuft jetzt auf **allen 22 Karten des Spiels**, in drei Größen bis **225 km²**, auf vergrößerten Karten, deren Brücken, Bahnlinien, Häfen und Ortschaften passend zum neuen Gelände neu aufgebaut wurden. Die Mod hat jetzt **eigene Steam-Lobbys**: Such dir eine Partie, erstelle ein Gefecht, kämpfe **zu dritt gegen einen Kommandeur** oder **im PvP gegen andere Mod-Spieler**, mit Passwort, Bereit-Abfrage, Lobby-Chat und Ping. Und die Mod **rührt die offiziellen Server nicht mehr an**: Das Menü ist das eigene der Mod, und jede Partie zwischen Spielern läuft über Steam.
+
+| 8.000+ | 100 km | 11 | 22 | 225 km² | 3 v 1 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| reale Werte | veröffentlichte Reichweiten bis | Länder in zwei Lagern | Luftfahrzeuge mit ihren echten Gegenmaßnahmen | Lenkmunitionen mit ihrem echten Suchkopf | Karten der Logistikfront |
+| reale Werte | veröffentlichte Reichweiten bis | Länder in zwei Lagern | Karten der Logistikfront | größte Kartengröße | drei Spieler gegen einen Kommandeur |
+
+| 107 | 265 | 90 | 16 | 5 | 0 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Luftfahrzeuge mit ihren echten Gegenmaßnahmen | Lenkmunitionen mit ihrem echten Suchkopf | Einheiten pro Seite in der Logistikfront | offizielle PvE-Szenarien im Koop spielbar | Sprachen | genutzte offizielle Server |
 
 - **Du wirst deine Transporter eskortieren**, denn wird ein Transportfahrzeug zerstört, stirbt jeder Trupp und jedes Fahrzeug darin mit ihm.
 - **Du wirst Nebel werfen, weil du ihn brauchst**, nicht weil er gut aussieht: Jeder Kampftrupp trägt eigene Granaten, Nebelwände sind breit, und Nebel blockiert Sicht, Laserlenkung und Feuer für beide Seiten.
@@ -46,8 +53,10 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 - **Du wirst nachdenken, bevor du kaufst**, denn ein T-14 Armata kostet mehr als vier alte T-72, und du bekommst nur zwei davon.
 - **Du wirst wählen, was unter deinen Flügeln hängt**, denn das Pylon-Menü bietet, was das echte Flugzeug trägt, und blendet aus, was es nie getragen hat.
 - **Du wirst deine Versorgungs-Lkw bewachen**, denn in der Logistikfront ist dein Geld der Vorrat in deinen Depots.
-- **Du wirst um die Brücken kämpfen**, denn ein Fluss hält jetzt jeden Panzer, jeden Lkw und jeden Soldaten auf, und nur Schwimmfahrzeuge kommen schwimmend hinüber.
+- **Du wirst um die Brücken kämpfen**, denn auf jeder Karte hält das Wasser jetzt jedes Fahrzeug auf, das nicht schwimmen kann: Die Furten sind gesperrt, und nur Schwimmfahrzeuge kommen hinüber.
 - **Du wirst das Gelände nutzen**, denn ein Panzer hinter einem Wald ist ein Panzer, den du nicht sehen kannst, und ein Werfer, der dich nicht sieht, kann dich nicht beschießen.
+- **Du wirst dein Schlachtfeld wählen**, denn die Logistikfront läuft jetzt auf allen 22 Karten, in Vanilla, Mittel oder Groß, bis 15 x 15 km.
+- **Du wirst das Kommando teilen**, denn drei Spieler teilen sich 90 Einheiten gegen einen Kommandeur, der 90 eigene hat.
 
 ---
 
@@ -55,35 +64,116 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 
 | Die Mod | Das Schlachtfeld | Praktisches |
 |---|---|---|
-| [Neu in 4.9.9.1](#new-4991) · [4.9.9](#new-499) · [4.9.8](#new-498) · [4.9.7](#new-497) | [Luftkrieg](#air-war) | [Wo die Mod läuft](#where-it-runs) |
-| [Zuerst lesen: dein Deck](#deck) | [Landkrieg](#ground-war) | [Download und Installation](#install) |
-| [Nationen: NATO gegen OVKS](#nations) | [Sichtlinie](#line-of-sight) | [Update oder Deinstallation](#update) |
-| [Logistikfront](#logistics-front) | [Unter der Haube](#underneath) | [Einstellungen](#settings) |
-| [Der feindliche Kommandeur](#commander) | [Was nicht möglich ist](#not-possible) | [Versionsgeschichte](#history) |
-| [Kampagne](#campaign) | [Bekannte Probleme](#known-issues) | [Feedback und Danksagungen](#credits) |
+| [Neu in 5.1](#new-51) · [5.0](#new-50) · [frühere](#earlier) | [Logistikfront](#logistics-front) | [Wo die Mod läuft](#where-it-runs) |
+| [Roadmap](#roadmap) | [Die 22 Karten](#maps) | [Download und Installation](#install) |
+| [Das Menü der Mod](#menu) | [Der feindliche Kommandeur](#commander) | [Update oder Deinstallation](#update) |
+| [Steam-Lobbys: gemeinsam spielen](#lobbies) | [Luftkrieg](#air-war) | [Einstellungen](#settings) |
+| [Zuerst lesen: dein Deck](#deck) | [Landkrieg](#ground-war) | [Was nicht möglich ist](#not-possible) |
+| [Nationen: NATO gegen OVKS](#nations) | [Wasser, Brücken und lebendige Karten](#water) | [Bekannte Probleme](#known-issues) |
+| [Kampagne](#campaign) | [Sichtlinie](#line-of-sight) | [Versionsgeschichte](#history) |
+| | [Unter der Haube](#underneath) | [Community](#community) · [Danksagungen und Lizenz](#credits) |
 
 ---
 
-<a id="new-4991"></a>
+<a id="new-51"></a>
 
-## 🆕 Neu in 4.9.9.1: echte Druckwelle, echtes Nukleararsenal
+## 🆕 Neu in 5.1: das ganze Schlachtfeld
+
+> [!IMPORTANT]
+> **Ersetze 5.0 (und jede ältere Version):** Kopiere die neuen Dateien über die alten. Um zusammen zu spielen, brauchen alle **genau dieselbe 5.1-Datei**: Eine Lobby, die mit einer anderen Version erstellt wurde, zeigt in der Liste **Falsche Version** an, und ein Klick darauf öffnet diese Seite.
+
+### 🗺️ Logistikfront auf allen 22 Karten
+- **Jede Karte des Spiels** trägt jetzt die Logistikfront. [Die vollständige Tabelle der 22 Karten steht weiter unten.](#maps)
+- **Drei Größen**, vor der Schlacht gewählt: **Vanilla** (die Originalgröße des Spiels), **Mittel** (ab 144 km², 12 x 12 km bei einer quadratischen Karte) und **Groß** (200 bis 225 km², 15 x 15 km bei einer quadratischen Karte). Eine rechteckige Karte bleibt ein Rechteck, nur weniger lang gezogen, und die Liste zeigt die echten Kilometer jeder Karte.
+- **Jede Karte wurde einzeln vermessen**: ihre Straßen, Gewässer, Brücken, ihr Relief und ihre bebauten Flächen, damit Startpunkte, Depots und die Front des Kommandeurs genau zu dieser Karte passen.
+- **Basen an einer Straße am Kartenrand.** Jede Basis ist ein Quadrat von 2,5 km, vollständig innerhalb der Karte und an deinen Rand gesetzt. **Die Startseite wird in jeder Schlacht ausgelost**, für dich und für den Gegner, im Koop mit derselben Auslosung auf jedem PC.
+- **Luftfahrzeuge kommen von jenseits der Karte**: Flugzeuge 1 km hinter dem Rand, Hubschrauber 350 m dahinter. Ein Gegner in deiner Basis blockiert weiterhin jede Ankunft, Luftfahrzeuge eingeschlossen.
+- **Startdepots fächerförmig um jede Basis verteilt**, 3 bis 7 km entfernt.
+- **Koop, drei gegen einen**: bis zu 3 Spieler auf derselben Seite gegen **einen einzigen** Kommandeur. **90 Einheiten gleichzeitig pro Seite**: 90 für einen Spieler allein, je 45 für zwei, je 30 für drei; der Kommandeur hat 90 eigene. Ein Kauf über deinen Anteil hinaus wird mit einer klaren Meldung abgelehnt.
+
+### 🏙️ Lebendige vergrößerte Karten
+- **Die kleinen Details sind zurück** auf den Karten in Mittel und Groß: Gleise, Masten, Oberleitungen, Waggons, Autos, Container, Zäune und Straßenlaternen. Das Strecken der Karte hatte sie entfernt.
+- **Bahnlinien laufen ohne Unterbrechung**: Die Gleise folgen der gestreckten Linie, in Stücke echter Länge geschnitten, damit die Schwellen ihren Abstand behalten, und Masten, Waggons und Züge drehen sich mit.
+- **Schiffe liegen parallel zu ihren Kais**, in ihrem ursprünglichen Abstand, mit ihren Pontons.
+- **Brücken sind wieder gerade**: Jede Brücke liegt in einem Stück entlang der gestreckten Straße. Keine treppenförmigen Fahrbahnen mehr.
+- **Leere Flächen werden gefüllt**: neue Häuser mit Blick zur Straße, mit eingezäuntem Hof und Stellplatz, und große leere Betonflächen werden mit Gebäuden aus dem Viertel bebaut, mit Depots, Lagerhallen, Parkplätzen und Baustellen. **Felder bleiben Felder.**
+- Das Ergebnis ist auf jedem PC dasselbe, und die **Vanilla-Größe wird nie angetastet**.
+
+### 🎯 Mehr Realismus
+- **Kein Fahren mehr durchs Wasser**: Die Furten sind für jedes nicht schwimmfähige Fahrzeug gesperrt, **auf jeder Karte, in jeder Größe und in jedem Modus**, die Kampagne eingeschlossen. Nimm die Brücken; Schwimmfahrzeuge schwimmen weiterhin. Keine Mission verliert einen Übergang, den sie braucht: Land ab 0,5 km² wird nie abgeschnitten, und wo eine Furt der einzige Weg hinüber ist, bleibt die kürzeste offen.
+- **Lenkflugkörper treffen Fahrzeuge im Wasser**: Lenkflugkörper, Raketen und Granaten im direkten Richten zielten früher unter die Oberfläche und schlugen vor dem Fahrzeug ins Wasser. Jetzt treffen sie es wie an Land.
+- **Die aus der Kanone verschossene Lenkrakete des T-14 fliegt geradewegs ins Ziel**, entlang der Sichtlinie, wie die echte. Sie steigt nicht mehr wie eine Javelin in den Himmel, bevor sie herabstürzt.
+- **Einheitensymbole bleiben beim Herauszoomen sichtbar**, deine eigenen und die der Gegner, die du entdeckt hast. Der Nebel des Krieges bleibt unverändert.
+
+### 🏠 Ein neues Menü
+- **Der eigene Startbildschirm der Mod**: die Links zum Discord, zum Steam-Profil des Autors, zu GitHub und YouTube, die Neuerungen dieser Version, die Versionen von Mod und Spiel und wie viele Mod-Spieler online sind. [Mehr dazu weiter unten.](#menu)
+- **Spielen**: **Kampagne**, **Szenarien** und **Lobby finden**; dessen Schaltfläche **Lobby erstellen** öffnet **Gefecht erstellen** (PvP oder gegen die KI).
+- **Nichts Offizielles bleibt auf dem Bildschirm**: keine offizielle Lobbyliste, keine Schnellsuche, kein Ranglistenprofil, kein Shop-Karussell.
+
+### 🌐 Die eigenen Steam-Lobbys der Mod
+- **Lobby finden**: jede Mod-Lobby mit Titel, Modus, Karte, Größe, den Einstellungen des Hosts, Ping sowie den Versionen von Mod und Spiel.
+- **Gefecht erstellen** oder **Mod-Lobby erstellen (Steam)**: öffentlich, nur für Freunde oder privat, mit optionalem **Passwort**.
+- In der Lobby: eine **Bereit**-Abfrage, ein **Lobby-Chat** und der Ping jedes Spielers. Der Host kann einen Spieler **entfernen**, sogar in der Schlacht (**F8**).
+- **Ein Spieler, dessen Verbindung abbricht, behält seine Einheiten**: Eine defensive KI hält sie, bis er zurückkommt.
+- **Nur legitime Steam-Kopien**, über Steam auf jedem PC geprüft. **Die offiziellen Server werden überhaupt nicht genutzt.** [Alle Details weiter unten.](#lobbies)
+
+### 🎵 Musik
+- **Das Intro läuft einmal**, dann jedes Stück einmal in zufälliger Reihenfolge, dann wieder das Intro. Die Musik läuft vom Menü bis in die Schlacht weiter; die eigene Musik einer Mission hat immer Vorrang.
+
+### 🤝 Im Koop
+- **Alles ist synchronisiert, und der Host entscheidet**: Karte, Größe, Startseite, Realismus-Modus, Wetter und jede Regel.
+
+<div align="right"><a href="#top">nach oben</a></div>
+
+---
+
+<a id="new-50"></a>
+
+## 🆕 Neu in 5.0
+
+### Behoben: das Einfrieren nach dem Aufstellen mancher Trupps
+- Das Spiel rüstet **höchstens fünf verschiedene Waffen pro Trupp** aus. Vier Trupps aus 4.9.9 trugen sechs, wodurch ein Soldat ohne Waffe blieb und die Schlacht wenige Sekunden nach ihrem Aufstellen einfror. Jeder Trupp jeder Fraktion ist jetzt auf fünf verschiedene Waffen begrenzt, automatisch und mit einem Sicherheitsnetz dahinter.
+
+### Logistikfront
+- **Ein Kameraflug eröffnet die Schlacht**, bei pausiertem Spiel: hinauf über die Karte, weiter zur feindlichen Basis (**Greift diese Zone an**), zurück zu deiner (**Verteidigt eure Zone**), wieder hinauf (**Viel Spaß beim Spiel**). Er dauert 26,5 Sekunden, und die Schlacht beginnt spätestens nach 30 Sekunden, was auch immer passiert.
+- **Kein Führungsfahrzeug mehr**: Es wird nicht mehr aufgestellt, und nichts fällt aus, wenn ein Fahrzeug verloren geht.
+- **Basen am Kartenrand, an einer Straße**, eine **in jeder Schlacht ausgeloste Startseite** und Flugzeuge, die von jenseits des Kartenrands kommen.
+- **Sieben Stabilitätskorrekturen** für die vergrößerten Karten und das Laden der Szenarien.
+
+### Klang und Musik
+- **Raketen sind auf ihre echte Entfernung zu hören**: Ein Start und eine Rakete im Flug tragen 4 bis 8 km weit. Die Hydraulikgeräusche der HIMARS- und MLRS-Werfer werden nicht mehr als Raketengeräusche abgespielt.
+- **Ein neues Intro-Thema** eröffnet die Musik, und die Musik der Mod läuft jetzt in der Schlacht weiter, in den Szenarien, der Logistikfront, im Gefecht und in der Kampagne, anstelle der allgemeinen Schlachtmusik des Spiels.
+
+<div align="right"><a href="#top">nach oben</a></div>
+
+---
+
+<a id="earlier"></a>
+
+## 📚 Frühere Updates im Detail
+
+Jedes Update seit 4.9.5, so wie es erschienen ist. Manche dieser Regeln wurden später ersetzt: Die Abschnitte weiter unten beschreiben die Mod, wie sie heute ist.
+
+<a id="new-4991"></a>
+<details>
+<summary><b>4.9.9.1: echte Druckwelle, echtes Nukleararsenal</b></summary>
 
 > [!IMPORTANT]
 > **Ersetze 4.9.9 (und jede ältere Version).** Deine Decks brauchen nichts: Die eigenen Atomwaffenkarten des Spiels werden ausgeblendet, nie gelöscht, sodass sich ein gespeichertes Deck, das eine davon enthält, weiterhin öffnen lässt. Für Koop brauchen alle dieselbe 4.9.9.1-Datei: Alles wird geteilt, und der Host entscheidet.
 
-### Echte Druckwelle und Splitterwirkung für jeden Sprengkörper
+#### Echte Druckwelle und Splitterwirkung für jeden Sprengkörper
 - Jede Bombe, Granate, Mörsergranate, Rakete und jeder Lenkflugkörper hat **echte Wirkungskreise**, aufgebaut aus echten Druck- und Splitterdaten (Kingery-Bulmash, das Jarrett-Gesetz für Gebäudeschäden, veröffentlichte Verlustradien): **tot, fast tot, halbe Trefferpunkte, leichter Schaden**, unterschiedlich für Infanterie, Lkw, leicht gepanzerte Fahrzeuge und Panzer.
 - Eine **MOAB** tötet Infanterie im Umkreis von etwa 43 m und Panzer im Umkreis von etwa 19 m; eine **152-mm-Granate** tötet Infanterie im Umkreis von etwa 24 m und Panzer im Umkreis von etwa 1,7 m. Eine schwere Bombe, die auf einem Panzer einschlägt, lässt ihn nicht mehr halb lebendig zurück.
 - **Gebäude werden dem Erdboden gleichgemacht**, innerhalb ihres echten Einsturzradius: Stahlbeton hält länger stand, Bunker fallen nie.
 - **Bäume fallen** bei jeder Explosion innerhalb ihres echten Radius, und lange Feuerstöße von Maschinenkanonen fällen sie einen nach dem anderen. Ein gefällter Wald wird zu offenem Gelände: keine Tarnung mehr, und die Sichtlinie öffnet sich.
 - **Große Explosionen sehen richtig aus**: keine am Himmel schwebenden Flammen und keine orange Wolke mehr; der eigene graue Rauch des Spiels steigt mit der Explosion auf und verblasst.
 
-### Panzerung jedes Bodenfahrzeugs geprüft
+#### Panzerung jedes Bodenfahrzeugs geprüft
 - Ein Pfeilgeschoss, das wirklich durchschlägt, richtet **vollen Schaden** an; eine Rakete oder ein Lenkflugkörper, der nicht durchschlägt, richtet **nichts** an.
 - **Tandemgefechtsköpfe** überwinden leichte Reaktivpanzerung (Kontakt-1, Kontakt-5, TUSK I, BUSK...), aber keine schwere Reaktivpanzerung (Relikt, Malakhit, TUSK II...).
 - Korrigiert: M1A2 SEP v2, M1A1 SA, Flanken des Abrams TUSK, T-62MV, Stryker, Bradley und AMPV, BMP-3, CV90, Puma, Marder. **Der T-14 bleibt der beste Panzer im Spiel.**
 
-### Ein echtes Nukleararsenal
+#### Ein echtes Nukleararsenal
 - Die eigenen Atomwaffen des Spiels werden ausgeblendet und durch **echte Sprengköpfe auf ihren echten Trägern** ersetzt, mit echten Flugdaten und sehr hohen Preisen. Ihre Druckwellenradien sind spielbar, nicht echt, damit ein einziger Schlag nicht die ganze Karte auslöscht.
 
 | Seite | Träger und Waffe | Sprengkraft | Preis |
@@ -97,86 +187,84 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 
 - **Die Endspielwaffe**, eine pro Seite, 12.000 Punkte: **9K720 Iskander-M** für Russland, **MGM-31C Pershing II** für die USA. Wenn sie detoniert, stirbt alles auf der Karte, und jedes Gebäude wird dem Erdboden gleichgemacht; 30 Sekunden später kann niemand mehr etwas aufstellen, eine Meldung über die weltweite nukleare Apokalypse erscheint, und die Partie endet.
 
-### Szenarien und Kampagne
+#### Szenarien und Kampagne
 - **Die Kommandeure der Mod pausieren, solange du nichts aufstellen kannst**: keine endlosen Wellen mehr gegen eine leere Verteidigung. Die eigenen Skripte des Spiels bleiben unberührt.
 - **Die orangefarbenen Sperrzonen sind verschwunden**, aus jedem offiziellen Szenario und jeder Kampagnenmission: Dahinter versteckte Flugabwehr ist jetzt erreichbar.
 
-### Kartengröße und Wetter
+#### Kartengröße und Wetter
 - **Kartengröße** unter **Weitere Einstellungen** (More settings): Vanilla, 12 x 12 km oder 15 x 15 km auf den vergrößerten Karten, auch in den offiziellen PvE-Verteidigungen und Gefechten des Spiels auf diesen Karten. Missionsziele, Startpunkte und Wellen wandern mit der Karte. **Die Kampagne behält immer die Originalgröße**, mit der ganzen Karte offen.
 - **Wetter** unter **Esc > Einstellungen > Mod**: Automatisch, Klar, Bewölkt, Bedeckt, Regen, Nebel. Regen, bedeckter Himmel und Nebel verkürzen außerdem die Sicht, für beide Seiten.
 
-### Außerdem
+#### Außerdem
 - **50.000 Punkte pro Kategorie** im Deck-Editor, für jede Fraktion (Logistik unverändert).
 - **Echte Flugdaten** für die neuen Munitionen der Mod: Die Pershing II fliegt mit 2.720 m/s.
 - **Die Karte MC-130H MOAB funktioniert**: Bombenangriff und Präzisionsschlag, zwei GBU-43/B MOAB, keine Passagiere, keine Fracht.
 
-<div align="right"><a href="#top">nach oben</a></div>
-
----
+</details>
 
 <a id="new-499"></a>
-
-## 🆕 Neu in 4.9.9: wähle deinen Realismus
+<details>
+<summary><b>4.9.9: wähle deinen Realismus</b></summary>
 
 > [!IMPORTANT]
 > **Ersetze 4.9.8 (und jede ältere Version).** Deine Decks brauchen nichts: Ein Deck, dessen Transportmittel für seinen Trupp jetzt zu klein ist, wechselt auf das kleinste Fahrzeug, das ihn aufnehmen kann (vorher wird eine Kopie deiner Decks angelegt). **Keine Reichweite einer bestehenden Waffe wurde geändert.** Für Koop brauchen alle dieselbe 4.9.9-Datei.
 
-### Realismus-Modus: realistisch oder halbrealistisch
+#### Realismus-Modus: realistisch oder halbrealistisch
 - **Esc > Einstellungen > Mod > Realismus-Modus.** **Realistisch** ist genau 4.9.8: echte Panzerung, echter Durchschlag. **Halbrealistisch** (die Standardeinstellung) gibt jedem Bodenfahrzeug, Panzer eingeschlossen, **60 % mehr Trefferpunkte** und macht die Infanterie widerstandsfähiger, für Spieler, denen voller Realismus zu gnadenlos ist.
 - Im Koop **gilt die Wahl des Hosts für alle**.
 
-### Behoben: die Explosion eines zerstörten Fahrzeugs
+#### Behoben: die Explosion eines zerstörten Fahrzeugs
 - Sie traf ihre Nachbarn durch das Dach (zwei Terminator, vernichtet durch eine einzige TOW). Jetzt **nimmt ein gepanzerter Nachbar keinen Schaden**, ein ungepanzerter wird je nach Explosion und Entfernung beschädigt, und **Infanterie in der Nähe wird von der Druckwelle getötet**.
 
-### Tiefflug und Hochflug
+#### Tiefflug und Hochflug
 - **Tiefflug:** Flugzeuge, Hubschrauber und Drohnen werden von Bodeneinheiten jenseits von 5 km nicht gesehen, und **radargelenkte Raketen** (Tor, Pantsir, Buk, S-300 / S-400, Patriot, NASAMS, IRIS-T SLM...) **feuern nicht auf sie**. Rohrwaffen und schultergestützte Raketen feuern weiterhin.
 - **Hochflug:** Jede Flugabwehr sieht dich.
 - Ein Flugzeug im Tiefflug **steigt von selbst**, um eine Lenkrakete abzufeuern, und geht danach wieder hinunter; nach einem Bombenangriff kehrt es in den Tiefflug zurück.
 - **8 Drohnen** erhalten die Höhen-Schaltfläche: MQ-9, MQ-1, MQ-1C, Orion, Forpost, Korsar, RQ-7, S-70.
 
-### Abpraller und Leuchtspur
+#### Abpraller und Leuchtspur
 - Ein Geschoss, das nicht durchschlägt, **prallt sichtbar ab**: Funken, seine abgleitende Leuchtspur und bei Granaten ein metallischer Schlag.
 - **Leuchtspur:** jeder 3. Schuss bei den Maschinenkanonen von Fahrzeugen, jeder 5. bei ihren Maschinengewehren.
 
-### Echte Infanterietrupps, in jeder Fraktion
+#### Echte Infanterietrupps, in jeder Fraktion
 - **Mechanisierte Trupps** haben die echte Absitzstärke ihres Fahrzeugs: BMP und Bradley 7, BTR-82 8, Stryker 9, Puma 6, BMD 5.
 - **Panzerabwehrtrupps** (TOW, Javelin, Kornet, Spike...) sind vollständige Trupps: Werfer, ein Maschinengewehr, ein Präzisionsschütze und Gewehrschützen. Ebenso die Flugabwehrtrupps, die Trupps mit schwerem Maschinengewehr und die Granatwerfertrupps.
 - **Lkw-gestützte Trupps mit 20 Mann** (Reservisten, Kaitseliit, KASP, Zemessardze), mit Lkw in ihrer echten Kapazität (Ural 27 Plätze). Sie haben weniger Exemplare, sodass die Zahl der Soldaten auf der Karte gleich bleibt.
 - **Waffenauswahl** auf den wichtigsten Karten der Linieninfanterie: Raketenwerfer, Präzisionsgewehr, Maschinengewehr, für +5 bis +20 Punkte.
 - Jede Infanteriekarte hat einen Lkw, der den ganzen Trupp befördert.
 
-### Szenarien: drei Schaltflächen
+#### Szenarien: drei Schaltflächen
+*Ersetzt in 5.1: Die offizielle Lobby ist verschwunden, und der Koop läuft über die eigenen Steam-Lobbys der Mod ([Details](#lobbies)).*
+
 - Jedes Szenario zeigt **Allein spielen**, **Mit Freunden hosten (Steam)** und **Offizielle Lobby erstellen**.
 - **Der Koop der Mod funktioniert jetzt auf den 16 PvE-Szenarien des Spiels**, ebenso wie in der Logistikfront.
 - **Offizielle Lobby (nur PvE-Szenarien):** Zuerst kommt eine Warnung (der Anti-Cheat des Spiels erkennt die Mod, eine Sperre ist möglich), und ein Deck mit Karten der Mod wird durch ein Deck des Spiels desselben Landes ersetzt. Gefecht, PvP und Schnellsuche bleiben gesperrt, mit einer klaren Meldung.
 
-### Die Mod ist immer aktiv
+#### Die Mod ist immer aktiv
 - Sie lässt sich im Spiel nicht mehr abschalten. Der Reiter Mod enthält weiterhin den Realismus-Modus, die Verweildauer der Wracks, **der Gefallenen (30 min)**, der Brände und des Rauchs, die Cheats und Über.
 - **Cheats** gibt es nur für den Host (oder einen Solospieler), für seine eigenen Einheiten: Freunde spielen normal.
 
-### Explosionen
+#### Explosionen
 - Der Rauch jeder Explosion richtet sich nach **ihrer eigenen echten Ladung**, ohne Obergrenze: Eine FAB-3000, eine GBU-57 oder eine FAB-9000 erzeugen eine weit größere Säule als eine 250-kg-Bombe, und thermobarische Explosionen sind breiter und brennen länger. Jede Explosion ist ein wenig anders und neigt sich mit dem Wind.
 - **Das folgt deiner Einstellung „Visuelle Effekte“:** Niedrig behält das Aussehen des Spiels, Mittel ist größer, Hoch und Ultra zeigen die volle Größe.
 
-### Rund 75 neue echte Munitionen
+#### Rund 75 neue echte Munitionen
 - **Flugzeuge:** MOAB (auf einer MC-130H-Karte); Storm Shadow, JDAM-ER, GBU-39 und AASM Hammer für die Ukraine; thermobarische KAB-500, bunkerbrechende KAB-1500, Grom-1 / Grom-2, UPAB-1500, thermobarische und durchschlagende Raketen S-8 / S-13 / S-25 und aus der Luft verlegte Minen für Russland; thermobarische Hellfire N, Hydra-Raketen mit Flechettes und mit Streumunition, GBU-10, JSOW-C, der Täuschflugkörper MALD und Gator-Minen für die USA; PARS 3 für den deutschen Tiger.
 - **Bodengestützte Lenkflugkörper:** Stugna-P, Corsar, NLAW und Neptune für die Ukraine; NSM, CAMM und CTM-290 für Polen; KN-23, thermobarische Metis, Kornet gegen Hubschrauber und Ataka für Russland; Mehrzweck-Javelin und der Drohnenabfänger Coyote für die USA.
 - **Artillerie:** GLSDB für den ukrainischen HIMARS, Grad 9M217 gegen Panzer, Smerch 9M55K5, Vilkha, Nebel mit weißem Phosphor, CGR-080 und die gelenkte Mörsergranate Gran.
 - **Panzer und Infanterie:** Panzergranaten mit Luftdetonation (Ainet für den T-90, M1147 für den Abrams, DM11 für den Leopard), Carl Gustaf HE und gegen Bauwerke, Kartätsche M1028, Kombat für den ukrainischen T-64, Springgranate VOG-25P, AT4 AST, Bunkerfaust, Raufoss 12,7 mm und mehr.
 - **Kamikaze-Drohnen, eine pro Land, das wirklich eine hat**, alle aufgebaut wie die Geran-2: Liutyi (Ukraine), Warmate (Polen), HX-2 (Deutschland, bestellt), Kochevnik (Belarus), Switchblade 600 (Litauen, bestellt), Mini Harpy (Estland, bestellt).
 
-<div align="right"><a href="#top">nach oben</a></div>
-
----
+</details>
 
 <a id="new-498"></a>
-
-## 🆕 Neu in 4.9.8: alles echt
+<details>
+<summary><b>4.9.8: alles echt</b></summary>
 
 > [!IMPORTANT]
 > **Ersetze 4.9.7 (und jede ältere Version).** Deine Decks brauchen nichts. **Keine Reichweite wurde geändert**: Jede Waffe behält die Reichweite, die sie in 4.9.7 hatte. Für Koop brauchen alle dieselbe 4.9.8-Datei: 4.9.7 und 4.9.8 können nicht zusammen spielen.
 
-### Echte Panzerung, angezeigt in echten Millimetern
+#### Echte Panzerung, angezeigt in echten Millimetern
 - **Jedes Fahrzeug** des Spiels und der Mod (Panzer, Schützenpanzer, Transportpanzer, MRAPs, Lkw, Artillerie, Werfer, Hubschrauber, Flugzeuge) und **jede Schutzaufrüstung** (Reaktivpanzerung, TUSK, BUSK, SRAT, Gitter- und Käfigpanzerung, Zusatzpanzerungssätze) haben ihren echten Schutz auf jeder Seite: Front, Flanken, Heck und Dach.
 - **Ein Geschoss, das in Wirklichkeit nicht durchschlägt, richtet keinen Schaden an.** Ein Geschoss, das nur knapp durchschlägt, richtet wenig an; ein Geschoss, das der Panzerung weit überlegen ist, richtet vollen Schaden an. Frontal fügen sich moderne Panzer jetzt kaum noch Schaden zu: Greif ihre Flanken an, wie in Wirklichkeit. Alte Panzer sterben weiterhin durch eine einzige moderne Granate.
 - **Die Einheitenkarten zeigen die echten Millimeter**, im Arsenal und in der Schlacht.
@@ -185,34 +273,34 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 - Stellvertreter erhalten ihre eigene Panzerung: Puma, Marder 1A3, Fuchs, Fennek, AMX-10 RC.
 - Sprenggranaten von Artillerie und Mörsern haben ihren echten Durchschlag: Ein knapper Fehltreffer zerstört keinen Panzer mehr durch das Dach.
 
-### Echte Feuerrate
+#### Echte Feuerrate
 - **Jede Waffe feuert mit ihrer echten Feuerrate**: MG3 1.200 Schuss/min, PKT 750, GAU-8 3.900, M61 6.000, GSh-6-23 9.000, 2A38M 4.800, Raketenbehälter im echten Salventakt. Reichweite, Treffgenauigkeit und Feuerstoßlänge bleiben unverändert.
 - **Ein Geschoss auf dem Bildschirm ist ein echter Schuss.** Die mitgeführte Munitionsmenge ändert sich nicht, reicht aber jetzt so lange wie in Wirklichkeit: Früher konnte sich der Zähler bis zu 20-mal zu schnell leeren. Volles Aufmunitionieren kostet gleich viel und dauert gleich lange.
 - **BMPT Terminator**: Seine zwei 2A42 feuern im schnellen Modus, zusammen etwa 1.200 Schuss/min, mit seiner echten Munition (850 Schuss 30 mm, 600 Granaten, 2.100 Schuss 7,62 mm).
 - Echte Nachladezeit für die Familien RPG-7 und Carl Gustaf (10 bis 12 s).
 
-### Echte Geschwindigkeiten
+#### Echte Geschwindigkeiten
 - **Fahrzeuge**: echte Geschwindigkeiten auf der Straße, im Gelände, rückwärts und schwimmend (Bradley, T-72B3, T-90A und T-90M, T-80U, Leopard 2A7 und 2A8, CV9035, Koalitsiya...).
 - **Stellvertreter fahren mit der Geschwindigkeit des echten Fahrzeugs**, nicht mehr mit der ihres Modells: K2, Rosomak, Dingo 2, Fennek, Cobra, BTR-60PB und 31 weitere.
 - **Projektile**: echte Mündungsgeschwindigkeiten für Gewehr- und MG-Geschosse, Infanterieraketen (RPG-28, RPG-30, SRAW, C90, M202, SPG-9...) und Mörsergranaten, nie schneller als mit ihrer echten Höchstladung. 12 Raketen, die ihre Reichweite nicht erreichten, erreichen sie jetzt (AMRAAM, R-77, R-27ER, R-33, SM-6, Kh-22...).
 - MiG-35, MiG-29K und die Drohnen Orion und Korsar fliegen mit ihren echten Geschwindigkeiten.
 
-### Deutschland: die echte Bundeswehr
+#### Deutschland: die echte Bundeswehr
 - **12 deutsche Infanteriekarten** mit den Soldaten des Baltic-DLC und echten Waffen der Bundeswehr (G36, MG3, MG5, MG4, Panzerfaust 3, RGW 90, Scharfschützengewehre G22 und G28, Anbaugranatwerfer AG40): Panzergrenadiere, Jäger, Fallschirmjäger, Heimatschutz, Fernspäher, Scharfschützen, MG3-Trupp, Trupp mit schwerem Maschinengewehr, Trupp mit Granatmaschinenwaffe GMW, MELLS-Trupp, Fliegerfaust-Trupp und KSK. Jeder Trupp fährt in einem Unimog, einem Wolf oder einem Dingo sowie in seinem echten Schützen- oder Transportpanzer. Die amerikanischen Trupps sind im deutschen Deck-Editor ausgeblendet; gespeicherte Decks funktionieren weiterhin.
 - **Vier Flugzeuge der Luftwaffe**: Eurofighter Typhoon Tranche 2 und Tranche 3A (auf den Modellen der F-16), Tornado IDS mit dem Taurus KEPD 350 und Tornado ECR mit der HARM (auf den Modellen der Su-24), mit IRIS-T, Meteor, AMRAAM, GBU-48 und der Kanone Mauser BK-27.
 
-<div align="right"><a href="#top">nach oben</a></div>
-
----
+</details>
 
 <a id="new-497"></a>
-
-## 🆕 Neu in 4.9.7
+<details>
+<summary><b>4.9.7: Koop mit Freunden, mitgeführte Einheiten sterben mit ihrem Transportmittel</b></summary>
 
 > [!IMPORTANT]
 > **Ersetze 4.9.6 (und jede ältere Version).** Deine Decks brauchen nichts: Ein mit SRAT II + APS gespeicherter Stryker wechselt von selbst auf SRAT II. **Koop mit Freunden ist eine Testfunktion**: Alle in der Partie brauchen genau dieselbe Mod-Datei, also teile denselben Download mit deinen Freunden und melde jedes Problem auf dem Discord.
 
-### Koop mit Freunden (Test)
+#### Koop mit Freunden (Test)
+*Seit 5.1: Die Schaltfläche heißt **Mod-Lobby erstellen (Steam)** und gilt für alle 22 Karten ([Details](#lobbies)).*
+
 - Wähle unter **Spielen > Szenarien** eine Karte der **LOGISTIKFRONT**, dann **Mit Freunden hosten (Steam)**: du und **bis zu 2 Freunde**, alle auf deiner Seite, gegen den Kommandeur der Mod.
 - **Peer-to-Peer über Steam-Einladungen**: Es wird kein offizieller Spielserver genutzt, der PC des Hosts dient als Server.
 - **Alle brauchen genau dieselbe Mod-Datei.** Ein Freund mit einer anderen Spielversion, Mod-Version oder Mod-Datei oder mit abgeschalteter Mod wird mit einer klaren Meldung abgewiesen.
@@ -221,37 +309,35 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 - **Was die Mod selbst auslöst, erreicht jeden Spieler**: Explosionen von Fahrzeugen und Depots, Minen, Kamikaze-Drohnen und Reparaturen durch Pioniere. Eine Depotexplosion sieht jeder.
 - **Nur auf Karten der Logistikfront**: Gewöhnliche Gefechtskarten haben in einer Partie mit Freunden keinen Computergegner. Freunde brauchen dieselben DLCs, um dieselben Einheiten zu sehen.
 
-### Mitgeführte Einheiten sterben mit ihrem Transportmittel
+#### Mitgeführte Einheiten sterben mit ihrem Transportmittel
 - Wird ein Fahrzeug zerstört, **stirbt jeder Trupp und jedes mitgeführte Fahrzeug darin mit ihm**, gleich welches Transportmittel: Lkw, Transportpanzer, Schützenpanzer, Panzer, Hubschrauber oder Flugzeug. Früher konnte ein Teil eines Trupps überleben.
 
-### Kamikaze-Drohnen: Propellerantriebe fliegen tief
+#### Kamikaze-Drohnen: Propellerantriebe fliegen tief
 - Mit den Propellerantrieben (150 und 185 km/h) fliegen **Geran-2** und **LUCAS** jetzt **tief, auf 100 m**: Sie sind der Flugabwehr stärker ausgesetzt (Anti-Drohnen-Raketen, 30-mm-Flugabwehrkanonen, ZU-23, schultergestützte Raketen) und werden erst auf kürzere Entfernung entdeckt.
 - Mit Strahltriebwerk (370, 500 und 600 km/h) fliegen sie weiterhin hoch, auf 400 m.
 - Gewehre und Maschinengewehre können Drohnen weiterhin nicht abschießen: Das ist eine Grenze des Spiels.
 
-### Maschinenkanonen ohne Radar
+#### Maschinenkanonen ohne Radar
 - Die **Kanonen von 23 bis 30 mm ohne Radar** von Schützenpanzern, Transportpanzern und Hubschraubern (2A42, 2A72, Mk44, M230, M242 25 mm...) bekämpfen Hubschrauber bis **höchstens 1.500 m** statt 2.000 bis 3.000 m. Wie bisher können sie keine Flugzeuge anvisieren.
 - Die **30-mm-Sprenggranate** erreicht Bodenziele jetzt auf **3.500 m** statt 4.000 m, bei gleicher Treffgenauigkeit.
 - Radargeführte Flugabwehrkanonen (Tunguska, Pantsir, M-SHORAD, Skyranger...) bleiben unverändert.
 
-### Stryker: kein aktives Schutzsystem
+#### Stryker: kein aktives Schutzsystem
 - Die Auswahl **SRAT II + APS** ist bei allen acht Strykern aus dem Menü ausgeblendet: Kein Stryker im Dienst trägt ein aktives Schutzsystem, und das Trophy VPS wurde 2021 nur erprobt. Gespeicherte Decks wechseln von selbst auf SRAT II.
 
-### Behoben seit 4.9.6
+#### Behoben seit 4.9.6
 - **Panzerabwehrtrupps behalten ihren Werfer.** Mit den echten Truppgrößen aus 4.9.3 blieben bei manchen Trupps die falschen Soldaten übrig: VDV Metis-M und Metis-M1 hatten ihre Metis verloren, CAAT TOW-2A und TOW-2B ihre TOW, und VDV Kornet, Kornet-M, PTRK Fagot und Faktoriya hatten nur einen von zwei Werfern. Der Werfer bleibt jetzt immer erhalten.
 
-<div align="right"><a href="#top">nach oben</a></div>
-
----
+</details>
 
 <a id="new-496"></a>
-
-## 🆕 Neu in 4.9.6
+<details>
+<summary><b>4.9.6: Nationen, Logistikfront, ein Fluss ohne Furt (und 4.9.5)</b></summary>
 
 > [!IMPORTANT]
 > **Ersetze 4.9.5 (und jede ältere Version) und prüfe dann deine Decks.** Das Gerät der Bundeswehr ist in die neue Division Deutschland umgezogen: Leopard 2A4, 2A6, 2A7V und 2A8, Vilkas (Boxer), PzH 2000, M113 Panzermörser, IRIS-T SLM, Unimog und G-Wagen. Das nicht-amerikanische Gerät und die Trupps des Baltic-DLC (21 Karten, darunter CV9035, Scimitar, Spartan, XA-180, K9 sowie die Milan- und Piorun-Trupps) sind zu den Ländern umgezogen, die sie wirklich einsetzen. Das NASAMS bleibt in USA MODE, weil die Vereinigten Staaten es wirklich einsetzen. Gespeicherte Decks mit diesen Karten wurden automatisch bereinigt, nachdem eine Kopie all deiner Decks in `Decks\avant_factions` angelegt wurde, und eine Meldung im Spiel teilt dir das mit. Öffne deine Decks und prüfe sie.
 
-### Nationen: NATO gegen OVKS
+#### Nationen: NATO gegen OVKS
 - Der Deck-Editor fragt jetzt **FRAKTION WÄHLEN** (NATO oder OVKS), dann **LAND WÄHLEN**: eine Schaltfläche pro Land, mit seiner echten Flagge und einer Beschreibung in einer Zeile. Ein Klick gibt dem Deck beide Divisionen dieses Landes: ein Deck, eine Armee, keine Vermischung.
 - **Elf Länder.** NATO: Vereinigte Staaten, Ukraine, Deutschland, Polen, Litauen, Lettland, Estland. OVKS: Russland, Donbass (Donezk + Luhansk), Belarus, Kasachstan. [Vollständige Tabelle weiter unten.](#nations)
 - Setzt ein Land ein Fahrzeug ein, das das Spiel nur der anderen Seite gibt (zum Beispiel einen ukrainischen T-72 oder BMP), gibt die Mod diesem Land eine eigene Kopie mit den echten Werten.
@@ -260,23 +346,23 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 - **Ein Lkw für jeden Trupp**: Jede Infanteriekarte jedes Landes kann jetzt auf einem Lkw fahren (HEMTT oder LMTV bei der NATO, Ural-4320 oder KamAZ bei der OVKS) und in einem leichten Fahrzeug, wenn der Trupp hineinpasst (Humvee, M-ATV, UAZ, Tigr).
 - Deine Decks sind geschützt: Ein Standarddeck wird immer nur durch eines desselben Landes ersetzt, alle Decks werden kopiert, bevor das Spiel sie liest, und eine Karte wird nur dann aus einem gespeicherten Deck genommen, wenn ein wählbares Land sie stattdessen anbietet.
 
-### Logistikfront ersetzt Zerstörung
+#### Logistikfront ersetzt Zerstörung
 - Unter **Spielen > Szenarien** stehen die Karten der **LOGISTIKFRONT** ganz oben in der Liste: **Chkalovsk Airbase** und **Meandering River**, auf **12 x 12 oder 15 x 15 km** vergrößert (Auswahl unter **Weitere Einstellungen**). Zerstörung verschwindet aus dem Menü.
 - Kein Einkommen vom Spiel: Dein Geld ist der Vorrat deiner Versorgungsdepots. Nimm die feindliche Basis, schütze deine Lkw. [Vollständige Regeln weiter unten.](#logistics-front)
 - **Nur ein Gegner**: der Kommandeur. Die übrigen feindlichen Plätze, die das Spiel anlegt, bleiben leer, ohne Einheiten und ohne Geld, und ihre Porträts sind ausgeblendet.
 - **Luftstreitkräfte kommen erst mit der Zeit**, für dich und für den Gegner: keine Hubschrauber und keine Flugzeuge in den ersten 10 Spielminuten, Hubschrauber ab 10 Minuten, Flugzeuge ab 20 Minuten. Ein Countdown steht im Banner oben am Bildschirm.
 - Meandering River ist neu von 9 auf 15 km vergrößert. Die vergrößerten Karten sind jetzt Karte für Karte abgestimmt: Geteilte Hangars sind wieder zusammengefügt, und Einheiten schweben nicht mehr über dem Boden.
 
-### Ein Fluss ohne Furt
+#### Ein Fluss ohne Furt
 - **Das Wasser ist sichtbar** entlang des ganzen gewundenen Flusses des vergrößerten Meandering River, und kein Baum und kein Objekt steht darin, Brücken ausgenommen.
 - **Der ganze Fluss hält jede Bodeneinheit auf**, tiefes Wasser wie Furten: Panzer, Lkw und Infanterie überqueren ihn über die **vier Brücken**. Nur Schwimmfahrzeuge schwimmen durch das tiefe Wasser hinüber. Die kleinen Inseln bleiben, und nur Schwimmfahrzeuge erreichen sie.
 - Dieselbe Regel für dich und für den Gegner: Auch seine Einheiten nehmen die Brücken.
 
-### Eine Minikarte, die genordet bleibt
+#### Eine Minikarte, die genordet bleibt
 - In jeder Schlacht der Mod dreht sich die Minikarte nicht mehr mit der Kamera: Norden bleibt oben. Deine eigene Einstellung in den Spieloptionen bleibt, wie du sie gesetzt hast.
 - In der Logistikfront liegen die blauen und roten Quadrate beider Basen jetzt genau auf den Basen.
 
-### Logistikfront: ein Kommandeur, der eine Front hält
+#### Logistikfront: ein Kommandeur, der eine Front hält
 - Er **kauft regelmäßig Einheiten** mit seinem eigenen Geld, nach denselben Regeln wie du, und bezahlt jetzt die Infanterie, die in seinen Fahrzeugen mitfährt.
 - Er hält eine **Front in drei Abschnitten** mit vorgeschobener Aufklärung. Auf Meandering River hält jeder Abschnitt sein Ufer des Flusses, und **jede Brücke erhält eine Besatzung**: aufgesessene Infanterie, Panzerabwehr und Flugabwehr kurzer Reichweite.
 - Seine Aufklärung **durchsucht Ränder und Ecken der Karte** nach deinen Depots und findet sie nur vom Boden aus, wie du.
@@ -284,43 +370,45 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 - Er greift **nur an, wenn er im Vorteil ist**: eine bekannte Flugabwehr, eines deiner Depots oder deine Basis, aber **erst wenn seine Frontlinie steht**: ab 12 Minuten mit 85 % seiner Linie besetzt, ab 15 Minuten mit 60 %, spätestens nach 20 Minuten.
 - **Nach einem Verlust in der Luft bleibt er am Boden**: Sobald einer seiner Hubschrauber oder eines seiner Flugzeuge abgeschossen oder getroffen wird, schickt er keine mehr, bis er deine Flugabwehr zerstört hat, und seine Bodeneinheiten ziehen los, um sie zu suchen.
 
-### Feindlicher Kommandeur: Schluss mit dem Hubschrauber-Spam
+#### Feindlicher Kommandeur: Schluss mit dem Hubschrauber-Spam
 - Eine bekannte Flugabwehr wird für seine Hubschrauber zur **Sperrzone**: MANPADS 5 km, Kurzstreckensysteme 8 km, C-RAM 2,5 km, Langstreckensysteme 12 km.
 - Nach zwei Hubschrauberverlusten in fünf Minuten **nimmt er die Straße**: Konvois mit genau den Fahrzeugen, die sie brauchen (zuerst Transportpanzer, dann Lkw, dann leichte Fahrzeuge), auf drei verschiedenen Routen. Eine Straße, auf der ein Konvoi vernichtet wurde, wird 15 Minuten lang gemieden, eine verminte Straße 20.
 - Dringende Befehle werden sofort erteilt, Verstärkungen kommen zu dritt, Einheiten verteilen sich unter Feuer auf 400 m, und seine Artillerie feuert nur auf einen Feind, der in den letzten 75 Sekunden gesehen wurde.
 
-### Täuschkörper, die sich wie echte verhalten
+#### Täuschkörper, die sich wie echte verhalten
 - Die Rakete fliegt den ganzen Weg. Flares oder Chaff werden **etwa 3 Sekunden vor dem Einschlag** ausgestoßen, und eine getäuschte Rakete verfehlt **in der Nähe des Flugzeugs**: keine Rakete mehr, die direkt vor ihrem Werfer tot herunterfällt.
 - Die Salve passt zur Bedrohung: Flares gegen Infrarot, Chaff gegen Radar, beides, wenn die Bedrohung beides ist. Der automatische Ausstoß des Spiels selbst ist abgeschaltet.
 - **Begleitstörung:** Eine EA-6B Prowler oder eine Su-24MP stört die Radare, die auf befreundete Luftfahrzeuge im Umkreis von 25 km zielen.
 - Die S-300V und die Patriot PAC-2 zählen jetzt als moderne Radarsuchköpfe: Chaff täuscht sie einmal von zehn statt einmal von drei. Pantsir-Raketen ignorieren Flares.
 
-### Explosionen
+#### Explosionen
 - **Versorgungs-Lkw und Depots explodieren entsprechend ihrem Vorrat** (15.000 Versorgungspunkte entsprechen etwa 860 kg TNT): vier bis sechs anwachsende Detonationen, Munitionsdurchzündung, eine Rauchsäule für 60 bis 90 Sekunden.
 - **Luftfahrzeuge werden von der Druckwelle erfasst**, auch in der Luft: zerstört nahe an einer großen Ladung, beschädigt weiter entfernt.
 - Ein zerstörter Werfer explodiert mit der Munition, die er zu Lebzeiten an Bord hatte: Eine Patriot oder eine M109 fliegt nicht mehr in die Luft, als wäre sie leer.
 
-### Gebäude
+#### Gebäude
 - **17 Gebäudetypen** mit realistischer Widerstandsfähigkeit: Dorfhäuser 100, Ziegelbauten 224 bis 335, Plattenbauten aus Beton 450 bis 581, Bunker 1.000. Beton und Ziegel halten mindestens das Doppelte des Spielwerts aus.
 - **Maschinengewehre und Maschinenkanonen von 20 bis 40 mm bringen nie ein Gebäude zum Einsturz.** Bomben können Gebäude auch außerhalb der Kampagne zum Einsturz bringen.
 - Ein beschädigtes Gebäude schützt weniger: voller Schutz über 70 % Zustand, 60 % zwischen 40 und 70 %, 30 % darunter und in einer Ruine. Eine Ruine fasst weniger Männer.
 
-### Nachversorgung und Infanterie
+#### Nachversorgung und Infanterie
 - **149 Munitionsmengen von Maschinengewehren und Maschinenkanonen korrigiert**: Ein BMP-2 zeigte 1.360 Schuss an; jetzt trägt er 340.
 - Volles Aufmunitionieren von leer: Trupp 1,5 min, Fahrzeug 3 min, Artillerie 4 min, Flugabwehr großer Reichweite 5 min, Hubschrauber 2,5 min. Versorgungskosten und Wirtschaft bleiben unverändert.
 - **Nebelgranaten für jeden Kampftrupp** (eine pro Mann, 12-m-Wolke, 75 Sekunden, durch Nachversorgung aufgefüllt). Versorgungstrupps sind ausgenommen.
 - **Sprint über etwa 300 m**: 6,5 m/s für 46 Sekunden statt 10 m/s für 40, danach 60 Sekunden Erholung.
 - **Panzerabwehrtrupps zu Fuß feuern wieder auf Panzer**: Ein Schütze, der auf ein Fahrzeug zielt, visiert jetzt aus 2,3 m Höhe. Niedrige Vegetation verdeckt nur die ersten und letzten 60 m einer Sichtlinie und nie rund um ein Fahrzeug.
 
-### Brände, Rauch und Wracks
+#### Brände, Rauch und Wracks
 - Brände und Rauch an brennenden Gebäuden, Wracks, abgeschossenen Luftfahrzeugen und am Boden **dauern jetzt wirklich 5, 15, 30 oder 60 Minuten** (standardmäßig 30), nur auf deinem Bildschirm. Taktischer Nebel wird nie angetastet: Er verbirgt Einheiten und behält seine echte Dauer.
 - Wracks bleiben 5, 15, 30 oder 60 Minuten (standardmäßig 30). Beide Einstellungen findest du unter **Esc > Einstellungen > Mod**.
 
-### Offizielle Server: von der Mod selbst gesperrt
+#### Offizielle Server: von der Mod selbst gesperrt
+*Das Fenster unten wurde in 4.9.9 entfernt; seit 5.1 ist außerdem jede offizielle Tür im Menü ausgeblendet.*
+
 - Die Mod schließt **sieben Türen** zu den offiziellen Servern des Spiels: Lobby-Erstellung, Lobby-Liste, Lobby-Beitritt und Einladungen, Schnellsuche, Wiederverbinden und die Verbindung zur Schlacht.
 - Ein Klick auf eine davon öffnet ein Fenster: **Mit Mod bleiben** oder **Online ohne Mod**. [Details unter Wo die Mod läuft.](#where-it-runs)
 
-### Behoben seit 4.9.5
+#### Behoben seit 4.9.5
 - Eine getäuschte Rakete fällt nicht mehr vor der Flugabwehr herunter.
 - **Mission neu starten** endet nicht mehr unentschieden.
 - Gebäude stürzen unter 25- bis 30-mm-Feuer nicht mehr ein.
@@ -350,6 +438,92 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 - **Außerdem**: Die Schiffsreihe ist im Deck-Editor nach unten gewandert und die Karten passen auf den Bildschirm, eine Netzwerkprüfung jedes Moduls, 26 Leistungskorrekturen.
 
 </details>
+
+</details>
+
+<div align="right"><a href="#top">nach oben</a></div>
+
+---
+
+<a id="roadmap"></a>
+
+## 🛣️ Roadmap
+
+Was als Nächstes kommt, der Reihe nach. Jeder Schritt erscheint erst, wenn er getestet ist, nicht vorher, und wird zuerst auf dem [Discord](https://discord.gg/wrtMjUnard) angekündigt.
+
+| Status | Schritt | Was er bringt |
+|:-:|---|---|
+| ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.0** | Das Einfrieren behoben, das Flug-Intro, Basen am Kartenrand, Raketen auf ihre echte Entfernung hörbar, das Intro-Thema. |
+| ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.1** | Logistikfront auf allen 22 Karten in drei Größen, eigene Steam-Lobbys und eigenes Menü der Mod, Furten überall gesperrt, lebendige vergrößerte Karten. |
+| ![als Nächstes](https://img.shields.io/badge/-als%20N%C3%A4chstes-1f6feb?style=flat-square) | **5.2** | Ein Fenster **Fehler melden** direkt im Spiel, in den fünf Sprachen der Mod, und die nächste Runde Korrekturen aus euren Meldungen. |
+| ![demnächst](https://img.shields.io/badge/-demn%C3%A4chst-f0883e?style=flat-square) | **Die offiziellen Szenarien, eines nach dem anderen** | Jedes offizielle Szenario der Reihe nach überarbeitet: eine Wahl der Kartengröße, **nur ein Gegner, der Kommandeur der Mod**, und mehr Tiefe. |
+| ![später](https://img.shields.io/badge/-sp%C3%A4ter-8957e5?style=flat-square) | **Später** | Ein Kommandeur für die Kampagnenmissionen und ein Anti-Cheat für Partien zwischen Spielern. |
+| ![Ziel](https://img.shields.io/badge/-Ziel-bf8700?style=flat-square) | **7.0** | Kampagne und Szenarien vereint zu **einer langen Kampagne mit drei möglichen Enden**. |
+
+<div align="right"><a href="#top">nach oben</a></div>
+
+---
+
+<a id="menu"></a>
+
+## 🏠 Das Menü der Mod
+
+Die Mod gibt dem Spiel ein eigenes Menü: aufgeräumt, in deiner Sprache, ohne irgendetwas Offizielles auf dem Bildschirm.
+
+### Startbildschirm
+- Das Nachrichtenfeld des Spiels weicht der **Startseite der Mod**: der vollständige Titel **Broken Arrow Realism Overhaul**, die Links zum **Discord**, zum **Steam**-Profil des Autors, zu **GitHub** und **YouTube**, die Liste der **Neuerungen dieser Version**, die **Versionen von Mod und Spiel** und die Zahl der **Mod-Spieler online**.
+- **Ausgeblendet**: die offizielle Lobbyliste, der Online-Zähler des Spiels, das Ranglistenprofil, die Netzwerkstatusleiste, die Shop- und DLC-Karussells und das offizielle Kampagnenbanner. Sie werden unsichtbar gemacht, nie gelöscht, und die eigene Kontoanmeldung des Spiels bleibt unberührt.
+
+### Spielen
+
+| Kachel | Was sie öffnet |
+|---|---|
+| **Kampagne** | Die Kampagne des Spiels, unberührt, gespielt mit den Regeln der Mod. |
+| **Szenarien** | Die Szenarien des Spiels und die 22 Karten der Logistikfront: **Allein spielen** oder **Mod-Lobby erstellen (Steam)**. Die Auswahlen **FEIND** und **VERBÜNDETER** für die Kommandeure stehen unter der Karte. |
+| **Lobby finden** | Die Liste der Steam-Lobbys der Mod. |
+| **Gefecht erstellen** (*Lobby finden > Lobby erstellen*) | Wähle eine Karte, ihre Größe und den Modus: **Koop gegen den Kommandanten** (Logistikfront, bis zu 3 Spieler) oder **PvP zwischen Mod-Spielern**. Dann den Titel der Partie, wer beitreten kann, und ein optionales Passwort. **Privat: allein spielen** startet eine Offline-Partie gegen den Kommandeur, ganz ohne Lobby. |
+
+Das Arsenal und der Editor bleiben, wo sie sind. Die offizielle Kachel Mehrspieler und die Schnellsuche sind aus dem Menü verschwunden.
+
+<div align="right"><a href="#top">nach oben</a></div>
+
+---
+
+<a id="lobbies"></a>
+
+## 🌐 Steam-Lobbys: gemeinsam spielen
+
+Die Mod hat ihre eigenen Lobbys, betrieben von **Steam**, nicht von den Servern des Spiels. Die Lobby ist eine Steam-Lobby, und die Schlacht läuft **Peer-to-Peer über das Steam-Relay von Valve**, wobei der PC des Hosts als Server dient. **Kein offizieller Server von Broken Arrow wird je kontaktiert.**
+
+### Lobby finden
+- Jede Mod-Lobby in einer Liste: **Titel**, **Host**, **Modus** (PvE-Szenario, Logistikfront oder PvP-Gefecht), **Karte und Größe**, **Spieler**, **Mod-Version** und **Spielversion**.
+- Eine zweite Zeile zeigt die **Einstellungen des Hosts**: Realismus-Modus, Kartengröße, Wetter, Kommandeure und ob ein Passwort gesetzt ist.
+- Eine Spalte **Ping** (Schätzung von Steam), **Filter** und die Zahl der **Mod-Spieler online**.
+- **Beitreten** funktioniert nur mit **derselben Mod-Version und Mod-Datei** und **derselben Spielversion**. Jede andere Lobby zeigt **Falsche Version** an: Ein Klick darauf öffnet diese GitHub-Seite. Die Mod lädt nie etwas herunter.
+
+### Eine Lobby erstellen
+- Über **Gefecht erstellen** oder über **Spielen > Szenarien** mit **Mod-Lobby erstellen (Steam)** auf einer Karte der Logistikfront oder einem offiziellen PvE-Szenario.
+- Ein **Titel der Partie**, über die Tastatur eingegeben, und **wer beitreten kann**: **Öffentlich** (jeder Mod-Spieler sieht sie), **Nur Freunde** (deine Steam-Freunde) oder **Privat** (in der Liste ausgeblendet, nur per Steam-Einladung). Ein optionales **Passwort**: Nach zu vielen Fehlversuchen wird der Spieler aus dieser Lobby ausgesperrt.
+- **Der Modus folgt der Karte**: Koop gegen die KI auf einem Szenario oder in der Logistikfront, alle Spieler auf derselben Seite; PvP auf einer Gefechtskarte, mit abwechselnden Seiten (Host in Alpha, dann Bravo, Alpha...).
+
+### In der Lobby
+- Die **Spieler**, jeder mit einem Feld **Bereit** und seinem **Ping**.
+- **Starten (n/m bereit)** für den Host. Ist noch jemand nicht bereit, erzwingt ein zweiter Klick innerhalb von 5 Sekunden den Start.
+- Ein **Lobby-Chat**, dessen letzte fünf Zeilen auf dem Bildschirm stehen.
+- **Freunde einladen**, **Entfernen** (nur der Host, zwei Klicks), **Lobby schließen** oder **Lobby verlassen**.
+
+### In der Schlacht
+- **F8** zeigt die Spieler, und der Host kann einen davon entfernen (zwei Klicks).
+- **Verbindung verloren**: Nach 15 Sekunden ohne Lebenszeichen übernimmt der PC des Hosts die Einheiten des fehlenden Spielers **in reiner Verteidigung**. Sie halten ihre Stellung, feuern auf alles, was in Reichweite kommt, und greifen nie an. Niemand wartet, nichts friert ein.
+- **Zurück in der Schlacht**: Wenn sich der Spieler wieder verbindet, schickt ihm der Host der Reihe nach alles, was er verpasst hat, und **gibt ihm dann seine Einheiten zurück**. Auf der Seite des Spielers wartet das Spiel bis zu 3 Minuten auf den Host.
+- **Verlassen oder entfernt**: Ein Spieler, der geht, entfernt wird oder länger als etwa 3 Minuten wegbleibt, überlässt seine Einheiten für den Rest der Schlacht der defensiven KI.
+
+### Nur legitime Kopien
+- Auf jedem PC: Steam läuft und ist angemeldet, **Broken Arrow gehört** zu diesem Konto, und die signierten Dateien von Steam selbst sind vorhanden.
+- Zwischen den PCs: Jeder Spieler prüft die anderen über ein **Steam-Sitzungsticket** und die **Spiellizenz**. Der Host prüft jeden Spieler, und jeder Spieler prüft den Host. Eine gecrackte Kopie oder ein Steam-Emulator kommt nicht durch.
+
+> [!NOTE]
+> **Alle in der Partie brauchen genau dieselbe Mod-Datei** und dieselben DLCs, um dieselben Einheiten zu sehen. **Die Regeln und Einstellungen des Hosts gelten für alle** in der Schlacht, und jeder PC prüft zu Beginn, ob er denselben Stand hat wie die anderen.
 
 <div align="right"><a href="#top">nach oben</a></div>
 
@@ -414,25 +588,60 @@ Das Spiel kennt nur zwei Seiten, daher gehört jedes Land zu einer davon: NATO-L
 
 ## 🚚 Logistikfront
 
-Das eigene Szenario der Mod. Zwei Basen, eine große Karte, ein einziger Gegner und kein Geld, wenn deine Versorgungslinien nicht halten. Öffne **Spielen > Szenarien**: Die Karten der LOGISTIKFRONT stehen ganz oben in der Liste.
+Das eigene Szenario der Mod. Zwei Basen, eine große Karte, ein einziger Gegner und kein Geld, wenn deine Versorgungslinien nicht halten. Öffne **Spielen > Szenarien**, wo die Karten der LOGISTIKFRONT ganz oben in der Liste stehen, oder **Gefecht erstellen** und wähle **Koop gegen den Kommandanten**.
 
 | | Regel |
 |---|---|
-| **Karten** | Chkalovsk Airbase und Meandering River, auf 12 x 12 oder 15 x 15 km vergrößert (Weitere Einstellungen). Kein Zeitlimit. |
-| **Gegner** | Nur ein Feind: der Kommandeur der Mod, mit eigenen Besatzungen, versteckten Depots und eigenen Konvois. Die übrigen feindlichen Plätze, die das Spiel anlegt, bleiben leer. Spiele solo oder mit bis zu 2 Freunden auf deiner Seite (Koop, Test). |
-| **Mit Freunden** | Wähle die Karte, dann **Mit Freunden hosten (Steam)**. Deine Freunde treten über Steam-Einladungen bei, Peer-to-Peer: Der PC des Hosts dient als Server, und die Regeln und Einstellungen des Hosts gelten für alle. Alle brauchen genau dieselbe Mod-Datei, dazu dieselben DLCs, um dieselben Einheiten zu sehen. |
-| **Start** | Von der Mitte deines Kartenrands: 1.500 Punkte, drei 10-Tonnen-Versorgungs-Lkw und ein Führungsfahrzeug. Ein kurzes Intro im Pausenmodus zeigt die feindliche Basis, dann deine. |
-| **Luftstreitkräfte** | Keine Hubschrauber und keine Flugzeuge in den ersten 10 Spielminuten, Hubschrauber ab 10 Minuten, Flugzeuge ab 20 Minuten, für dich und für den Gegner. Pause und Intro zählen nicht. Infanterie, die in einem Hubschrauber mitfliegt, zählt als Hubschrauber. Ein Countdown steht im Banner oben am Bildschirm. |
+| **Karten** | **Alle 22 Karten des Spiels** ([Tabelle weiter unten](#maps)), in Vanilla, Mittel oder Groß, vor der Schlacht gewählt. Kein Zeitlimit. |
+| **Gegner** | Nur ein Feind: der Kommandeur der Mod, mit eigenen Besatzungen, versteckten Depots und eigenen Konvois. Die übrigen feindlichen Plätze, die das Spiel anlegt, bleiben leer. |
+| **Spieler** | Solo oder **bis zu 3 Spieler auf derselben Seite** über eine Mod-Lobby. Die Regeln und Einstellungen des Hosts gelten für alle, und alle brauchen dieselben DLCs, um dieselben Einheiten zu sehen. |
+| **Einheitenlimit** | **90 Einheiten gleichzeitig pro Seite.** Die Spieler teilen sich ihre: 90 für einen Spieler allein, je 45 für zwei, je 30 für drei. Der Kommandeur hat 90. Einheiten auf der Karte, im Einkaufskorb und auf dem Anmarsch zählen alle mit. |
+| **Start** | An einer Straße an deinem Kartenrand, auf einer ausgelosten Seite: **1.500 Punkte pro Spieler** (der Kommandeur erhält 1.500 für jeden menschlichen Spieler) und **drei 10-Tonnen-Versorgungs-Lkw**. Ein Kameraflug von 26,5 Sekunden bei pausiertem Spiel zeigt die feindliche Basis, dann deine. |
+| **Luftstreitkräfte** | Keine Hubschrauber und keine Flugzeuge in den ersten 10 Spielminuten, Hubschrauber ab 10 Minuten, Flugzeuge ab 20 Minuten, für dich und für den Gegner. Pause und Intro zählen nicht. Infanterie, die in einem Hubschrauber mitfliegt, zählt als Hubschrauber. Luftfahrzeuge kommen von jenseits des Kartenrands. Ein Countdown steht im Banner oben am Bildschirm. |
 | **Einkommen** | Nichts vom Spiel. Jede Minute wird deine Seite aus dem Gesamtvorrat ihrer Depots bezahlt: 10 t = 85, 30 t = 190, 60 t = 259, nie mehr als 300 pro Minute für die ganze Seite. Drei Depots zu 10 t bringen genau so viel wie eines zu 30 t. |
-| **Depots** | Deine drei Lkw fahren los und errichten Depots 3 bis 7 km von deiner Basis entfernt. Ein Depot wird eingenommen, indem man hineinfährt (blau = deins, rot = feindlich). Ein zerstörter Lkw explodiert. |
+| **Depots** | Deine drei Lkw fahren los und errichten Depots 3 bis 7 km von deiner Basis entfernt, fächerförmig um sie verteilt. Ein Depot wird eingenommen, indem man hineinfährt (blau = deins, rot = feindlich). Ein zerstörter Lkw explodiert. |
 | **Aufklärung** | Ein feindliches Depot ist aus der Luft nie zu sehen: Infanterie entdeckt es auf 800 m, Bodenaufklärung auf 1,5 km. Seine Depots sind verteilt und an Waldrändern und hinter Geländekämmen versteckt, abseits der Hauptstraßen. |
-| **Fluss** | Auf Meandering River hält der ganze Fluss jede Bodeneinheit auf, tiefes Wasser wie Furten: Überquere ihn über die vier Brücken. Nur Schwimmfahrzeuge schwimmen hinüber. |
-| **Basis** | Ein Quadrat von 2,5 km, blau und rot auf der Minikarte eingezeichnet. Eine feindliche Bodeneinheit darin blockiert deine Verstärkungen; ist sie nach 2 Minuten noch da, verlierst du. Dieselbe Regel lässt dich in seiner Basis gewinnen. |
-| **Führungsfahrzeug** | Zerstört: Deine Luftwaffe und deine schwere Artillerie fallen für 5 Minuten aus. |
+| **Wasser** | Auf jeder Karte halten die Furten jedes Fahrzeug auf, das nicht schwimmen kann: Überquere das Wasser über die Brücken. Nur Schwimmfahrzeuge kommen durchs Wasser. |
+| **Basis** | Ein Quadrat von 2,5 km an deinem Kartenrand, blau und rot auf der Minikarte eingezeichnet. Eine feindliche Bodeneinheit darin blockiert deine Verstärkungen, Luftfahrzeuge eingeschlossen; ist sie nach 2 Minuten noch da, verlierst du. Dieselbe Regel lässt dich in seiner Basis gewinnen. |
 | **Vernichtung** | Eine Seite ganz ohne Einheiten hat 1 Minute, um wieder eine ins Feld zu bringen. |
 
 > [!TIP]
-> Nutze auf einer 15-km-Karte den schnellen Bewegungsbefehl (**FAST**), um den Straßen zu folgen: Der normale Bewegungsbefehl des Spiels bevorzugt sie nie. Und schick Infanterie oder Bodenaufklärung los, um seine Depots zu finden: Flugzeuge werden sie nie sehen.
+> Nutze auf einer Karte in der Größe Groß den schnellen Bewegungsbefehl (**FAST**), um den Straßen zu folgen: Der normale Bewegungsbefehl des Spiels bevorzugt sie nie. Und schick Infanterie oder Bodenaufklärung los, um seine Depots zu finden: Flugzeuge werden sie nie sehen.
+
+<a id="maps"></a>
+
+### 🗺️ Die 22 Karten
+
+Größen in Kilometern. **Mittel** bedeutet ab 144 km², **Groß** 200 bis 225 km², und eine rechteckige Karte bleibt ein Rechteck, nur weniger lang gezogen. Unter **Spielen > Szenarien** erscheint jede als **Logistikfront**, gefolgt vom Namen ihres Szenarios.
+
+| # | Karte | Vanilla | Mittel | Groß |
+|:-:|---|:-:|:-:|:-:|
+| 1 | Baltiisk | 9 x 9 | 12 x 12 | 15 x 15 |
+| 2 | Central Village | 9 x 9 | 12 x 12 | 15 x 15 |
+| 3 | Chernyakhovsk | 9 x 6 | 15 x 12 | 15 x 14 |
+| 4 | Chkalovsk Airbase | 9 x 9 | 12 x 12 | 15 x 15 |
+| 5 | Coal Mountain | 9 x 9 | 12 x 12 | 15 x 15 |
+| 6 | Coast | 9 x 6 | 15 x 12 | 15 x 14 |
+| 7 | Dam | 9 x 6 | 15 x 12 | 15 x 14 |
+| 8 | Daugavpils | 9 x 9 | 12 x 12 | 15 x 15 |
+| 9 | Highway of Death | 9 x 9 | 12 x 12 | 15 x 15 |
+| 10 | Ignalina Powerplant | 9 x 6 | 15 x 12 | 15 x 14 |
+| 11 | Jelgava | 9 x 9 | 12 x 12 | 15 x 15 |
+| 12 | Kadaga Military Base | 9 x 9 | 12 x 12 | 15 x 15 |
+| 13 | Kaliningrad | 9 x 6 | 15 x 12 | 15 x 14 |
+| 14 | Klaipeda | 12 x 6 | 16 x 10 | 16 x 14 |
+| 15 | Meandering River | 9 x 9 | 12 x 12 | 15 x 15 |
+| 16 | Narva | 9 x 9 | 12 x 12 | 15 x 15 |
+| 17 | Oil Refinery | 9 x 9 | 12 x 12 | 15 x 15 |
+| 18 | Parnu | 12 x 6 | 16 x 10 | 16 x 14 |
+| 19 | Riga Airport | 9 x 9 | 12 x 12 | 15 x 15 |
+| 20 | Suwalki | 9 x 9 | 12 x 12 | 15 x 15 |
+| 21 | Tallinn Harbour | 9 x 9 | 12 x 12 | 15 x 15 |
+| 22 | 🎁 Überraschungskarte | 9 x 9 | 12 x 12 | 15 x 15 |
+
+| | Vanilla | Mittel | Groß |
+|---|:-:|:-:|:-:|
+| **Alle 22 Karten zusammen** | 1.629 km² | 3.380 km² | 4.873 km² |
 
 <div align="right"><a href="#top">nach oben</a></div>
 
@@ -577,6 +786,30 @@ Ein bis drei Echos mit der echten Schallgeschwindigkeit und ein Hall im Freien. 
 
 ---
 
+<a id="water"></a>
+
+## 🌊 Wasser, Brücken und lebendige Karten
+
+### Wasser
+- **Die Furten halten jedes Fahrzeug auf, das nicht schwimmen kann**, auf jeder Karte, in jeder Größe und in jedem Modus: Szenarien, Gefecht, Logistikfront und Kampagne, solo und im Koop. Panzer und Lkw nehmen die **Brücken**; Schwimmfahrzeuge schwimmen durch das tiefe Wasser hinüber.
+- **Auch die Infanterie watet nicht durch die Furten**: Die Navigation des Spiels kann eine Furt nicht allein für Fahrzeuge sperren.
+- **Keine Mission wird dadurch kaputtgemacht**: Land ab 0,5 km² wird nie abgeschnitten. Wo eine Furt der einzige Weg hinüber ist, bleibt die kürzeste offen, ein Korridor von etwa 75 m Breite. Kleine Inseln bleiben unerreichbar, außer für Schwimmfahrzeuge.
+- **Ein Fahrzeug im Wasser wird wie an Land getroffen.** Das Spiel richtete Lenkflugkörper, Raketen und Granaten im direkten Richten auf die Mitte des Fahrzeugs, die unter der Oberfläche liegt, wenn das Fahrzeug im Wasser ist, sodass sie vor ihm ins Wasser schlugen. Die Mod hält diesen Zielpunkt knapp über der Oberfläche.
+
+### Brücken
+- Auf den vergrößerten Karten liegt jede Brücke **in einem Stück** entlang der gestreckten Straße, mit einer Fahrbahn so breit wie die Straße. Auf den sechs rechteckigen Karten (Chernyakhovsk, Dam, Ignalina Powerplant, Kaliningrad, Klaipeda, Parnu) bildeten Brücken Stufen von bis zu 12 m: Das ist vorbei.
+
+### Lebendige vergrößerte Karten
+- **Die kleinen Details sind zurück**: Gleise, Masten, Oberleitungen, Waggons, Autos, Container, Zäune und Straßenlaternen.
+- **Bahnlinien**: Jedes Gleisstück folgt der gestreckten Linie und wird in Stücke echter Länge geschnitten, sodass die Schwellen ihren Abstand behalten und die Stöße geschlossen bleiben. Masten, Oberleitungen und Waggons drehen sich mit dem Gleis, und ein Zug dreht sich in einem Stück.
+- **Häfen**: Jedes Schiff dreht sich mit seinem Kai und behält seinen ursprünglichen Abstand und Winkel dazu, mit seinen Pontons und Gangways.
+- **Städte und Dörfer**: neue Häuser entlang der Straßen, wo die gestreckte Karte Lücken gelassen hat, jedes mit Blick zur Straße, mit eingezäuntem Hof und Stellplatz, nur auf ebenem, offenem Gelände, nie auf einer Straße, im Wasser, im Wald oder an einem steilen Hang. Große leere Betonflächen erhalten Gebäude aus ihrem Viertel und fertige Anlagen: Depots, Lagerhallen, Parkplätze und Baustellen. Felder bleiben Felder.
+- **Dieselbe Karte für alle**: Jeder PC baut für dieselbe Größe genau dieselbe Karte, ohne jeden Zufall. Die Vanilla-Größe wird nie angetastet.
+
+<div align="right"><a href="#top">nach oben</a></div>
+
+---
+
 <a id="line-of-sight"></a>
 
 ## 👁️ Sichtlinie
@@ -586,6 +819,7 @@ Ein bis drei Echos mit der echten Schallgeschwindigkeit und ein Hall im Freien. 
 - **Gestrüpp und Hecken von 2 m** verbergen, was nah bei ihnen ist, nicht das ganze Feld: Sie blockieren nur die ersten und letzten 60 m einer Sichtlinie und nie rund um ein Fahrzeug.
 - **MANPADS und Panzerabwehrraketen gehorchen derselben Karte**: Eine Stinger braucht ihre eigene freie Linie zum Hubschrauber, und ein Kornet- oder TOW-Schütze muss das Fadenkreuz während des ganzen Flugs auf dem Ziel halten.
 - **Ein nicht identifizierter Gegner bleibt ein allgemeiner Kontakt**, bis du nah genug herankommst, um ihn zu erkennen, oder bis er das Feuer eröffnet.
+- **Einheitensymbole bleiben beim Herauszoomen sichtbar**, selbst am äußersten Ende der großen Karten. Der Nebel des Krieges bleibt unverändert: Ein Gegner, den du nicht entdeckt hast, bleibt verborgen.
 
 <div align="right"><a href="#top">nach oben</a></div>
 
@@ -601,6 +835,8 @@ Ein bis drei Echos mit der echten Schallgeschwindigkeit und ein Hall im Freien. 
 - **Das Kampagnengeld ist neu aufgebaut**, rund um die neuen Preise, ohne eine einzige Missionsdatei zu ändern.
 - **Mission neu starten** funktioniert.
 - **Die allererste US-Mission**, das Tutorial, wird absichtlich ohne die Mod gespielt. Die Mod schaltet sich bei der nächsten Mission wieder ein.
+- **Auch hier sind die Furten für nicht schwimmfähige Fahrzeuge gesperrt**, ohne eine Mission kaputtzumachen: Land ab 0,5 km² wird nie abgeschnitten, und wo eine Furt der einzige Weg hinüber ist, bleibt die kürzeste offen.
+- **Die Musik der Mod läuft in den Missionen weiter**, und die eigene Musik einer Mission hat immer Vorrang.
 
 <div align="right"><a href="#top">nach oben</a></div>
 
@@ -610,7 +846,7 @@ Ein bis drei Echos mit der echten Schallgeschwindigkeit und ein Hall im Freien. 
 
 ## ⚙️ Unter der Haube
 
-Echte Kaliber, Durchschlag, Streuung und Ballistik mit echter Schwerkraft; echte Panzerung und Reaktivpanzerung; echte optische Reichweiten pro Einheit, abgestimmt auf die Arsenal-Karten und die Reichweitenkreise unter Alt; echte Munitionsbeladungen auf beiden Seiten; echte Nachversorgungszeiten; Wärmebildgeräte an Hubschraubern; drahtgelenkte Panzerabwehrfahrzeuge, die zum Feuern anhalten; echte Hubschrauberkapazitäten; die S-400 bekämpft Raketen. Befehlsschaltflächen, die dem Spiel fehlen. Fünfzehn originale Musikstücke für die Menüs und die ruhigen Momente der Schlacht.
+Echte Kaliber, Durchschlag, Streuung und Ballistik mit echter Schwerkraft; echte Panzerung und Reaktivpanzerung; echte optische Reichweiten pro Einheit, abgestimmt auf die Arsenal-Karten und die Reichweitenkreise unter Alt; echte Munitionsbeladungen auf beiden Seiten; echte Nachversorgungszeiten; Wärmebildgeräte an Hubschraubern; drahtgelenkte Panzerabwehrfahrzeuge, die zum Feuern anhalten; echte Hubschrauberkapazitäten; die S-400 bekämpft Raketen. Befehlsschaltflächen, die dem Spiel fehlen. Fünfzehn originale Musikstücke und ein Intro-Thema für die Menüs und die Schlachten, in einem durchgehenden Zyklus.
 
 <details>
 <summary><b>Echte Entfernungen und echte Zahlen: zum Öffnen klicken</b></summary>
@@ -638,23 +874,22 @@ Echte Kaliber, Durchschlag, Streuung und Ballistik mit echter Schwerkraft; echte
 
 | Modus | Mit der Mod |
 |---|:-:|
-| Kampagne, amerikanisch und russisch (außer der Tutorial-Mission) | ✅ Ja |
-| Szenarien, offline, über Spielen > Szenarien | ✅ Ja |
-| Gefecht, offline, über Spielen > Szenarien (die Schaltfläche Gefecht öffnet nie eine Online-Lobby) | ✅ Ja |
-| Logistikfront | ✅ Ja, solo |
-| Logistikfront und die 16 PvE-Szenarien des Spiels mit Freunden: Du hostest, deine Freunde treten auf deiner Seite bei, Peer-to-Peer über Steam-Einladungen, kein offizieller Server | ✅ Ja (Test) |
-| Offizielle Lobbys von PvE-Szenarien (Offizielle Lobby erstellen, Lobbyliste, Steam-Einladung) | ⚠️ Nach einer Warnung: Sperrrisiko |
-| Gefechts- und PvP-Lobbys, Schnellsuche, Wiederverbinden auf den offiziellen Servern | ⛔ Von der Mod gesperrt |
+| Kampagne, amerikanisch und russisch (außer der Tutorial-Mission) | ✅ Solo |
+| Die Szenarien des Spiels, über Spielen > Szenarien | ✅ Solo, und bei den PvE-Szenarien Koop über eine Mod-Lobby |
+| Logistikfront, 22 Karten | ✅ Solo oder Koop mit bis zu 3 Spielern gegen den Kommandeur |
+| Gefecht zwischen Spielern | ✅ PvP über eine Mod-Lobby |
+| Gefecht allein gegen den Kommandeur | ✅ Lobby finden > Lobby erstellen > Privat: allein spielen |
+| Offizielle Server: Lobbys, Schnellsuche, Ranglisten, Wiederverbinden | ⛔ Nie genutzt: im Menü ausgeblendet und von der Mod gesperrt |
 | Ein mit dem Anti-Cheat gestartetes Spiel | ⛔ Die Mod beendet das Spiel |
 
 > [!NOTE]
-> **Koop mit Freunden berührt die offiziellen Server nie.** Einladungen laufen über Steam, und der PC des Hosts dient als Server. Alle brauchen genau dieselbe Mod-Datei: Ein Freund mit einer anderen Spielversion, Mod-Version oder Mod-Datei oder mit abgeschalteter Mod wird mit einer klaren Meldung abgewiesen.
+> **Jede Partie zwischen Spielern läuft über Steam.** Die Lobby ist eine Steam-Lobby, die Schlacht läuft Peer-to-Peer über das Steam-Relay von Valve, und der PC des Hosts dient als Server. Nur legitime Steam-Kopien können spielen, und alle brauchen genau dieselbe Mod-Datei: Eine Lobby einer anderen Version zeigt **Falsche Version** an.
 
 > [!CAUTION]
 > **Starte das Spiel immer über Steam mit der Startoption "Anti-Cheat Disabled".** Läuft der Anti-Cheat, zeigt die Mod eine Meldung und beendet das Spiel, bevor irgendetwas geladen wird. Sonst passiert nichts: Starte es einfach erneut mit der richtigen Option.
 
 > [!WARNING]
-> **Die offiziellen Server sind mit einer Mod ein Risiko.** Das Spiel erkennt einen veränderten Client und kann das Konto automatisch sperren: Das ist dem Autor passiert, für sieben Tage, in einem Gefecht. Deshalb hält die Mod Gefechts- und PvP-Lobbys, Schnellsuche und Wiederverbinden gesperrt, mit einer Meldung. Offizielle Lobbys von **PvE-Szenarien** öffnen sich erst nach einer Warnung, die du akzeptierst, ein Deck mit Karten der Mod wird durch ein Deck des Spiels desselben Landes ersetzt, und die Mod bleibt in diesen Schlachten aktiv. Der sichere Weg, zusammen zu spielen, ist **Mit Freunden hosten (Steam)**. Um PvP auf den offiziellen Servern zu spielen, entferne die Mod und MelonLoader.
+> **Die offiziellen Server sind mit einer Mod ein Risiko.** Das Spiel erkennt einen veränderten Client und kann das Konto automatisch sperren: Das ist dem Autor passiert, für sieben Tage, in einem Gefecht. Deshalb nutzt die Mod sie nie: Jede offizielle Tür ist im Menü ausgeblendet und im Code gesperrt. **Spiele die Mod nicht auf den offiziellen Servern.** Um dort zu spielen, entferne zuerst die Mod und MelonLoader.
 
 <div align="right"><a href="#top">nach oben</a></div>
 
@@ -664,7 +899,7 @@ Echte Kaliber, Durchschlag, Streuung und Ballistik mit echter Schwerkraft; echte
 
 ## 📦 Download und Installation
 
-**Voraussetzungen:** Broken Arrow 1.2.0.3 auf Steam, Windows. Die DLCs sind optional. MelonLoader 0.7.3 ist im Download enthalten ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), Anleitung auf [melonwiki.xyz](https://melonwiki.xyz/)).
+**Voraussetzungen:** Broken Arrow 1.2.0.3 auf Steam (eine legitime Kopie: Die Lobbys der Mod prüfen das), Windows. Die DLCs sind optional. MelonLoader 0.7.3 ist im Download enthalten ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), Anleitung auf [melonwiki.xyz](https://melonwiki.xyz/)).
 
 ### Installation
 
@@ -672,21 +907,21 @@ Echte Kaliber, Durchschlag, Streuung und Ballistik mit echter Schwerkraft; echte
 2. Klicke in Steam mit der rechten Maustaste auf **Broken Arrow**, dann auf **Verwalten** und dann auf **Lokale Dateien durchsuchen**.
 3. Öffne den Ordner **BROKEN ARROW REALISM OVERHAUL** und kopiere `version.dll`, den Ordner `MelonLoader`, den Ordner `Mods` und den Ordner `UserData` in den Spielordner, neben `BrokenArrow.exe`. Der Ordner `UserData` enthält die Musik der Mod; ohne ihn behält das Spiel seine eigene. `LICENSE.txt` ist die Lizenz und muss nicht kopiert werden.
 4. Starte das Spiel über Steam mit **Anti-Cheat Disabled**. Der erste Start dauert etwas länger, während MelonLoader sich einrichtet, und ein Konsolenfenster öffnet sich: Das ist normal.
-5. Im Fenster Einstellungen erscheint ein Reiter **Mod**. Erstelle im Arsenal ein Deck: Wähle NATO oder OVKS, dann dein Land.
+5. Im Hauptmenü erscheint der **Startbildschirm der Mod** und im Fenster Einstellungen ein Reiter **Mod**. Erstelle im Arsenal ein Deck: Wähle NATO oder OVKS, dann dein Land.
 
 <a id="update"></a>
 
 ### Update von einer älteren Version
-Lade das neue Archiv über die Schaltfläche **DOWNLOAD** oben auf dieser Seite herunter, kopiere die neuen Dateien über die alten, dann öffne deine Decks und prüfe sie. Um zusammen zu spielen, brauchen du und deine Freunde genau dieselbe Version.
+Lade das neue Archiv über die Schaltfläche **DOWNLOAD** oben auf dieser Seite herunter, kopiere die neuen Dateien über die alten (der Ordner `UserData` bringt das Intro-Thema mit), dann öffne deine Decks und prüfe sie. Um zusammen zu spielen, brauchen du und deine Freunde genau dieselbe Version: Sonst zeigt die Lobbyliste **Falsche Version** an.
 
 ### Deinstallation
-Lösche `Mods\BrokenArrowRealismOverhaul.dll` und die Ordner `UserData\RealismOverhaul...`. Um auch MelonLoader zu entfernen, lösche `version.dll` und den Ordner `MelonLoader`. Die Originaldivisionen des Spiels kommen zurück, genau wie vorher.
+Lösche `Mods\BrokenArrowRealismOverhaul.dll` und die Ordner `UserData\RealismOverhaul...`. Um auch MelonLoader zu entfernen, lösche `version.dll` und den Ordner `MelonLoader`. Die Originaldivisionen und das Menü des Spiels kommen zurück, genau wie vorher.
 
 > [!TIP]
 > Bewahre vor der Deinstallation eine Kopie deines Ordners `Decks` auf (`%USERPROFILE%\AppData\LocalLow\SteelBalalaikaStudio\BrokenArrow\Decks`). Decks, die auf den Divisionen der Mod aufgebaut sind, ergeben nur mit der Mod Sinn.
 
 > [!NOTE]
-> **Zur Virenwarnung: Es ist ein Fehlalarm.** MelonLoader legt eine native Datei, `version.dll`, unter dem Namen einer Windows-Systembibliothek neben das Spiel, damit das Spiel sie statt der echten lädt. So funktioniert jede MelonLoader-Mod für jedes Unity-Spiel, und es ist zugleich Wort für Wort genau die Technik, auf deren Erkennung Antivirenprogramme ausgelegt sind. Die Datei wird für das markiert, dem sie ähnelt, nicht für das, was sie tut. Die Mod selbst, `BrokenArrowRealismOverhaul.dll`, ist eine einzige verwaltete .NET-Datei, ohne nativen Code, ohne Packer, ohne Verschleierung und ohne Netzwerkzugriff.
+> **Zur Virenwarnung: Es ist ein Fehlalarm.** MelonLoader legt eine native Datei, `version.dll`, unter dem Namen einer Windows-Systembibliothek neben das Spiel, damit das Spiel sie statt der echten lädt. So funktioniert jede MelonLoader-Mod für jedes Unity-Spiel, und es ist zugleich Wort für Wort genau die Technik, auf deren Erkennung Antivirenprogramme ausgelegt sind. Die Datei wird für das markiert, dem sie ähnelt, nicht für das, was sie tut. Die Mod selbst, `BrokenArrowRealismOverhaul.dll`, ist eine einzige verwaltete .NET-Datei, ohne nativen Code, ohne Packer und ohne Verschleierung; ihr einziger Netzwerkverkehr sind Partien zwischen Spielern, über die eigene Schnittstelle von Steam.
 
 Nicht kompatibel mit anderen Mods, die Einheitenwerte umschreiben.
 
@@ -703,6 +938,7 @@ Alles an der Mod ist immer aktiv, außer den wenigen Dingen, die du unter **Esc 
 | Einstellung | Auswahl |
 |---|---|
 | **Realismus-Modus** | Realistisch oder Halbrealistisch (Standard); im Koop entscheidet der Host |
+| **Größe der vergrößerten Karten** | Vanilla, Mittel oder Groß; auch unter **Weitere Einstellungen** des Szenarios, mit den echten Kilometern jeder Karte. Die Kampagne behält immer die Originalgröße des Spiels |
 | **Verweildauer der Wracks** | 5, 15, 30 oder 60 Minuten (standardmäßig 30) |
 | **Verweildauer der Gefallenen** | 5, 15, 30 oder 60 Minuten (standardmäßig 30); viele Leichen auf einmal können auf schwachen PCs die Bildrate senken |
 | **Brände und Rauch** | 5, 15, 30 oder 60 Minuten (standardmäßig 30), nur auf deinem Bildschirm |
@@ -710,7 +946,7 @@ Alles an der Mod ist immer aktiv, außer den wenigen Dingen, die du unter **Esc 
 | **Cheats** | Optional, beim Start aus: Nur der Host (oder ein Solospieler) kann sie nutzen, und nur für seine eigenen Einheiten |
 | `FacteurSonGuerre` | In `UserData\MelonPreferences.cfg`: 1 realistischer Sound, 0.5 leise, 2 laut, 0 der Originalsound des Spiels |
 
-Die **Kartengröße** (Vanilla, 12 x 12 km oder 15 x 15 km auf den vergrößerten Karten) wählst du vor der Schlacht unter **Weitere Einstellungen**; die Kampagne behält immer die eigene Größe des Spiels. In einer Koop-Partie gelten die Einstellungen des Hosts für alle in der Schlacht. Die Minikarte bleibt in jeder Schlacht der Mod genordet. Die Option des Spiels zum Drehen der Minikarte wird nie verändert: Sie funktioniert wieder, sobald du ohne die Mod spielst.
+In einer Koop-Partie gelten die Einstellungen des Hosts für alle in der Schlacht. In jeder Schlacht ist der Spielbereich die ganze Karte, ohne orangefarbenen Rand. Die Minikarte bleibt in jeder Schlacht der Mod genordet. Die Option des Spiels zum Drehen der Minikarte wird nie verändert: Sie funktioniert wieder, sobald du ohne die Mod spielst.
 
 <div align="right"><a href="#top">nach oben</a></div>
 
@@ -723,7 +959,9 @@ Die **Kartengröße** (Vanilla, 12 x 12 km oder 15 x 15 km auf den vergrößerte
 - **Eine Rauchspur, die nach dem Treffer noch eine Minute am Himmel hängt.** Die Spur gehört zum Geschoss: Das Spiel hängt sie an die Rakete und nimmt sie zurück, sobald die Rakete verschwindet. Die Mod hält sie während des ganzen Flugs bis zum Einschlag, aber eine Spur, die danach über dem Schlachtfeld hängt, würde bedeuten, die kompilierten Effektdateien des Spiels selbst mitzuliefern, und das sollte eine Mod nicht tun.
 - **Ein Flugzeug des Kommandeurs nur dort, wo die Mission es zulässt.** In der Kampagne setzt er ein Flugzeug nur auf einer Karte ein, auf der die Mission selbst schon eines hat fliegen lassen, denn das ist der einzige erprobte Weg, ein Flugzeug herein- und wieder herauszubringen.
 - **Bomben ohne Flügel fallen weiterhin ballistisch** aus Flughöhe, etwa 1,5 bis 2,5 km vor dem Ziel. Gleitbausätze sind seit 4.9.5 echte Abstandswaffen, aber sie werden nicht in geringer Höhe ausgelöst, und der Kommandeur im Gefecht gibt den Befehl Präzisionsschlag nicht.
-- **Kein Gefecht und kein PvP auf den offiziellen Servern.** Die Lobbys und Schlachten des Spiels laufen auf seinen offiziellen Servern, und diese können einen veränderten Client sperren. Die Mod wird solo gespielt, im Koop mit Freunden auf deiner Seite über Steam (Logistikfront und die PvE-Szenarien des Spiels) und nach einer Warnung in offiziellen Lobbys von PvE-Szenarien. Gewöhnliche Gefechtskarten haben in einer Partie mit Freunden keinen Computergegner.
+- **Kein Spiel auf den offiziellen Servern.** Die eigenen Lobbys und Schlachten des Spiels laufen auf seinen offiziellen Servern, und diese können einen veränderten Client sperren. Die Mod wird solo gespielt und gemeinsam nur über ihre eigenen Steam-Lobbys: Koop in der Logistikfront und in den PvE-Szenarien des Spiels, PvP-Gefecht zwischen Mod-Spielern.
+- **Zurückkehren, nachdem man eine Schlacht verlassen hat.** Bricht deine Verbindung ab, bekommst du deine Einheiten zurück, wenn du dich innerhalb von etwa drei Minuten wieder verbindest. Ein Spieler, der das Spiel schließt, abstürzt oder länger wegbleibt, kann nicht in diese Schlacht zurückkehren: Das Spiel müsste die Karte neu laden und die ganze Schlacht empfangen. Einen Zuschauermodus gibt es ebenfalls nicht.
+- **Infanterie, die durch eine Furt watet.** Die Navigation des Spiels kann eine Furt nicht allein für Fahrzeuge sperren, daher bleibt auch die Infanterie am Ufer und überquert das Wasser über die Brücken.
 - **Nur zwei Seiten.** Das Spiel kennt die amerikanische und die russische Seite, daher kämpfen NATO-Länder immer gegen OVKS-Länder.
 - **Länder, deren Hauptgerät nicht im Spiel ist**, etwa Frankreich oder das Vereinigte Königreich, lassen sich nicht umsetzen. Fehlt einem einzelnen Fahrzeug das 3D-Modell, springt ein Fahrzeug derselben Klasse ein, mit dem echten Namen und den echten Werten.
 - **Loitering Munition** wartet auf die eigene Version des Spiels. Die Karten der Lancet- und Switchblade-Trupps bleiben bis dahin ausgeblendet.
@@ -737,8 +975,11 @@ Die **Kartengröße** (Vanilla, 12 x 12 km oder 15 x 15 km auf den vergrößerte
 ## 🐞 Bekannte Probleme
 
 - Der Kommandeur kann ein kurzes Ruckeln verursachen, wenn er auf den großen Karten neu plant.
+- Eine vergrößerte Karte braucht ein paar Sekunden länger zum Laden: Ihre Straßen, Gewässer, Brücken und Details werden bei jedem Laden neu aufgebaut.
 - Die **Verweildauer der Wracks** hat noch keine sichtbare Wirkung: Das Spiel bewahrt die Wracks an einer Stelle auf, die die Mod nicht erreicht.
 - Trupps mit 20 Mann sind neu für das Spiel (es hatte nie mehr als 14 Mann in einem Trupp): Melde alles Ungewöhnliche an ihrer Fortbewegung.
+
+Noch etwas gefunden? Sag es uns auf dem [Discord](https://discord.gg/wrtMjUnard): Ab 5.2 erledigt das ein Fenster **Fehler melden** direkt im Spiel.
 
 <div align="right"><a href="#top">nach oben</a></div>
 
@@ -750,6 +991,8 @@ Die **Kartengröße** (Vanilla, 12 x 12 km oder 15 x 15 km auf den vergrößerte
 
 | Version | Datum | Höhepunkte |
 |:-:|:-:|---|
+| **5.1** | September 2026 | Logistikfront auf allen 22 Karten in drei Größen (Vanilla, Mittel, Groß bis 225 km²), Basen an einer Straße am Kartenrand mit ausgeloster Startseite, Luftfahrzeuge von jenseits der Karte, fächerförmig verteilte Depots, Koop drei gegen einen mit 90 Einheiten pro Seite. Eigene Steam-Lobbys der Mod (Liste, Passwort, Bereit, Chat, Ping, Entfernen mit F8, defensive KI für einen Spieler ohne Verbindung, nur legitime Kopien) und eigenes Menü (Startbildschirm, Lobby finden, Gefecht erstellen, PvP zwischen Mod-Spielern); überhaupt kein offizieller Server mehr genutzt. Furten überall für nicht schwimmfähige Fahrzeuge gesperrt, Lenkflugkörper treffen Fahrzeuge im Wasser, die aus der Kanone verschossene Lenkrakete des T-14 fliegt gerade, Symbole beim Herauszoomen sichtbar. Details, Bahnlinien, Häfen und Brücken der vergrößerten Karten wiederhergestellt, leere Flächen gefüllt. Musik in einem durchgehenden Zyklus. |
+| **5.0** | September 2026 | Einfrieren behoben (höchstens fünf verschiedene Waffen pro Trupp). Logistikfront: Kameraflug als Intro, kein Führungsfahrzeug, Basen am Kartenrand, ausgeloste Startseite, Flugzeuge von jenseits der Karte. Raketen auf ihre echte Entfernung hörbar. Intro-Thema und Musik, die in der Schlacht weiterläuft. Sieben Stabilitätskorrekturen. |
 | **4.9.9.1** | September 2026 | Echte Druck- und Splitterkreise für jeden Sprengkörper, je nach Zieltyp; Gebäude eingeebnet und Bäume gefällt in ihrem echten Radius, ein gefällter Wald öffnet die Sichtlinie; sauberere große Explosionen. Panzerungsprüfung jedes Bodenfahrzeugs, Tandemgefechtsköpfe überwinden nur leichte Reaktivpanzerung. Die Atomwaffen des Spiels durch echte Sprengköpfe auf echten Trägern ersetzt, dazu eine Endspielwaffe pro Seite (Iskander-M, Pershing II). Kommandeure pausieren, solange du nichts aufstellen kannst; orangefarbene Sperrzonen entfernt. Einstellungen für Kartengröße (Vanilla, 12 oder 15 km) und Wetter. 50.000 Punkte pro Kategorie. Karte MC-130H MOAB repariert. |
 | **4.9.9** | September 2026 | Wähle deinen Realismus: Realistisch (genau 4.9.8) oder Halbrealistisch (+60 % Trefferpunkte für Bodenfahrzeuge, widerstandsfähigere Infanterie), im Koop entscheidet der Host. Zerstörte Fahrzeuge töten keine gepanzerten Nachbarn mehr. Tiefflug vor Radaren und Radarraketen verborgen, Hochflug für alle sichtbar, automatisches Steigen zum Feuern. Sichtbare Abpraller und echte Leuchtspuranteile. Echte Infanterietrupps in jeder Fraktion, Lkw-gestützte Trupps mit 20 Mann, Waffenauswahl. Drei Schaltflächen pro Szenario: allein, der Koop der Mod auf 16 PvE-Szenarien, offizielle Lobby nach einer Warnung. Die Mod ist immer aktiv; Cheats nur für den Host. Explosionsrauch nach der jeweiligen echten Ladung bemessen. Rund 75 neue echte Munitionen und eine Kamikaze-Drohne pro Land. |
 | **4.9.8** | September 2026 | Alles echt, Reichweiten unverändert: echte Panzerung jedes Fahrzeugs und jeder Aufrüstung auf jeder Seite, angezeigt in echten Millimetern, und ein Geschoss, das in Wirklichkeit nicht durchschlägt, richtet keinen Schaden an (der T-14 ist der beste Panzer); echter Durchschlag von Maschinengewehren und Kanonen bis 57 mm; echte Feuerrate jeder Waffe, ein Geschoss = ein echter Schuss; echte Geschwindigkeiten von Fahrzeugen, Stellvertretern, Gewehr- und MG-Geschossen, Raketen, Mörsergranaten und Lenkflugkörpern; Deutschland erhält 12 Infanteriekarten der Bundeswehr, den Eurofighter und den Tornado. |
@@ -784,24 +1027,44 @@ Die **Kartengröße** (Vanilla, 12 x 12 km oder 15 x 15 km auf den vergrößerte
 
 ---
 
+<a id="community"></a>
+
+## 🤝 Community
+
+<p align="center">
+  <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Dem Discord beitreten"></a>
+  <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-@FrenchBaguette0609-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: @FrenchBaguette0609"></a>
+  <a href="https://github.com/tassassinno74/Broken-Arrow-Realism-Overhaul"><img src="https://img.shields.io/badge/GITHUB-THIS%20PAGE-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+| Wo | Was du dort findest |
+|---|---|
+| **Discord** · [discord.gg/wrtMjUnard](https://discord.gg/wrtMjUnard) | Neuigkeiten, Testversionen, Fragen und Fehlerberichte, direkt an den Autor (**Noichi** auf Discord). Jede Version wird dort zuerst angekündigt. |
+| **YouTube** · [@FrenchBaguette0609](https://www.youtube.com/@FrenchBaguette0609) | Der Kanal des Autors. |
+| **GitHub** · [tassassinno74/Broken-Arrow-Realism-Overhaul](https://github.com/tassassinno74/Broken-Arrow-Realism-Overhaul) | Diese Seite in fünf Sprachen, der Download-Link, die Lizenz und Issues für Fehlerberichte. |
+
+<div align="right"><a href="#top">nach oben</a></div>
+
+---
+
 <a id="credits"></a>
 
 ## 💬 Feedback und Danksagungen
 
 > [!TIP]
 > **Tritt der Community auf Discord bei:** Neuigkeiten, Testversionen, Fragen und Fehlerberichte, direkt an den Autor.
-> **[discord.gg/UzUM6Yku7z](https://discord.gg/UzUM6Yku7z)**
+> **[discord.gg/wrtMjUnard](https://discord.gg/wrtMjUnard)**
 
 **Etwas ist schiefgelaufen?** Die Mod schreibt ihr Protokoll nach `MelonLoader\Latest.log`, neben `BrokenArrow.exe`. Es sagt, was passiert ist und warum. Poste es auf dem Discord oder eröffne ein Issue in diesem Repository mit dieser Datei im Anhang: Das ist der schnellste Weg zur Behebung.
 
-- Mod von **tassassinno74**.
+- Mod von **tassassinno74** (**Noichi** auf Discord).
 - Aufgebaut auf [MelonLoader](https://github.com/LavaGang/MelonLoader) von LavaGang.
-- Fünfzehn originale Musikstücke werden mit der Mod geliefert.
+- Fünfzehn originale Musikstücke und ein Intro-Thema werden mit der Mod geliefert.
 - Broken Arrow wird von Steel Balalaika entwickelt und von Slitherine veröffentlicht. Dies ist eine inoffizielle Fan-Mod, weder mit ihnen verbunden noch von ihnen unterstützt.
 
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Alle Rechte vorbehalten.** Du darfst die Mod gern herunterladen und spielen. Sie irgendwo erneut hochzuladen (Steam, Steam Workshop, Nexus Mods, ModDB oder jede andere Seite), sie weiterzuverbreiten, ihren Code oder ihre Daten wiederzuverwenden oder veränderte Versionen zu veröffentlichen, ist ohne die schriftliche Genehmigung des Autors nicht erlaubt. Vollständige Bedingungen: [LICENSE](LICENSE). MelonLoader, im ALL-IN-ONE-Archiv enthalten, behält seine eigene Lizenz (Apache 2.0, Datei beiliegend).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-4.9.9.1-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 4.9.9.1"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.1-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.1"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
 
 <div align="right"><a href="#top">nach oben</a></div>
