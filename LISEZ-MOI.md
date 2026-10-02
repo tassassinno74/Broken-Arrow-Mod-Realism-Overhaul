@@ -5,7 +5,7 @@
 <p align="center"><b>La campagne, les scénarios et l'escarmouche, menés comme le matériel a réellement été conçu pour combattre.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.3-2ea44f?style=for-the-badge" alt="Version 5.3">
+  <img src="https://img.shields.io/badge/version-5.4-2ea44f?style=for-the-badge" alt="Version 5.4">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.3-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 5.3"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.4-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 5.3"></a>
   <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre le Discord"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Chaîne YouTube"></a>
 </p>
@@ -35,7 +35,9 @@ Broken Arrow te donne de vrais véhicules, de vraies armes et une vraie doctrine
 
 Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles, lit les cartes et les scripts de mission du jeu lui-même, fixe le prix de chaque unité selon ce qu'elle peut vraiment faire, donne à chaque avion et à chaque canon les emports de son équivalent réel, donne à chaque arme sa portée publiée jusqu'à 100 km, et place un **second commandant** de l'autre côté de la carte, qui observe ce que tu déploies et y répond. Tu combats pour une **nation**, l'un des onze pays répartis en deux camps, l'OTAN et l'OTSC. Chaque véhicule, chaque arme et chaque munition a **son vrai blindage, sa vraie vitesse et sa vraie cadence de tir**, chaque explosif **son vrai souffle et sa vraie fragmentation**, et c'est toi qui **choisis ton réalisme** : réaliste ou semi-réaliste.
 
-**La 5.3 rend le jeu à plusieurs complet.** Tout ce que le serveur officiel faisait pendant une bataille, c'est désormais le PC de l'hôte qui le fait : le **chat de bataille**, les unités des autres joueurs au bon endroit, les minuteries, la liste des joueurs, le **vote de reddition** et **l'argent de chaque joueur**. Les salons Steam du mod affichent **les deux camps**, te laissent **choisir le tien en JcJ**, lancent un compte à rebours **3-2-1**, et te permettent de **revenir dans une bataille après un plantage**, même si le jeu a été fermé. Le mod contrôle ses propres fichiers contre la triche, et les triches de l'hôte restent invisibles pour tous les autres. Sur le champ de bataille : une **IA plus forte qui ne triche jamais**, la **suppression**, les **dégâts localisés**, la **guerre électronique**, des **pentes** qui ralentissent chaque véhicule selon sa vraie puissance, et des mines partagées par tous les joueurs. Les leurres partent maintenant d'eux-mêmes à l'alerte missile, les villes sont dures à prendre, et chaque prix est refait selon la vraie valeur au combat. La 5.2 avait déjà donné à chaque véhicule et à chaque aéronef son **vrai moteur**. Front Logistique se joue toujours sur **les 22 cartes du jeu**, jusqu'à **225 km²**, et le mod **ne touche jamais aux serveurs officiels** : chaque partie entre joueurs passe par Steam.
+**La 5.4 te donne une caméra libre**, de 6 m au-dessus du sol jusqu'à 6 000 m, et change la façon de tenir le terrain : l'infanterie **s'enterre par échelons**, une **forêt épaisse coupe le tir direct**, les véhicules qui ne savent pas nager **restent hors de l'eau** pendant que l'infanterie passe les gués, un **clic droit** suit la route, et l'artillerie a un vrai mode **contre-batterie**, au radar ou au son. L'IA tient d'abord **une vraie ligne de défense**, chaque pays n'aligne que **du vrai matériel**, et la 5.4 est la version minimale pour jouer ensemble.
+
+**La 5.3 a rendu le jeu à plusieurs complet.** Tout ce que le serveur officiel faisait pendant une bataille, c'est désormais le PC de l'hôte qui le fait : le **chat de bataille**, les unités des autres joueurs au bon endroit, les minuteries, la liste des joueurs, le **vote de reddition** et **l'argent de chaque joueur**. Les salons Steam du mod affichent **les deux camps**, te laissent **choisir le tien en JcJ**, lancent un compte à rebours **3-2-1**, et te permettent de **revenir dans une bataille après un plantage**, même si le jeu a été fermé. Le mod contrôle l'intégrité de ses propres fichiers. Sur le champ de bataille : une **IA plus forte, sans aucun avantage caché**, la **suppression**, les **dégâts localisés**, la **guerre électronique**, des **pentes** qui ralentissent chaque véhicule selon sa vraie puissance, et des mines partagées par tous les joueurs. Les leurres partent maintenant d'eux-mêmes à l'alerte missile, les villes sont dures à prendre, et chaque prix est refait selon la vraie valeur au combat. La 5.2 avait déjà donné à chaque véhicule et à chaque aéronef son **vrai moteur**. Front Logistique se joue toujours sur **les 22 cartes du jeu**, jusqu'à **225 km²**, et le mod **ne touche jamais aux serveurs officiels** : chaque partie entre joueurs passe par Steam.
 
 | 8 000+ | 100 km | 11 | 22 | 225 km² | 3 contre 1 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -53,7 +55,7 @@ Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles, lit les 
 - **Tu réfléchiras avant d'acheter**, parce qu'un seul T-14 Armata coûte 560 points, plus que trois T-72B3, et que tu n'en as que deux.
 - **Tu choisiras ce que tu accroches sous tes ailes**, parce que le menu des pylônes propose ce que l'avion réel emporte et cache ce qu'il n'a jamais emporté.
 - **Tu protégeras tes camions de ravitaillement**, parce que dans Front Logistique ton argent, c'est le stock de tes dépôts.
-- **Tu te battras pour les ponts**, parce que sur chaque carte l'eau arrête désormais tout véhicule qui ne sait pas nager : les gués sont fermés, et seuls les véhicules amphibies traversent.
+- **Tu te battras pour les ponts**, parce que sur chaque carte les véhicules qui ne savent pas nager n'entrent plus dans l'eau : seuls les véhicules amphibies traversent, et l'infanterie passe les gués à pied.
 - **Tu utiliseras le terrain**, parce qu'un char derrière une forêt est un char que tu ne vois pas, et qu'un lanceur qui ne te voit pas ne peut pas te tirer dessus.
 - **Tu choisiras ton champ de bataille**, parce que Front Logistique se joue maintenant sur les 22 cartes, en Vanilla, Moyenne ou Grande, jusqu'à 15 x 15 km.
 - **Tu partageras le commandement**, parce que trois joueurs se répartissent 90 unités face à un commandant qui en a 90 à lui seul.
@@ -61,6 +63,9 @@ Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles, lit les 
 - **Tu éteindras ton radar jusqu'à en avoir besoin**, parce qu'un radar allumé est repéré par chaque avion ennemi qui l'a à portée et en vue.
 - **Tu cloueras l'ennemi au sol avant de bouger**, parce qu'une escouade sous le feu tire à côté et rampe, même quand les balles la manquent.
 - **Tu liras les pentes**, parce qu'un char monte une pente de 10 % à guère plus de la moitié de sa vitesse en tout-terrain, et un camion chargé encore plus lentement.
+- **Tu laisseras ton infanterie s'enterrer**, parce qu'une escouade qui tient sa position creuse échelon après échelon, et qu'une escouade coupée de son ravitaillement perd ses échelons.
+- **Tu déplaceras tes canons après avoir tiré**, parce que la contre-batterie ennemie riposte à l'artillerie qui tire, au radar ou au son.
+- **Tu ne compteras plus sur un bois pour tirer au travers**, parce qu'une forêt épaisse coupe le tir direct et les missiles guidés par le tireur.
 
 ---
 
@@ -68,7 +73,7 @@ Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles, lit les 
 
 | Le mod | Le champ de bataille | Pratique |
 |---|---|---|
-| [Nouveautés de la 5.3](#new-53) · [5.2](#new-52) · [précédentes](#earlier) | [Front Logistique](#logistics-front) | [Où il fonctionne](#where-it-runs) |
+| [Nouveautés de la 5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [précédentes](#earlier) | [Front Logistique](#logistics-front) | [Où il fonctionne](#where-it-runs) |
 | [Feuille de route](#roadmap) | [Les 22 cartes](#maps) | [Télécharger et installer](#install) |
 | [Le menu du mod](#menu) | [Le commandant ennemi](#commander) | [Mettre à jour ou désinstaller](#update) |
 | [Salons Steam : jouer ensemble](#lobbies) · [coop](#coop) · [retour en bataille](#rejoin) | [Guerre aérienne](#air-war) | [Réglages](#settings) |
@@ -79,9 +84,86 @@ Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles, lit les 
 
 ---
 
+<a id="new-54"></a>
+
+## 🆕 Nouveautés de la 5.4 : caméra libre, retranchement, contre-batterie
+
+> [!IMPORTANT]
+> **Remplace la 5.3 (et toute version plus ancienne) :** copie les nouveaux fichiers par-dessus les anciens. Tes decks n'ont besoin de rien, et **aucune portée d'une arme existante n'a changé**. **La 5.4 est la version minimale pour jouer ensemble** : un joueur qui a une version plus ancienne voit **Mauvaise version**.
+
+### 🎥 Caméra libre
+- **De 6 m au-dessus du sol jusqu'à 6 000 m**, avec une vue qui va jusqu'à la verticale : toute la carte d'un seul regard. Les bords de la carte sont infranchissables.
+- Elle n'est guidée que pendant les cinématiques : campagne, scénarios et survol d'ouverture du Front Logistique.
+- **Toujours active**, sans réglage.
+
+### 🪖 Retranchement réaliste
+- L'infanterie qui reste en place **s'enterre par échelons** : **Échelon 1**, **Échelon 2**, **Échelon 3**, puis **Couvert**, un abri couvert près du ravitaillement. L'étiquette s'affiche sur **tes** escouades seulement.
+- Une meilleure protection contre les balles, le tir direct et l'artillerie. Mais **l'artillerie la cloue au sol** (stress), et les **thermobariques, le napalm, les bombes lourdes et les missiles** gardent toute leur force.
+- **Un assaut ennemi à moins de 50 m** réduit la protection.
+- **Coupée du ravitaillement pendant 10 minutes**, une escouade ne creuse plus et perd un échelon toutes les 5 minutes.
+- Des valeurs propres aux modes **Réaliste** et **Semi-réaliste**, et le même retranchement pour tous en coop. [Détails.](#entrench)
+
+### 🎖️ Troupes d'élite
+- **Forces spéciales et reconnaissance** : une marche un peu plus rapide (+5 % en Réaliste, +10 % en Semi-réaliste), un sprint plus long et une récupération plus rapide, un camouflage plus rapide à l'arrêt en forêt, une visée plus rapide.
+- **Un tir plus serré** pour elles et pour les troupes d'assaut (parachutistes, infanterie de marine).
+- **Des prix revus** de +5 à +10 %. La panique ne change pas.
+
+### 🌲 Forêts
+- **Une forêt épaisse coupe le tir direct et les missiles guidés par le tireur.**
+- Seules les munitions à **laser semi-actif** (Krasnopol, Hellfire, bombes laser...) peuvent se servir du désignateur d'un allié.
+
+### 🌊 Eau
+- **Les véhicules non amphibies n'entrent plus dans l'eau** : ils passent par les ponts. Les amphibies nagent à leur **vraie vitesse**, **l'infanterie traverse les gués**, et l'IA suit la même règle. [Détails.](#water)
+
+### 🛣️ Mouvements
+- **Clic droit** : par la route. **Double clic droit** : à travers champs. **Touche B** : retour à la base par la route.
+- **La zone de retour des bases est agrandie.**
+- **Les camions de transport et de ravitaillement non armés rentrent seuls à la base**, par la route, dès qu'ils sont vides, comme les hélicoptères de transport.
+- **Toujours actifs**, sans réglage.
+
+### ✈️ Air
+- **Les hélicoptères volent beaucoup plus haut en vol haut**, les avions un peu plus haut, et la défense antiaérienne atteint son **vrai plafond**.
+- **Les hélicoptères en vol bas tirent de nouveau normalement.**
+- Les hélicoptères volent à leur **vraie vitesse**, presque aussi vite en vol bas.
+
+### 💥 Artillerie
+- **Deux modes remplacent le feu à volonté et ses priorités** : **Tirer sur les repérés** et **Contre-batterie**.
+- **La contre-batterie riposte à l'artillerie qui tire** : précise avec un radar, approximative et plus lente au son. L'IA fait pareil.
+- **De vrais radars de contre-batterie** : 1L219M Zoopark-1 (Russie), AN/TPQ-50 et AN/TPQ-53 (USA), COBRA (Allemagne, Ukraine), WLR-100 Liwiec (Pologne).
+
+### 🧠 IA
+- Elle tient d'abord **une vraie ligne de défense**, avec sa défense antiaérienne et une réserve, **reconnaît avant d'attaquer**, retient ses pertes et **ne fonce plus au même endroit**. Toujours sans aucun avantage caché. [Détails.](#ai-54)
+
+### 🌍 Pays
+- **Du vrai matériel seulement**, et plus d'exemplaires pour les petites armées (antichars, défense antiaérienne).
+- **Pologne** : M120 Rak, Poprad, AW149, W-3 Sokol (le W-3 avec le DLC balte).
+- **Donbass** : 2023-2026.
+- **Des drones de reconnaissance russes** (Forpost, Korsar) pour la Biélorussie et le Donbass. [Les pays.](#nations)
+
+### 🔧 Corrections
+- **Les armements sont ceux qui sont affichés** : Tu-22M3, B-52H, Tu-95 jusqu'à 8 Kh-101.
+- Le **2S3M1 Akatsiya** emporte surtout des obus explosifs.
+- **L'affichage est corrigé partout** : noms, nombres de missiles et de munitions. Les transports trop petits ne sont plus proposés.
+- **Des grandes cartes plus propres** : plus de camions dans les arbres, des véhicules sur de vraies places, plus de maisons sur les parkings, le béton ou les voies ferrées.
+- **Des vitesses réelles en côte.**
+- Le panneau d'armes du T-14 est corrigé.
+- **Une vraie nuit** : plus sombre, avec la même luminosité à toutes les hauteurs de caméra.
+
+### 🌐 En ligne
+- **La 5.4 est la version minimale pour jouer ensemble** : les versions plus anciennes voient **Mauvaise version**.
+- **Les joueurs bannis par le propriétaire du mod sont refusés** : la liste est signée et diffusée par Steam. Chaque joueur du mod voit un court avis anonyme avec le motif et la durée, jamais le nom.
+- **Les parties passent uniquement par les relais Steam** : ton adresse IP n'est jamais partagée.
+- Le mod utilise les salons Steam du jeu pour la coop et le multijoueur : la version du mod et l'activité (menu, salon, partie) de chaque joueur du mod sont visibles des autres joueurs du mod. [Les salons.](#lobbies)
+
+<div align="right"><a href="#top">retour en haut</a></div>
+
+---
+
 <a id="new-53"></a>
 
 ## 🆕 Nouveautés de la 5.3 : une coop complète, une IA plus forte
+
+*Depuis la 5.4 : l'artillerie a deux modes à la place du feu à volonté et des priorités décrites plus bas, la contre-batterie riposte au radar ou au son, et la 5.4 est la version minimale pour jouer ensemble ([nouveautés de la 5.4](#new-54)).*
 
 > [!IMPORTANT]
 > **Remplace la 5.2 (et toute version plus ancienne) :** copie les nouveaux fichiers par-dessus les anciens. Tes decks n'ont besoin de rien, et **aucune portée d'arme n'a été modifiée**. Pour jouer ensemble, tout le monde doit avoir la **5.3** : un salon créé avec une autre version affiche **Mauvaise version** dans la liste, et un clic dessus ouvre cette page.
@@ -106,11 +188,10 @@ Dans une partie entre joueurs, le PC de l'hôte fait maintenant tout ce que le s
 - **Un compte à rebours 3-2-1** au lancement, sur chaque écran. L'hôte peut l'annuler, et un joueur qui part, qui arrive ou qui décoche Prêt l'arrête.
 - **Reviens dans une bataille après un plantage**, même si le jeu a été fermé : relance le jeu, ouvre **Trouver un salon** et clique sur **Revenir dans la partie** sur la partie de ton hôte, ou accepte son invitation Steam. [Comment ça marche.](#rejoin)
 - **Amis Steam qui jouent au mod** : une nouvelle section de **Trouver un salon** les affiche, avec ce qu'ils font, leur version et un bouton **Rejoindre**.
-- **Anti-triche par fichiers scellés** : chaque PC contrôle son propre fichier du mod au lancement, et un fichier modifié est refusé à l'entrée. En bataille, un écart ouvre un panneau **Contrôle du mod**, pour l'hôte seul, avec **Exclure** ou **Ignorer**. Rien n'est coupé tout seul.
-- **Les triches de l'hôte restent invisibles pour les autres** : elles n'entrent jamais dans les contrôles ni dans les règles envoyées aux amis, **Soigner ma faction** ne soigne jamais les unités d'un autre joueur, et les triches se ferment quand un ami joue dans l'autre camp.
+- **Fichiers du mod scellés** : chaque PC contrôle son propre fichier du mod au lancement, et un fichier modifié est refusé à l'entrée. En bataille, un écart ouvre un panneau **Contrôle du mod**, pour l'hôte seul, avec **Exclure** ou **Ignorer**. Rien n'est coupé tout seul.
 - **Le propriétaire du mod**, **Noichi**, affiche un badge doré **Propriétaire du mod** et peut rejoindre une partie avec une version de test : tout le monde voit un message quand il le fait.
 
-### 🧠 Une IA plus forte, sans tricher
+### 🧠 Une IA plus forte, sans aucun avantage caché
 - **Elle lit tes forces et y répond** : toutes les 20 secondes, elle lit ce que **ses propres unités ont vu**, avec leur retard et leur flou, et répond après un délai d'état-major (45 secondes au niveau difficile, 90 au niveau moyen). Tes chars font venir des escouades antichars et des chars, tes hélicoptères des missiles sol-air et des hélicoptères escortés, tes avions de la défense antiaérienne, ton infanterie en masse des fusiliers, et une pièce d'artillerie **qu'elle a vue** fait venir un tir de contre-batterie.
 - **Tir concentré** : deux à quatre de ses blindés à l'arrêt tirent ensemble sur l'ennemi le plus dangereux qu'ils voient.
 - **Les blindés abîmés se replient** : un véhicule de ligne tombé à 30 % sous la pression recule de 600 m vers un couvert et il est relevé.
@@ -201,7 +282,7 @@ Dans une partie entre joueurs, le PC de l'hôte fait maintenant tout ce que le s
 ### 🖥️ Menu
 - **Plus de scintillement** : rien d'officiel ne revient quand tu changes d'onglet.
 - **Jouer** : **Campagne**, **Scénarios**, **Créer une escarmouche** et **Trouver un salon**, côte à côte. [Plus de détails plus bas.](#menu)
-- **La météo, la taille de la carte et les commandants** se choisissent maintenant en préparant la partie ; **Échap > Options > Mod** garde le mode de réalisme, les durées et les triches. [Voir Réglages.](#settings)
+- **La météo, la taille de la carte et les commandants** se choisissent maintenant en préparant la partie ; **Échap > Options > Mod** garde le mode de réalisme et les durées. [Voir Réglages.](#settings)
 - **Le bouton de bug 🐞** ouvre la fenêtre **Signaler un bug du mod** : comment signaler un bug sur le Discord et quels journaux envoyer.
 - **Le compteur de joueurs du mod en ligne** est rafraîchi toutes les 25 secondes, et tu restes compté pendant une bataille.
 
@@ -372,11 +453,10 @@ Chaque mise à jour depuis la 4.9.5, telle qu'elle a été publiée. Certaines d
 
 - Chaque scénario affiche **Jouer en solo**, **Héberger avec des amis (Steam)** et **Créer un salon officiel**.
 - **La coop du mod fonctionne maintenant sur les 16 scénarios JcE du jeu**, en plus de Front Logistique.
-- **Salon officiel (scénarios JcE uniquement) :** un avertissement s'affiche d'abord (l'anti-triche du jeu détecte le mod, un bannissement est possible), et un deck avec les cartes du mod est remplacé par un deck du jeu du même pays. L'escarmouche, le JcJ et la recherche rapide restent fermés, avec un message clair.
+- **Salon officiel (scénarios JcE uniquement) :** un avertissement s'affiche d'abord (le jeu détecte le mod, un bannissement est possible), et un deck avec les cartes du mod est remplacé par un deck du jeu du même pays. L'escarmouche, le JcJ et la recherche rapide restent fermés, avec un message clair.
 
 #### Le mod est toujours actif
-- Il ne peut plus être désactivé dans le jeu. L'onglet Mod garde le mode de réalisme, les durées des épaves, **des morts (30 min)**, des incendies et des fumées, les triches et À propos.
-- **Les triches** sont réservées à l'hôte (ou à un joueur solo), sur ses propres unités : les amis jouent normalement.
+- Il ne peut plus être désactivé dans le jeu. L'onglet Mod garde le mode de réalisme, les durées des épaves, **des morts (30 min)**, des incendies et des fumées, et À propos.
 
 #### Explosions
 - La fumée de chaque explosion est dimensionnée selon **sa propre charge réelle**, sans plafond : une FAB-3000, une GBU-57 ou une FAB-9000 soulèvent une colonne bien plus grande qu'une bombe de 250 kg, et les explosions thermobariques sont plus larges et brûlent plus longtemps. Chaque explosion est un peu différente et penche avec le vent.
@@ -590,7 +670,8 @@ Ce qui vient ensuite, dans l'ordre. Chaque étape sort quand elle a été testé
 | ![publiée](https://img.shields.io/badge/-publi%C3%A9e-2ea44f?style=flat-square) | **5.0** | Le gel corrigé, l'introduction en survol, les bases au bord de la carte, les missiles entendus à leur vraie distance, le thème Intro. |
 | ![publiée](https://img.shields.io/badge/-publi%C3%A9e-2ea44f?style=flat-square) | **5.1** | Front Logistique sur les 22 cartes en trois tailles, les salons Steam et le menu propres au mod, les gués fermés partout, des cartes agrandies vivantes. |
 | ![publiée](https://img.shields.io/badge/-publi%C3%A9e-2ea44f?style=flat-square) | **5.2** | La coop réparée, de vrais moteurs au sol et dans les airs, un menu qui ne scintille plus, la fenêtre **Signaler un bug du mod**. |
-| ![publiée](https://img.shields.io/badge/-publi%C3%A9e-2ea44f?style=flat-square) | **5.3** | Une coop complète gérée par l'hôte, les deux camps et un compte à rebours dans le salon, le retour en bataille après un plantage, des fichiers scellés contre la triche, une IA plus forte, la suppression, les dégâts localisés, la guerre électronique, les pentes, les leurres à l'alerte missile, de vrais combats de ville, tous les prix refaits. |
+| ![publiée](https://img.shields.io/badge/-publi%C3%A9e-2ea44f?style=flat-square) | **5.3** | Une coop complète gérée par l'hôte, les deux camps et un compte à rebours dans le salon, le retour en bataille après un plantage, des fichiers du mod scellés, une IA plus forte, la suppression, les dégâts localisés, la guerre électronique, les pentes, les leurres à l'alerte missile, de vrais combats de ville, tous les prix refaits. |
+| ![publiée](https://img.shields.io/badge/-publi%C3%A9e-2ea44f?style=flat-square) | **5.4** | La caméra libre, le retranchement par échelons, les troupes d'élite, des forêts qui coupent le tir, l'eau fermée aux véhicules mais pas à l'infanterie, le clic droit par la route, la contre-batterie au radar ou au son, une IA qui défend d'abord, plus de matériel pour les petites armées, la 5.4 minimale en ligne. |
 | ![suivante](https://img.shields.io/badge/-suivante-1f6feb?style=flat-square) | **Les scénarios officiels, un par un** | Chaque scénario officiel retravaillé à son tour : un choix de taille de carte, **un seul ennemi, le commandant du mod**, et plus de profondeur. |
 | ![plus tard](https://img.shields.io/badge/-plus%20tard-8957e5?style=flat-square) | **Un commandant pour la campagne** | Le commandant du mod dans les missions de campagne, sans toucher au script de la mission. |
 | ![objectif](https://img.shields.io/badge/-objectif-bf8700?style=flat-square) | **7.0** | La campagne et les scénarios réunis en **une seule longue campagne avec trois fins possibles**. |
@@ -622,7 +703,7 @@ Quatre vignettes, côte à côte :
 L'Arsenal et l'Éditeur restent à leur place. La vignette Multijoueur officielle et la recherche rapide ont disparu du menu.
 
 ### Options > Mod
-**Échap > Options > Mod** garde ce qui t'appartient : le **mode de réalisme**, les **durées** (une seule ligne depuis la 5.3, **Épaves, morts, feux et cratères** : 5, 15, 30 ou 60 minutes ou **Infini**, réglée par l'hôte dans une partie entre joueurs), **toutes les triches** au même endroit, et **À propos**. La météo, la taille de la carte et les commandants se choisissent en préparant la partie. [Tous les réglages.](#settings)
+**Échap > Options > Mod** garde ce qui t'appartient : le **mode de réalisme**, les **durées** (une seule ligne depuis la 5.3, **Épaves, morts, feux et cratères** : 5, 15, 30 ou 60 minutes ou **Infini**, réglée par l'hôte dans une partie entre joueurs), et **À propos**. La météo, la taille de la carte et les commandants se choisissent en préparant la partie. [Tous les réglages.](#settings)
 
 ### Signaler un bug du mod 🐞
 Le bouton de bug du jeu, dans le menu principal comme en bataille, ouvre la fenêtre **Signaler un bug du mod**, propre au mod : le lien vers le Discord, où ouvrir un ticket, les journaux à joindre **avant de relancer le jeu** (`Latest.log`, le dossier `Logs` et le dossier `GameLogs` du jeu, chacun avec un bouton **Ouvrir le dossier**), et une ligne avec les versions du mod et du jeu à recopier dans le ticket.
@@ -637,11 +718,15 @@ Le bouton de bug du jeu, dans le menu principal comme en bataille, ouvre la fen�
 
 Le mod a ses propres salons, gérés par **Steam**, pas par les serveurs du jeu. Le salon est un salon Steam, et la bataille se joue **en pair à pair par le relais Steam de Valve**, le PC de l'hôte servant de serveur. **Aucun serveur officiel de Broken Arrow n'est jamais contacté.**
 
+> [!NOTE]
+> **Transparence :** le mod utilise les salons Steam du jeu pour la coop et le multijoueur. La version du mod et l'activité (menu, salon, partie) de chaque joueur du mod sont visibles des autres joueurs du mod. Les parties passent uniquement par les relais Steam : ton adresse IP n'est jamais partagée.
+
 ### Trouver un salon
 - Tous les salons du mod dans une seule liste : **titre**, **hôte**, **mode** (scénario JcE, Front Logistique ou escarmouche JcJ), **carte et taille**, **joueurs**, **version du mod** et **version du jeu**.
 - Une deuxième ligne donne les **réglages de l'hôte** : mode de réalisme, taille de la carte, météo, commandants, et la présence ou non d'un mot de passe.
 - Une colonne **Ping** (l'estimation de Steam), des **filtres**, et le nombre de **joueurs du mod en ligne**.
 - **Rejoindre** ne fonctionne qu'avec la **même version et le même fichier du mod** et la **même version du jeu**. Tout autre salon affiche **Mauvaise version** : un clic dessus ouvre cette page GitHub. Le mod ne télécharge jamais rien.
+- **La 5.4 est la version minimale pour jouer ensemble** : un joueur qui a une version plus ancienne voit **Mauvaise version**.
 - **Amis Steam qui jouent au mod** : une section à part montre ce que fait chacun, sa version, et un bouton **Rejoindre** (ou **Revenir dans la partie**). Un ami dans un salon privé n'a pas de bouton, et les mots de passe et les salons réservés aux amis s'appliquent toujours.
 
 ### Créer un salon
@@ -696,8 +781,8 @@ Dans une partie officielle, le serveur du jeu gère une partie de la bataille. A
 - Entre les PC : chaque joueur vérifie les autres par un **ticket de session Steam** et la **licence du jeu**. L'hôte vérifie chaque joueur, et chaque joueur vérifie l'hôte. Une copie piratée ou un émulateur Steam ne passe pas.
 - **Fichier du mod scellé** : chaque PC contrôle son propre fichier du mod au lancement, et les tables de données du mod se trouvent à l'intérieur, donc elles sont contrôlées avec lui. Un fichier modifié est refusé à l'entrée, des deux côtés.
 - **En bataille**, chaque joueur contrôle de nouveau son fichier toutes les 2 minutes et envoie le résultat à l'hôte, qui compare aussi les stats au début de la bataille. Un écart ouvre le panneau **Contrôle du mod**, pour l'hôte seul, avec **Exclure** (les unités du joueur passent à l'IA défensive) ou **Ignorer** ; **F8** l'affiche aussi. Rien n'est coupé tout seul.
-- **Les triches de l'hôte** ne changent que sa propre partie : elles ne sont jamais envoyées aux autres et n'entrent jamais dans les contrôles, **Soigner ma faction** ne soigne jamais les unités d'un autre joueur, et elles se ferment quand un ami joue dans l'autre camp.
 - **Le propriétaire du mod**, **Noichi**, est reconnu par son compte Steam, jamais par un nom. Il affiche un badge doré **Propriétaire du mod** dans la liste des salons, dans le salon, dans F8 et dans la liste d'amis, et peut rejoindre ou héberger une partie avec une version de test du mod : tout le monde voit un message quand il le fait. Entre tous les autres joueurs, les contrôles restent exactement les mêmes.
+- **Les joueurs bannis par le propriétaire du mod sont refusés** (depuis la 5.4) : la liste des bannis est signée et diffusée par Steam. Chaque joueur du mod voit un court avis anonyme avec le motif et la durée, jamais le nom.
 
 > [!NOTE]
 > **Tous les joueurs de la partie doivent avoir exactement le même fichier du mod**, et les mêmes DLC pour voir les mêmes unités. **Les règles et les réglages de l'hôte s'appliquent à tous** pendant la bataille, et chaque PC vérifie au départ qu'il a le même état que les autres.
@@ -731,7 +816,7 @@ Dans une partie officielle, le serveur du jeu gère une partie de la bataille. A
 
 ## 🌍 Nations : OTAN contre OTSC
 
-Le jeu ne connaît que deux camps, donc chaque pays appartient à l'un d'eux : les pays de l'OTAN combattent du côté américain, ceux de l'OTSC du côté russe. Chaque pays est une paire de divisions avec son drapeau et uniquement le matériel qu'il possède réellement : en service, en commande ou issu de ses anciens stocks. Quand un véhicule n'a pas de modèle 3D dans le jeu, le véhicule le plus proche du jeu le remplace, sous le vrai nom et avec les vraies stats.
+Le jeu ne connaît que deux camps, donc chaque pays appartient à l'un d'eux : les pays de l'OTAN combattent du côté américain, ceux de l'OTSC du côté russe. Chaque pays est une paire de divisions avec son drapeau et uniquement le matériel qu'il possède réellement : en service, en commande ou issu de ses anciens stocks. Quand un véhicule n'a pas de modèle 3D dans le jeu, le véhicule le plus proche du jeu le remplace, sous le vrai nom et avec les vraies stats. Depuis la 5.4, chaque pays n'aligne que du vrai matériel, et les petites armées reçoivent plus d'exemplaires d'antichars et de défense antiaérienne.
 
 ### OTAN
 
@@ -740,7 +825,7 @@ Le jeu ne connaît que deux camps, donc chaque pays appartient à l'un d'eux : l
 | **États-Unis** | USA MODE 1 et 2 : tout l'arsenal américain du jeu. Le matériel de la Bundeswehr appartient désormais à l'Allemagne et le matériel balte aux pays baltes ; le NASAMS reste, car l'US Army l'utilise réellement. | Jeu de base |
 | **Ukraine** | Matériel d'époque soviétique et matériel livré par les pays partenaires. Escouades américaines, plus les équipes Piorun et antichar baltes du DLC. Le T-64BV, le BTR-4E et le 2S22 Bohdana utilisent des remplaçants. | Jeu de base |
 | **Allemagne** | La Bundeswehr en 2026 : Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM, sa propre infanterie (G36, MG3, MG5, Panzerfaust 3), Eurofighter et Tornado, et le Leopard 2A8 en commande (premières livraisons en 2027). Le Puma, le Marder, le Fennek, le Tiger, le NH90, l'Eurofighter et le Tornado utilisent des remplaçants. | DLC balte |
-| **Pologne** | Chars K2 et Abrams, Leopard 2, PT-91, Rosomak, artillerie à roquettes coréenne et américaine, Patriot, F-16. Le K2, le PT-91, le Rosomak, le Borsuk, le Krab, le Homar-K et le Narew utilisent des remplaçants. | Jeu de base |
+| **Pologne** | Chars K2 et Abrams, Leopard 2, PT-91, Rosomak, artillerie à roquettes coréenne et américaine, Patriot, F-16. Le K2, le PT-91, le Rosomak, le Borsuk, le Krab, le Homar-K et le Narew utilisent des remplaçants. Depuis la 5.4 : le mortier M120 Rak, le système antiaérien Poprad, les hélicoptères AW149 et W-3 Sokol (le W-3 avec le DLC balte). | Jeu de base |
 | **Lituanie** | Vilkas (Boxer) et M113, PzH 2000 et HIMARS, NASAMS, les premiers Black Hawk, et le Leopard 2A8 en commande. Aucun char en service. Escouades et équipages lituaniens avec leurs propres voix. | DLC balte |
 | **Lettonie** | CVR(T) Scimitar et Spartan, Patria 6x6, l'ASCOD 2 en commande, obusiers M109A5Ö, RBS 70, Spike et Piorun, hélicoptères Black Hawk. Aucun avion de combat ; ses seuls chars sont quelques vieux T-55 conservés pour l'instruction. | DLC balte |
 | **Estonie** | CV9035, Patria XA-180/188 et ARMA 6x6, obusiers K9 Kõu et CAESAR, HIMARS, IRIS-T SLM, Mistral et Piorun. Ni chars ni avions de chasse. | DLC balte |
@@ -750,8 +835,8 @@ Le jeu ne connaît que deux camps, donc chaque pays appartient à l'un d'eux : l
 | Pays | Ce qu'il aligne | Bouton disponible avec |
 |---|---|---|
 | **Russie** | RUSSIE MODE 1 et 2 : tout l'arsenal russe du jeu. | Jeu de base |
-| **Donbass** | Donetsk (1er corps d'armée) et Louhansk (2e corps d'armée), 2014-2022 : matériel soviétique et russe, un drapeau commun. | Jeu de base |
-| **Biélorussie** | Matériel d'époque soviétique modernisé sur place et livraisons russes : T-72B3, BTR-82A, Tor-M2K, S-400, Iskander-M, Su-30SM2, Mi-35M. Escouades russes, le russe étant la langue de travail de l'armée. | Jeu de base |
+| **Donbass** | Donetsk et Louhansk, 2023-2026 (depuis la 5.4) : matériel soviétique et russe, un drapeau commun, et les drones de reconnaissance russes Forpost et Korsar. | Jeu de base |
+| **Biélorussie** | Matériel d'époque soviétique modernisé sur place et livraisons russes : T-72B3, BTR-82A, Tor-M2K, S-400, Iskander-M, Su-30SM2, Mi-35M. Escouades russes, le russe étant la langue de travail de l'armée. Depuis la 5.4, les drones de reconnaissance russes Forpost et Korsar. | Jeu de base |
 | **Kazakhstan** | Matériel d'époque soviétique et achats russes : T-72BA, BTR-82A, BMPT, Buk-M2E, Tor-M2K, Su-30SM, Mi-35M. L'Arlan, le Cobra, le Naiza, l'EC145 et le BM-27 utilisent des remplaçants. | Jeu de base |
 
 > [!NOTE]
@@ -778,12 +863,12 @@ Le scénario propre au mod. Deux bases, une grande carte, un seul ennemi, et pas
 | **Revenu** | Rien de la part du jeu. Chaque minute, tu es payé selon le stock total des dépôts de ton camp : 10 t = 85, 30 t = 190, 60 t = 259, jamais plus de 300 par minute. Trois dépôts de 10 t rapportent exactement autant qu'un seul de 30 t. Depuis la 5.3, le revenu est compté par joueur, dans les deux camps, et le commandant reçoit autant que le camp d'en face. **Ravitailler tes unités ne rapporte plus d'argent.** |
 | **Dépôts** | Tes camions partent installer des dépôts entre 3 et 7 km de ta base, répartis en éventail autour d'elle. Un dépôt se prend en y entrant (bleu = à toi, rouge = à l'ennemi). Un camion détruit explose. |
 | **Reconnaissance** | Un dépôt ennemi ne se voit jamais depuis les airs : l'infanterie le repère à 800 m, la reconnaissance au sol à 1,5 km. Ses dépôts sont dispersés et cachés en lisière de forêt et derrière les crêtes, à l'écart des grands axes. |
-| **Eau** | Sur chaque carte, les gués arrêtent tout véhicule qui ne sait pas nager : traverse par les ponts. Seuls les véhicules amphibies franchissent l'eau. |
+| **Eau** | Sur chaque carte, les véhicules qui ne savent pas nager n'entrent pas dans l'eau : traverse par les ponts. Seuls les véhicules amphibies franchissent l'eau, et l'infanterie passe les gués à pied. |
 | **Base** | Un carré de 2,5 km adossé à ton bord de carte, tracé en bleu et en rouge sur la minicarte. Une unité terrestre ennemie à l'intérieur bloque tes renforts, aéronefs compris ; si elle y est encore au bout de 2 minutes, tu perds. La même règle te fait gagner dans sa base. |
 | **Anéantissement** | Un camp qui n'a plus aucune unité a 1 minute pour en ramener une. |
 
 > [!TIP]
-> Sur une carte de taille Grande, utilise l'ordre de déplacement **RAPIDE** pour suivre les routes : l'ordre de déplacement normal du jeu ne les privilégie jamais. Et envoie de l'infanterie ou de la reconnaissance au sol pour trouver ses dépôts : les avions ne les verront jamais.
+> Depuis la 5.4, un **clic droit** envoie tes unités par la route, un **double clic droit** à travers champs, et la touche **B** les ramène à la base par la route. Et envoie de l'infanterie ou de la reconnaissance au sol pour trouver ses dépôts : les avions ne les verront jamais.
 
 <a id="maps"></a>
 
@@ -835,7 +920,7 @@ Un second commandant joue le camp ennemi de chaque mission de campagne, en plus 
 - **La défense antiaérienne ne roule jamais dans la colonne d'assaut.** Les batteries longue portée se placent sur les hauteurs à l'arrière avec un camion de ravitaillement, les systèmes courte portée se cachent en lisière de forêt et se déplacent de 400 m quand ils sont pris sous le feu de l'artillerie. Sa défense s'étale à gauche et à droite sur les hauteurs, avec deux éclaireurs qui ratissent la carte.
 - **Pas de spam d'hélicoptères.** Une défense antiaérienne repérée devient une zone interdite ; après deux pertes en cinq minutes, il passe aux convois routiers sur des itinéraires changeants, en évitant les routes où un convoi a été détruit ou une mine a sauté.
 - **Il apprend.** Il gravit une échelle de dix-huit techniques sur six niveaux. Une technique qui échoue le fait monter d'un niveau et passer à l'autre flanc, et il ne joue jamais deux fois la même sur le même objectif. Un axe d'attaque qui a échoué n'est pas réutilisé avant deux autres. Au niveau pro, il déborde, se rassemble à un point de ralliement et donne l'assaut en bloc.
-- **Un tir discipliné.** Son artillerie ne tire jamais sans un contact vu dans les 75 dernières secondes, et jamais trois fois au même endroit. Une unité isolée sous le feu se met à couvert.
+- **Un tir discipliné.** Son artillerie ne tire jamais sans un contact vu dans les 75 dernières secondes, et jamais trois fois au même endroit ; seule exception depuis la 5.4, la contre-batterie, qui riposte à une batterie qui tire, localisée au radar ou au son. Une unité isolée sous le feu se met à couvert.
 - **Ses pilotes veulent rentrer** : ils frappent à trois à six kilomètres et rentrent à la base quand ils sont touchés, à la moitié de leurs points de vie ou quand la moitié de leurs leurres est épuisée.
 - **Il ne casse jamais une mission.** Il vérifie le script avant d'ajouter quoi que ce soit, ne casse jamais un objectif et fait une pause tant que tu ne peux pas déployer.
 
@@ -843,14 +928,14 @@ Un second commandant joue le camp ennemi de chaque mission de campagne, en plus 
 
 <a id="ai-53"></a>
 
-### Plus fort depuis la 5.3, et toujours sans tricher
-Les deux commandants, ennemi et allié, ont maintenant un état-major derrière eux. Ils ne savent que ce que leurs propres unités ont vu.
+### Plus fort depuis la 5.3, sans aucun avantage caché
+Les deux commandants, ennemi et allié, ont maintenant un état-major derrière eux. Ils ne savent que ce que leurs propres unités ont vu ou entendu.
 
 | Ce qu'il fait | Comment |
 |---|---|
 | **Il lit tes forces** | Toutes les 20 secondes, d'après ce que **ses propres unités ont vu**, avec leur retard et leur flou. |
 | **Il y répond** | Après un délai d'état-major (45 secondes au niveau difficile, 90 au niveau moyen) : tes chars font venir des escouades antichars et des chars au lieu de véhicules de combat d'infanterie, tes hélicoptères des missiles sol-air et des hélicoptères escortés, tes avions de la défense antiaérienne, ton infanterie en masse des fusiliers. |
-| **Contre-batterie** | Seulement sur une pièce d'artillerie **qu'il a vue**. |
+| **Contre-batterie** | Sur une pièce d'artillerie **qu'il a vue** et, depuis la 5.4, sur une batterie qui tire, localisée par son radar de contre-batterie ou au son, comme toi. |
 | **Tir concentré** | Deux à quatre de ses blindés à l'arrêt tirent ensemble sur l'ennemi le plus dangereux qu'ils voient. |
 | **Il replie ses blindés abîmés** | Un véhicule de ligne tombé à 30 % sous la pression recule de 600 m vers un couvert, et un autre prend sa place. |
 | **Il ne contre-attaque que si ça peut marcher** | Ses forces doivent valoir au moins 0,8 fois l'ennemi qu'il connaît ; sinon, il tient une ligne d'arrêt 1 km en arrière. |
@@ -866,6 +951,15 @@ Les deux commandants, ennemi et allié, ont maintenant un état-major derrière 
 | **Observateurs cachés** | Ils ne tirent jamais : ils guident une frappe, un avion ou un hélicoptère, qui rentre ensuite à la base. |
 
 Chaque fonction a son propre filet de sécurité : si elle échoue quelques fois, elle s'arrête pour le reste de la bataille et le commandant continue comme avant. Aucune portée n'est touchée, et rien n'apparaît à l'écran.
+
+<a id="ai-54"></a>
+
+### Depuis la 5.4 : la défense d'abord
+- **Une vraie ligne de défense d'abord**, avec sa défense antiaérienne et une réserve, avant toute attaque.
+- **La reconnaissance avant l'attaque.**
+- **Il retient ses pertes** et **ne fonce plus au même endroit**.
+- **La contre-batterie, comme toi** : il riposte à ton artillerie qui tire, au radar ou au son.
+- Toujours sans aucun avantage caché.
 
 ### Dans Front Logistique : un front, pas une ruée
 
@@ -914,6 +1008,11 @@ Depuis la 5.3, la probabilité se fixe **missile par missile** : un missile mode
 - **Deux interrupteurs sur chaque unité de défense antiaérienne** (depuis la 5.3), dans le panneau d'ordres en bas à droite : un interrupteur **antimissile** (oui ou non) contre les missiles air-sol, pour les systèmes conçus pour ça (Tor, Pantsir, Patriot...), et **Anti-roquettes/bombes** contre les roquettes lourdes et les bombes guidées.
 - **Les bombes planantes** (UMPK, JSOW, SDB...) sont abattues surtout au canon : le 30 mm du Pantsir et du Tunguska, le 35 mm du Gepard, le Skyranger. Les obus ne sont jamais interceptés.
 - **Radars automatiques** : les systèmes à radar fixe allument leur radar d'eux-mêmes cinq secondes après s'être arrêtés. Les missiles infrarouges tirent sans radar.
+
+### Vol bas et vol haut
+- **Vol haut** (depuis la 5.4) : les hélicoptères volent beaucoup plus haut qu'avant, les avions un peu plus haut, et la défense antiaérienne les atteint jusqu'à son **vrai plafond**.
+- **Vol bas** : les hélicoptères y tirent de nouveau normalement.
+- **Vraie vitesse** : un hélicoptère vole à sa vraie vitesse, presque aussi vite en vol bas qu'en vol haut.
 
 ### Frappe
 - **Des bombes planantes à leur vraie distance de largage**, de 50 à 100 km, larguées avec l'ordre de frappe de précision : JSOW, SDB II, PBK-500U, kits UMPK. La défense antiaérienne peut les abattre, ses canons avant tout.
@@ -971,7 +1070,8 @@ Les charges sont rechargées par les camions de ravitaillement (60 s et 100 poin
 - **Vraies munitions et vraie capacité d'emport de l'artillerie** : 50 coups pour le Msta-S, 70 pour le Koalitsiya, 60 pour le PzH 2000. Obus guidés (Krasnopol-M, Kitolov-2M, Excalibur, Vulcano, M795 PGK), SMArt 155, roquettes à sous-munitions et thermobariques, GMLRS, ATACMS.
 - **Vrais temps de pointage** : 30 à 60 s pour un PzH 2000 ou un Paladin, jusqu'à trois minutes pour les vieilles pièces tractées, 30 à 120 s pour les mortiers.
 - **Des portées minimales adaptées à la carte** : obusiers lourds 1,8 km, Grad 1 km, Smerch 2,5 km.
-- **L'artillerie automatique avec une priorité** (depuis la 5.3) : **Priorité arti. et DCA** (contre-batterie et défense antiaérienne d'abord) ou **Priorité infanterie**, puis le reste. Le bouton ne désélectionne plus l'unité.
+- **Deux modes pour l'artillerie** (depuis la 5.4, à la place du feu à volonté et de ses priorités) : **Tirer sur les repérés**, sur tout ce que ton camp a repéré, ou **Contre-batterie** : l'artillerie ennemie repérée, sinon la batterie qui tire, localisée par un radar de contre-batterie de ton camp (précis) ou au son (approximatif et plus lent). L'IA fait pareil.
+- **De vrais radars de contre-batterie** : 1L219M Zoopark-1 (Russie), AN/TPQ-50 et AN/TPQ-53 (USA), COBRA (Allemagne, Ukraine), WLR-100 Liwiec (Pologne).
 - **Chars corrigés dans la 5.3** : les canons des T-80BVM, T-72B3 obr. 2022 et T-72M1 copiés ; le canon des Leopard 2A4 et 2A6 ; des obus d'époque pour le M60A1 et le Leopard 1A5.
 - **Des prix selon la vraie valeur au combat**, refaits dans la 5.3 : T-72B3 180, T-90M 330 et 6 par carte, Abrams SEP v3 355, **T-14 Armata 560**, toujours le meilleur char du jeu, Grad 150 et 6 par carte.
 
@@ -981,7 +1081,7 @@ Les charges sont rechargées par les camions de ravitaillement (60 s et 100 poin
 - **Vraie accélération** : chaque véhicule terrestre accélère selon sa **vraie puissance pour son vrai poids**, là où le jeu leur donnait à tous les mêmes 10 m/s². T-14 1,42 m/s², T-80U 1,41, Abrams 1,21, Leopard 2A8 1,16, T-72B 0,98, BMD-4M 1,93, Humvee 2,25, porteurs lourds 0,59. Un char met environ 7 secondes pour atteindre 30 km/h.
 - **Vrai freinage** à 0,5 g : un char lancé à pleine vitesse s'arrête en 35 m environ.
 - **En tout-terrain, au minimum** : les camions de transport gardent 85 % de leur vitesse sur route, les véhicules légers 75 %, les blindés à roues 60 %, les véhicules chenillés 50 %.
-- **Pentes** : en montée, chaque véhicule terrestre ralentit selon sa vraie puissance pour son poids, avec un étalonnage sur les chiffres publiés du M1A1 Abrams. En tout-terrain, un Abrams passe de 48 à 27 km/h sur une pente de 10 % ; le T-72B3 et le T-14 à peu près autant ; un camion chargé ralentit davantage ; un Humvee presque pas. En descente, il gagne jusqu'à 10 %, jamais au-delà de sa vitesse maximale sur route. Sur une pente plus raide que ce que le vrai véhicule peut gravir (60 % pour les chenilles et les roues, 50 % pour les camions, 40 % pour les lanceurs lourds sur camion), il continue au pas, sans jamais rester bloqué. Sur terrain plat, sur les ponts et dans l'eau, rien ne change.
+- **Pentes** : en montée, chaque véhicule terrestre ralentit selon sa vraie puissance pour son poids, avec un étalonnage sur les chiffres publiés du M1A1 Abrams. En tout-terrain, un Abrams passe de 48 à 27 km/h sur une pente de 10 % ; le T-72B3 et le T-14 à peu près autant ; un camion chargé ralentit davantage ; un Humvee presque pas. En descente, il gagne jusqu'à 10 %, jamais au-delà de sa vitesse maximale sur route. Sur une pente plus raide que ce que le vrai véhicule peut gravir (60 % pour les chenilles et les roues, 50 % pour les camions, 40 % pour les lanceurs lourds sur camion), il continue au pas, sans jamais rester bloqué. Sur terrain plat, sur les ponts et dans l'eau, rien ne change. Depuis la 5.4, un véhicule ne ralentit en côte que lorsque sa puissance ne tient plus sa vitesse : un camion garde presque toute sa vitesse sur une côte de 3 %.
 - **Les vitesses maximales sont les vraies**, et le T-14 reste le char le plus rapide (80 km/h) avec la meilleure accélération, à égalité avec le K2.
 
 <a id="damage"></a>
@@ -1024,9 +1124,30 @@ Les dégâts s'affichent avec les icônes du jeu lui-même sur l'étiquette de l
 - **De vrais combats de ville** (depuis la 5.3) : l'infanterie dans un bâtiment est dure à déloger aux armes légères ; les explosifs, les armes thermobariques, l'artillerie et les canons de char restent efficaces. Un char ne repère pas l'infanterie dans un bâtiment, sauf de très près ou quand elle vient de tirer : il lui faut de l'infanterie devant lui. Un tir depuis un étage ne touche son toit que sous le bon angle.
 - **Camions de ravitaillement** : un camion de ravitaillement à l'arrêt ravitaille les unités autour de lui depuis sa propre charge, sans décharger.
 - **Des grenades fumigènes pour chaque escouade de combat** et un **sprint d'environ 300 m**.
-- **L'infanterie se retranche** quand elle tient une position et progresse à un vrai rythme de combat. Le couvert dépend de l'endroit où elle se trouve : bâtiments, forêt, buissons ou terrain découvert.
-- **Camouflage** : une unité terrestre qui reste immobile dans une forêt sans tirer devient camouflée au bout de 30 s (infanterie) ou 60 s (véhicules), et le perd dès qu'elle bouge ou tire.
+- **L'infanterie se retranche** quand elle tient une position et progresse à un vrai rythme de combat. Le couvert dépend de l'endroit où elle se trouve : bâtiments, forêt, buissons ou terrain découvert. Depuis la 5.4, elle s'enterre par échelons : [voir Retranchement](#entrench).
+- **Camouflage** : une unité terrestre qui reste immobile dans une forêt sans tirer devient camouflée au bout de 30 s (infanterie) ou 60 s (véhicules), et le perd dès qu'elle bouge ou tire. Depuis la 5.4, les forces spéciales et la reconnaissance se camouflent plus vite.
 - **Des bâtiments selon leur type**, la protection des hommes à l'intérieur diminuant à mesure que le bâtiment est endommagé.
+
+<a id="entrench"></a>
+
+### Retranchement
+- **Depuis la 5.4**, l'infanterie qui reste en place s'enterre par échelons : **Échelon 1**, **Échelon 2**, **Échelon 3**, puis **Couvert**, un abri couvert près d'un point de ravitaillement. L'étiquette ne s'affiche que sur **tes** escouades, jamais sur celles de l'ennemi.
+- Chaque échelon protège mieux contre les balles, le tir direct et l'artillerie.
+- **L'artillerie la cloue au sol** : un obus sur une escouade retranchée la stresse davantage. Les **thermobariques, le napalm, les bombes lourdes et les missiles** gardent toute leur force.
+- **Un assaut ennemi à moins de 50 m** réduit sa protection.
+- **Coupée du ravitaillement** (ni camion, ni dépôt, ni cercle de ravitaillement ami à proximité) pendant 10 minutes, elle ne creuse plus et perd un échelon toutes les 5 minutes.
+- Les valeurs diffèrent en **Réaliste** et en **Semi-réaliste**, et le retranchement est le même pour tous en coop.
+
+### Troupes d'élite
+- **Depuis la 5.4**, les **forces spéciales et la reconnaissance** ont une marche un peu plus rapide (+5 % en Réaliste, +10 % en Semi-réaliste), un sprint plus long et une récupération plus rapide, un camouflage plus rapide à l'arrêt en forêt et une visée plus rapide.
+- **Un tir plus serré** pour elles et pour les troupes d'assaut : parachutistes et infanterie de marine.
+- **Des prix revus** de +5 à +10 %. La panique ne change pas.
+
+### Ordres de mouvement
+- **Depuis la 5.4** : **clic droit** = par la route ; **double clic droit** = à travers champs.
+- **Touche B** : retour à la base par la route. La zone de retour des bases est agrandie.
+- **Les camions de transport et de ravitaillement non armés rentrent seuls à la base**, par la route, dès qu'ils sont vides, comme les hélicoptères de transport.
+- Toujours actifs, sans réglage.
 
 ### Explosions et son
 - **Un véhicule détruit explose avec les munitions qu'il porte encore** : un Pantsir plein, environ 187 kg de charge ; un Smerch plein, environ 1 410 kg. Boule de feu, une à seize explosions secondaires, fumée noire. Les camions et les dépôts de ravitaillement explosent selon leur stock, et les aéronefs proches sont pris dans le souffle.
@@ -1057,9 +1178,10 @@ Un à trois échos à la vraie vitesse du son et une réverbération extérieure
 ## 🌊 Eau, ponts et cartes vivantes
 
 ### Eau
-- **Les gués arrêtent tout véhicule qui ne sait pas nager**, sur chaque carte, dans chaque taille et dans chaque mode : scénarios, escarmouche, Front Logistique et campagne, en solo comme en coop. Les chars et les camions prennent les **ponts** ; les véhicules amphibies traversent à la nage par les eaux profondes.
-- **L'infanterie ne passe pas les gués non plus** : la navigation du jeu n'a aucun moyen de fermer un gué aux seuls véhicules.
-- **Aucune mission n'est cassée pour autant** : une terre de 0,5 km² ou plus n'est jamais coupée du reste. Là où un gué est le seul passage, le plus court reste ouvert, un couloir d'environ 75 m de large. Les petits îlots restent hors d'atteinte, sauf pour les véhicules amphibies.
+- **Les véhicules qui ne savent pas nager n'entrent pas dans l'eau** (depuis la 5.4), sur chaque carte, dans chaque taille et dans chaque mode : scénarios, escarmouche, Front Logistique et campagne, en solo comme en coop. Les chars et les camions prennent les **ponts** ; s'il n'y a aucun chemin, ils s'arrêtent au bord. Les véhicules amphibies traversent à la nage, à leur **vraie vitesse**.
+- **L'infanterie traverse les gués** (depuis la 5.4), à pied ; jamais l'eau profonde.
+- **L'IA suit la même règle** : un ordre qui enverrait l'un de ses véhicules non amphibies dans l'eau le ramène au bord.
+- **Aucune mission n'est cassée pour autant** : sur la carte d'origine (campagne, scénarios, taille Vanilla), une terre de 0,5 km² ou plus n'est jamais coupée du reste, et là où un gué est le seul passage, le plus court reste ouvert, un couloir d'environ 75 m de large. Sur les cartes agrandies, il n'y a plus de couloir. Les petits îlots restent hors d'atteinte, sauf pour les véhicules amphibies.
 - **Un véhicule dans l'eau est touché comme sur la terre ferme.** Le jeu faisait viser les missiles, les roquettes et les obus en tir direct au centre du véhicule, qui se trouve sous la surface quand le véhicule est dans l'eau : ils frappaient donc l'eau devant lui. Le mod place ce point de visée juste au-dessus de la surface.
 
 ### Ponts
@@ -1070,6 +1192,7 @@ Un à trois échos à la vraie vitesse du son et une réverbération extérieure
 - **Voies ferrées** : chaque tronçon de voie suit la ligne étirée et est découpé en morceaux de longueur réelle, pour que les traverses gardent leur espacement et que les joints restent fermés. Les pylônes, les lignes électriques et les wagons tournent avec la voie, et un train tourne d'un seul bloc.
 - **Ports** : chaque navire tourne avec son quai et garde sa distance et son angle d'origine par rapport à lui, avec ses pontons et ses passerelles.
 - **Villes et villages** : de nouvelles maisons le long des routes, là où la carte étirée laissait des trous, chacune face à la route avec une cour clôturée et une bande de stationnement, uniquement sur un terrain plat et dégagé, jamais sur une route, dans l'eau, dans une forêt ou sur une forte pente. Les grands terrains bétonnés vides reçoivent des bâtiments de leur quartier et des ensembles tout prêts : dépôts, entrepôts, parkings et chantiers. Les champs restent des champs.
+- **Plus propres depuis la 5.4** : plus de camions dans les arbres, des véhicules sur de vraies places, plus de maisons sur les parkings, le béton ou les voies ferrées.
 - **La même carte pour tout le monde** : chaque PC construit exactement la même carte pour la même taille, sans aucun hasard. La taille Vanilla n'est jamais touchée.
 
 <div align="right"><a href="#top">retour en haut</a></div>
@@ -1084,6 +1207,7 @@ Un à trois échos à la vraie vitesse du son et une réverbération extérieure
 - **Les hauteurs sont mesurées, pas devinées** : le mod lit la carte des hauteurs du jeu lui-même, trois mètres par pixel. Les arbres font 25 m, les toits sont le vrai toit de chaque bâtiment, et un bâtiment rasé ne cache plus la rue derrière lui.
 - **Les broussailles et les haies de 2 m** cachent ce qui est près d'elles, pas tout le champ : elles ne bloquent que les 60 premiers et les 60 derniers mètres d'une ligne de vue, et jamais autour d'un véhicule.
 - **Les MANPADS et les missiles antichars obéissent à la même carte** : un Stinger a besoin de sa propre ligne dégagée jusqu'à l'hélicoptère, et un tireur de Kornet ou de TOW doit garder le réticule sur la cible pendant tout le vol.
+- **Une forêt épaisse coupe le tir direct et les missiles guidés par le tireur** (depuis la 5.4). Seules les munitions à **laser semi-actif** (Krasnopol, Hellfire, bombes laser...) peuvent se servir du désignateur d'un allié.
 - **Un ennemi non identifié reste un contact générique** jusqu'à ce que tu sois assez près pour le reconnaître, ou jusqu'à ce qu'il ouvre le feu.
 - **Les icônes des unités restent visibles quand tu dézoomes**, même tout au bout des grandes cartes. Le brouillard de guerre ne change pas : un ennemi que tu n'as pas repéré reste caché.
 
@@ -1104,7 +1228,7 @@ Un à trois échos à la vraie vitesse du son et une réverbération extérieure
 - **Recommencer la mission** fonctionne.
 - **Le commandant du mod n'amène que ce que tu peux déployer** : ni hélicoptères, ni avions, ni unités terrestres dans son camp quand le tien n'a pas de point d'apparition pour eux. [Plus de détails sur le commandant.](#ai-53)
 - **La toute première mission américaine**, le tutoriel, se joue volontairement sans le mod, avec la musique du jeu lui-même. Le mod se réactive à la mission suivante.
-- **Les gués sont fermés aux véhicules non amphibies ici aussi**, sans casser aucune mission : une terre de 0,5 km² ou plus n'est jamais coupée du reste, et là où un gué est le seul passage, le plus court reste ouvert.
+- **Les gués sont fermés aux véhicules non amphibies ici aussi**, sans casser aucune mission : une terre de 0,5 km² ou plus n'est jamais coupée du reste, et là où un gué est le seul passage, le plus court reste ouvert. L'infanterie, elle, traverse les gués (depuis la 5.4).
 - **La musique du mod continue dans les missions**, et la musique propre à une mission garde toujours la priorité.
 
 <div align="right"><a href="#top">retour en haut</a></div>
@@ -1151,13 +1275,13 @@ Vrais calibres, pénétration, dispersion et balistique avec la vraie gravité ;
 | Escarmouche seul contre le commandant | ✅ Créer une escarmouche > Privé : jouer seul |
 | Retour dans une bataille après un plantage | ✅ Trouver un salon > Revenir dans la partie |
 | Serveurs officiels : salons, recherche rapide, classé, reconnexion | ⛔ Jamais utilisés : masqués du menu et fermés par le mod |
-| Une partie lancée avec l'anti-triche | ⛔ Le mod ferme le jeu |
+| Une partie lancée avec EasyAntiCheat | ⛔ Le mod ferme le jeu |
 
 > [!NOTE]
-> **Chaque partie entre joueurs passe par Steam.** Le salon est un salon Steam, la bataille se joue en pair à pair par le relais Steam de Valve, et le PC de l'hôte sert de serveur. Seules les copies Steam légitimes avec un fichier du mod intact et scellé peuvent jouer, et tout le monde doit avoir exactement le même fichier du mod : un salon d'une autre version affiche **Mauvaise version**.
+> **Chaque partie entre joueurs passe par Steam.** Le salon est un salon Steam, la bataille se joue en pair à pair par le relais Steam de Valve, et le PC de l'hôte sert de serveur : ton adresse IP n'est jamais partagée. Seules les copies Steam légitimes avec un fichier du mod intact et scellé peuvent jouer, et tout le monde doit avoir exactement le même fichier du mod : un salon d'une autre version affiche **Mauvaise version**. La 5.4 est la version minimale pour jouer ensemble.
 
 > [!CAUTION]
-> **Lance toujours le jeu depuis Steam avec l'option de lancement « Anti-Cheat Disabled ».** Si l'anti-triche tourne, le mod affiche un message et ferme le jeu avant que quoi que ce soit ne se charge. Rien d'autre ne se passe : relance-le avec la bonne option.
+> **Lance toujours le jeu depuis Steam avec l'option de lancement « Anti-Cheat Disabled ».** Si EasyAntiCheat tourne, le mod affiche un message et ferme le jeu avant que quoi que ce soit ne se charge. Rien d'autre ne se passe : relance-le avec la bonne option.
 
 > [!WARNING]
 > **Les serveurs officiels sont un risque avec un mod.** Le jeu détecte un client modifié et peut bannir le compte automatiquement : c'est arrivé à l'auteur, pour sept jours, en escarmouche. C'est pourquoi le mod ne les utilise jamais : chaque porte officielle est masquée du menu et fermée dans le code. **Ne joue pas avec le mod sur les serveurs officiels.** Pour y jouer, retire d'abord le mod et MelonLoader.
@@ -1170,7 +1294,7 @@ Vrais calibres, pénétration, dispersion et balistique avec la vraie gravité ;
 
 ## 📦 Télécharger et installer
 
-**Configuration requise :** Broken Arrow 1.2.0.3 sur Steam (une copie légitime : les salons du mod la vérifient), Windows. Les DLC sont facultatifs. MelonLoader 0.7.3 est inclus dans le téléchargement ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), guide sur [melonwiki.xyz](https://melonwiki.xyz/)). Une version **LITE** existe aussi : le mod seul, sans MelonLoader, pour les joueurs qui ont déjà MelonLoader 0.7.3 installé.
+**Configuration requise :** Broken Arrow 1.2.0.3 sur Steam (une copie légitime : les salons du mod la vérifient), Windows. Les DLC sont facultatifs. MelonLoader 0.7.3 est inclus dans le téléchargement ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), guide sur [melonwiki.xyz](https://melonwiki.xyz/)). Une version **LITE** existe aussi : le mod seul, sans MelonLoader, pour les joueurs qui ont déjà MelonLoader 0.7.3 installé. Elle se télécharge sur [Nexus Mods](https://www.nexusmods.com/brokenarrow/mods/7).
 
 ### Installation
 
@@ -1180,13 +1304,16 @@ Vrais calibres, pénétration, dispersion et balistique avec la vraie gravité ;
 4. Lance le jeu depuis Steam avec **Anti-Cheat Disabled**. Le premier lancement prend un peu plus de temps, le temps que MelonLoader se prépare, et une fenêtre de console s'ouvre : c'est normal.
 5. L'**écran d'accueil du mod** apparaît dans le menu principal, et un onglet **Mod** dans la fenêtre Options. Dans l'Arsenal, crée un deck : choisis OTAN ou OTSC, puis ton pays.
 
+> [!CAUTION]
+> **Avec le mod, ne lance jamais le jeu par l'entrée EasyAntiCheat** : choisis toujours **Anti-Cheat Disabled**. **Et ne va jamais sur les serveurs officiels avec le mod** : le studio peut bannir ton compte. Pour y jouer, retire d'abord le mod et MelonLoader.
+
 > [!IMPORTANT]
 > **Ne modifie pas le fichier du mod.** `BrokenArrowRealismOverhaul.dll` est scellé : une copie modifiée est refusée dans toute partie entre joueurs. Installe-le toujours exactement tel qu'il sort du téléchargement.
 
 <a id="update"></a>
 
 ### Mettre à jour depuis une ancienne version
-Télécharge la nouvelle archive avec le bouton **DOWNLOAD** en haut de cette page, copie les nouveaux fichiers par-dessus les anciens (le dossier `UserData` apporte le thème Intro), puis ouvre tes decks et vérifie-les. Pour jouer ensemble, tes amis et toi devez avoir exactement la même version : sinon, la liste des salons affiche **Mauvaise version**.
+Télécharge la nouvelle archive avec le bouton **DOWNLOAD** en haut de cette page, copie les nouveaux fichiers par-dessus les anciens (le dossier `UserData` apporte le thème Intro), puis ouvre tes decks et vérifie-les. Pour jouer ensemble, tes amis et toi devez avoir exactement la même version, la 5.4 au minimum : sinon, la liste des salons affiche **Mauvaise version**.
 
 ### Désinstaller
 Supprime `Mods\BrokenArrowRealismOverhaul.dll` et les dossiers `UserData\RealismOverhaul...`. Pour retirer aussi MelonLoader, supprime `version.dll` et le dossier `MelonLoader`. Les divisions d'origine du jeu et son menu reviennent, exactement comme avant.
@@ -1207,13 +1334,12 @@ Incompatible avec les autres mods qui réécrivent les statistiques des unités.
 
 ## 🛠️ Réglages
 
-Tout le mod est toujours actif, sauf les quelques éléments que tu peux modifier, affichés en anglais, français, russe, allemand ou chinois (le mod suit la langue de ton jeu). Depuis la 5.2, ils se trouvent à deux endroits : **Échap > Options > Mod** pour ce qui t'appartient, et la **préparation de la partie** pour ce qui appartient à la bataille.
+Tout le mod est toujours actif, sauf les quelques éléments que tu peux modifier, affichés en anglais, français, russe, allemand ou chinois (le mod suit la langue de ton jeu). Depuis la 5.2, ils se trouvent à deux endroits : **Échap > Options > Mod** pour ce qui t'appartient, et la **préparation de la partie** pour ce qui appartient à la bataille. Depuis la 5.4, la caméra libre, les ordres de mouvement (clic droit, double clic droit, touche B) et le retour des camions de transport et de ravitaillement non armés une fois vides sont toujours actifs, sans réglage.
 
 | Réglage | Où | Choix |
 |---|---|---|
 | **Mode de réalisme** | Échap > Options > Mod | Réaliste ou Semi-réaliste (par défaut) ; en coop, c'est l'hôte qui décide |
 | **Épaves, morts, feux et cratères** | Échap > Options > Mod | Une seule ligne depuis la 5.3 : 5, 15, 30 ou 60 minutes ou **Infini** (30 par défaut) ; en coop, c'est l'hôte qui décide. Beaucoup de corps et d'incendies à la fois peuvent faire baisser le nombre d'images par seconde sur les petits PC |
-| **Triches** | Échap > Options > Mod | Facultatives, désactivées au départ, toutes au même endroit : seul l'hôte (ou un joueur solo) peut les utiliser ; invisibles pour les autres joueurs, elles se ferment quand un ami joue dans l'autre camp |
 | **Taille de la carte** | Jouer > Scénarios > **Plus de paramètres**, ou **Créer une escarmouche** | Vanilla, Moyenne ou Grande, avec les vrais kilomètres de chaque carte. La campagne garde toujours la taille d'origine du jeu |
 | **Météo** | Jouer > Scénarios > **Plus de paramètres**, ou la ligne **Réglages de la partie** de **Créer une escarmouche** | Automatique, Dégagé, Nuageux, Couvert, Pluie ou Brouillard ; la pluie, le ciel couvert et le brouillard réduisent la vue des deux camps |
 | **Commandant ennemi et allié** | Les lignes **ENNEMI** et **ALLIÉ** sous la carte, ou la ligne **Réglages de la partie** de **Créer une escarmouche** | Leur niveau, grisé quand le mode n'en a pas l'usage |
@@ -1234,8 +1360,7 @@ Dans une partie entre joueurs, **les réglages de l'hôte s'appliquent à tous**
 - **Les bombes sans ailes tombent toujours de façon balistique**. Depuis la 5.3, les avions bombardent depuis 1 200 à 1 500 m, donc la bombe tombe plus droit, mais elle quitte toujours l'avion bien avant la cible. Les kits planants sont de vraies armes de frappe à distance de sécurité depuis la 4.9.5, mais ils ne sont pas largués à basse altitude, et le commandant d'escarmouche ne donne pas l'ordre de frappe de précision.
 - **Pas de jeu sur les serveurs officiels.** Les salons et les batailles du jeu passent par ses serveurs officiels, et ceux-ci peuvent bannir un client modifié. Le mod se joue en solo et, à plusieurs, uniquement par ses propres salons Steam : coop dans Front Logistique et les scénarios JcE du jeu, escarmouche JcJ entre joueurs du mod.
 - **Que tout revienne après un plantage.** Depuis la 5.3, un joueur qui a planté ou fermé le jeu peut **revenir dans la bataille**, avec ses unités, leurs points de vie et son argent. Mais ce que chaque PC calcule de son côté pendant son absence (arbres abattus, cratères) n'est pas reconstruit, les épaves ne sont pas renvoyées, pour que leurs explosions ne se rejouent pas, et l'infanterie qui était à bord d'un véhicule réapparaît à côté de lui. Il n'y a pas non plus de mode spectateur.
-- **Attraper un tricheur qui falsifie le fichier du mod.** Le fichier scellé arrête un mod modifié à l'entrée et en bataille, mais un fichier falsifié exprès pour mentir sur lui-même ne peut pas être détecté sans un serveur de confiance, et le mod n'en utilise aucun. Joue avec des gens en qui tu as confiance ; l'hôte peut toujours exclure un joueur (F8).
-- **L'infanterie qui passe un gué.** La navigation du jeu ne sait pas fermer un gué aux seuls véhicules, donc l'infanterie reste elle aussi sur les rives et traverse par les ponts.
+- **Repérer un fichier du mod falsifié exprès.** Le fichier scellé arrête un mod modifié à l'entrée et en bataille, mais un fichier falsifié exprès pour mentir sur lui-même ne peut pas être détecté sans un serveur de confiance, et le mod n'en utilise aucun. Joue avec des gens en qui tu as confiance ; l'hôte peut toujours exclure un joueur (F8).
 - **Deux camps seulement.** Le jeu connaît le camp américain et le camp russe, donc les pays de l'OTAN affrontent toujours les pays de l'OTSC.
 - **Les pays dont le matériel principal n'est pas dans le jeu**, comme la France ou le Royaume-Uni, ne peuvent pas être créés. Quand un seul véhicule n'a pas de modèle 3D, un véhicule de la même catégorie le remplace, avec le vrai nom et les vraies stats.
 - **Les munitions rôdeuses** attendent la version du jeu. Les cartes d'équipes Lancet et Switchblade restent masquées d'ici là.
@@ -1269,12 +1394,13 @@ Les textes du jeu dans les cinq langues et les traductions de cette page ont ét
 
 | Version | Date | Points forts |
 |:-:|:-:|---|
-| **5.3** | Octobre 2026 | Une coop complète gérée par l'hôte : chat de bataille, unités des autres joueurs au bon endroit, minuteries, liste des joueurs, objectifs et SCORES, vote de reddition, argent pour chaque joueur, unités des scripts de scénario, la fin de la bataille pour tout le monde, la même bataille sur chaque PC. Des salons avec les deux camps, le choix du camp en JcJ et un compte à rebours 3-2-1 ; le retour dans une bataille après un plantage ; les amis Steam qui jouent au mod, avec Rejoindre ; des fichiers du mod scellés contre la triche ; les triches de l'hôte invisibles pour les autres ; un badge Propriétaire du mod. Une IA plus forte sans tricher : elle lit et répond, concentre son feu, replie ses blindés abîmés, attaque en tenaille, n'aligne jamais un type d'unité que tu ne peux pas déployer. La suppression en solo et en coop, les pièces endommagées des véhicules terrestres, la guerre électronique, les pentes, des mines partagées par tous les joueurs avec un cratère. Plus d'unités qui flottent sur les cartes agrandies, un début plus fluide. Les objectifs de campagne bloqués par des survivants cachés réparés. Des leurres qui partent d'eux-mêmes à l'alerte missile, selon le vrai équipement, de vraies chances missile par missile, de vraies modernisations sur chaque appareil ; 2 à 4 s entre deux missiles guidés tirés d'avion, le bombardement depuis 1 200 à 1 500 m ; les interrupteurs antimissile et Anti-roquettes/bombes sur la défense antiaérienne, les bombes planantes abattues au canon. Des passagers qui survivent selon l'arme, de vrais combats de ville. Un commandant qui dépense, se souvient, tend des embuscades, part en reconnaissance et guide des frappes avec des observateurs cachés, et un commandant de campagne réaliste. Chaque prix refait selon la vraie valeur au combat, une aviation moins chère, des recharges de missiles à leur vraie valeur, le revenu par joueur dans Front Logistique, l'argent de la campagne à 120 %, des canons de chars corrigés. Des priorités pour l'artillerie, un panneau d'ordres sans trous, une seule ligne de durée jusqu'à Infini, le ravitaillement depuis un camion à l'arrêt, les vrais SCORES en coop. |
+| **5.4** | Octobre 2026 | Une caméra libre de 6 m à 6 000 m. Le retranchement réaliste par échelons, des troupes d'élite plus rapides et plus précises, des forêts qui coupent le tir direct et les missiles guidés par le tireur. Des véhicules non amphibies qui restent hors de l'eau, des amphibies à leur vraie vitesse, l'infanterie qui passe les gués. Le clic droit par la route, le double clic droit à travers champs, la touche B, les camions de transport et de ravitaillement non armés qui rentrent seuls une fois vides. Des hélicoptères et des avions plus haut en vol haut, des hélicoptères en vol bas qui tirent de nouveau, à leur vraie vitesse. Deux modes d'artillerie, Tirer sur les repérés et Contre-batterie, au radar ou au son, et cinq vrais radars de contre-batterie. Une IA qui tient d'abord une ligne de défense. Du vrai matériel pour chaque pays, la Pologne et le Donbass complétés, des drones de reconnaissance pour la Biélorussie et le Donbass. Les armements et l'affichage corrigés, des grandes cartes plus propres, de vraies vitesses en côte, une vraie nuit plus sombre. La 5.4 minimale en ligne, les joueurs bannis refusés, uniquement les relais Steam. |
+| **5.3** | Octobre 2026 | Une coop complète gérée par l'hôte : chat de bataille, unités des autres joueurs au bon endroit, minuteries, liste des joueurs, objectifs et SCORES, vote de reddition, argent pour chaque joueur, unités des scripts de scénario, la fin de la bataille pour tout le monde, la même bataille sur chaque PC. Des salons avec les deux camps, le choix du camp en JcJ et un compte à rebours 3-2-1 ; le retour dans une bataille après un plantage ; les amis Steam qui jouent au mod, avec Rejoindre ; des fichiers du mod scellés ; un badge Propriétaire du mod. Une IA plus forte sans avantage caché : elle lit et répond, concentre son feu, replie ses blindés abîmés, attaque en tenaille, n'aligne jamais un type d'unité que tu ne peux pas déployer. La suppression en solo et en coop, les pièces endommagées des véhicules terrestres, la guerre électronique, les pentes, des mines partagées par tous les joueurs avec un cratère. Plus d'unités qui flottent sur les cartes agrandies, un début plus fluide. Les objectifs de campagne bloqués par des survivants cachés réparés. Des leurres qui partent d'eux-mêmes à l'alerte missile, selon le vrai équipement, de vraies chances missile par missile, de vraies modernisations sur chaque appareil ; 2 à 4 s entre deux missiles guidés tirés d'avion, le bombardement depuis 1 200 à 1 500 m ; les interrupteurs antimissile et Anti-roquettes/bombes sur la défense antiaérienne, les bombes planantes abattues au canon. Des passagers qui survivent selon l'arme, de vrais combats de ville. Un commandant qui dépense, se souvient, tend des embuscades, part en reconnaissance et guide des frappes avec des observateurs cachés, et un commandant de campagne réaliste. Chaque prix refait selon la vraie valeur au combat, une aviation moins chère, des recharges de missiles à leur vraie valeur, le revenu par joueur dans Front Logistique, l'argent de la campagne à 120 %, des canons de chars corrigés. Des priorités pour l'artillerie, un panneau d'ordres sans trous, une seule ligne de durée jusqu'à Infini, le ravitaillement depuis un camion à l'arrêt, les vrais SCORES en coop. |
 | **5.2** | 30 septembre 2026 | La coop réparée : les amis entrent vraiment dans la bataille, un joueur qui ne peut pas entrer ne bloque plus les autres, les réglages de l'hôte grisés chez les invités, la saisie dans toutes les langues. De vrais moteurs : accélération et freinage des véhicules terrestres selon leur vraie puissance et leur vrai poids, vraie poussée, vraie montée et vrai virage dans les airs, des vitesses minimales en tout-terrain par famille de véhicules. Un menu qui ne scintille plus, Jouer avec quatre vignettes côte à côte, la météo, la taille de carte et les commandants dans la préparation de la partie, la fenêtre Signaler un bug du mod, un compteur en ligne toutes les 25 secondes. |
 | **5.1** | Septembre 2026 | Front Logistique sur les 22 cartes en trois tailles (Vanilla, Moyenne, Grande jusqu'à 225 km²), des bases sur une route au bord de la carte avec un côté de départ tiré au sort, des aéronefs venus de l'extérieur de la carte, des dépôts en éventail, une coop à trois contre un avec 90 unités par camp. Les salons Steam propres au mod (liste, mot de passe, Prêt, discussion, ping, exclusion avec F8, une IA défensive pour un joueur qui décroche, copies légitimes uniquement) et son propre menu (écran d'accueil, Trouver un salon, Créer une escarmouche, JcJ entre joueurs du mod) ; aucun serveur officiel utilisé. Des gués fermés aux véhicules non amphibies partout, des missiles qui touchent les véhicules dans l'eau, le missile tiré par le canon du T-14 qui file droit, des icônes visibles en dézoomant. Les décors, les voies ferrées, les ports et les ponts des cartes agrandies rétablis, les terrains vides comblés. La musique en un seul cycle continu. |
 | **5.0** | Septembre 2026 | Gel corrigé (au plus cinq armes différentes par escouade). Front Logistique : introduction en survol caméra, plus de véhicule de commandement, bases au bord de la carte, côté de départ tiré au sort, avions venus de l'extérieur de la carte. Les missiles entendus à leur vraie distance. Le thème Intro et une musique qui continue en bataille. Sept corrections de stabilité. |
 | **4.9.9.1** | Septembre 2026 | De vrais cercles de souffle et de fragmentation pour chaque explosif, selon le type de cible ; des bâtiments rasés et des arbres abattus dans leur vrai rayon, une forêt abattue qui ouvre la ligne de vue ; des grosses explosions plus propres. Le blindage de chaque véhicule terrestre vérifié, les charges tandem ne battent que le blindage réactif léger. Les armes nucléaires du jeu remplacées par de vraies ogives sur de vrais porteurs, plus une arme de fin de partie par camp (Iskander-M, Pershing II). Les commandants en pause tant que tu ne peux pas déployer ; les zones interdites orange supprimées. Les réglages de taille de carte (Vanilla, 12 ou 15 km) et de météo. 50 000 points par catégorie. La carte MC-130H MOAB corrigée. |
-| **4.9.9** | Septembre 2026 | Choisis ton réalisme : Réaliste (exactement la 4.9.8) ou Semi-réaliste (+60 % de points de vie pour les véhicules terrestres, infanterie plus résistante), l'hôte décide en coop. Les véhicules détruits ne tuent plus leurs voisins blindés. Le vol bas caché des radars et des missiles radar, le vol haut vu par tous, la montée automatique pour tirer. Des ricochets visibles et les vraies proportions de traçantes. De vraies escouades d'infanterie dans chaque faction, des escouades de 20 hommes transportées par camion, des choix d'armes. Trois boutons par scénario : solo, la coop du mod sur 16 scénarios JcE, le salon officiel après un avertissement. Le mod est toujours actif ; les triches pour l'hôte uniquement. La fumée des explosions dimensionnée selon chaque charge réelle. Environ 75 nouvelles munitions réelles et un drone kamikaze par pays. |
+| **4.9.9** | Septembre 2026 | Choisis ton réalisme : Réaliste (exactement la 4.9.8) ou Semi-réaliste (+60 % de points de vie pour les véhicules terrestres, infanterie plus résistante), l'hôte décide en coop. Les véhicules détruits ne tuent plus leurs voisins blindés. Le vol bas caché des radars et des missiles radar, le vol haut vu par tous, la montée automatique pour tirer. Des ricochets visibles et les vraies proportions de traçantes. De vraies escouades d'infanterie dans chaque faction, des escouades de 20 hommes transportées par camion, des choix d'armes. Trois boutons par scénario : solo, la coop du mod sur 16 scénarios JcE, le salon officiel après un avertissement. Le mod est toujours actif. La fumée des explosions dimensionnée selon chaque charge réelle. Environ 75 nouvelles munitions réelles et un drone kamikaze par pays. |
 | **4.9.8** | Septembre 2026 | Tout comme en vrai, portées inchangées : le vrai blindage de chaque véhicule et de chaque amélioration sur chaque face, affiché en vrais millimètres, et un coup qui ne perce pas en réalité ne fait aucun dégât (le T-14 est le meilleur char) ; la vraie pénétration des mitrailleuses et des canons jusqu'à 57 mm ; la vraie cadence de tir de chaque arme, un projectile = un vrai coup ; les vraies vitesses des véhicules, des remplaçants, des balles, des roquettes, des mortiers et des missiles ; l'Allemagne reçoit 12 cartes d'infanterie de la Bundeswehr, l'Eurofighter et le Tornado. |
 | **4.9.7** | Septembre 2026 | Coop entre amis dans Front Logistique (test) : toi et jusqu'à 2 amis dans ton camp, en pair à pair via Steam, le même fichier du mod vérifié chez tous, les réglages de l'hôte pour tout le monde, les explosions, les mines et les drones du mod partagés par tous les joueurs. Les unités transportées périssent avec leur transport. Les équipes antichar gardent leur lanceur. Le choix APS du Stryker masqué. Les drones kamikazes à hélice croisent bas. Les canons automatiques sans radar limités à 1 500 m contre les hélicoptères. |
 | **4.9.6** | Septembre 2026 | Nations, l'OTAN contre l'OTSC : onze pays avec leurs drapeaux, des remplaçants sous leur vrai nom, des camions pour chaque escouade ; le matériel de la Bundeswehr et le matériel balte sortis de USA MODE pour rejoindre leurs propres pays. Front Logistique remplace Destruction sur la Base de Chkalovsk et Méandres (15 x 15 km), avec un seul ennemi, les hélicoptères après 10 minutes et les avions après 20 pour tout le monde, et un commandant qui tient un front en trois secteurs, met des garnisons sur les ponts et cache ses dépôts. Méandres avec son eau affichée, sans arbres dedans, et une rivière qu'on ne franchit que par les ponts, véhicules amphibies exceptés. Une minicarte qui garde le nord en haut. Un commandant avec des zones interdites et des convois routiers. Des leurres environ 3 s avant l'impact, des missiles leurrés qui ratent près de l'avion, le brouillage d'escorte. Le ravitaillement et les aéronefs pris dans les explosions. 17 types de bâtiments. 149 dotations en munitions corrigées. Des fumigènes pour chaque escouade de combat, un sprint de 300 m. Des incendies qui durent. Les serveurs officiels fermés par le mod. |
@@ -1287,7 +1413,7 @@ Les textes du jeu dans les cinq langues et les traductions de cette page ont ét
 
 | Version | Date | Points forts |
 |:-:|:-:|---|
-| **4.9.4** | 26 septembre 2026 | Destruction joué seul contre le commandant avec un plafond de 120 unités, la doctrine d'aéroport du commandant, les triches dans Destruction, cinq moteurs et trois charges militaires pour les drones kamikazes, les cartes Lancet et Switchblade masquées, les traînées jusqu'à l'impact, des performances améliorées. |
+| **4.9.4** | 26 septembre 2026 | Destruction joué seul contre le commandant avec un plafond de 120 unités, la doctrine d'aéroport du commandant, cinq moteurs et trois charges militaires pour les drones kamikazes, les cartes Lancet et Switchblade masquées, les traînées jusqu'à l'impact, des performances améliorées. |
 | **4.9.3** | 26 septembre 2026 | Le scénario Destruction sur une carte de 15 x 15 km, les vraies distances jusqu'à 100 km, chaque stat vérifiée une par une, les vraies charges de protection active, les vraies tailles d'équipes, le camouflage en forêt, trois nouvelles musiques. |
 | **4.9.1** | 25 septembre 2026 | Les decks du mod dans les salons, l'escarmouche hors ligne depuis l'onglet Scénarios. |
 | **4.9** | 25 septembre 2026 | Drones kamikazes, vrais profils de missiles, défense antiaérienne lourde qui abat les roquettes et les bombes guidées, radars automatiques, portées minimales de l'artillerie, tir en cloche des roquettes, mines du génie, vraies cadences en rafale, bâtiments plus solides, « Ne pas tirer » qui riposte, BMPT-72. |
@@ -1322,6 +1448,7 @@ Les textes du jeu dans les cinq langues et les traductions de cette page ont ét
 | **Discord** · [discord.gg/wrtMjUnard](https://discord.gg/wrtMjUnard) | Les nouveautés, les versions de test, les questions et les signalements de bugs, directement auprès de l'auteur (**Noichi** sur Discord). Chaque version y est annoncée en premier. |
 | **YouTube** · [@FrenchBaguette0609](https://www.youtube.com/@FrenchBaguette0609) | La chaîne de l'auteur. |
 | **GitHub** · [tassassinno74/Broken-Arrow-Mod-Realism-Overhaul](https://github.com/tassassinno74/Broken-Arrow-Mod-Realism-Overhaul) | Cette page en cinq langues, le lien de téléchargement, la licence, et les tickets pour signaler un bug. |
+| **Nexus Mods** · [nexusmods.com/brokenarrow/mods/7](https://www.nexusmods.com/brokenarrow/mods/7) | La version **LITE** : le mod seul, sans MelonLoader. |
 
 <div align="right"><a href="#top">retour en haut</a></div>
 
@@ -1345,6 +1472,6 @@ Les textes du jeu dans les cinq langues et les traductions de cette page ont ét
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Tous droits réservés.** Tu peux librement télécharger le mod et y jouer. Le republier où que ce soit (Steam, Steam Workshop, Nexus Mods, ModDB ou tout autre site), le redistribuer, réutiliser son code ou ses données, ou publier des versions modifiées sans l'autorisation écrite de l'auteur est interdit. Conditions complètes : [LICENSE](LICENSE). MelonLoader, inclus dans l'archive ALL-IN-ONE, conserve sa propre licence (Apache 2.0, fichier inclus).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.3-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.3"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.4-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.4"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
 
 <div align="right"><a href="#top">retour en haut</a></div>
