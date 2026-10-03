@@ -5,7 +5,7 @@
 <p align="center"><b>The campaign, the scenarios and the skirmish, fought the way the equipment was actually built to fight.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.5-2ea44f?style=for-the-badge" alt="Version 5.5">
+  <img src="https://img.shields.io/badge/version-5.6-2ea44f?style=for-the-badge" alt="Version 5.6">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.5-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 5.5"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.6-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 5.6"></a>
   <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"></a>
 </p>
@@ -34,6 +34,8 @@
 Broken Arrow gives you real vehicles, real weapons and real doctrine, and then lets a 152 mm howitzer drop a shell on the tank parked next to it, lets a machine gun swat an aircraft three kilometres up, and caps every missile at the 9 km edge of its old maps.
 
 This mod rewrites **more than 12,000 values** with real-world data, reads the game's own maps and mission scripts, prices every unit on what it can really do, gives every aircraft and every gun the loadouts its real counterpart carries, gives every weapon its published range up to 100 km, and puts a **second commander** on the other side of the map who reads what you field and answers it. You fight as a **nation**, one of eleven countries in two camps, NATO and CSTO. Every vehicle, weapon and round has its **real armour, speed and rate of fire**, every explosive its **real blast and fragmentation**, and you **choose your realism**: realistic or semi-realistic.
+
+**5.6 lets you choose the enemy's country and gives the AI the eyes of a player.** In every scenario, the skirmish and the campaign, you pick the country the commander fights for, and he bears the name of its head of state (for the United States, General Dan Caine). He sees exactly what the game shows his side, attacks across the bridges of the enlarged maps and fields far more infantry. Logistics Front becomes a **real supply war**: 2.5 points a minute for every tonne you stock, a tonne bought at 200, depots hidden in the forests. Every country gets **two kinds of engineers**, sappers who clear mines and construction engineers who fortify buildings; precision strikes finally land, surface-to-air missiles leave the right way, every missile hurts by its **real warhead** and the trees really fall. In every game between players, the host's PC refuses what an honest PC never sends and shows the host the impossible: no automatic kick, and nothing leaves the game ([rules and privacy](#rules)). A new **Create a game** screen sets up every game in one panel, a new lobby lets each player pick his own country and deck, your **decks are kept** at every update, and artillery stays **in battery** between fire missions. 5.6 is the minimum version to play together.
 
 **5.5 gives the enemy commander the eyes of his units, and nothing more.** He sees everything they see, plays like a human, with recon hidden in the forests, guns that move after every salvo and layered air defence, and adapts to your style, still with no hidden advantage. Infantry and vehicles now **fortify through five real levels**, engineers fortify a whole area, **snipers** reach their real practical range, and guided missiles, glide bombs and ballistic missiles fly their **real trajectories**. Helicopters can drop their infantry by **fast rope** without landing, and ammunition and missiles are reloaded by their **real weight**. The host picks the Logistics Front **unit cap**, from 90 to 150 per side, DLSS arrives in the graphics options, and 5.5 is the minimum version to play together.
 
@@ -77,10 +79,10 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 
 | The mod | The battlefield | Practical |
 |---|---|---|
-| [What's new in 5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [earlier](#earlier) | [Logistics Front](#logistics-front) | [Where it runs](#where-it-runs) |
+| [What's new in 5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [earlier](#earlier) | [Logistics Front](#logistics-front) | [Where it runs](#where-it-runs) |
 | [Roadmap](#roadmap) | [The 22 maps](#maps) | [Download and install](#install) |
 | [The mod's menu](#menu) | [The enemy commander](#commander) | [Update or uninstall](#update) |
-| [Steam lobbies: playing together](#lobbies) · [co-op](#coop) · [rejoin](#rejoin) | [Air war](#air-war) | [Settings](#settings) |
+| [Steam lobbies: playing together](#lobbies) · [co-op](#coop) · [rejoin](#rejoin) · [rules and privacy](#rules) | [Air war](#air-war) | [Settings](#settings) |
 | [Read this first: your deck](#deck) | [Ground war](#ground-war) | [What is not possible](#not-possible) |
 | [Nations: NATO vs CSTO](#nations) | [Water, bridges and living maps](#water) | [Known issues](#known-issues) |
 | [Campaign](#campaign) | [Line of sight](#line-of-sight) | [Release history](#history) |
@@ -88,9 +90,115 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 
 ---
 
+<a id="new-56"></a>
+
+## 🆕 What's new in 5.6: a new menu, the enemy's country, an AI with a player's eyes, a real supply war, two kinds of engineers
+
+> [!IMPORTANT]
+> **Replaces 5.5 (and any older version):** copy the new files over the old ones. No weapon range has changed, and **your decks are kept**: only a card that became invalid is fixed (see below). The default **RUSSIA** and **USA** decks are rewritten once to add the two engineer cards (the previous copy is kept in the `Decks\avant_5.6` folder). **5.6 is the minimum version to play together**: a player with an older version sees **Wrong version**.
+
+### 🏠 A new menu, a new lobby, decks that are kept
+- **Play** now holds three choices: **Campaign**, **Create a game** and **Find a lobby** (only lobbies in there).
+- **Create a game**: on the left, the list in four sections, all closed when it opens: **Multiplayer maps** (with their picture; the skirmish is now here), **Logistics Front**, **Official scenarios** and **Steam Workshop**. On the right, **one single panel**: the map's picture and description; the mode on multiplayer maps (**Co-op vs AI** or **Players vs players**); the size; **your side** (NATO or CSTO); your **country** and **battlegroup**; the **enemy commander**, his level and **one or several countries** (Donbass + Belarus + Kazakhstan: one commander who uses the cards of all three); an **AI ally** in solo only; the lobby **title** and **password**; the **time** and the **weather**; then **Play solo** or **Play multiplayer**.
+- **A new lobby screen**: each player picks **a country in his side** and **a deck of that country** (on the NATO side, one can take Germany, another the United States, another Ukraine). The player list, the game settings, the **Ready** button, and at the bottom a line to the mod's [Discord](https://discord.gg/wrtMjUnard) if something goes wrong.
+- **Your decks are kept at every update**: only a card that became invalid is fixed or removed. A loadout that no longer exists goes back to the default one, copies come back to the maximum, a transport that is no longer allowed becomes a truck. Same file, **one safety copy** (`Decks\avant_correction_auto`) and **one single message**. No more deck copies at every launch.
+- **The mod's music** follows the **Music** slider of the game's sound options (0 % = off).
+
+### 🌍 Choose the enemy's country
+- **In every scenario, Logistics Front map and multiplayer map**, the **Create a game** panel sets the enemy commander's **country, or several of them** (one commander who then uses the cards of all of them), and the **AI ally's country**; your own country comes with your battlegroup.
+- **In the campaign**, the mission screen lets you choose the country of the **2nd enemy commander**: NATO countries against the Russian campaign, CSTO countries against the American one. The units of the mission script do not change.
+- The commander then buys only from the divisions of the chosen countries (their stand-ins included, your DLCs respected). **Default** plays exactly as before. In a game between friends, the host chooses for everyone.
+- **The commander bears the name of the head of state of the chosen country, except for the United States**: there he is **General Dan Caine, Chairman of the Joint Chiefs of Staff**. No real president's name is used for the United States: the Nexus Mods rules forbid content about US politics. This is not my choice: I follow the site's rules to protect the mod and avoid being banned. If a Nexus moderator tells me privately that the real name is allowed, I will add it. Sorry to everyone who wanted it. No name is used in the campaign.
+
+### 🧠 An AI with a player's eyes
+- The enemy commander now sees **exactly what the game shows his side**: the fog of war the game computes for each of his units, at the true position, and nothing more. No more gunfire heard kilometres away without being seen, no more blurred position on a unit he sees. Only a unit he has lost sight of becomes uncertain, and he still decides after his staff delay.
+- **Forests work both ways**: a unit dug in deep in a forest that has fired in the last 30 seconds can be seen at its forest edge; silent, it stays hidden. Before, a dug-in unit could fire all game long without ever being seen or hit. The same rule applies to you and to the AI.
+- **Bridges on the enlarged maps**: the AI now finds them, holds them, scouts them and attacks across them. Before, a river stopped it for the whole game.
+- **More infantry** in Logistics Front: it keeps a real share of infantry, fills its transports (an anti-tank team plus riflemen), holds lines in the forests, sends heliborne infantry down by fast rope, and drops paratroopers from transport aircraft behind its lines when it runs short. The survivors of a destroyed transport get orders again.
+- **Its aircraft no longer throw themselves at your air defence**: they never climb to fire within reach of an air defence they know; in low flight they use their cannon and rockets.
+- **No more reinforcements in dribs and drabs**: a post lost again and again is reinforced in a group, then moved to another axis, then given up, and the most dangerous enemy it knows nearby becomes a target for its artillery.
+- **Engineers and supply**: it buys its first engineers from minute 5, its sappers mine the approaches and clear a lane where it lost a vehicle, and a **supply truck drives up** to its squads and static units when they run low. Its ammunition is limited, exactly like yours.
+- **One commander per side.** The enemy commander holds every enemy AI slot. On your side, **one AI ally at most, and only when you play alone** against the AI (never in a game between friends). The AI ally now has the same doctrine as the enemy (defence, artillery, breakthroughs, engineers, ripostes), except aircraft, mines and nuclear weapons, and an allied vehicle the enemy has spotted changes position.
+
+### 🚚 Logistics Front: a real supply war
+- **Your income is what you have stocked**: every minute, your side earns 2.5 points for every tonne set down in its depots (30 t = 75 a minute), in a straight line, up to **3,000 a minute for the side**, shared between its players. Before, the income stayed stuck at 190 however much you stocked.
+- **A tonne bought costs 200 points** in Logistics Front: buying supply to raise your income never pays back within a game. To grow, take and hold depots. The AI pays the same price and only buys a new convoy when its stock falls to half of its start.
+- **In every other mode, a tonne costs 25 points** (10 before): rearming has a real cost everywhere, campaign included (most of the campaign's supply comes from the mission script and stays free).
+
+### 🌲 Depots hidden in the forest
+- Infantry halted for 20 seconds **in the forest inside a depot's circle** carries its stock into **small caches of 2 t**, at least 25 m apart, spread through the whole wood (up to 96 t per depot): 200 kg per minute and per squad, twice as fast with engineers at the depot. Once 1 t or more is in the forest, the depot and its supply circle **move into the forest, once**, at the same size; trucks still deliver on the road.
+- A shell, a rocket or a bomb on a cache destroys **that cache only**, with a blast the size of its stock. The enemy only sees a cache if he spots one of your units within 60 m of it. The AI does the same: its depot guard takes post in the wood.
+- A depot's label now shows its **total, then its pile** (for example 2.3 t · pile 1.4 t), depots no longer creep a few metres north each time the mod refreshes them, and the **Fortified N** labels show on your own buildings, the others when the mouse is over them.
+
+### 👷 Two kinds of engineers, in every country
+- **Sappers** lay mines, **clear mines** and repair vehicles. **Construction engineers** never lay mines and never repair, but they carry the depot's stock into buildings themselves, and **only they fortify a building** (from inside it, or on foot in the depot's circle around it): without them, a garrison no longer digs in and no longer barricades itself with the depot's stock. Both fortify woods and bury depots, twice as fast.
+- **The game's engineer cards are back**, the same on both sides: an assault squad of 7 (65 points: Mech. Engineers, Ingenery-Shturmoviki with shields) and a rocket squad of 8 (85 points: Combat Engineers, Ingenery-Shturmoviki with thermobaric launchers), each with its country's real weapons, 6 per card.
+- **Every country** now has its two engineer cards: 14 new cards for Ukraine, Poland, Germany, Lithuania, Latvia, Estonia, Donbass, Belarus and Kazakhstan, with their own soldiers and weapons.
+- **Clear a mine lane**: a new sapper button. Draw a lane up to 150 m long and 16 m wide; the sappers search it every 10 m and lift every mine they find, friend or foe (45 s per mine). A lifted mine disappears for every player. The AI clears a lane where it lost a vehicle.
+- The default **RUSSIA** and **USA** decks now include both engineer cards.
+
+### 🎯 Strikes that land, missiles that leave the right way
+- **Precision strikes now land.** KAB, GBU guided bombs and the B61 were never released from the real flight height, because the game measured their range diagonally from 1,800 m up. Their range is now measured on the ground, guided bombs may be released in a dive, and an aircraft in low flight **climbs on its own** to release, then goes back down. No range has changed.
+- **Guns against bombs and missiles**: C-RAM, Phalanx, Pantsir, Tunguska, Derivatsiya and the other guns now have a real chance to shoot down a guided bomb, a glide bomb or an air-to-surface missile, no longer a certain kill. The real interception chance now applies in every game, between friends too.
+- **Surface-to-air missiles leave the right way**: real vertical launchers (Tor, S-300, S-400, S-350, IRIS-T SLM, CAMM, ESSM, SM-6) fire straight up, then turn; the Patriot fires at 38° towards the target; turreted launchers (Buk, Pantsir, Osa, Strela, Stinger, NASAMS...) always fire towards the target. When a hill, a forest or roofs mask the target, the missile climbs over them first.
+- **Missiles at their real warhead** (82 corrected): an Iskander-M (about 200 kg of TNT) kills infantry in the open out to about 58 m, a Kh-29 out to about 49 m. Penetrating warheads (JASSM, Storm Shadow, Taurus) burst inside with a small radius, thermobaric ones (Kornet-F, Hellfire N...) have a wider killing zone, shaped-charge anti-tank missiles do not change, and a missile with less than 50 kg of explosive that hits a tank goes through the game's penetration model.
+- **The real price of aircraft with their loadout**: a Tu-160 with 14 KAB-1500 costs 1,430 on its card, on its sheet and when you buy it (the sheet and the shop showed 310 until they corrected themselves).
+<!-- emports56 : bloc à retirer si les emports mixtes ne sont pas livrés dans la 5.6 -->
+- **Mixed bomber loadouts**, 8 new choices: Tu-160 with 6 Kh-101 + 6 Kh-555 or 7 KAB-1500 + 7 KAB-1500L-Pr; B-52H with 8 GBU-56, 8 GBU-54 or 8 AGM-158B JASSM-ER in the bomb bay, on top of what its pylons carry; B-1B with GBU-31(V)3 bunker busters + GBU-54; B-2 with 8 GBU-56 + 8 GBU-31(V)3.
+<!-- fin emports56 -->
+
+### 💥 Artillery
+- **Artillery in battery**: after a move of more than 25 m, a gun, mortar or rocket launcher goes through a real **emplacement** time, then **re-aims quickly** as long as it stays in place: Grad 3 min 30, then 60 s; Smerch, Tornado-S and Kama 3 min, then 30 s; TOS 90 s, then 30 s. A new order during the emplacement does not skip it. All the artillery, both sides and the AI.
+- **Fire at spotted units** and **Counter-battery** can now be on together: the gun answers enemy artillery as soon as it is located, and fires at spotted units the rest of the time.
+- A battery that fires is now also detected by the shells and rockets it launches, not only when its ammunition drops: rocket launchers that fire non-stop are heard and located too. Rocket and missile salvos are heard out to **20 km in Realistic and 25 km in Semi-realistic** (mortars and guns unchanged).
+
+### 🌳 Trees that really fall
+- Every explosion flattens **all the trees** within its real blast radius, with no dice roll: about 17 m for a Mk 82, 46 m for a FAB-1500, 62 m for a FAB-3000 and 89 m for a FAB-9000. The blast spreads from the centre, ring by ring, and no explosion is skipped any more.
+- **A destroyed vehicle explodes with only the real explosive still on board**: rounds left × their real charge. Propellant burns but no longer adds to the blast: a full Abrams went from about 200 kg to about 70 kg, and a T-72 hit in the forest no longer looks like a heavy bomb.
+- **Engineer circle**: an engineer who stays still for a minute gets a 150 m circle around him, wherever he is. Allies inside dig in twice as fast, a construction engineer fortifies the occupied buildings inside, and a depot his circle touches stores its stock twice as fast. Only his own side sees the circle.
+- **Depots**: the blue depot icon and its label disappear once all the stock is stored in buildings or in the forest; each building still shows its tonnes. When the enemy takes the zone and none of your units is left in it, he takes all its stock, buildings and forest included, like a normal supply point, and the Logistics Front income follows.
+- **Logistics Front AI**: the AI has the same economy as the players: its income only comes from its depots, and if they are destroyed it runs dry. It first sets up and secures its depots, holds a solid defensive line set back towards its base, and only attacks once its supply and its base are safe.
+- **Frontiers**: the fight now runs south to north, along the highway.
+- **On the enlarged maps, felled trees really disappear from the screen**: the game had linked only a handful of trees to their image. Felled forest still opens the line of sight.
+- **Direct fire fells a tree by its real trunk**: a 120 mm high-explosive shell at its foot fells any trunk, an armour-piercing dart fells a trunk of up to about 21 cm, and a 30 mm cannon needs at least 3 hits on the same tree.
+
+### 🩹 Soldiers, cards and armour
+- **Standing soldiers are treated** at a depot, a supply truck or the base: a squad's health comes back up to the men still standing. The dead and the seriously wounded never come back; the lightly wounded rejoin 5 minutes after reaching a post. The in-game help now says so.
+- **Armour-piercing shells** that only just penetrate now do full damage, and the AI's estimates and your aiming line follow the same rule.
+- **Cards start full** in every new game between friends: the game no longer thinks you are reconnecting to the previous game, and no longer puts your cards on cooldown at 00:00.
+
+### 🗺️ Enlarged maps
+- **Capture points** stay on their own village or crossroads, spread out like the map, with a radius of at least 200 m (Medium) or 250 m (Large); their circle, label and minimap icon are in the right place.
+- **Destroyed oil tanks** no longer appear under tanks fighting elsewhere: the game's destructible scenery now follows the enlarged map.
+- **Explosion flashes and ground marks** are seen from far away, by your draw distance: flashes up to 1.5, 3 or 5 km, marks up to 1.5, 2.5 or 4 km (Normal, Far, Very far).
+- **Dust** behind vehicles driving fast on bare earth and fields (never on roads, in the rain or on snow), seen only while your side sees the vehicle.
+- **Fewer traffic jams**: a blocked vehicle keeps right to pass a vehicle of its side, or one of the two backs up; units coming back to base stop 45 m short of the spawn point.
+- **Helicopters fly low by default**, yours and the AI's; the button still switches them to high flight.
+
+### 🛡️ A protected host and your privacy
+- **Each player only acts on his own units**: the host's PC refuses a player's message that would change who owns a unit, destroy or change another player's units, spawn AI units or hand out units like a scenario script, and brings a starting health above the maximum back to it.
+- **Abnormal network packets** are thrown away before they are read; a burst of messages waits for the next frame instead of freezing the host: nothing honest is lost.
+- **Clean chat**: no formatting tags, line breaks or invisible characters, and nobody can take the name of the host, of the mod's author or of another player.
+- **Checks on the host's PC**: impossible money, cards, damage, rate of fire, repairs or movement are shown to the host in the **Mod check** panel, and the host chooses **Kick** or **Ignore**. The mod never kicks anyone on its own. [What is checked, what is noted.](#rules)
+- **Privacy**: the account that lends you the game (Steam Family Sharing) is no longer published in the lobbies' data, and nothing the host notes leaves the game.
+
+### 🔧 Fixes between friends
+- A missile shot down by air defence, a CIWS or an active protection system now **explodes for every player**; before, it kept flying, hit its target, and filled the friends' logs with errors.
+- The weapon panel no longer breaks on some anti-tank teams, and the Geran-2 loads its warhead without an error.
+- **Unload on contact** no longer logs an error when a vehicle has just disappeared.
+
+### 🌐 Online
+- **5.6 is the minimum version to play together**: older versions see **Wrong version**.
+
+<div align="right"><a href="#top">back to top</a></div>
+
+---
+
 <a id="new-55"></a>
 
 ## 🆕 What's new in 5.5: an AI that plays like a human, real fortifications, real trajectories
+
+*Since 5.6: missiles hurt by their real warhead like the bombs, every explosion blows down all the trees within its blast radius, only construction engineers fortify a building, Logistics Front pays 2.5 points a minute per tonne stocked, and 5.6 is the minimum version to play together ([what's new in 5.6](#new-56)).*
 
 > [!IMPORTANT]
 > **Replaces 5.4 (and any older version):** copy the new files over the old ones. **5.5 is the minimum version to play together**: a player with an older version sees **Wrong version**.
@@ -231,7 +339,6 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 
 ### 🌐 Online
 - **5.4 is the minimum version to play together**: older versions see **Wrong version**.
-- **Players banned by the mod owner are refused**: the list is signed and distributed through Steam. Every mod player sees a short anonymous notice with the reason and the duration, never the name.
 - **Games go through Steam relays only**: your IP address is never shared.
 - The mod uses the game's Steam lobbies for co-op and multiplayer: the mod version and the activity (menu, lobby, game) of every mod player are visible to other mod players. [The lobbies.](#lobbies)
 
@@ -753,6 +860,7 @@ What comes next, in order. Each step is released when it has been tested, not be
 | ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.3** | Complete co-op run by the host, both sides and a countdown in the lobby, rejoin after a crash, sealed mod files, a stronger AI, suppression, localized damage, electronic warfare, slopes, decoys at the missile warning, real city fighting, every price rebuilt. |
 | ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.4** | The free camera, digging in by stages, elite troops, forests that block fire, water closed to vehicles but not to infantry, right-click by road, counter-battery by radar or by sound, an AI that defends first, more equipment for small armies, 5.4 as the minimum online. |
 | ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.5** | An AI that sees what its units see and plays like a human, five levels of fortification for infantry and vehicles, engineers who fortify an area, snipers at their real range, real trajectories, ammunition that explodes by its real stowage, GPS jamming, wounded and recovered pilots, a unit cap chosen by the host, fast rope from helicopters, resupply by real weight, DLSS and draw distance, 5.5 as the minimum online. |
+| ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.6** | The enemy's country chosen everywhere and named after its head of state, an AI that sees what the game shows its side and attacks across the bridges, a real supply war in Logistics Front, depots hidden in the forests, two kinds of engineers in every country with mine clearing, precision strikes that land, surface-to-air missiles that leave the right way, both artillery modes together, missiles at their real warhead, trees that really fall, a protected host with fair checks, 5.6 as the minimum online. |
 | ![next](https://img.shields.io/badge/-next-1f6feb?style=flat-square) | **The official scenarios, one by one** | Each official scenario reworked in turn: a choice of map size, **one enemy only, the mod's commander**, and more depth. |
 | ![later](https://img.shields.io/badge/-later-8957e5?style=flat-square) | **A commander for the campaign** | The mod's commander in the campaign missions, with the mission script left untouched. |
 | ![goal](https://img.shields.io/badge/-goal-bf8700?style=flat-square) | **7.0** | The campaign and the scenarios joined into **one long campaign with three possible endings**. |
@@ -772,14 +880,13 @@ The mod gives the game a menu of its own: clean, in your language, with nothing 
 - **Hidden**: the official lobby list, the game's online counter, the ranked profile, the network status bar, the store and DLC carousels, and the official campaign banner. They are made invisible, never deleted, and the game's own account sign-in is left alone.
 
 ### Play
-Four cards, side by side:
+Three cards, side by side:
 
 | Card | What it opens |
 |---|---|
 | **Campaign** | The game's campaign, untouched, played with the mod's rules. |
-| **Scenarios** | The game's scenarios and the 22 Logistics Front maps: **Play solo**, or **Create a mod lobby (Steam)**. The **ENEMY** and **ALLY** commander rows sit under the map, and **More settings** holds the **map size** and the **weather**. |
-| **Create a skirmish** | Pick a map, its size and the mode: **Co-op against the commander** (Logistics Front, up to 3 players) or **PvP between mod players**. The **Match settings** row sets the weather and the commanders, greyed out when the mode has no use for them. Then the game title, who can join and an optional password. **Private: play alone** starts an offline game against the commander, with no lobby. |
-| **Find a lobby** | The list of the mod's Steam lobbies, and your **Steam friends playing the mod**. |
+| **Create a game** | On the left, four sections, all closed when it opens: **Multiplayer maps** (with their picture; the skirmish is here), **Logistics Front**, **Official scenarios** and **Steam Workshop**. On the right, **one panel**: the map and its description, the mode on multiplayer maps (**Co-op vs AI** or **Players vs players**), the size, your side, your country and battlegroup, the enemy commander (level, one or several countries), the AI ally (solo only), the lobby title and password, the time and the weather. Then **Play solo** (offline, no lobby) or **Play multiplayer** (a mod lobby). |
+| **Find a lobby** | The list of the mod's Steam lobbies (only lobbies: a game is created in **Create a game**), and your **Steam friends playing the mod**. |
 
 The Arsenal and the Editor stay where they are. The official Multiplayer card and the quick search are gone from the menu.
 
@@ -807,15 +914,16 @@ The mod has its own lobbies, run by **Steam**, not by the game's servers. The lo
 - A second line gives the **host's settings**: realism mode, map size, weather, commanders, and whether a password is set.
 - A **Ping** column (Steam's estimate), **filters**, and the number of **mod players online**.
 - **Join** only works with the **same mod version and file** and the **same game version**. Any other lobby shows **Wrong version**: clicking it opens this GitHub page. The mod never downloads anything.
-- **5.5 is the minimum version to play together**: a player with an older version sees **Wrong version**.
+- **5.6 is the minimum version to play together**: a player with an older version sees **Wrong version**.
 - **Steam friends playing the mod** have a section of their own: what each one is doing, his version, and a **Join** button (or **Rejoin the battle**). A friend in a private lobby shows no button, and passwords and friends-only lobbies still apply.
 
 ### Create a lobby
-- From **Create a skirmish**, or from **Play > Scenarios** with **Create a mod lobby (Steam)** on a Logistics Front map or an official PvE scenario.
+- From **Create a game** with **Play multiplayer**: on a Logistics Front map, an official PvE scenario or a multiplayer map.
 - A **game title** typed on the keyboard, in any of the five languages, and **who can join**: **Public** (every mod player sees it), **Friends only** (your Steam friends) or **Private** (hidden from the list, Steam invitation only). An optional **password**: too many wrong tries and the player is shut out of that lobby.
-- **The mode follows the map**: co-op against the AI on a scenario or Logistics Front, every player on the same side; PvP on a skirmish map, where every player picks his side.
+- **The mode**: co-op against the AI on a scenario or Logistics Front, every player on the same side; on a multiplayer map, **Co-op vs AI** (its Logistics Front version) or **Players vs players**, where every player picks his side.
 
 ### In the lobby
+- **Since 5.6, each player picks his country in his side and a deck of that country**: on the NATO side, one can take Germany, another the United States, another Ukraine. At the bottom, a line leads to the mod's [Discord](https://discord.gg/wrtMjUnard) if something goes wrong.
 - **Both sides**, Alpha then Bravo, with the country of each deck. Each player shows his name, **Host** or **You**, his deck and country, his **Ready** box and his **ping**.
 - **In PvP**, click **Join this side** (5 slots per side). The host can move a player with **Move to Alpha** or **Move to Bravo**, and a newcomer goes to the emptier side. With friends in the lobby, each side needs at least one player.
 - **In co-op**, every player is on the same side, and the other side shows **Mod commander (AI)**.
@@ -864,10 +972,53 @@ In an official game, the game's server runs part of the battle. With the mod, **
 - **Sealed mod file**: every PC checks its own mod file at launch, and the mod's data tables are inside it, so they are checked with it. A modified file is refused at the door, on both sides.
 - **In battle**, every player checks his file again every 2 minutes and sends the result to the host, who also compares the stats at the start of the battle. A mismatch opens the **Mod check** panel, for the host only, with **Kick** (the player's units go to the defensive AI) or **Ignore**; **F8** shows it too. Nothing is cut on its own.
 - **The mod owner**, **Noichi**, is recognised by his Steam account, never by a name. He shows a gold **Mod owner** badge in the lobby list, the lobby, F8 and the friends list, and may join or host with a test version of the mod: everyone sees a message when he does. Between all other players the checks stay exactly the same.
-- **Players banned by the mod owner are refused** (since 5.4): the ban list is signed and distributed through Steam. Every mod player sees a short anonymous notice with the reason and the duration, never the name.
 
 > [!NOTE]
 > **Everyone in the game needs exactly the same mod file**, and the same DLCs to see the same units. **The host's rules and settings apply to everyone** for the battle, and every PC checks at the start that it has the same state as the others.
+
+<div align="right"><a href="#top">back to top</a></div>
+
+---
+
+<a id="rules"></a>
+
+## ⚖️ Rules and privacy
+
+Since 5.6, in every game between players, the **host's PC** protects the game and checks the other players. Here is what it refuses, what it checks, what it notes, and what it never does.
+
+### What the host refuses at once
+An honest PC never sends these, so the host's PC simply throws the message away; the player stays in the game.
+- A message that would change who owns a unit, destroy or change **another player's units**, or hand out units the way a scenario script does (only the host does that).
+- A spawn of **AI units** or of units for another player; a starting health above the unit's maximum is brought back to it.
+- **Malformed network packets**, and floods: a burst of messages waits for the next frame, and nothing honest is lost.
+- In the **chat**: formatting tags, line breaks and invisible characters are removed, and a name that imitates the host, the mod's author or another player is changed.
+
+### What the host checks
+| Check | What counts as impossible |
+|---|---|
+| **Money** | Money that grows faster than the income allows, or more spent than earned. |
+| **Cards** | More units of one type alive than the card's copies, or cards that come back faster than the game allows. |
+| **Damage** | A hit stronger than the strongest round of the shooter's weapons. |
+| **Rate of fire** | More hits in a minute than the shooter's weapons can fire. |
+| **Repairs** | Health that comes back faster than a real repair. |
+| **Movement** | A unit that jumps across the map, or a ground vehicle far above its speed. |
+| **Other mods** | A mod loaded in the game that patches the game's money, purchases, cards, damage, health, ammunition or vision: yes or no, and the number of other mods loaded, never their names. |
+
+- The limits of this table sit well above what an honest game produces: 30 % above the most the game allows, and the host is only warned at three times that limit. Lag, a reconnection, a refund or a vehicle lifted by a helicopter does not count.
+- The host, the AI and the mod's author are not checked. Play with a host you trust.
+
+### What is noted
+- Only in the **host's log**, on the host's PC: the player's **Steam account**, a short **reason code**, the **value seen** and the **value allowed**, and a count per player at the end of the battle.
+- **Nothing is sent anywhere else**: no server, no website, no other player. For the check on other mods, your PC only tells your host your mod version, yes or no, and how many other mods are loaded.
+- **No program on your PC is read**: no process list, no files, no other software. The check on other mods only looks at what MelonLoader has loaded into Broken Arrow itself.
+- **The account that lends you the game** (Steam Family Sharing) is no longer published in the lobbies' data.
+
+### No automatic kick
+- A warning opens the **Mod check** panel, for the host only, once per player and per reason, with the number of times. The host chooses **Kick** or **Ignore**. The mod never kicks anyone on its own.
+- **A kick** only removes the player from that game; his units go to the defensive AI.
+
+### Disagree?
+- Come to the [Discord](https://discord.gg/wrtMjUnard) and explain what happened, with your Steam account and the date of the game. Ask the host for the lines of his log that concern you: they show exactly what was seen and what was allowed.
 
 <div align="right"><a href="#top">back to top</a></div>
 
@@ -885,8 +1036,8 @@ In an official game, the game's server runs part of the battle. With the mod, **
 | **50,000 points per category** | In every category of the deck, for every country (logistics unchanged). |
 | **Real availability** | Old, mass-produced vehicles come in numbers, modern ones in small batches: two T-14 per card against twelve old T-72s. |
 | **Real prices** | Every unit priced on its real combat value, rebuilt in 5.3: T-72B3 180, BMP-3 95, Bradley 100, Abrams SEP v3 355, T-90M 330, Grad 150. The T-14 Armata, 560, is the strongest tank in the game and priced like it. Aircraft are much cheaper than before: the airframe plus its weapons, one price per missile. |
-| **Ready-made decks** | Two decks, RUSSIA and USA, are updated with each version, after a copy is kept. Your own decks are only changed when a card leaves a division (as in 4.9.6, always after a copy) or when a choice is withdrawn from a card (the Stryker's APS in 4.9.7). |
-| **Safe saved decks** | A card over its maximum drops back to that maximum on its own. Duplicate cards are hidden. All camouflages are unlocked. |
+| **Ready-made decks** | Two decks, RUSSIA and USA, are updated with each version, after a copy is kept. |
+| **Your decks are kept** | Since 5.6, at every launch the mod checks your decks before the game reads them. Only a card that became invalid is fixed or removed: a loadout that no longer exists goes back to the default one, copies come back to the maximum, a transport that is no longer allowed becomes an allowed one that carries the squad (a truck), and a category over 7 cards loses only its last cards. Same file, one safety copy in `Decks\avant_correction_auto`, and one single message that names the decks. No deck is ever deleted, and copies no longer pile up at every launch. Duplicate cards are hidden. All camouflages are unlocked. |
 | **Campaign** | Only your USA or Russia deck plays in the campaign, and a message says which one. Everything the mission hands you comes on top of your cards, so the scripted parts keep working. |
 | **Everywhere else** | Scenarios, skirmish and Logistics Front take the deck of any country. |
 
@@ -932,7 +1083,7 @@ The game only knows two sides, so every country belongs to one of them: NATO cou
 
 ## 🚚 Logistics Front
 
-The mod's own scenario. Two bases, a big map, one enemy, and no money unless your supply lines hold. Open **Play > Scenarios**, where the LOGISTICS FRONT maps sit at the top of the list, or **Create a skirmish** and pick **Co-op against the commander**.
+The mod's own scenario. Two bases, a big map, one enemy, and no money unless your supply lines hold. Open **Play > Create a game** and its **Logistics Front** section, or pick a **multiplayer map** in **Co-op vs AI**.
 
 | | Rule |
 |---|---|
@@ -942,7 +1093,7 @@ The mod's own scenario. Two bases, a big map, one enemy, and no money unless you
 | **Unit cap** | **90, 100, 120 or 150 units at once per side** (since 5.5), chosen by the host in **Esc > Options > Mod**. The players of a side share it (with 90: 45 each for two, 30 each for three), and the commander's side has the same cap. Units on the map, in the shop basket and on their way all count, and so does the infantry on board. |
 | **Start** | On a road at your map edge, on a side drawn at random: **1,500 points per player** (the commander gets 1,500 for each human player) and **three supply trucks per player**, loaded to their real weight since 5.5. A 26.5-second camera flight, game paused, shows the enemy base, then yours. |
 | **Air power** | No helicopters and no aircraft for the first 10 minutes of play, helicopters from 10 minutes, aircraft from 20 minutes, for you and for the enemy. Pause and the intro do not count. Infantry that rides a helicopter counts as a helicopter. Since 5.5, aircraft arrive 3 km beyond the map edge and helicopters 1.5 km beyond it, and they never stay outside the map. A countdown sits in the banner at the top of the screen. |
-| **Income** | Nothing from the game. Every minute you are paid from the total stock of your side's depots: 10 t = 85, 30 t = 190, 60 t = 259, never more than 300 a minute. Three depots of 10 t pay exactly as much as one of 30 t. Since 5.3 the income is counted per player, on both sides, and the commander gets as much as the side facing him. **Resupplying your units no longer earns money.** |
+| **Income** | Nothing from the game. Since 5.6, every minute your side earns **2.5 points for every tonne** set down in its depots (in the piles, the buildings and the forest caches): 30 t = 75, 100 t = 250, 400 t = 1,000, in a straight line up to **3,000 a minute for the side**, shared between its players. At the start, each player's three trucks (30 t) pay 75 a minute. **A tonne bought costs 200 points** in Logistics Front (25 in the other modes): buying supply never pays back within a game, taking depots does. The commander's side is paid by the same rule. **Resupplying your units no longer earns money.** |
 | **Depots** | Your trucks drive out and set up depots 3 to 7 km from your base, fanned out around it. A depot is taken by moving into it (blue = yours, red = enemy). A destroyed truck explodes. |
 | **Scouting** | An enemy depot is never seen from the air: infantry spots it at 800 m, ground reconnaissance at 1.5 km. His depots are scattered and hidden at forest edges and behind crests, away from the main roads. |
 | **Water** | On every map, vehicles that cannot swim do not drive into the water: cross by the bridges. Only amphibious vehicles cross the water, and infantry wades the fords on foot. |
@@ -956,7 +1107,7 @@ The mod's own scenario. Two bases, a big map, one enemy, and no money unless you
 
 ### 🗺️ The 22 maps
 
-Sizes in kilometres. **Medium** is 144 km² or more, **Large** 200 to 225 km², and a rectangular map stays a rectangle, less elongated. In **Play > Scenarios**, each one appears as **Logistics Front** followed by the name of its scenario.
+Sizes in kilometres. **Medium** is 144 km² or more, **Large** 200 to 225 km², and a rectangular map stays a rectangle, less elongated. In **Play > Create a game**, each one appears as **Logistics Front** followed by the name of its scenario.
 
 | # | Map | Vanilla | Medium | Large |
 |:-:|---|:-:|:-:|:-:|
@@ -995,7 +1146,7 @@ Sizes in kilometres. **Medium** is 144 km² or more, **Large** 200 to 225 km², 
 
 ## 🧠 The enemy commander
 
-A second commander plays the enemy side of every campaign mission next to the mission script, takes the place of the weakest computer player in offline scenarios and skirmishes, and is the only enemy in Logistics Front. You choose his level on the briefing screen: script only, regular player, or pro. In Play > Scenarios, the **ENEMY** and **ALLY** choices sit under the map; in **Create a skirmish**, they sit in the **Match settings** row. In a game between players, the commanders only run on the host's PC.
+A second commander plays the enemy side of every campaign mission next to the mission script, takes the place of the weakest computer player in offline scenarios and skirmishes, and is the only enemy in Logistics Front. You choose his level on the briefing screen: script only, regular player, or pro. In **Play > Create a game**, the **Enemy commander** and **AI ally (solo)** rows sit in the panel on the right. In a game between players, the commanders only run on the host's PC.
 
 - **A real wallet, like yours**, outside Logistics Front (since 5.3). He reads what you field every thirty seconds, and the value of your living units is the value he is allowed to keep on the map. He has cards like you: each unit type only in the number of its card, a lost unit back after the same delay as yours.
 - **Reconnaissance first**, then he answers what you do: your helicopters bring surface-to-air missiles, your artillery brings a long-range battery under short-range cover, your armour brings a flanking group. Infantry always arrives in vehicles and dismounts near the objective.
@@ -1006,7 +1157,14 @@ A second commander plays the enemy side of every campaign mission next to the mi
 - **His pilots want to come home**: they strike from three to six kilometres and return to base when hit, at half health or at half their flares.
 - **He never breaks a mission.** He checks the script before adding anything, never breaks an objective, and pauses while you cannot deploy.
 
-**An allied commander** can fight at your side, with the same brain as the enemy. It is off by default. In the campaign, at its top level, it drops squads behind the lines by helicopter every three minutes and covers an extraction with up to five attack helicopters.
+**An allied commander** can fight at your side, with the same brain as the enemy. It is off by default. In the campaign, at its top level, it drops squads behind the lines by helicopter every three minutes and covers an extraction with up to five attack helicopters. Since 5.6 there is **one AI ally at most, and only when you play alone** against the AI: never in a game between friends.
+
+### Since 5.6: a player's eyes, the country you choose
+- **He sees what the game shows his side**: the fog of war computed for each of his units, at the true position, and nothing more. No more gunfire heard kilometres away, no blurred position on a unit he sees; only a unit he has lost sight of becomes uncertain. His staff delay stays.
+- **You choose his country** in **Create a game** (one or several countries of the other camp: one commander who uses the cards of all of them) and, for the 2nd enemy commander, in the campaign. He then buys only from the divisions of the chosen countries.
+- **His name**: the head of state of the chosen country, except for the United States, where he is General Dan Caine, Chairman of the Joint Chiefs of Staff. No real president's name is used for the United States, because of the Nexus Mods rule on US politics, to avoid any trouble with the moderators.
+- **One commander per side**: the enemy commander holds every enemy AI slot, and the AI ally now has the same doctrine as the enemy (defence, artillery, breakthroughs, engineers, ripostes), except aircraft, mines and nuclear weapons.
+- **In Logistics Front**: more infantry (heliborne, paradropped, lines in the forests), the bridges of enlarged maps used, aircraft that never climb into known air defence, reinforcements in groups, engineers from minute 5, sappers that mine and clear lanes, supply trucks that drive up to units running low. [Details in what's new in 5.6.](#new-56)
 
 <a id="ai-53"></a>
 
@@ -1225,6 +1383,7 @@ The damage shows as the game's own icons on the unit's label, **for every player
 - **Infantry in buildings**: a single ordinary shell or missile no longer wipes out a squad inside a building. The roof takes the first hits, then the upper floors, then the lower floors (at most about 15 %, 30 % and 55 % of the squad per shell); heavy losses come when the building collapses. Thermobarics, napalm and bombs of 450 kg and more keep their full force. Held buildings now show their level, **Fortification 1 to 5**.
 - **6 engineer squads per card** (2 before 5.5).
 - The values differ in **Realistic** and **Semi-realistic**, and digging in is the same for everyone in co-op.
+- **Since 5.6**: in a building, **only construction engineers fortify** (garrisoned in it, or on foot in the depot's circle around it); without them a garrison no longer digs in and no longer barricades itself with the stock. Infantry halted in a wood inside a depot's circle hides the stock in 2 t forest caches. [Details.](#new-56)
 
 ### Elite troops
 - **Since 5.4**, **special forces and recon** march slightly faster (+5 % in Realistic, +10 % in Semi-realistic), sprint longer and recover faster, camouflage faster when standing still in a forest, and aim faster.
@@ -1357,16 +1516,16 @@ Real calibres, penetration, dispersion and ballistics with real gravity; real ar
 | Mode | With the mod |
 |---|:-:|
 | Campaign, US and Russian (the tutorial mission excepted) | ✅ Solo |
-| The game's scenarios, from Play > Scenarios | ✅ Solo, and co-op through a mod lobby for the PvE scenarios |
+| The game's scenarios, from Play > Create a game | ✅ Solo, and co-op through a mod lobby for the PvE scenarios |
 | Logistics Front, 22 maps | ✅ Solo, or co-op up to 3 players against the commander |
 | Skirmish between players | ✅ PvP through a mod lobby, each player picking his side |
-| Skirmish alone against the commander | ✅ Create a skirmish > Private: play alone |
+| Skirmish alone against the commander | ✅ Create a game > Multiplayer maps > Play solo |
 | Back into a battle after a crash | ✅ Find a lobby > Rejoin the battle |
 | Official servers: lobbies, quick search, ranked, reconnect | ⛔ Never used: hidden from the menu and closed by the mod |
 | A game started with EasyAntiCheat | ⛔ The mod closes the game |
 
 > [!NOTE]
-> **Every game between players goes through Steam.** The lobby is a Steam lobby, the battle runs peer to peer through Valve's Steam relay, and the host's PC acts as the server: your IP address is never shared. Only legit Steam copies with an intact, sealed mod file can play, and everyone needs exactly the same mod file: a lobby of another version shows **Wrong version**. 5.5 is the minimum version to play together.
+> **Every game between players goes through Steam.** The lobby is a Steam lobby, the battle runs peer to peer through Valve's Steam relay, and the host's PC acts as the server: your IP address is never shared. Only legit Steam copies with an intact, sealed mod file can play, and everyone needs exactly the same mod file: a lobby of another version shows **Wrong version**. 5.6 is the minimum version to play together.
 
 > [!CAUTION]
 > **Always start the game from Steam with the "Anti-Cheat Disabled" launch option.** If EasyAntiCheat is running, the mod shows a message and closes the game before anything loads. Nothing else happens: launch it again with the right option.
@@ -1401,7 +1560,7 @@ Real calibres, penetration, dispersion and ballistics with real gravity; real ar
 <a id="update"></a>
 
 ### Update from an older version
-Download the new archive with the **DOWNLOAD** button at the top of this page, copy the new files over the old ones (the `UserData` folder brings the Intro theme), then open your decks and check them. To play together, you and your friends need exactly the same version, 5.5 at least: otherwise the lobby list shows **Wrong version**.
+Download the new archive with the **DOWNLOAD** button at the top of this page, copy the new files over the old ones (the `UserData` folder brings the Intro theme), then open your decks and check them. To play together, you and your friends need exactly the same version, 5.6 at least: otherwise the lobby list shows **Wrong version**.
 
 ### Uninstall
 Delete `Mods\BrokenArrowRealismOverhaul.dll` and the `UserData\RealismOverhaul...` folders. To remove MelonLoader too, delete `version.dll` and the `MelonLoader` folder. The game's own divisions and menu come back, exactly as before.
@@ -1431,9 +1590,9 @@ Everything in the mod is always on, except the few things you can change, shown 
 | **Unit cap** (Logistics Front) | Esc > Options > Mod | 90, 100, 120 or 150 units per side (since 5.5), shared by the players of the side; in co-op the host decides |
 | **DLSS** | Options > Graphics | DLAA, Quality, Balanced, Performance or Ultra performance, on NVIDIA RTX cards (switch FSR 3 off first); each player sets his own |
 | **Draw distance** | Options > Graphics | Near, Normal, Far or Very far, within the playable area only; each player sets his own |
-| **Map size** | Play > Scenarios > **More settings**, or **Create a skirmish** | Vanilla, Medium or Large, with the real kilometres of each map. The campaign always keeps the game's own size |
-| **Weather** | Play > Scenarios > **More settings**, or the **Match settings** row of **Create a skirmish** | Automatic, Clear, Cloudy, Overcast, Rain or Fog; rain, overcast and fog shorten sight for both sides |
-| **Enemy and allied commander** | The **ENEMY** and **ALLY** rows under the map, or the **Match settings** row of **Create a skirmish** | Their level, greyed out when the mode has no use for them |
+| **Map size** | The **Create a game** panel | Vanilla, Medium or Large, with the real kilometres of each map. The campaign always keeps the game's own size |
+| **Weather** | The **Create a game** panel, **Additional settings** | Automatic, Clear, Cloudy, Overcast, Rain or Fog; rain, overcast and fog shorten sight for both sides |
+| **Enemy and allied commander** | The **Create a game** panel: **Enemy commander** and **AI ally (solo)** | Their level, greyed out when the mode has no use for them |
 | `FacteurSonGuerre` | `UserData\MelonPreferences.cfg` | 1 realistic sound, 0.5 quiet, 2 loud, 0 the game's own |
 
 In a game between players, **the host's settings apply to everyone** for the battle: a guest sees them greyed out, with **Set by the host**. In every battle the playable area is the whole map, with no orange border. The minimap stays north up in every battle of the mod. The game's own minimap rotation option is never changed: it works again as soon as you play without the mod.
@@ -1485,8 +1644,9 @@ The in-game texts in the five languages and the translations of this page were m
 
 | Version | Date | Highlights |
 |:-:|:-:|---|
+| **5.6** | October 2026 | The enemy's country (and the AI ally's) chosen in every scenario, the skirmish and the campaign; the commander bears the name of the head of state, General Dan Caine for the United States. An AI that sees exactly what the game shows its side, forests that hide only silent units, the bridges of enlarged maps used by the AI, more infantry with heliborne and paradropped troops, aircraft that stay out of known air defence, reinforcements in groups, engineers from minute 5, supply trucks that come to its units; one commander per side and an AI ally as competent as the enemy. Logistics Front: 2.5 points a minute per tonne stocked, up to 3,000 per side, a tonne bought at 200 (25 in the other modes), depots hidden in forest caches. Two kinds of engineers in every country (14 new cards), Clear a mine lane, only construction engineers fortify buildings. Precision strikes that land (KAB, GBU, B61), guns with a real chance against guided bombs, surface-to-air missiles launched vertically or towards the target and over the terrain, both artillery modes together and rocket launchers detected by their launches, missiles at their real warhead (82 corrected), the real price of aircraft with their loadout. Every explosion blows down all the trees within its blast radius, trees that really fall on enlarged maps, direct fire by the real trunk. Standing soldiers treated at the depot, armour-piercing shells at full damage when they just penetrate, cards full at the start of every game between friends. Capture points in place on enlarged maps, destroyed oil tanks in place, flashes and marks seen from far away, dust, fewer traffic jams, helicopters low by default. A protected host, checks shown to the host who decides, a clean chat, the lending account no longer published, missiles shot down destroyed for everyone. A new menu (Play: Campaign, Create a game, Find a lobby) with one panel for every game, a new lobby where each player picks his country and deck, decks kept at every update, artillery in battery, destroyed vehicles that explode with only the explosive still on board, the mod's music on the game's Music slider. 5.6 as the minimum online. |
 | **5.5** | October 2026 | An enemy commander who sees everything his units see and nothing more, and plays like a human: recon hidden in the forests, guns that move after every salvo, anti-tank teams at the bridges, layered air defence that switches its radars off, armoured raids under smoke, aviation used like a player's, infantry that holds the buildings, engineers and a GPS jammer; no income and no purchases during a pause. Five real levels of fortification for infantry and vehicles, engineers who fortify an area with visible walls, dug-in depots, stock stored in buildings, 6 engineer squads per card. Snipers at their real practical range; real trajectories for top-attack missiles, glide bombs, loitering munitions and ballistic missiles; real shell flight times; one guided bomb per target; ammunition that explodes by its real stowage; GPS jamming; wounded who come back; recovered pilots who give back their card; trucks and ammunition at their real weight; every movement speed +10 %; Grad incendiary rockets at their real values; ammunition and missiles reloaded by their real weight; fast rope from helicopters, for the AI too. Logistics Front: a unit cap of 90 to 150 per side chosen by the host, contested base capture, aircraft from further out. DLSS and draw distance in the graphics options. Bridges, infantry movement, AI vehicles in the water and short freezes fixed; official scenarios at their original size and the same enlarged maps for everyone in multiplayer; rejoin with ammunition and fuel, supply and depot capture between friends, the same stats tables on every PC, the weapon panel and decks with mod units fixed. 5.5 as the minimum online. |
-| **5.4** | October 2026 | A free camera from 6 m to 6,000 m. Realistic digging in by stages, elite troops that are faster and more accurate, forests that block direct fire and operator-guided missiles. Non-amphibious vehicles that stay out of the water, amphibious vehicles at their real speed, infantry that wades the fords. Right-click by road, double right-click across country, the B key, unarmed transport and supply trucks that drive home on their own once empty. Helicopters and aircraft higher in high flight, low-flying helicopters that fire again, at their real speed. Two artillery modes, Fire at spotted units and Counter-battery, by radar or by sound, and five real counter-battery radars. An AI that first holds a defensive line. Real equipment for every country, Poland and Donbass completed, recon drones for Belarus and Donbass. Loadouts and display fixed, cleaner enlarged maps, real speeds on hills, a real, darker night. 5.4 as the minimum online, banned players refused, Steam relays only. |
+| **5.4** | October 2026 | A free camera from 6 m to 6,000 m. Realistic digging in by stages, elite troops that are faster and more accurate, forests that block direct fire and operator-guided missiles. Non-amphibious vehicles that stay out of the water, amphibious vehicles at their real speed, infantry that wades the fords. Right-click by road, double right-click across country, the B key, unarmed transport and supply trucks that drive home on their own once empty. Helicopters and aircraft higher in high flight, low-flying helicopters that fire again, at their real speed. Two artillery modes, Fire at spotted units and Counter-battery, by radar or by sound, and five real counter-battery radars. An AI that first holds a defensive line. Real equipment for every country, Poland and Donbass completed, recon drones for Belarus and Donbass. Loadouts and display fixed, cleaner enlarged maps, real speeds on hills, a real, darker night. 5.4 as the minimum online, Steam relays only. |
 | **5.3** | October 2026 | Complete co-op run by the host: battle chat, the other players' units in the right place, timers, player list, objectives and SCORES, surrender vote, money for every player, units from scenario scripts, the end of the battle for everyone, the same battle on every PC. Lobbies with both sides, your side picked in PvP and a 3-2-1 countdown; rejoin a battle after a crash; Steam friends playing the mod with Join; sealed mod files; a Mod owner badge. A stronger AI with no hidden advantage: it reads and answers, focuses fire, pulls back damaged armour, attacks in pincers, never fields a type of unit you cannot. Suppression in solo and co-op, damaged parts on ground vehicles, electronic warfare, slopes, mines shared by every player with a crater. No more floating units on enlarged maps, a smoother start. Campaign objectives stuck on hidden survivors repaired. Decoys on their own at the missile warning, by the real equipment, real chances missile by missile, real upgrades on every aircraft; 2 to 4 s between guided missiles from aircraft, bombing from 1,200 to 1,500 m; anti-missile and Rocket/bomb intercept switches on air defence, glide bombs shot down by guns. Passengers who survive by the weapon, real city fighting. A commander who spends, remembers, ambushes, scouts and guides strikes with hidden observers, and a realistic campaign commander. Every price rebuilt on real combat value, cheaper aircraft, missile reloads at their real value, Logistics Front income per player, campaign money at 120 %, tank guns fixed. Artillery priority modes, a gap-free order panel, one duration row up to Infinite, resupply from a halted truck, real SCORES in co-op. |
 | **5.2** | 30 September 2026 | Co-op fixed: friends really enter the battle, a player who cannot join no longer holds the others up, the host's settings greyed out for guests, typing in every language. Real engines: acceleration and braking of ground vehicles from their real power and weight, real thrust, climb and turn in the air, off-road speed floors per family. A menu that no longer flickers, Play with four cards side by side, weather, map size and commanders in the game setup, the Report a mod bug window, an online counter every 25 seconds. |
 | **5.1** | September 2026 | Logistics Front on all 22 maps in three sizes (Vanilla, Medium, Large up to 225 km²), bases on a road at the map edge with a random starting side, aircraft from beyond the map, depots fanned out, co-op three against one with 90 units per side. The mod's own Steam lobbies (list, password, Ready, chat, ping, kick with F8, a defensive AI for a dropped player, legit copies only) and its own menu (home screen, Find a lobby, Create a skirmish, PvP between mod players); no official server used at all. Fords closed to non-amphibious vehicles everywhere, missiles that hit vehicles in the water, the T-14's gun-launched missile flying straight, icons visible when zoomed out. Scenery, railways, harbours and bridges of the enlarged maps restored, empty ground filled. Music in one continuous cycle. |
@@ -1564,6 +1724,6 @@ The in-game texts in the five languages and the translations of this page were m
 > [!IMPORTANT]
 > **© 2026 tassassinno74. All rights reserved.** You are welcome to download the mod and play it. Re-uploading it anywhere (Steam, Steam Workshop, Nexus Mods, ModDB or any other site), redistributing it, reusing its code or data, or publishing modified versions without the author's written permission is not allowed. Full terms: [LICENSE](LICENSE). MelonLoader, included in the ALL-IN-ONE archive, keeps its own licence (Apache 2.0, file included).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.5-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.5"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.6-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.6"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
 
 <div align="right"><a href="#top">back to top</a></div>
