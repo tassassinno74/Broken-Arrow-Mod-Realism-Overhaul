@@ -5,7 +5,7 @@
 <p align="center"><b>Kampagne, Szenarien und Gefecht, ausgetragen so, wie das Gerät wirklich zum Kämpfen gebaut wurde.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.6-2ea44f?style=for-the-badge" alt="Version 5.6">
+  <img src="https://img.shields.io/badge/version-5.8-2ea44f?style=for-the-badge" alt="Version 5.8">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.6-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 5.6 herunterladen"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.8-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 5.8 herunterladen"></a>
   <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Dem Discord beitreten"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube-Kanal"></a>
 </p>
@@ -34,6 +34,8 @@
 Broken Arrow gibt dir echte Fahrzeuge, echte Waffen und echte Doktrin, und dann lässt es eine 152-mm-Haubitze eine Granate auf den Panzer setzen, der direkt neben ihr steht, lässt ein Maschinengewehr ein Flugzeug in drei Kilometern Höhe vom Himmel holen und deckelt jede Rakete bei 9 km, dem Rand seiner alten Karten.
 
 Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Karten und Missionsskripte des Spiels selbst, bepreist jede Einheit nach dem, was sie wirklich kann, gibt jedem Flugzeug und jedem Geschütz die Bewaffnung seines realen Vorbilds, gibt jeder Waffe ihre veröffentlichte Reichweite bis 100 km und setzt dir auf der anderen Seite der Karte einen **zweiten Kommandeur** gegenüber, der liest, was du aufstellst, und darauf antwortet. Du kämpfst als **Nation**, als eines von elf Ländern in zwei Lagern, NATO und OVKS. Jedes Fahrzeug, jede Waffe und jedes Geschoss hat seine **echte Panzerung, Geschwindigkeit und Feuerrate**, jeder Sprengkörper seine **echte Druck- und Splitterwirkung**, und du **wählst deinen Realismus**: realistisch oder halbrealistisch.
+
+**5.8 baut den Luftkrieg um und behebt, was Spieler am Boden gemeldet haben.** Tarnkappe wirkt jetzt **nur noch gegen Radar**: Auge, Infrarot und Optik sehen eine F-35 wie jedes andere Flugzeug, und jedes Radar findet sie auf eine Entfernung, die von seinem Alter abhängt. Jeder Jäger kurvt mit seiner **echten Wenderate**, die Suchois mit Schubvektorsteuerung vorne, und kann einem Flugkörper nach seiner Wendigkeit **ausweichen**; deine Jäger ohne Befehl **jagen die feindlichen Flugzeuge**, die deine Seite sieht, und kehren zurück, wenn sie getroffen sind oder kaum noch Munition haben. Jedes Luftfahrzeug bezahlt seine **echte Selbstschutzausrüstung**, die Flugkörper jetzt öfter täuscht, und Flugzeuge kommen von weiter her. Am Boden **löscht eine Granate keinen Trupp mehr aus**, Panzerabwehrlenkflugkörper mit Hohlladung schießen nicht mehr auf Infanterie, Panzerabwehrtrupps sparen ihre Flugkörper für Panzer, ein Treffer, der nicht durchschlägt, kann einen Panzer trotzdem **blenden oder bremsen**, und die Langstrecken-Flugabwehr verschwendet keine Flugkörper mehr auf ungelenkte Raketen. An der Logistikfront kostet eine Tonne **100**, der KI-Verbündete hat eigene Lkw und eigenes Geld, und der Realismus-Modus ist **festgelegt**, sobald die Schlacht beginnt. 5.7 hat ein Einfrieren des Spiels bei Präzisionsschlägen behoben. 5.8 ist die Mindestversion für das gemeinsame Spiel.
 
 **5.6 lässt dich das Land des Gegners wählen und gibt der KI die Augen eines Spielers.** In jedem Szenario, im Gefecht und in der Kampagne wählst du das Land, für das der Kommandeur kämpft, und er trägt den Namen seines Staatsoberhaupts (für die Vereinigten Staaten General Dan Caine). Er sieht genau das, was das Spiel seiner Seite zeigt, greift über die Brücken der vergrößerten Karten an und setzt weit mehr Infanterie ein. Die Logistikfront wird zu einem **echten Versorgungskrieg**: 2,5 Punkte pro Minute für jede eingelagerte Tonne, die gekaufte Tonne zu 200, in den Wäldern versteckte Depots. Jedes Land erhält **zwei Arten von Pionieren**: Pioniere, die Minen räumen, und Baupioniere, die Gebäude befestigen; Präzisionsschläge kommen endlich an, Boden-Luft-Flugkörper starten in die richtige Richtung, jeder Flugkörper wirkt nach seinem **echten Gefechtskopf**, und die Bäume fallen wirklich. In jeder Partie zwischen Spielern lehnt der PC des Hosts ab, was ein ehrlicher PC nie sendet, und zeigt dem Host das Unmögliche: kein automatischer Rauswurf, und nichts verlässt die Partie ([Regeln und Privatsphäre](#rules)). Ein neuer Bildschirm **Partie erstellen** stellt jede Partie in einem einzigen Feld ein, eine neue Lobby lässt jeden Spieler sein Land und sein Deck wählen, deine **Decks bleiben** bei jedem Update **erhalten**, und die Artillerie bleibt zwischen zwei Feueraufträgen **in Stellung**. 5.6 ist die Mindestversion für das gemeinsame Spiel.
 
@@ -51,6 +53,8 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Luftfahrzeuge mit ihren echten Gegenmaßnahmen | Lenkmunitionen mit ihrem echten Suchkopf | Einheiten pro Seite in der Logistikfront, vom Host gewählt | offizielle PvE-Szenarien im Koop spielbar | Sprachen | genutzte offizielle Server |
 
+- **Du wirst deine Luftkämpfe wählen**, denn eine Su-35 oder Su-57 kurvt enger als jeder westliche Jäger, und eine F-35 ist nur im Vorteil, wenn sie zuerst schießt, von weit weg, bevor ein Infrarotsensor sie findet.
+- **Du wirst auf die Optik zielen**, denn ein Treffer, der nicht durchschlägt, kann einen Panzer trotzdem blenden, seine Visierung verstellen oder seine Ketten beschädigen.
 - **Du wirst deine Transporter eskortieren**, denn wird ein Transportfahrzeug zerstört, kommen die Trupps darin selten heraus: Nach einer schweren Kanone, einer Rakete oder einer Bombe schafft es niemand.
 - **Du wirst Nebel werfen, weil du ihn brauchst**, nicht weil er gut aussieht: Jeder Kampftrupp trägt eigene Granaten, Nebelwände sind breit, und Nebel blockiert Sicht, Laserlenkung und Feuer für beide Seiten.
 - **Du wirst die Artillerie nicht mehr als Panikknopf benutzen**, denn Geschütze haben Mindestschussweiten und echte Richtzeiten, und auf kürzeste Distanz rettet dich nichts.
@@ -79,7 +83,7 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 
 | Die Mod | Das Schlachtfeld | Praktisches |
 |---|---|---|
-| [Neu in 5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [frühere](#earlier) | [Logistikfront](#logistics-front) | [Wo die Mod läuft](#where-it-runs) |
+| [Neu in 5.8](#new-58) · [5.7](#new-57) · [5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [frühere](#earlier) | [Logistikfront](#logistics-front) | [Wo die Mod läuft](#where-it-runs) |
 | [Roadmap](#roadmap) | [Die 22 Karten](#maps) | [Download und Installation](#install) |
 | [Das Menü der Mod](#menu) | [Der feindliche Kommandeur](#commander) | [Update oder Deinstallation](#update) |
 | [Steam-Lobbys: gemeinsam spielen](#lobbies) · [Koop](#coop) · [Rückkehr](#rejoin) · [Regeln und Privatsphäre](#rules) | [Luftkrieg](#air-war) | [Einstellungen](#settings) |
@@ -90,9 +94,100 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 
 ---
 
+<a id="new-58"></a>
+
+## 🆕 Neu in 5.8: Tarnkappe nur gegen Radar, echte Luftkämpfe, echte Gegenmaßnahmen, Panzerverschleiß, gerechterer Schaden gegen Infanterie
+
+> [!IMPORTANT]
+> **Ersetzt 5.7 (und jede ältere Version):** Kopiere die neuen Dateien über die alten. Keine Waffenreichweite hat sich geändert, und deine Decks bleiben erhalten. Flugzeuge und Hubschrauber kosten jetzt mit ihrer Selbstschutzausrüstung mehr: Prüfe die Luft-Kategorie deiner Decks. **5.8 ist die Mindestversion für das gemeinsame Spiel**: Ein Spieler mit einer älteren Version sieht **Falsche Version**.
+
+### 👻 Tarnkappe wirkt nur gegen Radar
+- **F-22, F-35A/B, B-2, F-117, RQ-170, Su-57 und S-70 Okhotnik** sind nicht mehr vor jedem Sensor gleich verborgen. **Auge, Infrarot und Optik** sehen sie wie jedes andere Flugzeug: etwa 5 km im Hochflug, 3 km im Tiefflug.
+- **Das Radar findet sie nach seinem Alter.** Gegen eine F-35: Shilka, Osa und Tunguska 2,5 km; Patriot PAC-2 und S-300PM 3,5 km; S-300V4 4,5 km; PAC-3 5 km; S-350 5,5 km; S-400, PAC-3 MSE und IRIS-T SLM 6,5 km. Radare der Jäger (APG-77, APG-81, N036, Irbis...) 2,5 bis 6,5 km.
+- **Infrarot-Such- und Verfolgungssysteme**: Su-35, Su-57, MiG-35 und die eigenen Sensoren der F-35 (EOTS, DAS) 10 km; Su-27, Su-30, Su-33, MiG-29 und MiG-31 7 km. Der optische Kanal des Pantsir 7 km, Tor-M2 und M-SHORAD 6 km.
+- Die S-70 Okhotnik ist auf die Tarnung der RQ-170 des Spiels eingestellt. Dieselbe Regel gilt für dich und für die KI, über den Nebel des Krieges jeder Seite.
+
+### ✈️ Echte Wendigkeit, Ausweichen vor Flugkörpern, Luftkämpfe
+- **Jeder Jäger kurvt mit seiner echten Wenderate**: seiner Dauerkurve bei geringer Geschwindigkeit, seiner Momentankurve mit Nachbrenner. Vom wendigsten zum am wenigsten wendigen: **Su-57, Su-35S, Su-30SM und Typhoon, F-22, Su-27SM, F-16, F-15C, F-35A**. Su-30SM, Su-35S, Su-57 und F-22 haben Schubvektorsteuerung. Große Flugzeuge behalten die Werte des Spiels. Keine Geschwindigkeit und keine Reichweite hat sich geändert.
+- **Ein Jäger kann einem Flugkörper ausweichen**, nach seiner Wendigkeit gegen die des Flugkörpers, bis zu 85 %. Ein von weit her abgefeuerter Flugkörper hat am Ende weniger Energie; einem Infrarot-Flugkörper ohne Startwarnung ist viel schwerer auszuweichen.
+- **Luftkämpfe**: Deine Jäger ohne Befehl (10 Sekunden nach deinem letzten Befehl und nicht auf **Feuer einstellen**) greifen ein feindliches Flugzeug an, das **deine Seite sieht**, innerhalb der 1,5-fachen Luft-Luft-Reichweite. Aus der Nähe stellen sie sich der Bedrohung oder lösen sich, wenn sie weniger wendig, aber schneller sind.
+- **Rückkehr**: Jedes deiner Kampfflugzeuge ohne Befehl kehrt zur Basis zurück, wenn es getroffen ist oder nur noch **25 % seiner Munition oder weniger** hat. Dein Befehl hat immer Vorrang.
+
+### 🎆 Echte Gegenmaßnahmen, echter Preis
+- **Jedes Flugzeug und jeder Hubschrauber bezahlt jetzt seine echte Selbstschutzausrüstung** (Täuschkörper, Düppel, Störsender, DIRCM, Schleppköder): F-35 +30 Punkte, Su-57 +25, AH-64E +15, Mi-8 +10. Bezahlte Modernisierungen behalten ihren Aufpreis.
+- **Eine stärkere Ausrüstung täuscht Flugkörper öfter**: Die Täuschkörper einer F-35 gegen eine Stinger steigen von 50 % auf 72 %, die einer Mi-8 gegen eine Igla-S von 30 % auf 37 %. Düppel behalten ihre Regel (35 % gegen alte Radar-Suchköpfe, 10 % gegen moderne), und zwei Flugkörpertreffer holen weiterhin alles herunter, was fliegt.
+- **Die manuelle Taste für Täuschkörper und Düppel ist weg**, bei Flugzeugen und Hubschraubern: Spiel und Mod werfen sie bereits bei der Flugkörperwarnung ab, im besten Moment. Der Tooltip **Selbstschutz** im Einheitenblatt zeigt die eingebaute Ausrüstung.
+
+### 🛫 Flugzeuge kommen von weiter her
+- **Logistikfront**: Flugzeuge erscheinen **4,5 km** hinter dem Kartenrand (vorher 3 km) und Hubschrauber **1,9 km** (vorher 1,5 km).
+- **Jede andere Schlacht der Mod** (offizielle Szenarien, Mehrspielerkarten, Kampagne, Workshop): Flugzeuge kommen von **1,5 km weiter** hinter dem nächsten Rand, Hubschrauber von **400 m weiter hinten**. Ein Spawnpunkt, den Bodeneinheiten oder Schiffe mitnutzen, bewegt sich nie.
+- Flugzeuge fliegen auf demselben Weg zurück: Sie haben einen echten Hin- und Rückweg und können auf dem Heimweg abgeschossen werden.
+- **Freie Kamera** bis **9.000 m** (vorher 6.000); die Kartenränder ändern sich nicht. **Hochflug** etwas höher: 1.700 m in Halbrealistisch, 2.000 m in Realistisch.
+
+### 🧰 Bewaffnungen nach Stärke sortiert
+- Im Deck-Editor reicht die **Auswahl eines Pylons** (Flugzeuge, Hubschrauber, Drohnen) jetzt von der stärksten zur schwächsten, mit Filtern: **Alle, Anti-Radar, Luft-Luft, Panzerabwehr, Luft-Boden, Marschflugkörper, Bomben, Ungelenkte Raketen, Kanonen, Behälter und Sonstiges** (nur die vorhandenen Kategorien). Keine Auswahl entfernt, keine Nummer geändert: Deine Decks bleiben gültig.
+
+### 📡 Flugabwehr gegen Raketen
+- **S-300, S-350, S-400, Patriot, Buk, NASAMS, ESSM und SeaRAM** schießen nicht mehr auf **ungelenkte 220- und 227-mm-Raketen** (Uragan, M270): Das ist die Aufgabe von Pantsir, Tor, IRIS-T, C-RAM und Phalanx. Die 300-mm-Raketen der Smerch und gelenkte Raketen bleiben Ziele für alle.
+- **Ein Flugkörper, der eine schwere Rakete erreicht, zerstört sie jetzt viel öfter**: PAC-3 und PAC-3 MSE 90 %, 9M96 (S-350, S-400) 85 %, Tor-M2 und IRIS-T 80 %, 48N6 und 9M83 (S-300, S-400) und Buk-M3 75 %, Pantsir und Tor-M1 70 %, PAC-2 und Buk-M2 65 %, ESSM 60 %, SeaRAM 55 %; 5 % weniger gegen eine gelenkte Rakete.
+- **NASAMS** spart seine Flugkörper für Flugzeuge, Hubschrauber, Marschflugkörper und Drohnen: Es schießt gar nicht mehr auf Raketen.
+
+### 🪖 Infanterie
+- **Eine Granate löscht keinen Trupp im Freien mehr aus.** Granaten, Mörsergranaten und Raketen mit weniger als 50 kg Sprengstoff wirken jetzt nach einer echten Kurve: etwa ein halber Trupp bei einem Volltreffer, weiter weg viel weniger. Eine 125-mm-Granate trifft bei einem Volltreffer etwa 6 Mann eines 12-Mann-Trupps, 3 oder 4 auf 20 bis 25 m. Nie weniger als das Spiel selbst; Bomben, große Flugkörper und thermobarische Waffen behalten ihre volle Kraft.
+- **In einem Gebäude** entscheiden das Spiel und die Deckungsschichten des Gebäudes. **Leichte thermobarische Flugkörper** (Kornet-F, Konkurs-F, Ataka-F, Kokon-F, RPO, RShG, TBG-7V...) treffen eine Besatzung weiterhin härter als andere Munition, aber nicht mehr mit voller Kraft; TOS, ODAB, Napalm und schwere Bomben ändern sich nicht.
+- **Panzerabwehrlenkflugkörper mit Hohlladung schießen nicht mehr auf Infanterie**: Kornet, Kornet-M, TOW-2A, Konkurs-M, Fagot, Fagot-M, Spike LR, Stugna, Corsar, Bulat. Ihre thermobarischen und Sprengversionen (Kornet-F, Ataka-F, Konkurs-F, Hellfire M und N, Griffin, LMUR...) tun es weiterhin. Ein Hohlladungsflugkörper, der einen Trupp trifft, richtet den Schaden des Spiels selbst an.
+- **Panzerabwehrtrupps sparen ihre Lenkflugkörper für Panzer**: Sie feuern sie nicht mehr von selbst auf Lkw, UAZ, Jeeps oder ungepanzerte Humvees (ihre Gewehre und Maschinengewehre schon). Panzer, Schützenpanzer, Transportpanzer, Spähwagen, Artillerie und Flugabwehr bleiben Ziele. **Dein direkter Angriffsbefehl feuert immer.** Beide Seiten, die KI auch.
+- **Ein Trupp in einem Gebäude ohne Baupioniere** verbarrikadiert sich jetzt selbst, in normalem Tempo, bis **Stufe 2** (4, dann 10 Minuten Spielzeit). Seine Beschriftung zeigt **Stellung 1** oder **2** und darunter **Höher: Bau-Pioniere**. Mit Baupionieren ändert sich nichts (Stufen 3 bis 5).
+
+### 🛡️ Panzer
+- **Ein Treffer, der nicht durchschlägt, kann trotzdem schaden**: Ein Panzerabwehrtreffer im direkten Richten, der ein Bodenfahrzeug nicht durchschlägt, kann **Optik, Visierung, Besatzung, Ketten oder Motor** beschädigen, umso öfter, je schwerer das Geschoss ist (bis zu 30 %; Geschosse und 30-mm-Kanonen gegen einen Panzer: nichts). Welches Teil, hängt von der Trefferstelle ab: vorne vor allem Optik und Visierung, an der Flanke vor allem die Ketten, von oben die Optik, von hinten Motor und Ketten.
+- **Gelb beim ersten Mal, rot beim zweiten.** Beschädigte Ketten bremsen den Panzer; nur ein zweiter Flankentreffer einer Sprenggranate ab 120 mm oder eines Flugkörpers macht ihn bewegungsunfähig. Ein beschädigter Motor bremst ihn nur. Die Besatzungskapsel des **T-14** verschont die Besatzung in einem von zwei Fällen.
+- **Keine Trefferpunkte verloren, keine Explosion.** Versorgungs-Lkw und Pioniere reparieren, wie jedes beschädigte Teil. In der Kampagne und in den Szenarien kann es nur eine bereits beschädigte Einheit treffen, nie eine von der Mission geschützte.
+- **Echte Granaten der Hauptwaffe an Bord**: T-64BV und T-64BM Bulat 36, T-90AK 43, T-62M 40, PT-91 42, T-72M1 44, K2 40, Leopard 1A5 55, Challenger 2 49, AMX-10 RC 38, T-55AM2 43. Ein zerstörter Panzer zählt jetzt nur seine eine Hauptwaffe: Ein voller T-64BV explodierte früher, als hätte er 117 Granaten an Bord.
+
+### 💰 Versorgung und der KI-Verbündete
+- **Logistikfront: Eine gekaufte Tonne kostet jetzt 100 Punkte** (vorher 200). Eine abgesetzte Tonne hat sich nach etwa 40 Minuten bezahlt gemacht. In den anderen Modi bleibt es bei 25.
+- **Eine Granate kostet ihr echtes Gewicht, nur einmal gezählt.** Das Spiel hat die Munitionskosten im Einheitenblatt, bei der Rückerstattung und bei der Wiederkauf-Wartezeit mit 4 multipliziert: 10 Granaten zu 20 kg zählen jetzt als 200 kg. Eine 152/155-mm-Granate (60 kg) kostet an der Logistikfront etwa 6 Punkte, sonst 1,5.
+- **Der KI-Verbündete an der Logistikfront** fährt jetzt **seine eigenen drei Start-Lkw** zu **seinen eigenen Depotplätzen**, hinter oder neben deinen (vorher bekamst du sie). Seine Depots speisen das Einkommen der Seite, weiterhin zu gleichen Teilen geteilt.
+- **Der KI-Verbündete hat in Szenarien, im Gefecht und in der Kampagne sein eigenes Geld**: Er beginnt mit dem, was ein Spieler dort hat, bekommt dann das Einkommen eines Spielers, bezahlt jede Einheit und wird nie von deinem Geld bezahlt. In Blackout ist die Deckung der Evakuierung immer da.
+
+### ⚙️ Außerdem in 5.8
+- **Der Realismus-Modus wird vor der Partie gewählt**: in **Esc > Einstellungen > Mod** oder in der neuen Zeile **Realismus-Modus** im Feld **Partie erstellen**. Er ist **für die ganze Schlacht festgelegt** (Solo, Koop, Kampagne) und während des Lobby-Countdowns. Unter Freunden gilt der Modus des Hosts für alle.
+- **Gefechtskarten aus dem Steam Workshop**: **Koop gegen KI** funktioniert jetzt im Solo, in der Originalgröße der Karte (nie vergrößert), gegen den Kommandanten der Mod, mit Stufe und Land. Eine Workshop-Karte unter Freunden zu hosten ist noch nicht möglich.
+- **Lobby-Chat**: keine doppelten Buchstaben mehr nach einem Ruckler.
+- **Javelin und Spike** füllen das Spielprotokoll nicht mehr mit Fehlern "Seeker activation delay is too big".
+- Der **Einfrier-Wächter** schreibt beim Laden und Beenden des Spiels keine falschen Warnungen mehr ins Protokoll.
+- **Flugzeuge fliegen nach einem Tiefflug nicht mehr in den Boden**: Jedes Flugzeug liest das Gelände 5 Sekunden voraus, auf seiner echten Kurve, und fängt sich mindestens 20 m darüber ab. Tiefflug bleibt Tiefflug, und Bordkanonenangriffe auf Hubschrauber funktionieren weiterhin. Dieselbe Regel für dich und für die KI.
+- **Ausgestiegene Besatzungen landen immer innerhalb der Karte**, auf trockenem Boden, nach der Dauer eines echten Fallschirmabstiegs: Kein Pilot geht mehr außerhalb der Karte verloren. Ein Flugzeug, das zur Basis zurückkehrt, lässt keine **Geisterpiloten** mehr am Boden zurück.
+- **Treibstoff**: Ein Flugzeug, das einen Befehl der Mod ausführt (Luftkampf, KI-Einsatz), fliegt jetzt an der roten Treibstofflinie des Spiels von selbst nach Hause, statt außerhalb der Karte leer zu fliegen.
+- **Gelenkte Bomben werden bei Präzisionsschlägen wieder abgeworfen** (KAB, GBU, B61, JSOW...), aus der echten Flughöhe. Keine Reichweite hat sich geändert.
+- **KI-Konterbatterie, echt und fair**: Die KI schießt nur zurück, wenn ihre Seite dein Feuer wirklich geortet hat (ein Artillerieortungsradar auf der Karte, oder eine ihrer Einheiten hat den Abschuss gesehen oder gehört), nach einer echten Verzögerung und mit dem echten Fehler des Radars, auf die Stelle, von der aus du gefeuert hast: Ein Geschütz, das nach seiner Salve die Stellung wechselt, überlebt. Eine Antwort pro georteter Feuermission. Dieselbe Regel für dich.
+- **11 echte Bewaffnungen**, die nie auftauchten, stehen jetzt im Waffenstationsmenü: Su-30SM (2 KAB-500), Su-25T (40 S-8-Raketen), MiG-35 (2 Kh-31P), MiG-29K (2 KAB-500), Su-27SM (2 Kh-29L, 2 Kh-31P), F-16V (2 HARM, 2 CBU-105), F-15EX (2 bunkerbrechende GBU-31), F/A-18D (2 JSOW, 4 Mk 20 Rockeye). Keine davon ist voreingestellt: Deine Decks ändern sich nicht. Die Option M-LIDS des M-ATV trägt jetzt wirklich ihre 2 Coyote Block 2.
+- **Die thermobarischen Raketen des TOS** haben jetzt den Explosionsüberdruck ihres Gefechtskopfs, und die **Granaten der Msta-S und der M109 im direkten Richten** treffen so hart wie dieselbe Granate als Artilleriefeuer.
+- **Flüssigere Schlachten**: Tausende versteckte Fehler wurden aus den Prüfungen der Mod entfernt.
+
+### 🌐 Online
+- **5.8 ist die Mindestversion für das gemeinsame Spiel**: Ältere Versionen sehen **Falsche Version**.
+
+<div align="right"><a href="#top">nach oben</a></div>
+
+---
+
+<a id="new-57"></a>
+
+## 🆕 Neu in 5.7: eine Korrektur
+
+- **Ein Einfrieren des Spiels bei Präzisionsschlägen ist behoben.** Es trat zuerst auf, als die S-70 Okhotnik ihre Streumunitions-Marschflugkörper abfeuerte; dieselbe Ursache konnte auch andere Präzisionsschläge einfrieren, auch die der Iskander.
+
+<div align="right"><a href="#top">nach oben</a></div>
+
+---
+
 <a id="new-56"></a>
 
 ## 🆕 Neu in 5.6: ein neues Menü, das Land des Gegners, eine KI mit den Augen eines Spielers, ein echter Versorgungskrieg, zwei Arten von Pionieren
+
+*Seit 5.8: Eine gekaufte Tonne kostet an der Logistikfront 100, der Realismus-Modus ist während der Schlacht festgelegt, und 5.8 ist die Mindestversion für das gemeinsame Spiel ([neu in 5.8](#new-58)).*
 
 > [!IMPORTANT]
 > **Ersetzt 5.5 (und jede ältere Version):** Kopiere die neuen Dateien über die alten. Keine Waffenreichweite hat sich geändert, und **deine Decks bleiben erhalten**: Nur eine ungültig gewordene Karte wird korrigiert (siehe unten). Die Standarddecks **RUSSIA** und **USA** werden einmal neu geschrieben, um die zwei Pionierkarten hinzuzufügen (die vorherige Kopie bleibt im Ordner `Decks\avant_5.6`). **5.6 ist die Mindestversion für das gemeinsame Spiel**: Ein Spieler mit einer älteren Version sieht **Falsche Version**.
@@ -859,6 +954,8 @@ Was als Nächstes kommt, der Reihe nach. Jeder Schritt erscheint erst, wenn er g
 | ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.4** | Die freie Kamera, Eingraben in Stufen, Elitetruppen, Wälder, die das Feuer blockieren, Wasser, das für Fahrzeuge gesperrt ist, aber nicht für Infanterie, Rechtsklick über die Straße, Konterbatterie per Radar oder nach Gehör, eine KI, die zuerst verteidigt, mehr Gerät für kleine Armeen, 5.4 als Mindestversion online. |
 | ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.5** | Ein Kommandeur, der wie ein Mensch spielt und nur sieht, was seine Einheiten sehen, Befestigungen in fünf echten Stufen und befestigte Zonen der Pioniere, echte Flugbahnen, Scharfschützen auf ihrer echten Reichweite, Munition, die nach ihrer echten Lagerung explodiert, GPS-Störung, Verwundete und geborgene Piloten, ein Einheitenlimit von 90 bis 150 nach Wahl des Hosts, Fast-Rope-Abseilen aus Hubschraubern, Versorgung nach echtem Gewicht, DLSS und Sichtweite, 5.5 als Mindestversion online. |
 | ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.6** | Das Land des Gegners überall wählbar und nach seinem Staatsoberhaupt benannt, eine KI, die sieht, was das Spiel ihrer Seite zeigt, und über die Brücken angreift, ein echter Versorgungskrieg an der Logistikfront, in Wäldern versteckte Depots, zwei Arten von Pionieren in jedem Land mit Minenräumen, Präzisionsschläge, die ankommen, Boden-Luft-Flugkörper, die richtig starten, beide Artilleriemodi zusammen, Flugkörper mit ihrem echten Gefechtskopf, Bäume, die wirklich fallen, ein geschützter Host mit fairen Prüfungen, 5.6 als Mindestversion online. |
+| ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.7** | Ein Einfrieren des Spiels bei Präzisionsschlägen behoben. |
+| ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.8** | Tarnkappe nur gegen Radar, echte Wendigkeit und Luftkämpfe, echte Gegenmaßnahmen im Preis jedes Luftfahrzeugs, Flugzeuge von weiter her, Bewaffnungen nach Stärke sortiert, Langstrecken-Flugabwehr, die ungelenkte Raketen in Ruhe lässt, gerechterer Schaden gegen Infanterie, Panzerabwehrflugkörper für Panzer aufgespart, Panzer, die durch nicht durchschlagende Treffer verschleißen, echte Panzergranaten, die Tonne zu 100 an der Logistikfront, ein KI-Verbündeter mit eigener Wirtschaft, der Realismus-Modus in der Schlacht festgelegt, der Kommandant auf Workshop-Gefechtskarten, 5.8 als Mindestversion online. |
 | ![als Nächstes](https://img.shields.io/badge/-als%20N%C3%A4chstes-1f6feb?style=flat-square) | **Die offiziellen Szenarien, eines nach dem anderen** | Jedes offizielle Szenario der Reihe nach überarbeitet: eine Wahl der Kartengröße, **nur ein Gegner, der Kommandeur der Mod**, und mehr Tiefe. |
 | ![später](https://img.shields.io/badge/-sp%C3%A4ter-8957e5?style=flat-square) | **Ein Kommandeur für die Kampagne** | Der Kommandeur der Mod in den Kampagnenmissionen, wobei das Missionsskript unberührt bleibt. |
 | ![Ziel](https://img.shields.io/badge/-Ziel-bf8700?style=flat-square) | **7.0** | Kampagne und Szenarien vereint zu **einer langen Kampagne mit drei möglichen Enden**. |
@@ -912,7 +1009,7 @@ Die Mod hat ihre eigenen Lobbys, betrieben von **Steam**, nicht von den Servern 
 - Eine zweite Zeile zeigt die **Einstellungen des Hosts**: Realismus-Modus, Kartengröße, Wetter, Kommandeure und ob ein Passwort gesetzt ist.
 - Eine Spalte **Ping** (Schätzung von Steam), **Filter** und die Zahl der **Mod-Spieler online**.
 - **Beitreten** funktioniert nur mit **derselben Mod-Version und Mod-Datei** und **derselben Spielversion**. Jede andere Lobby zeigt **Falsche Version** an: Ein Klick darauf öffnet diese GitHub-Seite. Die Mod lädt nie etwas herunter.
-- **5.6 ist die Mindestversion für das gemeinsame Spiel**: Ein Spieler mit einer älteren Version sieht **Falsche Version**.
+- **5.8 ist die Mindestversion für das gemeinsame Spiel**: Ein Spieler mit einer älteren Version sieht **Falsche Version**.
 - **Steam-Freunde, die den Mod spielen** haben einen eigenen Bereich: was jeder gerade tut, seine Version und eine Schaltfläche **Beitreten** (oder **Zurück in die Schlacht**). Ein Freund in einer privaten Lobby zeigt keine Schaltfläche, und Passwörter und Lobbys nur für Freunde gelten weiterhin.
 
 ### Eine Lobby erstellen
@@ -992,17 +1089,8 @@ Ein ehrlicher PC sendet so etwas nie, deshalb verwirft der PC des Hosts einfach 
 - Im **Chat**: Formatierungs-Tags, Zeilenumbrüche und unsichtbare Zeichen werden entfernt, und ein Name, der den Host, den Mod-Autor oder einen anderen Spieler nachahmt, wird geändert.
 
 ### Was der Host prüft
-| Prüfung | Was als unmöglich gilt |
-|---|---|
-| **Geld** | Geld, das schneller wächst, als das Einkommen erlaubt, oder mehr ausgegeben als verdient. |
-| **Karten** | Mehr lebende Einheiten eines Typs als die Exemplare der Karte, oder Karten, die schneller zurückkommen, als das Spiel erlaubt. |
-| **Schaden** | Ein Treffer, der stärker ist als die stärkste Munition der Waffen des Schützen. |
-| **Feuerrate** | Mehr Treffer pro Minute, als die Waffen des Schützen abfeuern können. |
-| **Reparaturen** | Lebenspunkte, die schneller zurückkommen als bei einer echten Reparatur. |
-| **Bewegung** | Eine Einheit, die über die Karte springt, oder ein Bodenfahrzeug weit über seiner Geschwindigkeit. |
-| **Andere Mods** | Eine im Spiel geladene Mod, die Geld, Käufe, Karten, Schaden, Gesundheit, Munition oder Sicht des Spiels verändert: ja oder nein und die Zahl der anderen geladenen Mods, nie ihre Namen. |
+In jeder Partie zwischen Spielern sucht der PC des Hosts nach unmöglichen Aktionen und nach anderen Mods, die die Spielregeln verändern (ja oder nein und wie viele andere Mods geladen sind, nie ihre Namen), mit großen Spielräumen, damit eine ehrliche Partie nie gemeldet wird.
 
-- Die Grenzen dieser Tabelle liegen weit über dem, was eine ehrliche Partie ergibt: 30 % über dem Maximum des Spiels, und der Host wird erst beim Dreifachen dieser Grenze gewarnt. Verzögerung im Netz, eine Neuverbindung, eine Rückerstattung oder ein von einem Hubschrauber angehobenes Fahrzeug zählen nicht.
 - Der Host, die KI und der Mod-Autor werden nicht geprüft. Spiele mit einem Host, dem du vertraust.
 
 ### Was notiert wird
@@ -1090,8 +1178,8 @@ Das eigene Szenario der Mod. Zwei Basen, eine große Karte, ein einziger Gegner 
 | **Spieler** | Solo oder **bis zu 3 Spieler auf derselben Seite** über eine Mod-Lobby. Die Regeln und Einstellungen des Hosts gelten für alle, und alle brauchen dieselben DLCs, um dieselben Einheiten zu sehen. |
 | **Einheitenlimit** | **90, 100, 120 oder 150 Einheiten gleichzeitig pro Seite**, seit 5.5 vom Host gewählt (Reiter **Mod**). Die Spieler einer Seite teilen sich ihr Limit, und der Kommandeur hat dasselbe. Einheiten auf der Karte, im Einkaufskorb und auf dem Anmarsch zählen alle mit, ebenso die Infanterie an Bord. |
 | **Start** | An einer Straße an deinem Kartenrand, auf einer ausgelosten Seite: **1.500 Punkte pro Spieler** (der Kommandeur erhält 1.500 für jeden menschlichen Spieler) und **drei 10-Tonnen-Versorgungs-Lkw pro Spieler**. Ein Kameraflug von 26,5 Sekunden bei pausiertem Spiel zeigt die feindliche Basis, dann deine. |
-| **Luftstreitkräfte** | Keine Hubschrauber und keine Flugzeuge in den ersten 10 Spielminuten, Hubschrauber ab 10 Minuten, Flugzeuge ab 20 Minuten, für dich und für den Gegner. Pause und Intro zählen nicht. Infanterie, die in einem Hubschrauber mitfliegt, zählt als Hubschrauber. Luftfahrzeuge kommen von jenseits des Kartenrands: seit 5.5 Flugzeuge 3 km und Hubschrauber 1,5 km dahinter, und keines bleibt außerhalb der Karte. Ein Countdown steht im Banner oben am Bildschirm. |
-| **Einkommen** | Nichts vom Spiel. Seit 5.6 verdient deine Seite jede Minute **2,5 Punkte für jede Tonne** in ihren Depots (in den Stapeln, den Gebäuden und den Waldverstecken): 30 t = 75, 100 t = 250, 400 t = 1.000, in gerader Linie bis zu **3.000 pro Minute für die Seite**, geteilt unter ihren Spielern. Zu Beginn bringen die drei Lkw jedes Spielers (30 t) 75 pro Minute. **Eine gekaufte Tonne kostet 200 Punkte** an der Logistikfront (25 in den anderen Modi): Versorgung zu kaufen lohnt sich innerhalb einer Partie nie, Depots einzunehmen schon. Die Seite des Kommandeurs wird nach derselben Regel bezahlt. **Das Versorgen deiner Einheiten bringt kein Geld mehr.** |
+| **Luftstreitkräfte** | Keine Hubschrauber und keine Flugzeuge in den ersten 10 Spielminuten, Hubschrauber ab 10 Minuten, Flugzeuge ab 20 Minuten, für dich und für den Gegner. Pause und Intro zählen nicht. Infanterie, die in einem Hubschrauber mitfliegt, zählt als Hubschrauber. Luftfahrzeuge kommen von jenseits des Kartenrands: seit 5.8 Flugzeuge 4,5 km und Hubschrauber 1,9 km dahinter, und keines bleibt außerhalb der Karte. Ein Countdown steht im Banner oben am Bildschirm. |
+| **Einkommen** | Nichts vom Spiel. Seit 5.6 verdient deine Seite jede Minute **2,5 Punkte für jede Tonne** in ihren Depots (in den Stapeln, den Gebäuden und den Waldverstecken): 30 t = 75, 100 t = 250, 400 t = 1.000, in gerader Linie bis zu **3.000 pro Minute für die Seite**, geteilt unter ihren Spielern. Zu Beginn bringen die drei Lkw jedes Spielers (30 t) 75 pro Minute. **Eine gekaufte Tonne kostet 100 Punkte** an der Logistikfront seit 5.8 (vorher 200, 25 in den anderen Modi): Eine abgesetzte Tonne hat sich nach etwa 40 Minuten bezahlt gemacht. Die Seite des Kommandeurs wird nach derselben Regel bezahlt. **Das Versorgen deiner Einheiten bringt kein Geld mehr.** |
 | **Depots** | Deine Lkw fahren los und errichten Depots 3 bis 7 km von deiner Basis entfernt, fächerförmig um sie verteilt. Ein Depot wird eingenommen, indem man hineinfährt (blau = deins, rot = feindlich). Ein zerstörter Lkw explodiert. |
 | **Aufklärung** | Ein feindliches Depot ist aus der Luft nie zu sehen: Infanterie entdeckt es auf 800 m, Bodenaufklärung auf 1,5 km. Seine Depots sind verteilt und an Waldrändern und hinter Geländekämmen versteckt, abseits der Hauptstraßen. |
 | **Wasser** | Auf jeder Karte fahren Fahrzeuge, die nicht schwimmen können, nicht ins Wasser: Überquere das Wasser über die Brücken. Nur Schwimmfahrzeuge kommen durchs Wasser, und die Infanterie watet zu Fuß durch die Furten. |
@@ -1258,7 +1346,7 @@ Seit 5.3 wird die Chance **Rakete für Rakete** festgelegt: Eine moderne Patriot
 - **Bombenabwurf aus 1.200 bis 1.500 m**: Die Bombe fällt steiler, und die Bäume stören weniger.
 - **Echte Flugprofile der Raketen**: Kinzhal, Zircon und ARRW fliegen so, wie sie es wirklich tun.
 - **Laserzielbeleuchtung** ist an den 65 Einheiten, die wirklich einen Zielbeleuchter tragen, automatisch und kostenlos. Keine kostenpflichtige Option, keine manuelle Schaltfläche.
-- **Radar-Tarnkappe**: F-22, F-35, B-2, F-117 und Comanche werden viel näher entdeckt; die Su-57 ist das am schwersten zu ortende Flugzeug des Spiels.
+- **Tarnkappe, nur gegen Radar** (seit 5.8): F-22, F-35, B-2, F-117, RQ-170, Su-57 und S-70 Okhotnik werden vom Radar viel näher gefunden, je nach Alter des Radars (eine S-400 findet eine F-35 auf etwa 6,5 km), während Auge, Infrarot und Optik sie wie jedes andere Flugzeug sehen. Der Comanche behält seine bisherige Tarnung. [Neu in 5.8.](#new-58)
 - **150 Bewaffnungsoptionen an den richtigen Pylonen**: UMPK-Kits, KAB-250LG, Kh-59M2, Kh-38MTE, Kh-69, R-77M auf russischer Seite; GBU-31, GBU-39 SDB, CBU-105, AIM-120D, AARGM-ER, SLAM-ER, zwölf JASSM an der B-52H; AGM-114R, Spike NLOS, LMUR, JAGM an den Hubschraubern. Bewaffnungen, die das echte Flugzeug nie getragen hat, sind ausgeblendet.
 - **Raketenbehälter** feuern die Hälfte ihrer Raketen im Bogenfeuer auf eine Fläche, 3 bis 6 km. Die Wirkradien folgen dem echten Gewicht jeder Bombe.
 - **Ein leerer Transporter** kehrt von selbst zur Basis zurück.
@@ -1578,7 +1666,7 @@ Alles an der Mod ist immer aktiv, außer den wenigen Dingen, die du ändern kann
 
 | Einstellung | Wo | Auswahl |
 |---|---|---|
-| **Realismus-Modus** | Esc > Einstellungen > Mod | Realistisch oder Halbrealistisch (Standard); im Koop entscheidet der Host |
+| **Realismus-Modus** | Esc > Einstellungen > Mod, oder das Feld **Partie erstellen** (seit 5.8) | Realistisch oder Halbrealistisch (Standard), vor der Partie gewählt und während der Schlacht festgelegt; im Koop entscheidet der Host |
 | **Wracks, Gefallene, Brände und Krater** | Esc > Einstellungen > Mod | Seit 5.3 eine Zeile: 5, 15, 30 oder 60 Minuten oder **Unbegrenzt** (standardmäßig 30); im Koop entscheidet der Host. Viele Leichen und Brände auf einmal können auf schwachen PCs die Bildrate senken |
 | **Kartengröße** | Das Feld **Partie erstellen** | Vanilla, Mittel oder Groß, mit den echten Kilometern jeder Karte. Die Kampagne behält immer die Originalgröße des Spiels |
 | **Wetter** | Das Feld **Partie erstellen**, **Weitere Einstellungen** | Automatisch, Klar, Bewölkt, Bedeckt, Regen oder Nebel; Regen, bedeckter Himmel und Nebel verkürzen die Sicht für beide Seiten |
@@ -1636,6 +1724,8 @@ Die Texte im Spiel in den fünf Sprachen und die Übersetzungen dieser Seite wur
 
 | Version | Datum | Höhepunkte |
 |:-:|:-:|---|
+| **5.8** | Oktober 2026 | Tarnkappe nur gegen Radar: Auge, Infrarot und Optik sehen Tarnkappenflugzeuge wie alle anderen, das Radar findet sie nach seinem Alter. Echte Wendigkeit für jeden Jäger, Ausweichen vor Flugkörpern nach Wendigkeit, deine Jäger jagen die feindlichen Flugzeuge, die deine Seite sieht, und kehren zurück, wenn sie getroffen sind oder kaum noch Munition haben. Jedes Luftfahrzeug nach seiner echten Selbstschutzausrüstung bepreist, die Flugkörper öfter täuscht; die manuelle Täuschkörper-Taste entfernt. Flugzeuge und Hubschrauber von weiter her, freie Kamera bis 9.000 m, Pylon-Auswahl nach Stärke sortiert mit Filtern. Die Langstrecken-Flugabwehr schießt nicht mehr auf ungelenkte 220/227-mm-Raketen und zerstört die schweren Raketen, die sie erreicht, viel öfter. Eine Granate löscht keinen Trupp mehr aus, Hohlladungs-Panzerabwehrflugkörper schießen nicht mehr auf Infanterie, Panzerabwehrtrupps sparen ihre Flugkörper für Panzer, Trupps verbarrikadieren sich in Gebäuden bis Stufe 2. Nicht durchschlagende Treffer beschädigen Optik, Visierung, Besatzung, Ketten oder Motor; echte Granaten der Hauptwaffe an Bord. Logistikfront: die Tonne zu 100 und Munition nur einmal gezählt; ein KI-Verbündeter mit eigenen Lkw und eigenem Geld. Der Realismus-Modus während der Schlacht festgelegt, der Kommandant auf Workshop-Gefechtskarten, Lobby-Chat repariert, 5.8 als Mindestversion online. |
+| **5.7** | Oktober 2026 | Ein Einfrieren des Spiels bei Präzisionsschlägen behoben (zuerst mit den Streumunitions-Marschflugkörpern der S-70 Okhotnik gesehen). |
 | **5.6** | Oktober 2026 | Das Land des Gegners (und des KI-Verbündeten) wählbar in jedem Szenario, im Gefecht und in der Kampagne; der Kommandeur trägt den Namen des Staatsoberhaupts, General Dan Caine für die Vereinigten Staaten. Eine KI, die genau sieht, was das Spiel ihrer Seite zeigt, ein Wald, der nur noch schweigende Einheiten verbirgt, die Brücken der vergrößerten Karten von der KI genutzt, mehr Infanterie mit luftbeweglichen Truppen und Fallschirmjägern, Flugzeuge, die außerhalb bekannter Flugabwehr bleiben, Verstärkung in Gruppen, Pioniere ab Minute 5, Versorgungs-Lkw, die zu ihren Einheiten kommen; ein Kommandeur pro Seite und ein KI-Verbündeter, so fähig wie der Gegner. Logistikfront: 2,5 Punkte pro Minute und eingelagerter Tonne, bis 3.000 pro Seite, die gekaufte Tonne zu 200 (25 in den anderen Modi), Depots in Waldverstecken. Zwei Arten von Pionieren in jedem Land (14 neue Karten), Gasse räumen, nur Baupioniere befestigen Gebäude. Präzisionsschläge, die ankommen (KAB, GBU, B61), Kanonen mit echter Chance gegen Lenkbomben, Boden-Luft-Flugkörper senkrecht oder Richtung Ziel und über das Gelände gestartet, beide Artilleriemodi zusammen und Raketenwerfer an ihren Abschüssen erkannt, Flugkörper mit ihrem echten Gefechtskopf (82 korrigiert), der echte Preis von Flugzeugen mit ihrer Bewaffnung. Jede Explosion wirft alle Bäume in ihrem Druckwellenradius um, Bäume, die auf vergrößerten Karten wirklich fallen, direktes Feuer nach dem echten Stamm. Stehende Soldaten am Depot versorgt, panzerbrechende Granaten mit vollem Schaden bei knappem Durchschlag, volle Karten zu Beginn jeder Partie unter Freunden. Eroberungspunkte an ihrem Platz auf vergrößerten Karten, zerstörte Öltanks an ihrem Platz, Blitze und Spuren von weitem sichtbar, Staub, weniger Staus, Hubschrauber standardmäßig im Tiefflug. Ein geschützter Host, Prüfungen, die dem entscheidenden Host gezeigt werden, ein sauberer Chat, das verleihende Konto nicht mehr veröffentlicht, abgeschossene Flugkörper bei allen zerstört. Ein neues Menü (Spielen: Kampagne, Partie erstellen, Lobby suchen) mit einem einzigen Feld für jede Partie, eine neue Lobby, in der jeder Spieler sein Land und sein Deck wählt, Decks, die bei jedem Update erhalten bleiben, Artillerie in Stellung, zerstörte Fahrzeuge, die nur mit dem noch an Bord befindlichen Sprengstoff explodieren, die Musik der Mod am Musik-Regler des Spiels. 5.6 als Mindestversion online. |
 | **5.5** | Oktober 2026 | Ein Kommandeur, der alles sieht, was seine Einheiten sehen, und nichts darüber hinaus, ohne jeden versteckten Vorteil, und wie ein Mensch spielt: versteckte Aufklärung, Artillerie mit Stellungswechsel nach jeder Salve, Panzerabwehr an den Brücken, gestaffelte Flugabwehr, gepanzerte Angriffsgruppe, Luftwaffe wie ein Spieler, Infanterie in Gebäuden, Pioniere und GPS-Störsender; in der Pause kein Geld und keine Käufe für die KI. Befestigungen in fünf echten Stufen für Infanterie und Fahrzeuge, befestigte Zonen der Pioniere mit sichtbaren Mauern, eingegrabene Depots, Vorräte in Gebäuden, 6 Pioniertrupps pro Karte. Scharfschützen auf ihrer echten praktischen Reichweite, echte Flugbahnen der Lenkflugkörper, Gleitbomben und ballistischen Raketen, echte Flugzeit der Granaten, eine Lenkbombe pro Ziel, Munition, die nach ihrer echten Lagerung explodiert, GPS-Störung, Verwundete, geborgene Piloten, Lkw und Munition mit echtem Gewicht, alle Bewegungsgeschwindigkeiten +10 %, Brandraketen des Grad, Munition und Lenkflugkörper nach echtem Gewicht nachgeladen, Fast-Rope-Abseilen aus Hubschraubern, auch für die KI. Logistikfront: Einheitenlimit 90, 100, 120 oder 150 nach Wahl des Hosts, umkämpfte Basiseinnahme, Luftfahrzeuge weiter draußen. DLSS und Sichtweite. Brücken, ACV-P, Infanterielauf, Hänger und Flackern behoben; Mehrspieler korrigiert; Rückkehr in die Schlacht mit Munition und Treibstoff, Versorgung und Depoteroberung unter Freunden, dieselben Wertetabellen auf allen PCs, Waffenfeld und Decks mit Mod-Einheiten behoben. 5.5 als Mindestversion online. |
 | **5.4** | Oktober 2026 | Eine freie Kamera von 6 m bis 6 000 m. Realistisches Eingraben in Stufen, schnellere und präzisere Elitetruppen, Wälder, die das direkte Feuer und vom Schützen gelenkte Raketen blockieren. Nicht schwimmfähige Fahrzeuge, die aus dem Wasser bleiben, Schwimmfahrzeuge mit ihrer echten Geschwindigkeit, Infanterie, die durch die Furten watet. Rechtsklick über die Straße, doppelter Rechtsklick querfeldein, die Taste B, unbewaffnete Transport- und Versorgungs-Lkw, die leer von selbst zurückfahren. Hubschrauber und Flugzeuge im hohen Flug höher, Hubschrauber im Tiefflug, die wieder feuern, mit ihrer echten Geschwindigkeit. Zwei Artilleriemodi, Feuer auf Aufgeklärte und Konterbatterie, per Radar oder nach Gehör, und fünf echte Artillerieortungsradare. Eine KI, die zuerst eine Verteidigungslinie hält. Echtes Gerät für jedes Land, Polen und Donbass ergänzt, Aufklärungsdrohnen für Belarus und den Donbass. Bewaffnung und Anzeige korrigiert, sauberere vergrößerte Karten, echte Geschwindigkeiten an Steigungen, eine echte, dunklere Nacht. 5.4 als Mindestversion online, nur Steam-Relays. |

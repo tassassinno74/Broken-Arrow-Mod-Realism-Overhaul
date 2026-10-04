@@ -5,7 +5,7 @@
 <p align="center"><b>The campaign, the scenarios and the skirmish, fought the way the equipment was actually built to fight.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.6-2ea44f?style=for-the-badge" alt="Version 5.6">
+  <img src="https://img.shields.io/badge/version-5.8-2ea44f?style=for-the-badge" alt="Version 5.8">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.6-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 5.6"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.8-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 5.8"></a>
   <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"></a>
 </p>
@@ -34,6 +34,8 @@
 Broken Arrow gives you real vehicles, real weapons and real doctrine, and then lets a 152 mm howitzer drop a shell on the tank parked next to it, lets a machine gun swat an aircraft three kilometres up, and caps every missile at the 9 km edge of its old maps.
 
 This mod rewrites **more than 12,000 values** with real-world data, reads the game's own maps and mission scripts, prices every unit on what it can really do, gives every aircraft and every gun the loadouts its real counterpart carries, gives every weapon its published range up to 100 km, and puts a **second commander** on the other side of the map who reads what you field and answers it. You fight as a **nation**, one of eleven countries in two camps, NATO and CSTO. Every vehicle, weapon and round has its **real armour, speed and rate of fire**, every explosive its **real blast and fragmentation**, and you **choose your realism**: realistic or semi-realistic.
+
+**5.8 reworks the air war and fixes what players reported on the ground.** Stealth now works **against radar only**: eyes, infrared and optics see an F-35 like any other aircraft, and each radar finds it at a distance set by its age. Every fighter turns at its **real rate**, the Sukhois with thrust vectoring first, and can **dodge a missile** by its manoeuvrability; your fighters with no order **hunt the enemy aircraft** your side sees, then come home when they are hit or short of ammunition. Every aircraft pays for its **real self-protection suite**, which now fools missiles more often, and aircraft come from further away. On the ground, **one shell no longer wipes out a squad**, shaped-charge anti-tank missiles no longer fire at infantry, anti-tank teams keep their missiles for armour, a hit that does not penetrate can still **blind or slow a tank**, and long-range air defence no longer wastes its missiles on unguided rockets. In Logistics Front a tonne costs **100**, the AI ally has its own trucks and its own money, and the realism mode is **locked** once the battle starts. 5.7 fixed a game freeze during precision strikes. 5.8 is the minimum version to play together.
 
 **5.6 lets you choose the enemy's country and gives the AI the eyes of a player.** In every scenario, the skirmish and the campaign, you pick the country the commander fights for, and he bears the name of its head of state (for the United States, General Dan Caine). He sees exactly what the game shows his side, attacks across the bridges of the enlarged maps and fields far more infantry. Logistics Front becomes a **real supply war**: 2.5 points a minute for every tonne you stock, a tonne bought at 200, depots hidden in the forests. Every country gets **two kinds of engineers**, sappers who clear mines and construction engineers who fortify buildings; precision strikes finally land, surface-to-air missiles leave the right way, every missile hurts by its **real warhead** and the trees really fall. In every game between players, the host's PC refuses what an honest PC never sends and shows the host the impossible: no automatic kick, and nothing leaves the game ([rules and privacy](#rules)). A new **Create a game** screen sets up every game in one panel, a new lobby lets each player pick his own country and deck, your **decks are kept** at every update, and artillery stays **in battery** between fire missions. 5.6 is the minimum version to play together.
 
@@ -51,6 +53,8 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | aircraft with their real countermeasures | guided munitions with their real seeker | units per side in Logistics Front, set by the host | official PvE scenarios playable in co-op | languages | official servers used |
 
+- **You will pick your fights in the air**, because a Su-35 or a Su-57 out-turns every Western fighter, and an F-35 has the edge only when it fires first, from far away, before an infrared sensor finds it.
+- **You will aim for the optics**, because a hit that does not penetrate can still blind a tank, knock its sights off or break its tracks.
 - **You will escort your transports**, because when a carrier is destroyed, the squads inside rarely get out: after a heavy cannon, a missile or a bomb, nobody does.
 - **You will fire smoke because you need it**, not because it looks good: every combat squad carries its own grenades, screens are wide, and smoke blocks sight, laser guidance and fire for both sides.
 - **You will stop using artillery as a panic button**, because guns have minimum ranges and real aiming times, and nothing saves you at point-blank.
@@ -79,7 +83,7 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 
 | The mod | The battlefield | Practical |
 |---|---|---|
-| [What's new in 5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [earlier](#earlier) | [Logistics Front](#logistics-front) | [Where it runs](#where-it-runs) |
+| [What's new in 5.8](#new-58) · [5.7](#new-57) · [5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [earlier](#earlier) | [Logistics Front](#logistics-front) | [Where it runs](#where-it-runs) |
 | [Roadmap](#roadmap) | [The 22 maps](#maps) | [Download and install](#install) |
 | [The mod's menu](#menu) | [The enemy commander](#commander) | [Update or uninstall](#update) |
 | [Steam lobbies: playing together](#lobbies) · [co-op](#coop) · [rejoin](#rejoin) · [rules and privacy](#rules) | [Air war](#air-war) | [Settings](#settings) |
@@ -90,9 +94,100 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 
 ---
 
+<a id="new-58"></a>
+
+## 🆕 What's new in 5.8: stealth against radar only, real dogfights, real countermeasures, tanks that wear, fairer infantry damage
+
+> [!IMPORTANT]
+> **Replaces 5.7 (and any older version):** copy the new files over the old ones. No weapon range has changed and your decks are kept. Aircraft and helicopters now cost more with their self-protection suite: check the air category of your decks. **5.8 is the minimum version to play together**: a player with an older version sees **Wrong version**.
+
+### 👻 Stealth works against radar only
+- **F-22, F-35A/B, B-2, F-117, RQ-170, Su-57 and S-70 Okhotnik** are no longer hidden from every sensor alike. **Eyes, infrared and optics** see them like any other aircraft: about 5 km in high flight, 3 km in low flight.
+- **Radar finds them by its age.** Against an F-35: Shilka, Osa and Tunguska 2.5 km; Patriot PAC-2 and S-300PM 3.5 km; S-300V4 4.5 km; PAC-3 5 km; S-350 5.5 km; S-400, PAC-3 MSE and IRIS-T SLM 6.5 km. Fighter radars (APG-77, APG-81, N036, Irbis...) 2.5 to 6.5 km.
+- **Infrared search and track**: Su-35, Su-57, MiG-35 and the F-35's own sensors (EOTS, DAS) 10 km; Su-27, Su-30, Su-33, MiG-29 and MiG-31 7 km. The optical channel of the Pantsir 7 km, Tor-M2 and M-SHORAD 6 km.
+- The S-70 Okhotnik is set on the stealth of the game's RQ-170. The same rule applies to you and to the AI, through each side's fog of war.
+
+### ✈️ Real manoeuvrability, missile evasion, dogfights
+- **Every fighter turns at its real rate**: its sustained turn at low speed, its instantaneous turn on afterburner. From the most to the least agile: **Su-57, Su-35S, Su-30SM and Typhoon, F-22, Su-27SM, F-16, F-15C, F-35A**. The Su-30SM, Su-35S, Su-57 and F-22 have thrust vectoring. Large aircraft keep the game's values. No speed and no range has changed.
+- **A fighter can dodge a missile** by its manoeuvrability against the missile's, up to 85 %. A missile fired from far away has less energy left at the end; an infrared missile that gives no launch warning is much harder to dodge.
+- **Dogfights**: your fighters with no order (10 seconds after your last order, and not on **hold fire**) attack an enemy aircraft that **your side sees**, within 1.5 times their air-to-air range. Up close they turn to face the threat, or break away if they are less agile but faster.
+- **Coming home**: any of your combat aircraft with no order returns to base when it is hit or has **25 % of its ammunition or less**. Your order always takes over.
+
+### 🎆 Real countermeasures, real price
+- **Every aircraft and helicopter now pays for its real self-protection suite** (flares, chaff, jammer, DIRCM, towed decoy): F-35 +30 points, Su-57 +25, AH-64E +15, Mi-8 +10. Paid modernisations keep their price on top.
+- **A stronger suite fools missiles more often**: an F-35's flares against a Stinger go from 50 % to 72 %, a Mi-8's against an Igla-S from 30 % to 37 %. Chaff keeps its rule (35 % against old radar seekers, 10 % against modern ones), and two missile hits still bring down anything that flies.
+- **The manual flares/chaff button is gone** from aircraft and helicopters: the game and the mod already release them at the missile warning, at the best moment. The **Self-protection** tooltip of the unit sheet shows the integrated suite.
+
+### 🛫 Aircraft come from further away
+- **Logistics Front**: aircraft arrive **4.5 km** beyond the map edge (3 km before) and helicopters **1.9 km** (1.5 km before).
+- **Every other battle of the mod** (official scenarios, multiplayer maps, campaign, Workshop): aircraft come from **1.5 km further** beyond the nearest edge, helicopters from **400 m further back**. A spawn point shared with ground units or ships never moves.
+- Aircraft leave the same way: they have a real trip in and out, and can be shot down on the way home.
+- **Free camera** up to **9,000 m** (6,000 before); the map edges do not change. **High flight** a little higher: 1,700 m in Semi-realistic, 2,000 m in Realistic.
+
+### 🧰 Loadouts sorted by power
+- In the deck builder, the **choices of a pylon** (aircraft, helicopters, drones) now go from the most to the least powerful, with filters: **All, Anti-radar, Air-to-air, Anti-tank, Air-to-ground, Cruise, Bombs, Rockets, Guns, Pods and other** (only the categories present). No choice removed, no number changed: your decks stay valid.
+
+### 📡 Air defence against rockets
+- **S-300, S-350, S-400, Patriot, Buk, NASAMS, ESSM and SeaRAM** no longer fire at **unguided 220 and 227 mm rockets** (Uragan, M270): that is the job of the Pantsir, the Tor, the IRIS-T, the C-RAM and the Phalanx. The Smerch's 300 mm rockets and guided rockets stay targets for all.
+- **A missile that reaches a heavy rocket now destroys it far more often**: PAC-3 and PAC-3 MSE 90 %, 9M96 (S-350, S-400) 85 %, Tor-M2 and IRIS-T 80 %, 48N6 and 9M83 (S-300, S-400) and Buk-M3 75 %, Pantsir and Tor-M1 70 %, PAC-2 and Buk-M2 65 %, ESSM 60 %, SeaRAM 55 %; 5 % less against a guided rocket.
+- **NASAMS** keeps its missiles for aircraft, helicopters, cruise missiles and drones: it no longer fires at rockets at all.
+
+### 🪖 Infantry
+- **One shell no longer wipes out a squad in the open.** Shells, mortar rounds and rockets with less than 50 kg of explosive now hurt along a real curve: about half a squad on a direct hit, much less further out. A 125 mm shell takes about 6 men of a 12-man squad on a direct hit, 3 or 4 at 20 to 25 m. Never less than the game itself; bombs, large missiles and thermobarics keep their full force.
+- **In a building**, the game and the building's cover layers decide. **Light thermobaric missiles** (Kornet-F, Konkurs-F, Ataka-F, Kokon-F, RPO, RShG, TBG-7V...) still hit a garrison harder than other rounds, but no longer at full force; TOS, ODAB, napalm and heavy bombs do not change.
+- **Shaped-charge anti-tank missiles no longer fire at infantry**: Kornet, Kornet-M, TOW-2A, Konkurs-M, Fagot, Fagot-M, Spike LR, Stugna, Corsar, Bulat. Their thermobaric and high-explosive versions (Kornet-F, Ataka-F, Konkurs-F, Hellfire M and N, Griffin, LMUR...) still do. A shaped-charge missile that hits a squad does the game's own damage.
+- **Anti-tank teams keep their guided missiles for armour**: they no longer fire them on their own at trucks, UAZ, jeeps or unarmoured Humvees (their rifles and machine guns still do). Tanks, infantry fighting vehicles, carriers, armoured cars, artillery and air defence stay targets. **Your direct attack order always fires.** Both sides, the AI too.
+- **A squad in a building with no construction engineer** now barricades itself, at normal speed, up to **level 2** (4, then 10 minutes of play). Its label shows **Dug in 1** or **2** and, below, **Higher: construction engineers**. With construction engineers nothing changes (levels 3 to 5).
+
+### 🛡️ Tanks
+- **A hit that does not penetrate can still do harm**: a direct-fire anti-tank round that fails to penetrate a ground vehicle can damage the **optics, the sights, the crew, the tracks or the engine**, more often the heavier the round (up to 30 %; bullets and 30 mm cannon on a tank do nothing). The part depends on where it hits: the front mostly the optics and sights, the flank mostly the tracks, the top the optics, the rear the engine and tracks.
+- **Yellow the first time, red the second.** Damaged tracks slow the tank; only a second flank hit from a 120 mm or larger high-explosive shell or from a missile immobilises it. A damaged engine only slows it. The **T-14**'s crew capsule spares the crew one time in two.
+- **No health lost, no explosion.** Supply trucks and engineers repair, like any damaged part. In the campaign and the scenarios, only a unit that is already damaged can be affected, and never one protected by the mission.
+- **Real main-gun rounds on board**: T-64BV and T-64BM Bulat 36, T-90AK 43, T-62M 40, PT-91 42, T-72M1 44, K2 40, Leopard 1A5 55, Challenger 2 49, AMX-10 RC 38, T-55AM2 43. A destroyed tank now counts only its one main gun: a full T-64BV used to explode as if it carried 117 rounds.
+
+### 💰 Supply and the AI ally
+- **Logistics Front: a tonne bought now costs 100 points** (200 before). A tonne set down pays itself back in about 40 minutes. In the other modes it stays at 25.
+- **A shell costs its real weight, counted once.** The game multiplied the ammunition cost by 4 on the unit sheet, in the refund and in the rebuy delay: 10 shells of 20 kg now count as 200 kg. A 152/155 mm shell (60 kg) costs about 6 points in Logistics Front and 1.5 elsewhere.
+- **The AI ally in Logistics Front** now drives **its own three starting trucks** to **its own depot sites**, behind or beside yours (before, they were handed to you). Its depots feed the side's income, still shared in equal parts.
+- **The AI ally in scenarios, the skirmish and the campaign has its own money**: it starts with what a player has there, then earns a player's income, pays for every unit and is never paid from your money. In Blackout, the cover of the extraction is always there.
+
+### ⚙️ Also in 5.8
+- **The realism mode is chosen before the game**: in **Esc > Options > Mod** or in the new **Realism mode** line of the **Create a game** panel. It is **locked for the whole battle** (solo, co-op, campaign) and during the lobby countdown. Between friends, the host's mode applies to everyone.
+- **Steam Workshop skirmish maps**: **Co-op vs AI** now works in solo, at the map's own size (never enlarged), against the mod's commander, with his level and country. Hosting a Workshop map between friends is not possible yet.
+- **Lobby chat**: no more doubled letters after a slowdown.
+- **Javelin and Spike** no longer fill the game's log with "Seeker activation delay is too big" errors.
+- The **freeze watchdog** no longer writes false warnings in the log while the game loads or closes.
+- **Aircraft no longer fly into the ground** after a low pass: each aircraft reads the terrain 5 seconds ahead, on its real turn, and pulls out at least 20 m above it. Low flight stays low flight, and gun runs on helicopters still work. The same rule for you and for the AI.
+- **Ejected crews always land inside the map**, on dry ground, after the time of a real parachute descent: no more pilot lost off the map. An aircraft that returns to base no longer leaves **phantom pilots** on the ground.
+- **Fuel**: an aircraft busy with a mod order (dogfight, AI sortie) now heads home on its own at the game's fuel red line, instead of running dry outside the map.
+- **Guided bombs are released again in precision strikes** (KAB, GBU, B61, JSOW...), from the real flight height. No range has changed.
+- **AI counter-battery, real and fair**: the AI fires back only when its side has really located your fire (a counter-battery radar on the map, or the launch seen or heard by one of its units), after a real delay and with the radar's real error, on the place you fired from: a gun that moves after its salvo survives. One answer per located fire mission. The same rule for you.
+- **11 real loadouts** that never showed up are now in the pylon menu: Su-30SM (2 KAB-500), Su-25T (40 S-8 rockets), MiG-35 (2 Kh-31P), MiG-29K (2 KAB-500), Su-27SM (2 Kh-29L, 2 Kh-31P), F-16V (2 HARM, 2 CBU-105), F-15EX (2 GBU-31 bunker busters), F/A-18D (2 JSOW, 4 Mk 20 Rockeye). None is chosen by default: your decks do not change. The M-ATV's M-LIDS option now really carries its 2 Coyote Block 2.
+- **TOS thermobaric rockets** now have the blast overpressure of their warhead, and the **direct-fire shells of the Msta-S and the M109** hit as hard as the same shell fired as artillery.
+- **Smoother battles**: thousands of hidden errors removed from the mod's checks.
+
+### 🌐 Online
+- **5.8 is the minimum version to play together**: older versions see **Wrong version**.
+
+<div align="right"><a href="#top">back to top</a></div>
+
+---
+
+<a id="new-57"></a>
+
+## 🆕 What's new in 5.7: a fix
+
+- **A game freeze during precision strikes is fixed.** It was first seen when the S-70 Okhotnik fired its cluster cruise missiles; the same cause could freeze other precision strikes, the Iskander's included.
+
+<div align="right"><a href="#top">back to top</a></div>
+
+---
+
 <a id="new-56"></a>
 
 ## 🆕 What's new in 5.6: a new menu, the enemy's country, an AI with a player's eyes, a real supply war, two kinds of engineers
+
+*Since 5.8: a tonne bought costs 100 in Logistics Front, the realism mode is locked during the battle, and 5.8 is the minimum version to play together ([what's new in 5.8](#new-58)).*
 
 > [!IMPORTANT]
 > **Replaces 5.5 (and any older version):** copy the new files over the old ones. No weapon range has changed, and **your decks are kept**: only a card that became invalid is fixed (see below). The default **RUSSIA** and **USA** decks are rewritten once to add the two engineer cards (the previous copy is kept in the `Decks\avant_5.6` folder). **5.6 is the minimum version to play together**: a player with an older version sees **Wrong version**.
@@ -179,7 +274,7 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 - **Each player only acts on his own units**: the host's PC refuses a player's message that would change who owns a unit, destroy or change another player's units, spawn AI units or hand out units like a scenario script, and brings a starting health above the maximum back to it.
 - **Abnormal network packets** are thrown away before they are read; a burst of messages waits for the next frame instead of freezing the host: nothing honest is lost.
 - **Clean chat**: no formatting tags, line breaks or invisible characters, and nobody can take the name of the host, of the mod's author or of another player.
-- **Checks on the host's PC**: impossible money, cards, damage, rate of fire, repairs or movement are shown to the host in the **Mod check** panel, and the host chooses **Kick** or **Ignore**. The mod never kicks anyone on its own. [What is checked, what is noted.](#rules)
+- **Checks on the host's PC**: impossible actions are shown to the host in the **Mod check** panel, and the host chooses **Kick** or **Ignore**. The mod never kicks anyone on its own. [What is checked, what is noted.](#rules)
 - **Privacy**: the account that lends you the game (Steam Family Sharing) is no longer published in the lobbies' data, and nothing the host notes leaves the game.
 
 ### 🔧 Fixes between friends
@@ -861,6 +956,8 @@ What comes next, in order. Each step is released when it has been tested, not be
 | ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.4** | The free camera, digging in by stages, elite troops, forests that block fire, water closed to vehicles but not to infantry, right-click by road, counter-battery by radar or by sound, an AI that defends first, more equipment for small armies, 5.4 as the minimum online. |
 | ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.5** | An AI that sees what its units see and plays like a human, five levels of fortification for infantry and vehicles, engineers who fortify an area, snipers at their real range, real trajectories, ammunition that explodes by its real stowage, GPS jamming, wounded and recovered pilots, a unit cap chosen by the host, fast rope from helicopters, resupply by real weight, DLSS and draw distance, 5.5 as the minimum online. |
 | ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.6** | The enemy's country chosen everywhere and named after its head of state, an AI that sees what the game shows its side and attacks across the bridges, a real supply war in Logistics Front, depots hidden in the forests, two kinds of engineers in every country with mine clearing, precision strikes that land, surface-to-air missiles that leave the right way, both artillery modes together, missiles at their real warhead, trees that really fall, a protected host with fair checks, 5.6 as the minimum online. |
+| ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.7** | A fix for a game freeze during precision strikes. |
+| ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.8** | Stealth against radar only, real manoeuvrability and dogfights, real countermeasures priced on every aircraft, aircraft from further away, loadouts sorted by power, long-range air defence that leaves unguided rockets alone, fairer damage against infantry, anti-tank missiles kept for armour, tanks worn by hits that do not penetrate, real tank rounds, a tonne at 100 in Logistics Front, an AI ally with its own economy, the realism mode locked in battle, the commander on Workshop skirmish maps, 5.8 as the minimum online. |
 | ![next](https://img.shields.io/badge/-next-1f6feb?style=flat-square) | **The official scenarios, one by one** | Each official scenario reworked in turn: a choice of map size, **one enemy only, the mod's commander**, and more depth. |
 | ![later](https://img.shields.io/badge/-later-8957e5?style=flat-square) | **A commander for the campaign** | The mod's commander in the campaign missions, with the mission script left untouched. |
 | ![goal](https://img.shields.io/badge/-goal-bf8700?style=flat-square) | **7.0** | The campaign and the scenarios joined into **one long campaign with three possible endings**. |
@@ -914,7 +1011,7 @@ The mod has its own lobbies, run by **Steam**, not by the game's servers. The lo
 - A second line gives the **host's settings**: realism mode, map size, weather, commanders, and whether a password is set.
 - A **Ping** column (Steam's estimate), **filters**, and the number of **mod players online**.
 - **Join** only works with the **same mod version and file** and the **same game version**. Any other lobby shows **Wrong version**: clicking it opens this GitHub page. The mod never downloads anything.
-- **5.6 is the minimum version to play together**: a player with an older version sees **Wrong version**.
+- **5.8 is the minimum version to play together**: a player with an older version sees **Wrong version**.
 - **Steam friends playing the mod** have a section of their own: what each one is doing, his version, and a **Join** button (or **Rejoin the battle**). A friend in a private lobby shows no button, and passwords and friends-only lobbies still apply.
 
 ### Create a lobby
@@ -994,17 +1091,8 @@ An honest PC never sends these, so the host's PC simply throws the message away;
 - In the **chat**: formatting tags, line breaks and invisible characters are removed, and a name that imitates the host, the mod's author or another player is changed.
 
 ### What the host checks
-| Check | What counts as impossible |
-|---|---|
-| **Money** | Money that grows faster than the income allows, or more spent than earned. |
-| **Cards** | More units of one type alive than the card's copies, or cards that come back faster than the game allows. |
-| **Damage** | A hit stronger than the strongest round of the shooter's weapons. |
-| **Rate of fire** | More hits in a minute than the shooter's weapons can fire. |
-| **Repairs** | Health that comes back faster than a real repair. |
-| **Movement** | A unit that jumps across the map, or a ground vehicle far above its speed. |
-| **Other mods** | A mod loaded in the game that patches the game's money, purchases, cards, damage, health, ammunition or vision: yes or no, and the number of other mods loaded, never their names. |
+In every game between players, the host's PC looks for impossible actions and for other mods that change the game's rules (yes or no, and how many other mods are loaded, never their names), with wide margins so that an honest game is never flagged.
 
-- The limits of this table sit well above what an honest game produces: 30 % above the most the game allows, and the host is only warned at three times that limit. Lag, a reconnection, a refund or a vehicle lifted by a helicopter does not count.
 - The host, the AI and the mod's author are not checked. Play with a host you trust.
 
 ### What is noted
@@ -1092,8 +1180,8 @@ The mod's own scenario. Two bases, a big map, one enemy, and no money unless you
 | **Players** | Solo, or **up to 3 players on the same side** through a mod lobby. The host's rules and settings apply to everyone, and everyone needs the same DLCs to see the same units. |
 | **Unit cap** | **90, 100, 120 or 150 units at once per side** (since 5.5), chosen by the host in **Esc > Options > Mod**. The players of a side share it (with 90: 45 each for two, 30 each for three), and the commander's side has the same cap. Units on the map, in the shop basket and on their way all count, and so does the infantry on board. |
 | **Start** | On a road at your map edge, on a side drawn at random: **1,500 points per player** (the commander gets 1,500 for each human player) and **three supply trucks per player**, loaded to their real weight since 5.5. A 26.5-second camera flight, game paused, shows the enemy base, then yours. |
-| **Air power** | No helicopters and no aircraft for the first 10 minutes of play, helicopters from 10 minutes, aircraft from 20 minutes, for you and for the enemy. Pause and the intro do not count. Infantry that rides a helicopter counts as a helicopter. Since 5.5, aircraft arrive 3 km beyond the map edge and helicopters 1.5 km beyond it, and they never stay outside the map. A countdown sits in the banner at the top of the screen. |
-| **Income** | Nothing from the game. Since 5.6, every minute your side earns **2.5 points for every tonne** set down in its depots (in the piles, the buildings and the forest caches): 30 t = 75, 100 t = 250, 400 t = 1,000, in a straight line up to **3,000 a minute for the side**, shared between its players. At the start, each player's three trucks (30 t) pay 75 a minute. **A tonne bought costs 200 points** in Logistics Front (25 in the other modes): buying supply never pays back within a game, taking depots does. The commander's side is paid by the same rule. **Resupplying your units no longer earns money.** |
+| **Air power** | No helicopters and no aircraft for the first 10 minutes of play, helicopters from 10 minutes, aircraft from 20 minutes, for you and for the enemy. Pause and the intro do not count. Infantry that rides a helicopter counts as a helicopter. Since 5.8, aircraft arrive 4.5 km beyond the map edge and helicopters 1.9 km beyond it, and they never stay outside the map. A countdown sits in the banner at the top of the screen. |
+| **Income** | Nothing from the game. Since 5.6, every minute your side earns **2.5 points for every tonne** set down in its depots (in the piles, the buildings and the forest caches): 30 t = 75, 100 t = 250, 400 t = 1,000, in a straight line up to **3,000 a minute for the side**, shared between its players. At the start, each player's three trucks (30 t) pay 75 a minute. **A tonne bought costs 100 points** in Logistics Front since 5.8 (200 before, 25 in the other modes): a tonne set down pays itself back in about 40 minutes. The commander's side is paid by the same rule. **Resupplying your units no longer earns money.** |
 | **Depots** | Your trucks drive out and set up depots 3 to 7 km from your base, fanned out around it. A depot is taken by moving into it (blue = yours, red = enemy). A destroyed truck explodes. |
 | **Scouting** | An enemy depot is never seen from the air: infantry spots it at 800 m, ground reconnaissance at 1.5 km. His depots are scattered and hidden at forest edges and behind crests, away from the main roads. |
 | **Water** | On every map, vehicles that cannot swim do not drive into the water: cross by the bridges. Only amphibious vehicles cross the water, and infantry wades the fords on foot. |
@@ -1260,7 +1348,7 @@ Since 5.3 the chance is set **missile by missile**: a modern Patriot or S-400 mi
 - **Bombing from 1,200 to 1,500 m**: the bomb falls more steeply, and the trees get in the way less.
 - **Real missile profiles**: the Kinzhal, the Zircon and the ARRW fly the way they really do.
 - **Laser designation** is automatic and free on the 65 units that really carry a designator. No paid option, no manual button.
-- **Radar stealth**: F-22, F-35, B-2, F-117 and Comanche are detected much closer; the Su-57 is the stealthiest aircraft of the game.
+- **Stealth, against radar only** (since 5.8): F-22, F-35, B-2, F-117, RQ-170, Su-57 and S-70 Okhotnik are found by radar much closer, by the age of the radar (an S-400 finds an F-35 at about 6.5 km), while eyes, infrared and optical sensors see them like any other aircraft. The Comanche keeps its earlier stealth. [What's new in 5.8.](#new-58)
 - **150 loadout choices on the right pylons**: UMPK kits, KAB-250LG, Kh-59M2, Kh-38MTE, Kh-69, R-77M on the Russian side; GBU-31, GBU-39 SDB, CBU-105, AIM-120D, AARGM-ER, SLAM-ER, twelve JASSM on the B-52H; AGM-114R, Spike NLOS, LMUR, JAGM on the helicopters. Loadouts the real aircraft never carried are hidden.
 - **Rocket pods** fire half their rockets in lofted fire over an area, 3 to 6 km. Blast radii follow the real weight of every bomb.
 - **An emptied transport** returns to base on its own.
@@ -1585,7 +1673,7 @@ Everything in the mod is always on, except the few things you can change, shown 
 
 | Setting | Where | Choices |
 |---|---|---|
-| **Realism mode** | Esc > Options > Mod | Realistic or Semi-realistic (default); in co-op the host decides |
+| **Realism mode** | Esc > Options > Mod, or the **Create a game** panel (since 5.8) | Realistic or Semi-realistic (default), chosen before the game and locked during the battle; in co-op the host decides |
 | **Wrecks, bodies, fires and craters** | Esc > Options > Mod | One row since 5.3: 5, 15, 30 or 60 minutes or **Infinite** (30 by default); in co-op the host decides. Many bodies and fires at once can lower the frame rate on small PCs |
 | **Unit cap** (Logistics Front) | Esc > Options > Mod | 90, 100, 120 or 150 units per side (since 5.5), shared by the players of the side; in co-op the host decides |
 | **DLSS** | Options > Graphics | DLAA, Quality, Balanced, Performance or Ultra performance, on NVIDIA RTX cards (switch FSR 3 off first); each player sets his own |
@@ -1644,6 +1732,8 @@ The in-game texts in the five languages and the translations of this page were m
 
 | Version | Date | Highlights |
 |:-:|:-:|---|
+| **5.8** | October 2026 | Stealth against radar only: eyes, infrared and optics see stealth aircraft like any other, radar finds them by its age. Real manoeuvrability for every fighter, missile evasion by manoeuvrability, your fighters hunting the enemy aircraft your side sees and coming home when hit or short of ammunition. Every aircraft priced on its real self-protection suite, which fools missiles more often; the manual flares button removed. Aircraft and helicopters from further away, a free camera up to 9,000 m, pylon choices sorted by power with filters. Long-range air defence no longer fires at unguided 220/227 mm rockets and destroys the heavy rockets it reaches far more often. One shell no longer wipes out a squad, shaped-charge anti-tank missiles no longer fire at infantry, anti-tank teams keep their missiles for armour, squads barricade themselves in buildings up to level 2. Hits that do not penetrate damage optics, sights, crew, tracks or engine; real main-gun rounds on board. Logistics Front: a tonne at 100 and ammunition counted once; an AI ally with its own trucks and its own money. The realism mode locked during the battle, the commander on Workshop skirmish maps, lobby chat fixed, 5.8 as the minimum online. |
+| **5.7** | October 2026 | A game freeze during precision strikes fixed (first seen with the S-70 Okhotnik's cluster cruise missiles). |
 | **5.6** | October 2026 | The enemy's country (and the AI ally's) chosen in every scenario, the skirmish and the campaign; the commander bears the name of the head of state, General Dan Caine for the United States. An AI that sees exactly what the game shows its side, forests that hide only silent units, the bridges of enlarged maps used by the AI, more infantry with heliborne and paradropped troops, aircraft that stay out of known air defence, reinforcements in groups, engineers from minute 5, supply trucks that come to its units; one commander per side and an AI ally as competent as the enemy. Logistics Front: 2.5 points a minute per tonne stocked, up to 3,000 per side, a tonne bought at 200 (25 in the other modes), depots hidden in forest caches. Two kinds of engineers in every country (14 new cards), Clear a mine lane, only construction engineers fortify buildings. Precision strikes that land (KAB, GBU, B61), guns with a real chance against guided bombs, surface-to-air missiles launched vertically or towards the target and over the terrain, both artillery modes together and rocket launchers detected by their launches, missiles at their real warhead (82 corrected), the real price of aircraft with their loadout. Every explosion blows down all the trees within its blast radius, trees that really fall on enlarged maps, direct fire by the real trunk. Standing soldiers treated at the depot, armour-piercing shells at full damage when they just penetrate, cards full at the start of every game between friends. Capture points in place on enlarged maps, destroyed oil tanks in place, flashes and marks seen from far away, dust, fewer traffic jams, helicopters low by default. A protected host, checks shown to the host who decides, a clean chat, the lending account no longer published, missiles shot down destroyed for everyone. A new menu (Play: Campaign, Create a game, Find a lobby) with one panel for every game, a new lobby where each player picks his country and deck, decks kept at every update, artillery in battery, destroyed vehicles that explode with only the explosive still on board, the mod's music on the game's Music slider. 5.6 as the minimum online. |
 | **5.5** | October 2026 | An enemy commander who sees everything his units see and nothing more, and plays like a human: recon hidden in the forests, guns that move after every salvo, anti-tank teams at the bridges, layered air defence that switches its radars off, armoured raids under smoke, aviation used like a player's, infantry that holds the buildings, engineers and a GPS jammer; no income and no purchases during a pause. Five real levels of fortification for infantry and vehicles, engineers who fortify an area with visible walls, dug-in depots, stock stored in buildings, 6 engineer squads per card. Snipers at their real practical range; real trajectories for top-attack missiles, glide bombs, loitering munitions and ballistic missiles; real shell flight times; one guided bomb per target; ammunition that explodes by its real stowage; GPS jamming; wounded who come back; recovered pilots who give back their card; trucks and ammunition at their real weight; every movement speed +10 %; Grad incendiary rockets at their real values; ammunition and missiles reloaded by their real weight; fast rope from helicopters, for the AI too. Logistics Front: a unit cap of 90 to 150 per side chosen by the host, contested base capture, aircraft from further out. DLSS and draw distance in the graphics options. Bridges, infantry movement, AI vehicles in the water and short freezes fixed; official scenarios at their original size and the same enlarged maps for everyone in multiplayer; rejoin with ammunition and fuel, supply and depot capture between friends, the same stats tables on every PC, the weapon panel and decks with mod units fixed. 5.5 as the minimum online. |
 | **5.4** | October 2026 | A free camera from 6 m to 6,000 m. Realistic digging in by stages, elite troops that are faster and more accurate, forests that block direct fire and operator-guided missiles. Non-amphibious vehicles that stay out of the water, amphibious vehicles at their real speed, infantry that wades the fords. Right-click by road, double right-click across country, the B key, unarmed transport and supply trucks that drive home on their own once empty. Helicopters and aircraft higher in high flight, low-flying helicopters that fire again, at their real speed. Two artillery modes, Fire at spotted units and Counter-battery, by radar or by sound, and five real counter-battery radars. An AI that first holds a defensive line. Real equipment for every country, Poland and Donbass completed, recon drones for Belarus and Donbass. Loadouts and display fixed, cleaner enlarged maps, real speeds on hills, a real, darker night. 5.4 as the minimum online, Steam relays only. |
