@@ -5,7 +5,7 @@
 <p align="center"><b>La campagne, les scénarios et l'escarmouche, menés comme le matériel a réellement été conçu pour combattre.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.8-2ea44f?style=for-the-badge" alt="Version 5.8">
+  <img src="https://img.shields.io/badge/version-5.9-2ea44f?style=for-the-badge" alt="Version 5.9">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.8-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 5.8"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 5.9"></a>
   <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre le Discord"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Chaîne YouTube"></a>
 </p>
@@ -34,6 +34,8 @@
 Broken Arrow te donne de vrais véhicules, de vraies armes et une vraie doctrine, puis laisse un obusier de 152 mm faire tomber un obus sur le char garé juste à côté de lui, laisse une mitrailleuse abattre un avion à trois kilomètres d'altitude, et plafonne chaque missile à 9 km, le bord de ses anciennes cartes.
 
 Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles, lit les cartes et les scripts de mission du jeu lui-même, fixe le prix de chaque unité selon ce qu'elle peut vraiment faire, donne à chaque avion et à chaque canon les emports de son équivalent réel, donne à chaque arme sa portée publiée jusqu'à 100 km, et place un **second commandant** de l'autre côté de la carte, qui observe ce que tu déploies et y répond. Tu combats pour une **nation**, l'un des onze pays répartis en deux camps, l'OTAN et l'OTSC. Chaque véhicule, chaque arme et chaque munition a **son vrai blindage, sa vraie vitesse et sa vraie cadence de tir**, chaque explosif **son vrai souffle et sa vraie fragmentation**, et c'est toi qui **choisis ton réalisme** : réaliste ou semi-réaliste.
+
+**La 5.9 apporte deux nouveaux modes contre l'IA, choisis par le vote des joueurs, et des équipages qui sortent de leurs véhicules.** En **Percée**, l'attaquant doit prendre trois lignes de défense l'une après l'autre dans des quartiers urbains, 45 minutes par ligne, face à un défenseur qui voit toutes ses lignes et a ses hélicoptères, ses avions et des champs de mines antichars dès le début. En **Chasse au poste de commandement**, tu dois trouver et détruire le PC ennemi, avec ton stock de ravitaillement pour argent. Les cartes multijoueur proposent maintenant les mêmes modes en joueurs contre joueurs pur, jusqu'à trois joueurs par camp. Un véhicule touché presque à mort peut maintenant être **abandonné** : son équipage sort et rend la carte une fois ramené à ta base, et les **dépanneurs** remettent en service les véhicules abandonnés. Le Geran-5 à réaction ne tombe plus que sous les missiles, les départs et les explosions donnent une **vraie lumière**, et les traînées restent bien plus longtemps dans le ciel. La 5.9 est la version minimale pour jouer ensemble.
 
 **La 5.8 refait la guerre aérienne et corrige ce que les joueurs ont signalé au sol.** La furtivité ne joue plus que **contre le radar** : l'œil, l'infrarouge et l'optique voient un F-35 comme n'importe quel avion, et chaque radar le trouve à une distance qui dépend de son âge. Chaque chasseur vire à sa **vraie vitesse de virage**, les Soukhoï à poussée vectorielle en tête, et peut **esquiver un missile** selon sa manœuvrabilité ; tes chasseurs sans ordre **chassent les avions ennemis** que ton camp voit, puis rentrent s'ils sont touchés ou à court de munitions. Chaque appareil paie sa **vraie suite d'autoprotection**, qui trompe maintenant plus souvent les missiles, et les avions arrivent de plus loin. Au sol, **un obus ne rase plus une escouade**, les missiles antichars à charge creuse ne tirent plus sur l'infanterie, les équipes antichars gardent leurs missiles pour les blindés, un coup qui ne perce pas peut quand même **aveugler ou ralentir un char**, et la DCA à longue portée ne gaspille plus ses missiles sur des roquettes non guidées. En Front Logistique, la tonne coûte **100**, l'allié IA a ses propres camions et son propre argent, et le mode de réalisme est **figé** dès que la bataille commence. La 5.7 a corrigé un gel du jeu pendant les frappes de précision. La 5.8 est la version minimale pour jouer ensemble.
 
@@ -83,7 +85,7 @@ Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles, lit les 
 
 | Le mod | Le champ de bataille | Pratique |
 |---|---|---|
-| [Nouveautés de la 5.8](#new-58) · [5.7](#new-57) · [5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [précédentes](#earlier) | [Front Logistique](#logistics-front) | [Où il fonctionne](#where-it-runs) |
+| [Nouveautés de la 5.9](#new-59) · [5.8](#new-58) · [5.7](#new-57) · [5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [précédentes](#earlier) | [Front Logistique](#logistics-front) | [Où il fonctionne](#where-it-runs) |
 | [Feuille de route](#roadmap) | [Les 22 cartes](#maps) | [Télécharger et installer](#install) |
 | [Le menu du mod](#menu) | [Le commandant ennemi](#commander) | [Mettre à jour ou désinstaller](#update) |
 | [Salons Steam : jouer ensemble](#lobbies) · [coop](#coop) · [retour en bataille](#rejoin) · [règles et vie privée](#rules) | [Guerre aérienne](#air-war) | [Réglages](#settings) |
@@ -94,9 +96,70 @@ Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles, lit les 
 
 ---
 
+<a id="new-59"></a>
+
+## 🆕 Nouveautés de la 5.9 : deux nouveaux modes contre l'IA, les équipages au sol, les dépanneurs, de vraies lumières et des traînées
+
+> [!IMPORTANT]
+> **Remplace la 5.8 (et toute version plus ancienne) :** copie les nouveaux fichiers par-dessus les anciens. Tes decks sont gardés. **La 5.9 est la nouvelle version minimale pour jouer ensemble** : tous les joueurs d'un salon doivent avoir la 5.9, et un joueur qui a une version plus ancienne voit **Mauvaise version**.
+
+### ⚔️ Percée : un nouveau mode contre l'IA
+*Choisi par le vote des joueurs.*
+- L'attaquant doit prendre **3 lignes de défense successives** dans des quartiers urbains : **3 zones, puis 2, puis 2**. Une ligne ne tombe que quand **toutes** ses zones sont prises, et une zone prise disparaît.
+- L'attaquant **ne voit que la ligne en cours** ; le défenseur voit toutes les siennes.
+- **Zone interdite** : les unités au sol de l'attaquant ne peuvent pas dépasser la ligne active. Les avions et les hélicoptères, si, mais aucune troupe ne peut être déposée derrière.
+- **45 minutes par ligne**, remises à 45 à chaque nouvelle ligne : à 0, l'attaquant perd. Après la chute d'une ligne, le défenseur a **2 minutes** pour se replier sur la suivante.
+- **2 minutes de préparation** : le défenseur pose ses unités directement dans ses zones, et une barrière l'empêche d'avancer vers l'attaquant.
+- Le défenseur a **hélicoptères et avions dès le début**, et des **champs de mines antichars** ; l'attaquant a ses hélicoptères à 10 minutes et ses avions à 20.
+- Économie : défenseur **3 000 points + 200 par minute**, attaquant **2 000 + 150 par minute**.
+
+### 🎯 Chasse au poste de commandement : un nouveau mode contre l'IA
+- **Trouve et détruis le poste de commandement ennemi.**
+- Ton argent, c'est ton **stock de ravitaillement**, comme en Front Logistique.
+
+### 🗺️ Le menu : les modes de jeu
+- Dans **Créer une partie**, la section **Front Logistique** devient **Modes de jeu contre l'IA**, avec les vrais noms des cartes. Le mode (**Front Logistique**, **Percée** ou **Chasse au poste de commandement**) se choisit dans la ligne **Mode de jeu** du panneau.
+- Les **Cartes multijoueur** ont aussi une ligne **Mode de jeu** : **Officiel**, **Front**, **Percée** ou **Chasse**, en **joueurs contre joueurs** pur, sans aucune IA, jusqu'à **3 joueurs par camp**.
+- Les cartes du **Steam Workshop** gardent leur coop contre le commandant.
+
+### 🧑‍🔧 Les équipages au sol
+*Une idée de cryohellinc, Анчутка et Andrew Woods.*
+- Un véhicule touché presque à mort peut être **abandonné** : il est immobilisé et son **équipage sort**. Ramène l'équipage à la base pour **récupérer la carte**, comme les pilotes éjectés.
+- Un véhicule abandonné **peut prendre feu puis exploser** plus tard.
+- **Dépanneurs** : le **BREM-1**, le **M88A2**, le **Bergepanzer 3**, le **BREM-1** ukrainien et le **WZT-3** réparent un véhicule abandonné, jusqu'à 40 %. Le matériel occidental moderne demande **1,5 fois plus de temps** de réparation que le matériel soviétique et russe.
+- Les **véhicules à roues** sont plus souvent ralentis qu'immobilisés, et parfois ils **repartent en boitant** au lieu d'être abandonnés.
+- Les pilotes et les équipages à pied **ne comptent plus dans la limite d'unités**.
+- Mêmes règles pour les joueurs et pour l'IA, en solo, en coop et en multijoueur. Pas de mécanique de panique.
+
+### 🛩️ Geran-5 : seulement aux missiles
+*Une demande d'Andrew Woods.*
+- Le **drone kamikaze à réaction à 600 km/h** (le Geran-5 russe, le Hellhound américain) et le **Geran-5 tiré par le Su-25SM** ne peuvent plus être abattus **que par des missiles** : sol-air, portatifs ou air-air. Les canons et les mitrailleuses ne le visent plus.
+
+### ✨ Visuels
+- **De vraies lumières** au départ des missiles et aux explosions, de jour comme de nuit.
+- **La fumée de départ**, brun-gris, poussiéreuse et transparente, grossit quand plusieurs missiles partent du même endroit.
+- **Les traînées grises** des avions, des hélicoptères, des roquettes et des missiles restent beaucoup plus longtemps : jusqu'à 90 à 120 secondes en Ultra.
+
+### 🔧 Corrections
+- Un dépôt fortifié ne disparaît plus et ne réapparaît plus en boucle, et ne perd plus de ravitaillement à chaque fois (vu dans les vidéos de cryohellinc).
+- Les grands textes jaunes sont plus petits sur les écrans larges et 2K (signalé par Анчутка).
+- Le bandeau du haut est remonté (demandé par cryohellinc).
+- Plusieurs erreurs internes corrigées (pilotes, anti-hélicoptère, fumées), et le jeu est plus fluide.
+
+### 🌐 En ligne
+- **La 5.9 est la nouvelle version minimale pour jouer ensemble** : tous les joueurs d'un salon doivent avoir la 5.9.
+
+*Merci à cryohellinc, Анчутка, Andrew Woods et Radeon, et à tous ceux qui ont voté au sondage.*
+
+<div align="right"><a href="#top">retour en haut</a></div>
+
+---
+
 <a id="new-58"></a>
 
 ## 🆕 Nouveautés de la 5.8 : la furtivité contre le radar seulement, le vrai dogfight, de vraies contre-mesures, l'usure des chars, des dégâts plus justes contre l'infanterie
+
+*Depuis la 5.9 : la 5.9 est la version minimale pour jouer ensemble ([nouveautés de la 5.9](#new-59)).*
 
 > [!IMPORTANT]
 > **Remplace la 5.7 (et toute version plus ancienne) :** copie les nouveaux fichiers par-dessus les anciens. Aucune portée d'arme n'a changé et tes decks sont gardés. Les avions et les hélicoptères coûtent maintenant plus cher avec leur suite d'autoprotection : contrôle la catégorie aérienne de tes decks. **La 5.8 est la version minimale pour jouer ensemble** : un joueur qui a une version plus ancienne voit **Mauvaise version**.
@@ -957,6 +1020,7 @@ Ce qui vient ensuite, dans l'ordre. Chaque étape sort quand elle a été testé
 | ![publiée](https://img.shields.io/badge/-publi%C3%A9e-2ea44f?style=flat-square) | **5.6** | Le pays de l'ennemi au choix partout et au nom de son chef d'État, une IA qui voit ce que le jeu montre à son camp et attaque par les ponts, une vraie guerre du ravitaillement en Front Logistique, des dépôts cachés en forêt, deux génies dans chaque pays avec le déminage, des frappes de précision qui arrivent, des missiles sol-air qui partent dans le bon sens, les deux modes d'artillerie ensemble, les missiles à leur vraie charge, des arbres qui tombent vraiment, un hôte protégé avec des contrôles justes, la 5.6 comme minimum en ligne. |
 | ![publiée](https://img.shields.io/badge/-publi%C3%A9e-2ea44f?style=flat-square) | **5.7** | Correction d'un gel du jeu pendant les frappes de précision. |
 | ![publiée](https://img.shields.io/badge/-publi%C3%A9e-2ea44f?style=flat-square) | **5.8** | La furtivité contre le radar seulement, la vraie manœuvrabilité et le dogfight, de vraies contre-mesures payées sur chaque appareil, des avions qui arrivent de plus loin, des emports triés par puissance, une DCA à longue portée qui laisse les roquettes non guidées, des dégâts plus justes contre l'infanterie, des missiles antichars gardés pour les blindés, l'usure des chars par les coups qui ne percent pas, les vrais obus des chars, la tonne à 100 en Front Logistique, un allié IA à l'économie propre, le mode de réalisme figé en bataille, le commandant sur les cartes d'escarmouche du Workshop, la 5.8 comme version minimale en ligne. |
+| ![publiée](https://img.shields.io/badge/-publi%C3%A9e-2ea44f?style=flat-square) | **5.9** | Deux nouveaux modes contre l'IA, Percée et Chasse au poste de commandement, jouables aussi en joueurs contre joueurs pur sur les cartes multijoueur ; des véhicules abandonnés dont l'équipage peut être ramené, des dépanneurs, des véhicules à roues qui repartent en boitant ; le Geran-5 à réaction abattu seulement par des missiles ; de vraies lumières aux départs et aux explosions, des traînées plus longues ; la 5.9 comme version minimale en ligne. |
 | ![suivante](https://img.shields.io/badge/-suivante-1f6feb?style=flat-square) | **Les scénarios officiels, un par un** | Chaque scénario officiel retravaillé à son tour : un choix de taille de carte, **un seul ennemi, le commandant du mod**, et plus de profondeur. |
 | ![plus tard](https://img.shields.io/badge/-plus%20tard-8957e5?style=flat-square) | **Un commandant pour la campagne** | Le commandant du mod dans les missions de campagne, sans toucher au script de la mission. |
 | ![objectif](https://img.shields.io/badge/-objectif-bf8700?style=flat-square) | **7.0** | La campagne et les scénarios réunis en **une seule longue campagne avec trois fins possibles**. |
@@ -981,7 +1045,7 @@ Trois vignettes, côte à côte :
 | Vignette | Ce qu'elle ouvre |
 |---|---|
 | **Campagne** | La campagne du jeu, intacte, jouée avec les règles du mod. |
-| **Créer une partie** | À gauche, quatre sections, toutes fermées à l'ouverture : **Cartes multijoueur** (avec leur image ; l'escarmouche est là), **Front Logistique**, **Scénarios officiels** et **Steam Workshop**. À droite, **un seul panneau** : la carte et sa description, le mode sur les cartes multijoueur (**Coop contre l'IA** ou **Joueurs contre joueurs**), la taille, ton camp, ton pays et ton groupe de combat, le commandant ennemi (niveau, un ou plusieurs pays), l'allié IA (solo seulement), le titre et le mot de passe du salon, l'heure et la météo. Puis **Jouer en solo** (hors ligne, sans salon) ou **Jouer en multijoueur** (un salon du mod). |
+| **Créer une partie** | À gauche, quatre sections, toutes fermées à l'ouverture : **Cartes multijoueur** (avec leur image ; l'escarmouche est là), **Modes de jeu contre l'IA** (depuis la 5.9 : Front Logistique, Percée ou Chasse au poste de commandement, dans la ligne **Mode de jeu**), **Scénarios officiels** et **Steam Workshop**. À droite, **un seul panneau** : la carte et sa description, le mode sur les cartes multijoueur (**Coop contre l'IA** ou **Joueurs contre joueurs**), la taille, ton camp, ton pays et ton groupe de combat, le commandant ennemi (niveau, un ou plusieurs pays), l'allié IA (solo seulement), le titre et le mot de passe du salon, l'heure et la météo. Puis **Jouer en solo** (hors ligne, sans salon) ou **Jouer en multijoueur** (un salon du mod). |
 | **Chercher un salon** | La liste des salons Steam du mod (seulement des salons : une partie se crée dans **Créer une partie**), et tes **amis Steam qui jouent au mod**. |
 
 L'Arsenal et l'Éditeur restent à leur place. La vignette Multijoueur officielle et la recherche rapide ont disparu du menu.
@@ -1010,7 +1074,7 @@ Le mod a ses propres salons, gérés par **Steam**, pas par les serveurs du jeu.
 - Une deuxième ligne donne les **réglages de l'hôte** : mode de réalisme, taille de la carte, météo, commandants, et la présence ou non d'un mot de passe.
 - Une colonne **Ping** (l'estimation de Steam), des **filtres**, et le nombre de **joueurs du mod en ligne**.
 - **Rejoindre** ne fonctionne qu'avec la **même version et le même fichier du mod** et la **même version du jeu**. Tout autre salon affiche **Mauvaise version** : un clic dessus ouvre cette page GitHub. Le mod ne télécharge jamais rien.
-- **La 5.8 est la version minimale pour jouer ensemble** : un joueur qui a une version plus ancienne voit **Mauvaise version**.
+- **La 5.9 est la version minimale pour jouer ensemble** : un joueur qui a une version plus ancienne voit **Mauvaise version**.
 - **Amis Steam qui jouent au mod** : une section à part montre ce que fait chacun, sa version, et un bouton **Rejoindre** (ou **Revenir dans la partie**). Un ami dans un salon privé n'a pas de bouton, et les mots de passe et les salons réservés aux amis s'appliquent toujours.
 
 ### Créer un salon
@@ -1726,6 +1790,7 @@ Les textes du jeu dans les cinq langues et les traductions de cette page ont ét
 
 | Version | Date | Points forts |
 |:-:|:-:|---|
+| **5.9** | Octobre 2026 | Deux nouveaux modes contre l'IA, votés par les joueurs : Percée (3 lignes de défense successives dans des quartiers urbains, 3, 2 et 2 zones, toutes les zones d'une ligne à prendre, seule la ligne en cours visible pour l'attaquant, une zone interdite pour ses unités au sol, 45 minutes par ligne, 2 minutes de préparation, un défenseur avec hélicoptères, avions et champs de mines antichars dès le début) et Chasse au poste de commandement (trouver et détruire le PC ennemi, l'argent venant du stock de ravitaillement). La section Front Logistique devient Modes de jeu contre l'IA, avec une ligne Mode de jeu ; les cartes multijoueur reçoivent Officiel, Front, Percée et Chasse en joueurs contre joueurs pur, jusqu'à 3 joueurs par camp. Véhicules abandonnés : l'équipage sort et rend la carte, un véhicule abandonné peut brûler puis exploser, les dépanneurs réparent jusqu'à 40 %, les véhicules à roues repartent en boitant, pilotes et équipages à pied hors de la limite d'unités. Le Geran-5 à réaction abattu seulement par des missiles. De vraies lumières aux départs et aux explosions, une fumée de départ poussiéreuse, des traînées jusqu'à 90-120 s. Dépôt ennemi qui clignotait, grands textes jaunes et bandeau du haut corrigés, erreurs internes corrigées, un jeu plus fluide. La 5.9 comme version minimale en ligne. |
 | **5.8** | Octobre 2026 | La furtivité contre le radar seulement : l'œil, l'infrarouge et l'optique voient les avions furtifs comme les autres, le radar les trouve selon son âge. La vraie manœuvrabilité de chaque chasseur, l'esquive des missiles selon la manœuvrabilité, tes chasseurs qui chassent les avions ennemis que ton camp voit et rentrent s'ils sont touchés ou à court de munitions. Chaque appareil payé selon sa vraie suite d'autoprotection, qui trompe plus souvent les missiles ; le bouton manuel des leurres retiré. Avions et hélicoptères qui arrivent de plus loin, caméra libre jusqu'à 9 000 m, choix des pylônes triés par puissance avec des filtres. La DCA à longue portée ne tire plus sur les roquettes non guidées de 220/227 mm et détruit bien plus souvent les roquettes lourdes qu'elle atteint. Un obus ne rase plus une escouade, les missiles antichars à charge creuse ne tirent plus sur l'infanterie, les équipes antichars gardent leurs missiles pour les blindés, les escouades se barricadent dans les bâtiments jusqu'à l'échelon 2. Les coups qui ne percent pas abîment optiques, visée, équipage, chenilles ou moteur ; les vrais obus du canon à bord. Front Logistique : la tonne à 100 et les munitions comptées une seule fois ; un allié IA avec ses propres camions et son propre argent. Le mode de réalisme figé pendant la bataille, le commandant sur les cartes d'escarmouche du Workshop, le chat du salon corrigé, la 5.8 comme version minimale en ligne. |
 | **5.7** | Octobre 2026 | Correction d'un gel du jeu pendant les frappes de précision (vu d'abord avec les missiles de croisière à sous-munitions du S-70 Okhotnik). |
 | **5.6** | Octobre 2026 | Le pays de l'ennemi (et de l'allié IA) au choix dans chaque scénario, l'escarmouche et la campagne ; le commandant porte le nom du chef d'État, le général Dan Caine pour les États-Unis. Une IA qui voit exactement ce que le jeu montre à son camp, une forêt qui ne cache plus que les unités silencieuses, les ponts des cartes agrandies utilisés par l'IA, plus d'infanterie avec des troupes héliportées et parachutées, des avions qui restent hors de la DCA connue, des renforts groupés, le génie dès la 5e minute, des camions de ravitaillement qui viennent à ses unités ; un seul commandant par camp et un allié IA aussi compétent que l'ennemi. Front Logistique : 2,5 points par minute et par tonne stockée, jusqu'à 3 000 par camp, la tonne achetée à 200 (25 dans les autres modes), des dépôts cachés dans des caches en forêt. Deux génies dans chaque pays (14 cartes neuves), Déminer un passage, seuls les ingénieurs de construction fortifient les bâtiments. Des frappes de précision qui arrivent (KAB, GBU, B61), des canons avec une vraie chance contre les bombes guidées, des missiles sol-air lancés à la verticale ou vers la cible et au-dessus du relief, les deux modes d'artillerie ensemble et les lance-roquettes repérés à leurs départs, les missiles à leur vraie charge (82 corrigés), le vrai prix des avions avec leur emport. Chaque explosion couche tous les arbres de son rayon de souffle, des arbres qui tombent vraiment sur les cartes agrandies, le tir direct selon le vrai tronc. Les soldats debout soignés au dépôt, les obus perforants à dégâts pleins quand ils percent de justesse, des cartes pleines au début de chaque partie entre amis. Les points de capture à leur place sur les cartes agrandies, les réservoirs détruits à leur place, éclairs et marques visibles de loin, poussière, moins de bouchons, hélicoptères en vol bas par défaut. Un hôte protégé, des contrôles montrés à l'hôte qui décide, un chat propre, le compte prêteur plus publié, les missiles abattus détruits chez tous. Un nouveau menu (Jouer : Campagne, Créer une partie, Chercher un salon) avec un seul panneau pour chaque partie, un nouveau salon où chaque joueur choisit son pays et son deck, des decks gardés à chaque mise à jour, l'artillerie en batterie, des véhicules détruits qui n'explosent qu'avec l'explosif encore à bord, la musique du mod sur le curseur Musique du jeu. La 5.6 comme version minimale en ligne. |

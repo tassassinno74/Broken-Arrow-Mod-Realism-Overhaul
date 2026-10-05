@@ -5,7 +5,7 @@
 <p align="center"><b>Kampagne, Szenarien und Gefecht, ausgetragen so, wie das Gerät wirklich zum Kämpfen gebaut wurde.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.8-2ea44f?style=for-the-badge" alt="Version 5.8">
+  <img src="https://img.shields.io/badge/version-5.9-2ea44f?style=for-the-badge" alt="Version 5.9">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.8-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 5.8 herunterladen"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 5.9 herunterladen"></a>
   <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Dem Discord beitreten"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube-Kanal"></a>
 </p>
@@ -34,6 +34,8 @@
 Broken Arrow gibt dir echte Fahrzeuge, echte Waffen und echte Doktrin, und dann lässt es eine 152-mm-Haubitze eine Granate auf den Panzer setzen, der direkt neben ihr steht, lässt ein Maschinengewehr ein Flugzeug in drei Kilometern Höhe vom Himmel holen und deckelt jede Rakete bei 9 km, dem Rand seiner alten Karten.
 
 Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Karten und Missionsskripte des Spiels selbst, bepreist jede Einheit nach dem, was sie wirklich kann, gibt jedem Flugzeug und jedem Geschütz die Bewaffnung seines realen Vorbilds, gibt jeder Waffe ihre veröffentlichte Reichweite bis 100 km und setzt dir auf der anderen Seite der Karte einen **zweiten Kommandeur** gegenüber, der liest, was du aufstellst, und darauf antwortet. Du kämpfst als **Nation**, als eines von elf Ländern in zwei Lagern, NATO und OVKS. Jedes Fahrzeug, jede Waffe und jedes Geschoss hat seine **echte Panzerung, Geschwindigkeit und Feuerrate**, jeder Sprengkörper seine **echte Druck- und Splitterwirkung**, und du **wählst deinen Realismus**: realistisch oder halbrealistisch.
+
+**5.9 bringt zwei neue Modi gegen die KI, von den Spielern gewählt, und Besatzungen, die ihr Fahrzeug verlassen.** Im **Durchbruch** muss der Angreifer drei Verteidigungslinien nacheinander in Stadtvierteln nehmen, 45 Minuten pro Linie, gegen einen Verteidiger, der alle seine Linien sieht und von Anfang an Hubschrauber, Flugzeuge und Panzerminenfelder hat. Bei der **Jagd auf den Gefechtsstand** musst du den feindlichen Gefechtsstand finden und zerstören, und dein Geld ist dein Versorgungsbestand. Die Mehrspielerkarten bieten dieselben Modi jetzt als reines Spieler gegen Spieler, bis zu drei Spieler pro Seite. Ein fast zerstörtes Fahrzeug kann jetzt **aufgegeben** werden: Die Besatzung steigt aus und bringt die Karte zurück, sobald sie deine Basis erreicht, und **Bergepanzer** setzen aufgegebene Fahrzeuge wieder instand. Die Geran-5 mit Strahltriebwerk fällt nur noch durch Flugkörper, Starts und Explosionen werfen **echtes Licht**, und Rauchspuren bleiben viel länger am Himmel. 5.9 ist die Mindestversion für das gemeinsame Spiel.
 
 **5.8 baut den Luftkrieg um und behebt, was Spieler am Boden gemeldet haben.** Tarnkappe wirkt jetzt **nur noch gegen Radar**: Auge, Infrarot und Optik sehen eine F-35 wie jedes andere Flugzeug, und jedes Radar findet sie auf eine Entfernung, die von seinem Alter abhängt. Jeder Jäger kurvt mit seiner **echten Wenderate**, die Suchois mit Schubvektorsteuerung vorne, und kann einem Flugkörper nach seiner Wendigkeit **ausweichen**; deine Jäger ohne Befehl **jagen die feindlichen Flugzeuge**, die deine Seite sieht, und kehren zurück, wenn sie getroffen sind oder kaum noch Munition haben. Jedes Luftfahrzeug bezahlt seine **echte Selbstschutzausrüstung**, die Flugkörper jetzt öfter täuscht, und Flugzeuge kommen von weiter her. Am Boden **löscht eine Granate keinen Trupp mehr aus**, Panzerabwehrlenkflugkörper mit Hohlladung schießen nicht mehr auf Infanterie, Panzerabwehrtrupps sparen ihre Flugkörper für Panzer, ein Treffer, der nicht durchschlägt, kann einen Panzer trotzdem **blenden oder bremsen**, und die Langstrecken-Flugabwehr verschwendet keine Flugkörper mehr auf ungelenkte Raketen. An der Logistikfront kostet eine Tonne **100**, der KI-Verbündete hat eigene Lkw und eigenes Geld, und der Realismus-Modus ist **festgelegt**, sobald die Schlacht beginnt. 5.7 hat ein Einfrieren des Spiels bei Präzisionsschlägen behoben. 5.8 ist die Mindestversion für das gemeinsame Spiel.
 
@@ -83,7 +85,7 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 
 | Die Mod | Das Schlachtfeld | Praktisches |
 |---|---|---|
-| [Neu in 5.8](#new-58) · [5.7](#new-57) · [5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [frühere](#earlier) | [Logistikfront](#logistics-front) | [Wo die Mod läuft](#where-it-runs) |
+| [Neu in 5.9](#new-59) · [5.8](#new-58) · [5.7](#new-57) · [5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [frühere](#earlier) | [Logistikfront](#logistics-front) | [Wo die Mod läuft](#where-it-runs) |
 | [Roadmap](#roadmap) | [Die 22 Karten](#maps) | [Download und Installation](#install) |
 | [Das Menü der Mod](#menu) | [Der feindliche Kommandeur](#commander) | [Update oder Deinstallation](#update) |
 | [Steam-Lobbys: gemeinsam spielen](#lobbies) · [Koop](#coop) · [Rückkehr](#rejoin) · [Regeln und Privatsphäre](#rules) | [Luftkrieg](#air-war) | [Einstellungen](#settings) |
@@ -94,9 +96,70 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 
 ---
 
+<a id="new-59"></a>
+
+## 🆕 Neu in 5.9: zwei neue Modi gegen die KI, Besatzungen am Boden, Bergepanzer, echtes Licht und Rauchspuren
+
+> [!IMPORTANT]
+> **Ersetzt 5.8 (und jede ältere Version):** Kopiere die neuen Dateien über die alten. Deine Decks bleiben erhalten. **5.9 ist die neue Mindestversion für das gemeinsame Spiel**: Alle Spieler einer Lobby brauchen 5.9, und ein Spieler mit einer älteren Version sieht **Falsche Version**.
+
+### ⚔️ Durchbruch: ein neuer Modus gegen die KI
+*Von den Spielern gewählt.*
+- Der Angreifer muss **3 aufeinanderfolgende Verteidigungslinien** in Stadtvierteln nehmen: **3 Zonen, dann 2, dann 2**. Eine Linie fällt erst, wenn **alle** ihre Zonen genommen sind, und eine genommene Zone verschwindet.
+- Der Angreifer **sieht nur die aktuelle Linie**; der Verteidiger sieht alle seine.
+- **Sperrzone**: Die Bodeneinheiten des Angreifers dürfen die aktive Linie nicht überschreiten. Flugzeuge und Hubschrauber schon, aber dahinter dürfen keine Truppen abgesetzt werden.
+- **45 Minuten pro Linie**, bei jeder neuen Linie wieder 45: Bei 0 verliert der Angreifer. Nach dem Fall einer Linie hat der Verteidiger **2 Minuten**, um sich auf die nächste zurückzuziehen.
+- **2 Minuten Vorbereitung**: Der Verteidiger stellt seine Einheiten direkt in seinen Zonen auf, und eine Sperre hindert sie daran, auf den Angreifer vorzurücken.
+- Der Verteidiger hat **Hubschrauber und Flugzeuge von Anfang an** und **Panzerminenfelder**; der Angreifer bekommt seine Hubschrauber nach 10 Minuten und seine Flugzeuge nach 20.
+- Wirtschaft: Verteidiger **3.000 Punkte + 200 pro Minute**, Angreifer **2.000 + 150 pro Minute**.
+
+### 🎯 Jagd auf den Gefechtsstand: ein neuer Modus gegen die KI
+- **Finde und zerstöre den feindlichen Gefechtsstand.**
+- Dein Geld ist dein **Versorgungsbestand**, wie an der Logistikfront.
+
+### 🗺️ Das Menü: Spielmodi
+- In **Partie erstellen** wird der Abschnitt **Logistikfront** zu **Spielmodi gegen die KI**, mit den echten Kartennamen. Der Modus (**Logistikfront**, **Durchbruch** oder **Jagd auf den Gefechtsstand**) wird in der Zeile **Spielmodus** des Felds gewählt.
+- Die **Mehrspielerkarten** haben ebenfalls eine Zeile **Spielmodus**: **Offiziell**, **Front**, **Durchbruch** oder **Jagd**, als reines **Spieler gegen Spieler**, ganz ohne KI, bis zu **3 Spieler pro Seite**.
+- Karten aus dem **Steam Workshop** behalten ihren Koop gegen den Kommandeur.
+
+### 🧑‍🔧 Besatzungen am Boden
+*Eine Idee von cryohellinc, Анчутка und Andrew Woods.*
+- Ein fast zerstörtes Fahrzeug kann **aufgegeben** werden: Es ist bewegungsunfähig, und die **Besatzung steigt aus**. Bring die Besatzung zur Basis zurück, um **die Karte zurückzubekommen**, wie bei abgesprungenen Piloten.
+- Ein aufgegebenes Fahrzeug **kann Feuer fangen und später explodieren**.
+- **Bergepanzer**: **BREM-1**, **M88A2**, **Bergepanzer 3**, der ukrainische **BREM-1** und **WZT-3** setzen ein aufgegebenes Fahrzeug instand, bis 40 %. Modernes westliches Gerät braucht **1,5-mal so lange** zur Instandsetzung wie sowjetisches und russisches.
+- **Radfahrzeuge** werden öfter verlangsamt als bewegungsunfähig gemacht, und manchmal **humpeln sie davon**, statt aufgegeben zu werden.
+- Piloten und Besatzungen zu Fuß **zählen nicht mehr zum Einheitenlimit**.
+- Dieselben Regeln für Spieler und KI, im Solo, im Koop und im Mehrspieler. Keine Panik-Mechanik.
+
+### 🛩️ Geran-5: nur noch durch Flugkörper
+*Ein Wunsch von Andrew Woods.*
+- Die **Kamikazedrohne mit Strahltriebwerk und 600 km/h** (die russische Geran-5, die amerikanische Hellhound) und die **von der Su-25SM gestartete Geran-5** können jetzt **nur noch von Flugkörpern** abgeschossen werden: Boden-Luft, schultergestützt oder Luft-Luft. Kanonen und Maschinengewehre zielen nicht mehr auf sie.
+
+### ✨ Grafik
+- **Echtes Licht** beim Start von Flugkörpern und bei Explosionen, bei Tag und bei Nacht.
+- **Startrauch** in staubigem Braungrau und durchscheinend, der größer wird, wenn mehrere Flugkörper von derselben Stelle starten.
+- Die **grauen Rauchspuren** von Flugzeugen, Hubschraubern, Raketen und Flugkörpern bleiben viel länger stehen: bis zu 90 bis 120 Sekunden auf Ultra.
+
+### 🔧 Korrekturen
+- Ein befestigtes Versorgungsdepot verschwindet und erscheint nicht mehr in einer Schleife und verliert dabei keinen Nachschub mehr (gesehen in Videos von cryohellinc).
+- Die großen gelben Texte sind auf breiten und 2K-Bildschirmen kleiner (gemeldet von Анчутка).
+- Das obere Banner sitzt höher (Wunsch von cryohellinc).
+- Mehrere interne Fehler behoben (Piloten, Hubschrauberabwehr, Rauch), und das Spiel läuft flüssiger.
+
+### 🌐 Online
+- **5.9 ist die neue Mindestversion für das gemeinsame Spiel**: Alle Spieler einer Lobby brauchen 5.9.
+
+*Danke an cryohellinc, Анчутка, Andrew Woods und Radeon und an alle, die bei der Umfrage abgestimmt haben.*
+
+<div align="right"><a href="#top">nach oben</a></div>
+
+---
+
 <a id="new-58"></a>
 
 ## 🆕 Neu in 5.8: Tarnkappe nur gegen Radar, echte Luftkämpfe, echte Gegenmaßnahmen, Panzerverschleiß, gerechterer Schaden gegen Infanterie
+
+*Seit 5.9: 5.9 ist die Mindestversion für das gemeinsame Spiel ([neu in 5.9](#new-59)).*
 
 > [!IMPORTANT]
 > **Ersetzt 5.7 (und jede ältere Version):** Kopiere die neuen Dateien über die alten. Keine Waffenreichweite hat sich geändert, und deine Decks bleiben erhalten. Flugzeuge und Hubschrauber kosten jetzt mit ihrer Selbstschutzausrüstung mehr: Prüfe die Luft-Kategorie deiner Decks. **5.8 ist die Mindestversion für das gemeinsame Spiel**: Ein Spieler mit einer älteren Version sieht **Falsche Version**.
@@ -956,6 +1019,7 @@ Was als Nächstes kommt, der Reihe nach. Jeder Schritt erscheint erst, wenn er g
 | ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.6** | Das Land des Gegners überall wählbar und nach seinem Staatsoberhaupt benannt, eine KI, die sieht, was das Spiel ihrer Seite zeigt, und über die Brücken angreift, ein echter Versorgungskrieg an der Logistikfront, in Wäldern versteckte Depots, zwei Arten von Pionieren in jedem Land mit Minenräumen, Präzisionsschläge, die ankommen, Boden-Luft-Flugkörper, die richtig starten, beide Artilleriemodi zusammen, Flugkörper mit ihrem echten Gefechtskopf, Bäume, die wirklich fallen, ein geschützter Host mit fairen Prüfungen, 5.6 als Mindestversion online. |
 | ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.7** | Ein Einfrieren des Spiels bei Präzisionsschlägen behoben. |
 | ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.8** | Tarnkappe nur gegen Radar, echte Wendigkeit und Luftkämpfe, echte Gegenmaßnahmen im Preis jedes Luftfahrzeugs, Flugzeuge von weiter her, Bewaffnungen nach Stärke sortiert, Langstrecken-Flugabwehr, die ungelenkte Raketen in Ruhe lässt, gerechterer Schaden gegen Infanterie, Panzerabwehrflugkörper für Panzer aufgespart, Panzer, die durch nicht durchschlagende Treffer verschleißen, echte Panzergranaten, die Tonne zu 100 an der Logistikfront, ein KI-Verbündeter mit eigener Wirtschaft, der Realismus-Modus in der Schlacht festgelegt, der Kommandant auf Workshop-Gefechtskarten, 5.8 als Mindestversion online. |
+| ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.9** | Zwei neue Modi gegen die KI, Durchbruch und Jagd auf den Gefechtsstand, auch als reines Spieler gegen Spieler auf den Mehrspielerkarten; aufgegebene Fahrzeuge, deren Besatzung zurückgebracht werden kann, Bergepanzer, Radfahrzeuge, die davonhumpeln; die Geran-5 mit Strahltriebwerk nur noch durch Flugkörper abschießbar; echtes Licht bei Starts und Explosionen, längere Rauchspuren; 5.9 als Mindestversion online. |
 | ![als Nächstes](https://img.shields.io/badge/-als%20N%C3%A4chstes-1f6feb?style=flat-square) | **Die offiziellen Szenarien, eines nach dem anderen** | Jedes offizielle Szenario der Reihe nach überarbeitet: eine Wahl der Kartengröße, **nur ein Gegner, der Kommandeur der Mod**, und mehr Tiefe. |
 | ![später](https://img.shields.io/badge/-sp%C3%A4ter-8957e5?style=flat-square) | **Ein Kommandeur für die Kampagne** | Der Kommandeur der Mod in den Kampagnenmissionen, wobei das Missionsskript unberührt bleibt. |
 | ![Ziel](https://img.shields.io/badge/-Ziel-bf8700?style=flat-square) | **7.0** | Kampagne und Szenarien vereint zu **einer langen Kampagne mit drei möglichen Enden**. |
@@ -980,7 +1044,7 @@ Drei Kacheln nebeneinander:
 | Kachel | Was sie öffnet |
 |---|---|
 | **Kampagne** | Die Kampagne des Spiels, unberührt, gespielt mit den Regeln der Mod. |
-| **Partie erstellen** | Links vier Abschnitte, beim Öffnen alle zugeklappt: **Mehrspielerkarten** (mit ihrem Bild; das Gefecht ist hier), **Logistikfront**, **Offizielle Szenarien** und **Steam Workshop**. Rechts **ein einziges Feld**: die Karte und ihre Beschreibung, der Modus auf Mehrspielerkarten (**Koop gegen KI** oder **Spieler gegen Spieler**), die Größe, deine Seite, dein Land und deine Kampfgruppe, der feindliche Kommandant (Stufe, ein oder mehrere Länder), der KI-Verbündete (nur solo), Titel und Passwort der Lobby, Uhrzeit und Wetter. Dann **Solo spielen** (offline, ohne Lobby) oder **Mehrspieler spielen** (eine Lobby der Mod). |
+| **Partie erstellen** | Links vier Abschnitte, beim Öffnen alle zugeklappt: **Mehrspielerkarten** (mit ihrem Bild; das Gefecht ist hier), **Spielmodi gegen die KI** (seit 5.9: Logistikfront, Durchbruch oder Jagd auf den Gefechtsstand, in der Zeile **Spielmodus**), **Offizielle Szenarien** und **Steam Workshop**. Rechts **ein einziges Feld**: die Karte und ihre Beschreibung, der Modus auf Mehrspielerkarten (**Koop gegen KI** oder **Spieler gegen Spieler**), die Größe, deine Seite, dein Land und deine Kampfgruppe, der feindliche Kommandant (Stufe, ein oder mehrere Länder), der KI-Verbündete (nur solo), Titel und Passwort der Lobby, Uhrzeit und Wetter. Dann **Solo spielen** (offline, ohne Lobby) oder **Mehrspieler spielen** (eine Lobby der Mod). |
 | **Lobby suchen** | Die Liste der Steam-Lobbys der Mod (nur Lobbys: Eine Partie wird in **Partie erstellen** angelegt) und deine **Steam-Freunde, die die Mod spielen**. |
 
 Das Arsenal und der Editor bleiben, wo sie sind. Die offizielle Kachel Mehrspieler und die Schnellsuche sind aus dem Menü verschwunden.
@@ -1009,7 +1073,7 @@ Die Mod hat ihre eigenen Lobbys, betrieben von **Steam**, nicht von den Servern 
 - Eine zweite Zeile zeigt die **Einstellungen des Hosts**: Realismus-Modus, Kartengröße, Wetter, Kommandeure und ob ein Passwort gesetzt ist.
 - Eine Spalte **Ping** (Schätzung von Steam), **Filter** und die Zahl der **Mod-Spieler online**.
 - **Beitreten** funktioniert nur mit **derselben Mod-Version und Mod-Datei** und **derselben Spielversion**. Jede andere Lobby zeigt **Falsche Version** an: Ein Klick darauf öffnet diese GitHub-Seite. Die Mod lädt nie etwas herunter.
-- **5.8 ist die Mindestversion für das gemeinsame Spiel**: Ein Spieler mit einer älteren Version sieht **Falsche Version**.
+- **5.9 ist die Mindestversion für das gemeinsame Spiel**: Ein Spieler mit einer älteren Version sieht **Falsche Version**.
 - **Steam-Freunde, die den Mod spielen** haben einen eigenen Bereich: was jeder gerade tut, seine Version und eine Schaltfläche **Beitreten** (oder **Zurück in die Schlacht**). Ein Freund in einer privaten Lobby zeigt keine Schaltfläche, und Passwörter und Lobbys nur für Freunde gelten weiterhin.
 
 ### Eine Lobby erstellen
@@ -1724,6 +1788,7 @@ Die Texte im Spiel in den fünf Sprachen und die Übersetzungen dieser Seite wur
 
 | Version | Datum | Höhepunkte |
 |:-:|:-:|---|
+| **5.9** | Oktober 2026 | Zwei neue Modi gegen die KI, von den Spielern gewählt: Durchbruch (3 aufeinanderfolgende Verteidigungslinien in Stadtvierteln, 3, 2 und 2 Zonen, alle Zonen einer Linie zu nehmen, für den Angreifer nur die aktuelle Linie sichtbar, eine Sperrzone für seine Bodeneinheiten, 45 Minuten pro Linie, 2 Minuten Vorbereitung, ein Verteidiger mit Hubschraubern, Flugzeugen und Panzerminenfeldern von Anfang an) und Jagd auf den Gefechtsstand (den feindlichen Gefechtsstand finden und zerstören, Geld aus dem Versorgungsbestand). Der Abschnitt Logistikfront wird zu Spielmodi gegen die KI, mit einer Zeile Spielmodus; die Mehrspielerkarten bekommen Offiziell, Front, Durchbruch und Jagd als reines Spieler gegen Spieler, bis zu 3 Spieler pro Seite. Aufgegebene Fahrzeuge: Die Besatzung steigt aus und bringt die Karte zurück, ein aufgegebenes Fahrzeug kann brennen und explodieren, Bergepanzer setzen bis 40 % instand, Radfahrzeuge humpeln davon, Piloten und Besatzungen zu Fuß außerhalb des Einheitenlimits. Die Geran-5 mit Strahltriebwerk nur noch durch Flugkörper abschießbar. Echtes Licht bei Starts und Explosionen, staubiger Startrauch, Rauchspuren bis 90-120 s. Flackerndes feindliches Depot, große gelbe Texte und oberes Banner korrigiert, interne Fehler behoben, ein flüssigeres Spiel. 5.9 als Mindestversion online. |
 | **5.8** | Oktober 2026 | Tarnkappe nur gegen Radar: Auge, Infrarot und Optik sehen Tarnkappenflugzeuge wie alle anderen, das Radar findet sie nach seinem Alter. Echte Wendigkeit für jeden Jäger, Ausweichen vor Flugkörpern nach Wendigkeit, deine Jäger jagen die feindlichen Flugzeuge, die deine Seite sieht, und kehren zurück, wenn sie getroffen sind oder kaum noch Munition haben. Jedes Luftfahrzeug nach seiner echten Selbstschutzausrüstung bepreist, die Flugkörper öfter täuscht; die manuelle Täuschkörper-Taste entfernt. Flugzeuge und Hubschrauber von weiter her, freie Kamera bis 9.000 m, Pylon-Auswahl nach Stärke sortiert mit Filtern. Die Langstrecken-Flugabwehr schießt nicht mehr auf ungelenkte 220/227-mm-Raketen und zerstört die schweren Raketen, die sie erreicht, viel öfter. Eine Granate löscht keinen Trupp mehr aus, Hohlladungs-Panzerabwehrflugkörper schießen nicht mehr auf Infanterie, Panzerabwehrtrupps sparen ihre Flugkörper für Panzer, Trupps verbarrikadieren sich in Gebäuden bis Stufe 2. Nicht durchschlagende Treffer beschädigen Optik, Visierung, Besatzung, Ketten oder Motor; echte Granaten der Hauptwaffe an Bord. Logistikfront: die Tonne zu 100 und Munition nur einmal gezählt; ein KI-Verbündeter mit eigenen Lkw und eigenem Geld. Der Realismus-Modus während der Schlacht festgelegt, der Kommandant auf Workshop-Gefechtskarten, Lobby-Chat repariert, 5.8 als Mindestversion online. |
 | **5.7** | Oktober 2026 | Ein Einfrieren des Spiels bei Präzisionsschlägen behoben (zuerst mit den Streumunitions-Marschflugkörpern der S-70 Okhotnik gesehen). |
 | **5.6** | Oktober 2026 | Das Land des Gegners (und des KI-Verbündeten) wählbar in jedem Szenario, im Gefecht und in der Kampagne; der Kommandeur trägt den Namen des Staatsoberhaupts, General Dan Caine für die Vereinigten Staaten. Eine KI, die genau sieht, was das Spiel ihrer Seite zeigt, ein Wald, der nur noch schweigende Einheiten verbirgt, die Brücken der vergrößerten Karten von der KI genutzt, mehr Infanterie mit luftbeweglichen Truppen und Fallschirmjägern, Flugzeuge, die außerhalb bekannter Flugabwehr bleiben, Verstärkung in Gruppen, Pioniere ab Minute 5, Versorgungs-Lkw, die zu ihren Einheiten kommen; ein Kommandeur pro Seite und ein KI-Verbündeter, so fähig wie der Gegner. Logistikfront: 2,5 Punkte pro Minute und eingelagerter Tonne, bis 3.000 pro Seite, die gekaufte Tonne zu 200 (25 in den anderen Modi), Depots in Waldverstecken. Zwei Arten von Pionieren in jedem Land (14 neue Karten), Gasse räumen, nur Baupioniere befestigen Gebäude. Präzisionsschläge, die ankommen (KAB, GBU, B61), Kanonen mit echter Chance gegen Lenkbomben, Boden-Luft-Flugkörper senkrecht oder Richtung Ziel und über das Gelände gestartet, beide Artilleriemodi zusammen und Raketenwerfer an ihren Abschüssen erkannt, Flugkörper mit ihrem echten Gefechtskopf (82 korrigiert), der echte Preis von Flugzeugen mit ihrer Bewaffnung. Jede Explosion wirft alle Bäume in ihrem Druckwellenradius um, Bäume, die auf vergrößerten Karten wirklich fallen, direktes Feuer nach dem echten Stamm. Stehende Soldaten am Depot versorgt, panzerbrechende Granaten mit vollem Schaden bei knappem Durchschlag, volle Karten zu Beginn jeder Partie unter Freunden. Eroberungspunkte an ihrem Platz auf vergrößerten Karten, zerstörte Öltanks an ihrem Platz, Blitze und Spuren von weitem sichtbar, Staub, weniger Staus, Hubschrauber standardmäßig im Tiefflug. Ein geschützter Host, Prüfungen, die dem entscheidenden Host gezeigt werden, ein sauberer Chat, das verleihende Konto nicht mehr veröffentlicht, abgeschossene Flugkörper bei allen zerstört. Ein neues Menü (Spielen: Kampagne, Partie erstellen, Lobby suchen) mit einem einzigen Feld für jede Partie, eine neue Lobby, in der jeder Spieler sein Land und sein Deck wählt, Decks, die bei jedem Update erhalten bleiben, Artillerie in Stellung, zerstörte Fahrzeuge, die nur mit dem noch an Bord befindlichen Sprengstoff explodieren, die Musik der Mod am Musik-Regler des Spiels. 5.6 als Mindestversion online. |
