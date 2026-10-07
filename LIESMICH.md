@@ -5,7 +5,7 @@
 <p align="center"><b>Kampagne, Szenarien und Gefecht, ausgetragen so, wie das Gerät wirklich zum Kämpfen gebaut wurde.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.9.1-2ea44f?style=for-the-badge" alt="Version 5.9.1">
+  <img src="https://img.shields.io/badge/version-5.9.2-2ea44f?style=for-the-badge" alt="Version 5.9.2">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9.1-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 5.9.1 herunterladen"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9.2-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 5.9.2 herunterladen"></a>
   <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Dem Discord beitreten"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube-Kanal"></a>
 </p>
@@ -34,6 +34,8 @@
 Broken Arrow gibt dir echte Fahrzeuge, echte Waffen und echte Doktrin, und dann lässt es eine 152-mm-Haubitze eine Granate auf den Panzer setzen, der direkt neben ihr steht, lässt ein Maschinengewehr ein Flugzeug in drei Kilometern Höhe vom Himmel holen und deckelt jede Rakete bei 9 km, dem Rand seiner alten Karten.
 
 Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Karten und Missionsskripte des Spiels selbst, bepreist jede Einheit nach dem, was sie wirklich kann, gibt jedem Flugzeug und jedem Geschütz die Bewaffnung seines realen Vorbilds, gibt jeder Waffe ihre veröffentlichte Reichweite bis 100 km und setzt dir auf der anderen Seite der Karte einen **zweiten Kommandeur** gegenüber, der liest, was du aufstellst, und darauf antwortet. Du kämpfst als **Nation**, als eines von elf Ländern in zwei Lagern, NATO und OVKS. Jedes Fahrzeug, jede Waffe und jedes Geschoss hat seine **echte Panzerung, Geschwindigkeit und Feuerrate**, jeder Sprengkörper seine **echte Druck- und Splitterwirkung**, und du **wählst deinen Realismus**: realistisch oder halbrealistisch.
+
+**5.9.2 ändert deine Feuerbefehle und das Aufgeben von Fahrzeugen und gibt jedem Fahrzeug seine echten Motoren.** **Angreifen** (Q, auf einer AZERTY-Tastatur A) ist wieder die Angriffsbewegung des Spiels, und **G** wird zum **Unterdrückungsfeuer**: Das Fahrzeug rückt auf Reichweite heran und feuert einen langen Feuerstoß. Feuerstöße aus Maschinenkanonen und schweren Maschinengewehren **fällen Bäume**, und die Sicht öffnet sich für beide Seiten. Du wählst, wie deine Fahrzeuge **aufgegeben** werden, von Hand bei 30 % Leben oder automatisch, und ein aufgegebenes Fahrzeug wird **weiß**: Niemand feuert mehr von selbst darauf, und nur ein Bergepanzer lässt es die Seite wechseln. Hubschrauber können **landen**, das **Einheitenlimit** wird vor der Partie gewählt, die Musik der Mod spielt im Menü und die des Spiels in der Schlacht, und ein Deck verliert nur die Karte, die sich geändert hat. Im Arsenal bekommt jedes Fahrzeug seine **echten Motoren** und, wenn sein 3D-Modell ihn zeigt, seinen **echten Schutz**, dazu neue Karten für die USA, Russland und Deutschland. 5.9.2 ist die Mindestversion für das gemeinsame Spiel.
 
 **5.9.1 behebt die Abstürze und erfüllt Wünsche der Spieler.** Das Spiel schließt sich zu Beginn einer Schlacht nicht mehr wegen einiger Neuerungen, und das Hauptmenü flackert nicht mehr. Ein aufgegebenes Fahrzeug ist jetzt völlig untätig, bis es instand gesetzt wird, und zerstört sich selbst, wenn es niemand rechtzeitig birgt. Der **Bergepanzer** wird zu einer einzigen Karte, die bis 75 % instand setzt und **abschleppt**, und ein aufgegebenes Feindfahrzeug, das du abschleppst und instand setzt, wird deine **Beute**. **Artillerieortungsradare** werden mit der Radar-Schaltfläche des Spiels eingeschaltet und zeigen ungefähr, von wo ein feindliches Geschütz feuert, **Hubschrauber** haben jetzt eine realistische Flugdauer von 19 bis 34 Minuten, und eine **Karte aus dem Steam Workshop** kann jetzt unter Freunden gehostet werden. Unterstützungseinheiten wandern in den Spezial-Reiter des Zubr und des LCAC und nehmen Kampfeinheiten keinen Platz mehr weg. 5.9.1 ist die Mindestversion für das gemeinsame Spiel.
 
@@ -55,7 +57,7 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 
 | 107 | 265 | 90-150 | 16 | 5 | 0 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| Luftfahrzeuge mit ihren echten Gegenmaßnahmen | Lenkmunitionen mit ihrem echten Suchkopf | Einheiten pro Seite in der Logistikfront, vom Host gewählt | offizielle PvE-Szenarien im Koop spielbar | Sprachen | genutzte offizielle Server |
+| Luftfahrzeuge mit ihren echten Gegenmaßnahmen | Lenkmunitionen mit ihrem echten Suchkopf | Einheiten pro Seite, vom Host vor der Partie gewählt | offizielle PvE-Szenarien im Koop spielbar | Sprachen | genutzte offizielle Server |
 
 - **Du wirst deine Luftkämpfe wählen**, denn eine Su-35 oder Su-57 kurvt enger als jeder westliche Jäger, und eine F-35 ist nur im Vorteil, wenn sie zuerst schießt, von weit weg, bevor ein Infrarotsensor sie findet.
 - **Du wirst auf die Optik zielen**, denn ein Treffer, der nicht durchschlägt, kann einen Panzer trotzdem blenden, seine Visierung verstellen oder seine Ketten beschädigen.
@@ -87,7 +89,7 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 
 | Die Mod | Das Schlachtfeld | Praktisches |
 |---|---|---|
-| [Neu in 5.9.1](#new-591) · [5.9](#new-59) · [5.8](#new-58) · [5.7](#new-57) · [5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [frühere](#earlier) | [Logistikfront](#logistics-front) | [Wo die Mod läuft](#where-it-runs) |
+| [Neu in 5.9.2](#new-592) · [5.9.1](#new-591) · [5.9](#new-59) · [5.8](#new-58) · [5.7](#new-57) · [5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [frühere](#earlier) | [Logistikfront](#logistics-front) | [Wo die Mod läuft](#where-it-runs) |
 | [Roadmap](#roadmap) | [Die 22 Karten](#maps) | [Download und Installation](#install) |
 | [Das Menü der Mod](#menu) | [Der feindliche Kommandeur](#commander) | [Update oder Deinstallation](#update) |
 | [Steam-Lobbys: gemeinsam spielen](#lobbies) · [Koop](#coop) · [Rückkehr](#rejoin) · [Regeln und Privatsphäre](#rules) | [Luftkrieg](#air-war) | [Einstellungen](#settings) |
@@ -98,9 +100,80 @@ Diese Mod schreibt **mehr als 12.000 Werte** mit realen Daten neu, liest die Kar
 
 ---
 
+<a id="new-592"></a>
+
+## 🆕 Neu in 5.9.2: Unterdrückungsfeuer, Bäume, die unter Feuerstößen fallen, Fahrzeuge aufgeben nach deiner Wahl, echte Motoren und echter Schutz, neue Karten
+
+> [!IMPORTANT]
+> **Ersetzt 5.9.1 (und jede ältere Version):** Kopiere die neuen Dateien über die alten. Deine Decks bleiben erhalten: Ändert sich eine Karte, wird nur diese Karte aus dem Deck genommen, mit einer Meldung, und es wird keine Kopie deiner Decks mehr angelegt. **5.9.2 ist die neue Mindestversion für das gemeinsame Spiel**: Alle Spieler einer Lobby brauchen 5.9.2, und ein Spieler mit einer älteren Version sieht **Falsche Version**.
+
+### 🎯 Befehle
+- Der **Rechtsklick** bleibt ein einfacher Bewegungsbefehl.
+- **Angreifen** (**Q** auf einer QWERTY-Tastatur, **A** auf AZERTY) ist wieder die **Angriffsbewegung** des Spiels. Der automatische Halt bei Feindkontakt aus den Testversionen fällt weg: Er hielt die Einheiten fest.
+- **G**, das erzwungene Feuer des Spiels, wird zum **Unterdrückungsfeuer** deiner Bodenfahrzeuge: Das Fahrzeug rückt auf Reichweite heran und feuert dann einen langen Feuerstoß auf die Stelle: **200 Schuss** aus einer Maschinenkanone, **5 Granaten** aus einer Panzerkanone, **50 Granaten** aus einem Granatwerfer, **100 Schuss** aus einem Maschinengewehr.
+- Weder **G** noch **Angreifen** feuern durch zwei getrennte Waldstücke: In den ersten Wald hinein darf gefeuert werden, durch ihn hindurch nicht.
+
+### 🌲 Bäume
+- Feuerstöße aus **Maschinenkanonen** und **schweren Maschinengewehren** fällen jetzt Bäume: Etwa **2 Schuss 30 mm** auf den Stamm legen einen 20 cm dicken Baum um.
+- Die Sicht öffnet sich **für beide Seiten**.
+
+### 🧑‍🔧 Fahrzeuge aufgeben, wie du willst
+- Eine neue Einstellung, **Esc > Einstellungen > Mod > Fahrzeuge aufgeben**:
+  - **Manuell** (Standard): Fällt eines deiner Bodenfahrzeuge auf **30 % Leben** oder weniger, **blinkt ein gelbes Dreieck** darüber, und in seinen Befehlen erscheint die Schaltfläche **Aufgeben**. Du entscheidest.
+  - **Automatisch**: Bei 30 % Leben oder weniger steigt die Besatzung von selbst aus.
+  - Jeder Spieler wählt für seine eigenen Fahrzeuge, auch mitten in der Schlacht. Die KI gibt Fahrzeuge immer automatisch auf.
+- **Ein aufgegebenes Fahrzeug wird weiß (neutral)**: Keine Einheit feuert mehr von selbst darauf, und ein vorher gegebener Angriffsbefehl wird aufgehoben. Ein **neuer Angriffsbefehl** von dir kann es trotzdem zerstören.
+- **Besatzung und Passagiere** steigen aus, und das Fahrzeug wird **ausgeblendet**, sobald es niemand mehr sieht.
+- Die Seite wechselt es nur durch einen **Bergepanzer** in etwa **50 m** Entfernung: Ein Feindfahrzeug wird deine **Beute**, eines deiner eigenen bekommst du **zurück**.
+
+### 🚁 Hubschrauber
+- Eine neue Schaltfläche **Landen**: Der Hubschrauber setzt wirklich auf, auch bei x4, mit abgeschaltetem Motor. Er verbraucht **keinen Treibstoff** und feuert nicht, solange er am Boden steht, und er startet beim nächsten Befehl wieder.
+- Der **Mi-28** bekommt seinen echten **Rettungsraum**: 3 Plätze, um eine abgeschossene Besatzung aufzunehmen.
+
+### 🎮 Partien
+- Das **Einheitenlimit** wird **vor der Partie** gewählt: In **Partie erstellen** stellt der Host **Max. Einheiten pro Seite** auf **90, 100, 120 oder 150**. Es ist während der Schlacht festgelegt und für alle gleich.
+
+### 🎵 Musik
+- Die Stücke der Mod laufen **nur im Menü**. In der Schlacht spielt die **Musik des Spiels**, und sie wechselt: ruhig, spannungsvoll, Gefecht.
+
+### 🃏 Decks
+- Ändert sich eine Karte, wird **nur diese Karte** aus dem Deck genommen, mit einer Meldung. **Keine Deck-Kopien mehr.**
+
+### 🛠️ Fahrzeuge: nur echtes Gerät
+- **Die Panzerung aller Bodenfahrzeuge geprüft**, mit ihren echten Werten.
+- **Echte Motoren** für jedes Fahrzeug, zur Wahl im **Arsenal**: ältere billiger, neuere teurer, mit Namen und PS. Der Motor ändert die Beschleunigung, und die Höchstgeschwindigkeit nur, wenn das wirklich so ist.
+- **Echter Schutz** zur Wahl, wenn das 3D-Modell ihn zeigt: sichtbare Reaktivpanzerung an der T-72-Familie (darunter der ukrainische T-72AMT und der polnische und ukrainische T-72EA), Shtora am T-90AK, das Kit TUSK I am M1A1 SA, Panzerungskits für den Humvee und die Radare TPQ-50 und TPQ-53, Trophy am Leopard 2A7A1, Kits für den ukrainischen Leopard 1A5, den Rosomak M1M, den AMX-10 RCR, den Fuchs 1A8 und den MT-LB.
+- **Wärmebildgeräte** am T-62MV und am T-72M1R: Sie sehen etwas weiter, ohne weiter zu schießen.
+- Der Turm **ZSSW-30** auf dem polnischen Rosomak.
+- Neue Versionen: der **T-64BV obr. 2017**, der ukrainische **T-80BV obr. 2018**, ein von Russland erbeuteter **T-80BVM** für die Ukraine, die **Osa-AKM Żądło** und das **M-SHORAD Inc 1**.
+- Korrigiert: **Borsuk**, **Puma**, **T-80BVM** und **T-72B3 obr. 2022**, mit ihren echten Motoren oder ihrer echten Panzerung.
+- **Neue Karten**: **JLTV** (USA); **T-90AK**, **BMD-2K** und **BMP-3K** (Russland); **Leopard 2A7** (Deutschland).
+- Der Rauch von Fahrzeugen **breitet sich aus**.
+
+### 🗂️ Der Spezial-Reiter
+- Er nimmt jetzt die **Artillerieortungsradare**, die **elektronische Kampfführung**, die **Bergepanzer** und die **Minenleger und Minenräumer** auf: Zemledeliye, M270 MARS AT2, UR-77, M1150 und AAVP MICLIC.
+- Die **Baupioniere** bleiben bei der Infanterie.
+
+### 🔧 Stabilität
+- **Weniger interne Fehler.**
+- Eine heimgekehrte Besatzung gibt nur noch **die Karte** zurück: Geld wird keines mehr erstattet.
+
+### 🌐 Online
+- **5.9.2 ist die neue Mindestversion für das gemeinsame Spiel.**
+
+*Und ein paar Überraschungen zum Entdecken.*
+
+*Danke an die Spieler auf dem Discord: Анчутка, Gigspace, Andrew Woods und cryohellinc.*
+
+<div align="right"><a href="#top">nach oben</a></div>
+
+---
+
 <a id="new-591"></a>
 
 ## 🆕 Neu in 5.9.1: Abstürze behoben, Bergepanzer, die abschleppen, Beutefahrzeuge, Artillerieortungsradare, Treibstoff für Hubschrauber, Workshop-Karten unter Freunden
+
+*Seit 5.9.2: die Einstellung **Fahrzeuge aufgeben** (eine Schaltfläche **Aufgeben** bei 30 % Leben oder weniger, oder automatisch), ein aufgegebenes Fahrzeug, das weiß (neutral) wird und die Seite nur durch einen Bergepanzer in etwa 50 m Entfernung wechselt, ein Deck, das nur die geänderte Karte verliert, ohne Kopie, Minenleger und Minenräumer im Spezial-Reiter, und 5.9.2 als Mindestversion für das gemeinsame Spiel ([neu in 5.9.2](#new-592)).*
 
 > [!IMPORTANT]
 > **Ersetzt 5.9 (und jede ältere Version):** Kopiere die neuen Dateien über die alten. Deine Decks bleiben erhalten: Nur eine Karte, die in den Spezial-Reiter gewandert ist, wird aus einem gespeicherten Deck genommen (siehe unten). **5.9.1 ist die neue Mindestversion für das gemeinsame Spiel**: Alle Spieler einer Lobby brauchen 5.9.1, und ein Spieler mit einer älteren Version sieht **Falsche Version**.
@@ -1087,6 +1160,7 @@ Was als Nächstes kommt, der Reihe nach. Jeder Schritt erscheint erst, wenn er g
 | ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.8** | Tarnkappe nur gegen Radar, echte Wendigkeit und Luftkämpfe, echte Gegenmaßnahmen im Preis jedes Luftfahrzeugs, Flugzeuge von weiter her, Bewaffnungen nach Stärke sortiert, Langstrecken-Flugabwehr, die ungelenkte Raketen in Ruhe lässt, gerechterer Schaden gegen Infanterie, Panzerabwehrflugkörper für Panzer aufgespart, Panzer, die durch nicht durchschlagende Treffer verschleißen, echte Panzergranaten, die Tonne zu 100 an der Logistikfront, ein KI-Verbündeter mit eigener Wirtschaft, der Realismus-Modus in der Schlacht festgelegt, der Kommandant auf Workshop-Gefechtskarten, 5.8 als Mindestversion online. |
 | ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.9** | Zwei neue Modi gegen die KI, Durchbruch und Jagd auf den Gefechtsstand, auch als reines Spieler gegen Spieler auf den Mehrspielerkarten; aufgegebene Fahrzeuge, deren Besatzung zurückgebracht werden kann, Bergepanzer, Radfahrzeuge, die davonhumpeln; die Geran-5 mit Strahltriebwerk nur noch durch Flugkörper abschießbar; echtes Licht bei Starts und Explosionen, längere Rauchspuren; 5.9 als Mindestversion online. |
 | ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.9.1** | Abstürze und flackerndes Menü behoben; aufgegebene Fahrzeuge völlig untätig und zerstört, wenn sie niemand birgt, eine Schaltfläche Aussteigen; Bergepanzer als eine Karte, die bis 75 % instand setzt und abschleppt; Feindfahrzeuge als Beute; ein Spezial-Reiter für Unterstützungseinheiten; Artillerieortungsradare auf der Radar-Schaltfläche, mit dem Kreis des feindlichen Feuers; eine realistische Flugdauer für Hubschrauber, Flugzeuge, die wirklich heimkehren; Karten aus dem Steam Workshop unter Freunden; 5.9.1 als Mindestversion online. |
+| ![veröffentlicht](https://img.shields.io/badge/-ver%C3%B6ffentlicht-2ea44f?style=flat-square) | **5.9.2** | Angreifen wieder als Angriffsbewegung des Spiels, G als Unterdrückungsfeuer, kein Feuer durch zwei Wälder; Bäume, die unter Feuerstößen von Maschinenkanonen und schweren Maschinengewehren fallen; Fahrzeuge von Hand oder automatisch aufgegeben, aufgegebene Fahrzeuge weiß und neutral, Seitenwechsel nur durch einen Bergepanzer; Hubschrauber, die landen; das Einheitenlimit vor der Partie gewählt; die Musik der Mod im Menü, die des Spiels in der Schlacht; Decks, die nur die geänderte Karte verlieren; echte Motoren und echter Schutz zur Wahl im Arsenal, neue Karten; ein Spezial-Reiter mit Minenlegern und Minenräumern; 5.9.2 als Mindestversion online. |
 | ![als Nächstes](https://img.shields.io/badge/-als%20N%C3%A4chstes-1f6feb?style=flat-square) | **Die offiziellen Szenarien, eines nach dem anderen** | Jedes offizielle Szenario der Reihe nach überarbeitet: eine Wahl der Kartengröße, **nur ein Gegner, der Kommandeur der Mod**, und mehr Tiefe. |
 | ![später](https://img.shields.io/badge/-sp%C3%A4ter-8957e5?style=flat-square) | **Ein Kommandeur für die Kampagne** | Der Kommandeur der Mod in den Kampagnenmissionen, wobei das Missionsskript unberührt bleibt. |
 | ![Ziel](https://img.shields.io/badge/-Ziel-bf8700?style=flat-square) | **7.0** | Kampagne und Szenarien vereint zu **einer langen Kampagne mit drei möglichen Enden**. |
@@ -1111,13 +1185,13 @@ Drei Kacheln nebeneinander:
 | Kachel | Was sie öffnet |
 |---|---|
 | **Kampagne** | Die Kampagne des Spiels, unberührt, gespielt mit den Regeln der Mod. |
-| **Partie erstellen** | Links vier Abschnitte, beim Öffnen alle zugeklappt: **Mehrspielerkarten** (mit ihrem Bild; das Gefecht ist hier), **Spielmodi gegen die KI** (seit 5.9: Logistikfront, Durchbruch oder Jagd auf den Gefechtsstand, in der Zeile **Spielmodus**), **Offizielle Szenarien** und **Steam Workshop**. Rechts **ein einziges Feld**: die Karte und ihre Beschreibung, der Modus auf Mehrspielerkarten (**Koop gegen KI** oder **Spieler gegen Spieler**), die Größe, deine Seite, dein Land und deine Kampfgruppe, der feindliche Kommandant (Stufe, ein oder mehrere Länder), der KI-Verbündete (nur solo), Titel und Passwort der Lobby, Uhrzeit und Wetter. Dann **Solo spielen** (offline, ohne Lobby) oder **Mehrspieler spielen** (eine Lobby der Mod). |
+| **Partie erstellen** | Links vier Abschnitte, beim Öffnen alle zugeklappt: **Mehrspielerkarten** (mit ihrem Bild; das Gefecht ist hier), **Spielmodi gegen die KI** (seit 5.9: Logistikfront, Durchbruch oder Jagd auf den Gefechtsstand, in der Zeile **Spielmodus**), **Offizielle Szenarien** und **Steam Workshop**. Rechts **ein einziges Feld**: die Karte und ihre Beschreibung, der Modus auf Mehrspielerkarten (**Koop gegen KI** oder **Spieler gegen Spieler**), die Größe, die **Max. Einheiten pro Seite** (seit 5.9.2), deine Seite, dein Land und deine Kampfgruppe, der feindliche Kommandant (Stufe, ein oder mehrere Länder), der KI-Verbündete (nur solo), Titel und Passwort der Lobby, Uhrzeit und Wetter. Dann **Solo spielen** (offline, ohne Lobby) oder **Mehrspieler spielen** (eine Lobby der Mod). |
 | **Lobby suchen** | Die Liste der Steam-Lobbys der Mod (nur Lobbys: Eine Partie wird in **Partie erstellen** angelegt) und deine **Steam-Freunde, die die Mod spielen**. |
 
 Das Arsenal und der Editor bleiben, wo sie sind. Die offizielle Kachel Mehrspieler und die Schnellsuche sind aus dem Menü verschwunden.
 
 ### Einstellungen > Mod
-**Esc > Einstellungen > Mod** behält, was dir gehört: den **Realismus-Modus**, die **Verweildauern** (seit 5.3 eine Zeile, **Wracks, Gefallene, Brände und Krater**: 5, 15, 30 oder 60 Minuten oder **Unbegrenzt**, in einer Partie zwischen Spielern vom Host festgelegt) und **Über**. Wetter, Kartengröße und Kommandeure werden beim Einrichten der Partie gewählt. [Alle Einstellungen.](#settings)
+**Esc > Einstellungen > Mod** behält, was dir gehört: den **Realismus-Modus**, die **Verweildauern** (seit 5.3 eine Zeile, **Wracks, Gefallene, Brände und Krater**: 5, 15, 30 oder 60 Minuten oder **Unbegrenzt**, in einer Partie zwischen Spielern vom Host festgelegt), das **Einheitenlimit** (seit 5.5 vom Host gewählt; seit 5.9.2 vor der Partie gewählt, hier oder in **Partie erstellen**, und während der Schlacht festgelegt), **Fahrzeuge aufgeben** (seit 5.9.2: **Manuell** oder **Automatisch**, jeder Spieler für seine eigenen Fahrzeuge) und **Über**. Wetter, Kartengröße und Kommandeure werden beim Einrichten der Partie gewählt. [Alle Einstellungen.](#settings)
 
 ### Einen Mod-Fehler melden 🐞
 Die Fehler-Schaltfläche des Spiels, im Hauptmenü und in der Schlacht, öffnet das Fenster **Einen Mod-Fehler melden** der Mod: den Link zum Discord, wo du ein Ticket eröffnest, die Protokolle, die du anhängen sollst, **bevor du das Spiel erneut startest** (`Latest.log`, der Ordner `Logs` und der Ordner `GameLogs` des Spiels, jeweils mit einer Schaltfläche **Ordner öffnen**), und eine Zeile mit den Versionen von Mod und Spiel zum Kopieren ins Ticket.
@@ -1140,13 +1214,14 @@ Die Mod hat ihre eigenen Lobbys, betrieben von **Steam**, nicht von den Servern 
 - Eine zweite Zeile zeigt die **Einstellungen des Hosts**: Realismus-Modus, Kartengröße, Wetter, Kommandeure und ob ein Passwort gesetzt ist.
 - Eine Spalte **Ping** (Schätzung von Steam), **Filter** und die Zahl der **Mod-Spieler online**.
 - **Beitreten** funktioniert nur mit **derselben Mod-Version und Mod-Datei** und **derselben Spielversion**. Jede andere Lobby zeigt **Falsche Version** an: Ein Klick darauf öffnet diese GitHub-Seite. Die Mod lädt nie etwas herunter.
-- **5.9.1 ist die Mindestversion für das gemeinsame Spiel**: Ein Spieler mit einer älteren Version sieht **Falsche Version**.
+- **5.9.2 ist die Mindestversion für das gemeinsame Spiel**: Ein Spieler mit einer älteren Version sieht **Falsche Version**.
 - **Steam-Freunde, die den Mod spielen** haben einen eigenen Bereich: was jeder gerade tut, seine Version und eine Schaltfläche **Beitreten** (oder **Zurück in die Schlacht**). Ein Freund in einer privaten Lobby zeigt keine Schaltfläche, und Passwörter und Lobbys nur für Freunde gelten weiterhin.
 
 ### Eine Lobby erstellen
 - Über **Partie erstellen** mit **Mehrspieler spielen**: auf einer Karte der Logistikfront, einem offiziellen PvE-Szenario, einer Mehrspielerkarte oder, seit 5.9.1, einer Karte aus dem Steam Workshop.
 - Ein **Titel der Partie**, über die Tastatur eingegeben, in jeder der fünf Sprachen, und **wer beitreten kann**: **Öffentlich** (jeder Mod-Spieler sieht sie), **Nur Freunde** (deine Steam-Freunde) oder **Privat** (in der Liste ausgeblendet, nur per Steam-Einladung). Ein optionales **Passwort**: Nach zu vielen Fehlversuchen wird der Spieler aus dieser Lobby ausgesperrt.
 - **Der Modus**: Koop gegen die KI auf einem Szenario oder der Logistikfront, alle Spieler auf derselben Seite; auf einer Mehrspielerkarte **Koop gegen KI** (ihre Logistikfront-Version) oder **Spieler gegen Spieler**, wo jeder Spieler seine Seite wählt.
+- **Das Einheitenlimit** (seit 5.9.2): Der Host stellt **Max. Einheiten pro Seite** (90, 100, 120 oder 150) vor der Partie ein. Es gilt für alle, wird beim Countdown der Lobby festgelegt und bleibt die ganze Schlacht über gesperrt.
 
 ### In der Lobby
 - **Seit 5.6 wählt jeder Spieler sein Land auf seiner Seite und ein Deck dieses Landes**: Auf der NATO-Seite kann einer Deutschland nehmen, ein anderer die USA, ein dritter die Ukraine. Unten führt eine Zeile zum [Discord](https://discord.gg/wrtMjUnard) der Mod, falls etwas schiefgeht.
@@ -1253,8 +1328,8 @@ In jeder Partie zwischen Spielern sucht der PC des Hosts nach unmöglichen Aktio
 | **50.000 Punkte pro Kategorie** | In jeder Kategorie des Decks, für jedes Land (Logistik unverändert). |
 | **Echte Verfügbarkeit** | Alte, in Masse gebaute Fahrzeuge kommen in großer Zahl, moderne in kleinen Stückzahlen: zwei T-14 pro Karte gegen zwölf alte T-72. |
 | **Echte Preise** | Jede Einheit ist nach ihrem echten Kampfwert bepreist, neu aufgebaut in 5.3: T-72B3 180, BMP-3 95, Bradley 100, Abrams SEP v3 355, T-90M 330, Grad 150. Der T-14 Armata, 560, ist der stärkste Panzer im Spiel und kostet entsprechend. Luftfahrzeuge sind viel billiger als vorher: die Zelle plus ihre Bewaffnung, ein Preis pro Lenkflugkörper. |
-| **Fertige Decks** | Zwei Decks, RUSSIA und USA, werden mit jeder Version aktualisiert, nachdem eine Kopie aufbewahrt wurde. |
-| **Deine Decks bleiben erhalten** | Seit 5.6 prüft die Mod bei jedem Start deine Decks, bevor das Spiel sie liest. Nur eine ungültig gewordene Karte wird korrigiert oder entfernt: Eine Bewaffnung, die es nicht mehr gibt, wird wieder die Standard-Bewaffnung, die Exemplare gehen auf das Maximum zurück, ein nicht mehr erlaubter Transport wird ein erlaubter, der den Trupp trägt (ein Lkw), und eine Kategorie mit mehr als 7 Karten verliert nur ihre letzten Karten. Gleiche Datei, eine Sicherungskopie in `Decks\avant_correction_auto` und eine einzige Meldung, die die Decks nennt. Kein Deck wird je gelöscht, und Kopien stapeln sich nicht mehr bei jedem Start. Doppelte Karten sind ausgeblendet. Alle Tarnmuster sind freigeschaltet. |
+| **Fertige Decks** | Zwei Decks, RUSSIA und USA, nur angelegt, wenn du noch kein Deck mit diesem Namen hast: Ein vorhandenes Deck wird nie ersetzt. |
+| **Deine Decks bleiben erhalten** | Seit 5.6 prüft die Mod bei jedem Start deine Decks, bevor das Spiel sie liest. Nur eine ungültig gewordene Karte wird korrigiert oder entfernt: Eine Bewaffnung, die es nicht mehr gibt, wird wieder die Standard-Bewaffnung, die Exemplare gehen auf das Maximum zurück, ein nicht mehr erlaubter Transport wird ein erlaubter, der den Trupp trägt (ein Lkw), und eine Kategorie mit mehr als 7 Karten verliert nur ihre letzten Karten. Seit 5.9.2 wird keine Kopie eines Decks mehr angelegt: Die gleiche Datei behält alles Übrige, und eine Meldung bittet dich, jedes betroffene Deck zu überprüfen, und nennt die entfernten oder angepassten Karten. Kein Deck wird je gelöscht. Doppelte Karten sind ausgeblendet. Alle Tarnmuster sind freigeschaltet. |
 | **Kampagne** | Nur dein USA- oder Russland-Deck spielt in der Kampagne, und eine Meldung sagt dir, welches. Alles, was dir die Mission gibt, kommt zu deinen Karten hinzu, sodass die geskripteten Teile weiter funktionieren. |
 | **Überall sonst** | Szenarien, Gefecht und Logistikfront nehmen das Deck jedes Landes. |
 
@@ -1266,7 +1341,7 @@ In jeder Partie zwischen Spielern sucht der PC des Hosts nach unmöglichen Aktio
 
 ## 🌍 Nationen: NATO gegen OVKS
 
-Das Spiel kennt nur zwei Seiten, daher gehört jedes Land zu einer davon: NATO-Länder kämpfen auf amerikanischer Seite, OVKS-Länder auf russischer Seite. Jedes Land ist ein Paar Divisionen mit seiner Flagge und nur dem Gerät, das es wirklich besitzt: im Dienst, bestellt oder aus alten Beständen. Wo ein Fahrzeug kein 3D-Modell im Spiel hat, springt das nächstliegende Fahrzeug des Spiels ein, unter dem echten Namen und mit den echten Werten. Seit 5.4 stellt jedes Land nur echtes Gerät auf, und kleine Armeen erhalten mehr Exemplare an Panzerabwehr und Flugabwehr.
+Das Spiel kennt nur zwei Seiten, daher gehört jedes Land zu einer davon: NATO-Länder kämpfen auf amerikanischer Seite, OVKS-Länder auf russischer Seite. Jedes Land ist ein Paar Divisionen mit seiner Flagge und nur dem Gerät, das es wirklich besitzt: im Dienst, bestellt oder aus alten Beständen. Wo ein Fahrzeug kein 3D-Modell im Spiel hat, springt das nächstliegende Fahrzeug des Spiels ein, unter dem echten Namen und mit den echten Werten. Seit 5.4 stellt jedes Land nur echtes Gerät auf, und kleine Armeen erhalten mehr Exemplare an Panzerabwehr und Flugabwehr. Seit 5.9.2 bietet jedes Fahrzeug im Arsenal auch seine echten Motoren und, wenn sein 3D-Modell ihn zeigt, seinen echten Schutz ([neu in 5.9.2](#new-592)).
 
 ### NATO
 
@@ -1307,7 +1382,7 @@ Das eigene Szenario der Mod. Zwei Basen, eine große Karte, ein einziger Gegner 
 | **Karten** | **Alle 22 Karten des Spiels** ([Tabelle weiter unten](#maps)), in Vanilla, Mittel oder Groß, vor der Schlacht gewählt. Kein Zeitlimit. |
 | **Gegner** | Nur ein Feind: der Kommandeur der Mod, mit eigenen Besatzungen, versteckten Depots und eigenen Konvois. Die übrigen feindlichen Plätze, die das Spiel anlegt, bleiben leer. |
 | **Spieler** | Solo oder **bis zu 3 Spieler auf derselben Seite** über eine Mod-Lobby. Die Regeln und Einstellungen des Hosts gelten für alle, und alle brauchen dieselben DLCs, um dieselben Einheiten zu sehen. |
-| **Einheitenlimit** | **90, 100, 120 oder 150 Einheiten gleichzeitig pro Seite**, seit 5.5 vom Host gewählt (Reiter **Mod**). Die Spieler einer Seite teilen sich ihr Limit, und der Kommandeur hat dasselbe. Einheiten auf der Karte, im Einkaufskorb und auf dem Anmarsch zählen alle mit, ebenso die Infanterie an Bord. |
+| **Einheitenlimit** | **90, 100, 120 oder 150 Einheiten gleichzeitig pro Seite**, seit 5.5 vom Host gewählt, vor der Partie: seit 5.9.2 **Max. Einheiten pro Seite** in **Partie erstellen** (oder Reiter **Mod**), während der Schlacht festgelegt. Die Spieler einer Seite teilen sich ihr Limit, und der Kommandeur hat dasselbe. Einheiten auf der Karte, im Einkaufskorb und auf dem Anmarsch zählen alle mit, ebenso die Infanterie an Bord. |
 | **Start** | An einer Straße an deinem Kartenrand, auf einer ausgelosten Seite: **1.500 Punkte pro Spieler** (der Kommandeur erhält 1.500 für jeden menschlichen Spieler) und **drei 10-Tonnen-Versorgungs-Lkw pro Spieler**. Ein Kameraflug von 26,5 Sekunden bei pausiertem Spiel zeigt die feindliche Basis, dann deine. |
 | **Luftstreitkräfte** | Keine Hubschrauber und keine Flugzeuge in den ersten 10 Spielminuten, Hubschrauber ab 10 Minuten, Flugzeuge ab 20 Minuten, für dich und für den Gegner. Pause und Intro zählen nicht. Infanterie, die in einem Hubschrauber mitfliegt, zählt als Hubschrauber. Luftfahrzeuge kommen von jenseits des Kartenrands: seit 5.8 Flugzeuge 4,5 km und Hubschrauber 1,9 km dahinter, und keines bleibt außerhalb der Karte. Ein Countdown steht im Banner oben am Bildschirm. |
 | **Einkommen** | Nichts vom Spiel. Seit 5.6 verdient deine Seite jede Minute **2,5 Punkte für jede Tonne** in ihren Depots (in den Stapeln, den Gebäuden und den Waldverstecken): 30 t = 75, 100 t = 250, 400 t = 1.000, in gerader Linie bis zu **3.000 pro Minute für die Seite**, geteilt unter ihren Spielern. Zu Beginn bringen die drei Lkw jedes Spielers (30 t) 75 pro Minute. **Eine gekaufte Tonne kostet 100 Punkte** an der Logistikfront seit 5.8 (vorher 200, 25 in den anderen Modi): Eine abgesetzte Tonne hat sich nach etwa 40 Minuten bezahlt gemacht. Die Seite des Kommandeurs wird nach derselben Regel bezahlt. **Das Versorgen deiner Einheiten bringt kein Geld mehr.** |
@@ -1470,6 +1545,7 @@ Seit 5.3 wird die Chance **Rakete für Rakete** festgelegt: Eine moderne Patriot
 - **Hoher Flug** (seit 5.4): Hubschrauber fliegen viel höher als früher, Flugzeuge etwas höher, und die Flugabwehr erreicht sie bis zu ihrer **echten Gipfelhöhe**.
 - **Tiefflug**: Hubschrauber feuern dort wieder normal.
 - **Geschwindigkeit**: Ein Hubschrauber fliegt mit seiner echten Geschwindigkeit, seit 5.5 um 10 % erhöht wie alle Bewegungsgeschwindigkeiten, im Tiefflug fast genauso schnell wie im hohen Flug.
+- **Landen** (seit 5.9.2): Der Hubschrauber setzt wirklich auf, mit abgeschaltetem Motor, verbraucht keinen Treibstoff und feuert nicht, solange er am Boden steht; er startet beim nächsten Befehl wieder.
 
 ### Luftangriff
 - **Gleitbomben mit ihrer echten Abstandsreichweite**, 50 bis 100 km, ausgelöst mit dem Befehl Präzisionsschlag: JSOW, SDB II, PBK-500U, UMPK-Kits. Die Flugabwehr kann sie abschießen, vor allem mit ihren Rohrwaffen.
@@ -1540,6 +1616,7 @@ Ladungen werden von Versorgungs-Lkw nachgeladen (60 s und 100 Punkte pro Ladung)
 - **Im Gelände, mindestens**: Transport-Lkw behalten 85 % ihrer Straßengeschwindigkeit, leichte Fahrzeuge 75 %, Radpanzer 60 %, Kettenfahrzeuge 50 %.
 - **Steigungen**: Bergauf wird jedes Bodenfahrzeug nach seiner echten Leistung im Verhältnis zu seinem Gewicht langsamer, kalibriert an den veröffentlichten Werten des M1A1 Abrams. Im Gelände fällt ein Abrams auf einer Steigung von 10 % von 48 auf 27 km/h; der T-72B3 und der T-14 ungefähr genauso; ein beladener Lkw wird stärker gebremst; ein Humvee kaum. Bergab gewinnt es bis zu 10 %, nie über seine Höchstgeschwindigkeit auf der Straße hinaus. Ist der Hang steiler, als das echte Fahrzeug klettern kann (60 % für Ketten und Räder, 50 % für Lkw, 40 % für schwere Werfer auf Lkw-Fahrgestell), fährt es im Schritttempo weiter, bleibt aber nie stecken. Auf ebenem Gelände, auf Brücken und im Wasser ändert sich nichts. Seit 5.4 wird ein Fahrzeug an einer Steigung nur langsamer, wenn seine Leistung die Geschwindigkeit nicht mehr halten kann: Ein Lkw behält an einer Steigung von 3 % fast seine ganze Geschwindigkeit.
 - **Die Höchstgeschwindigkeiten gehen von den echten aus**, seit 5.5 um 10 % erhöht wie alle Bewegungsgeschwindigkeiten, und der T-14 bleibt der schnellste Panzer (echt 80 km/h) mit der besten Beschleunigung, gleichauf mit dem K2.
+- **Echte Motoren zur Wahl** (seit 5.9.2): Im Arsenal bietet jedes Fahrzeug seine echten Motoren, ältere billiger und neuere teurer, mit Namen und PS. Der Motor ändert die Beschleunigung, und die Höchstgeschwindigkeit nur, wenn das wirklich so ist.
 
 <a id="damage"></a>
 
@@ -1571,7 +1648,7 @@ Der Schaden erscheint als die eigenen Symbole des Spiels an der Beschriftung der
 
 ### Minen
 - **Pioniere** tragen sechs Panzerabwehrminen und verlegen sie in einer Linie; der Gegner kann sie ohne Minenräumfahrzeug nicht sehen.
-- **Zwei Karten zur Fernverlegung von Minen**, ISDM Zemledeliye und M270 MARS AT2: 6 km, eine Rakete pro Befehl, drei Panzerabwehrminen im Dreieck. Schwere Flugabwehr kann die Raketen abfangen.
+- **Zwei Karten zur Fernverlegung von Minen**, ISDM Zemledeliye und M270 MARS AT2 (seit 5.9.2 im Spezial-Reiter, mit den Minenräumfahrzeugen): 6 km, eine Rakete pro Befehl, drei Panzerabwehrminen im Dreieck. Schwere Flugabwehr kann die Raketen abfangen.
 - Eine Mine ist **scharf, sobald sie landet**, **jedes Fahrzeug**, das über eine Panzerabwehrmine fährt, wird zerstört, und Infanterie löst sie nicht aus. Minenräumfahrzeuge sehen feindliche Minen und sprengen sie aus der Entfernung.
 - **Von allen Spielern geteilt** im Koop: Jede Mine eines Pioniers, deine, die eines Freundes oder die der KI, existiert auf jedem PC. Jedes Fahrzeug, **Freund oder Feind**, das darüberfährt, explodiert, einmal, und **alle sehen die Explosion** und den Krater, den sie hinterlässt. Dasselbe gilt für Minenräumfahrzeuge (M1150, MICLIC, UR-77). Ein Spieler, der während der Schlacht beitritt oder zurückkehrt, erhält die Liste der Minen.
 
@@ -1606,11 +1683,13 @@ Der Schaden erscheint als die eigenen Symbole des Spiels an der Beschriftung der
 - **Seit 5.4**: **Rechtsklick** = über die Straße; **doppelter Rechtsklick** = querfeldein.
 - **Taste B**: zurück zur Basis über die Straße. Die Rückkehrzone der Basen ist größer.
 - **Unbewaffnete Transport- und Versorgungs-Lkw fahren von selbst zur Basis zurück**, über die Straße, sobald sie leer sind, wie die Transporthubschrauber.
+- **Angreifen** (seit 5.9.2; **Q** auf einer QWERTY-Tastatur, **A** auf AZERTY): die Angriffsbewegung des Spiels.
+- **G** (seit 5.9.2): **Unterdrückungsfeuer** deiner Bodenfahrzeuge. Das Fahrzeug rückt auf Reichweite heran und feuert dann einen langen Feuerstoß: 200 Schuss aus einer Maschinenkanone, 5 Granaten aus einer Panzerkanone, 50 Granaten aus einem Granatwerfer, 100 Schuss aus einem Maschinengewehr. Weder G noch Angreifen feuern durch zwei getrennte Waldstücke: In den ersten Wald hinein darf gefeuert werden.
 - Immer aktiv, ohne Einstellung.
 
 ### Explosionen und Geräusche
 - **Ein zerstörtes Fahrzeug explodiert mit der Munition, die es noch an Bord hat**: eine volle Pantsir etwa 187 kg Ladung, ein voller Smerch etwa 1.410 kg. Feuerball, eine bis sechzehn Sekundärexplosionen, schwarzer Rauch. Versorgungs-Lkw und Depots explodieren entsprechend ihrem Vorrat, und Luftfahrzeuge in der Nähe werden von der Druckwelle erfasst.
-- **Bäume fallen im echten Wirkradius der Ladung**: etwa 10 m bei einer 155-mm-Granate, 22 m bei einer 250-kg-Bombe.
+- **Bäume fallen im echten Wirkradius der Ladung**: etwa 10 m bei einer 155-mm-Granate, 22 m bei einer 250-kg-Bombe. Seit 5.9.2 fällen auch Feuerstöße aus Maschinenkanonen und schweren Maschinengewehren Bäume (etwa 2 Schuss 30 mm auf den Stamm für einen 20 cm dicken Baum), und die Sicht öffnet sich für beide Seiten.
 - **Der Schall trägt so weit wie in Wirklichkeit**:
 
 | Quelle | Hörbar bis |
@@ -1688,7 +1767,7 @@ Ein bis drei Echos mit der echten Schallgeschwindigkeit und ein Hall im Freien. 
 - **Der Kommandeur der Mod bringt nur, was du aufstellen kannst**: keine Hubschrauber, Flugzeuge oder Bodeneinheiten auf seiner Seite, wenn deine Seite für sie keinen Startpunkt hat. [Mehr zum Kommandeur.](#ai-53)
 - **Die allererste US-Mission**, das Tutorial, wird absichtlich ohne die Mod gespielt, mit der eigenen Musik des Spiels. Die Mod schaltet sich bei der nächsten Mission wieder ein.
 - **Auch hier sind die Furten für nicht schwimmfähige Fahrzeuge gesperrt**, ohne eine Mission kaputtzumachen: Land ab 0,5 km² wird nie abgeschnitten, und wo eine Furt der einzige Weg hinüber ist, bleibt die kürzeste offen. Die Infanterie dagegen watet durch die Furten (seit 5.4).
-- **Die Musik der Mod läuft in den Missionen weiter**, und die eigene Musik einer Mission hat immer Vorrang.
+- **In den Missionen spielt die Musik des Spiels** (seit 5.9.2), wechselnd zwischen ruhig, spannungsvoll und Gefecht; die Stücke der Mod bleiben im Menü.
 
 <div align="right"><a href="#top">nach oben</a></div>
 
@@ -1698,7 +1777,7 @@ Ein bis drei Echos mit der echten Schallgeschwindigkeit und ein Hall im Freien. 
 
 ## ⚙️ Unter der Haube
 
-Echte Kaliber, Durchschlag, Streuung und Ballistik mit echter Schwerkraft; echte Panzerung und Reaktivpanzerung; echte optische Reichweiten pro Einheit, abgestimmt auf die Arsenal-Karten und die Reichweitenkreise unter Alt; echte Munitionsbeladungen auf beiden Seiten; echte Nachversorgungszeiten; Wärmebildgeräte an Hubschraubern; drahtgelenkte Panzerabwehrfahrzeuge, die zum Feuern anhalten; echte Hubschrauberkapazitäten; die S-400 bekämpft Raketen. Befehlsschaltflächen, die dem Spiel fehlen. Fünfzehn originale Musikstücke und ein Intro-Thema für die Menüs und die Schlachten, in einem durchgehenden Zyklus.
+Echte Kaliber, Durchschlag, Streuung und Ballistik mit echter Schwerkraft; echte Panzerung und Reaktivpanzerung; echte optische Reichweiten pro Einheit, abgestimmt auf die Arsenal-Karten und die Reichweitenkreise unter Alt; echte Munitionsbeladungen auf beiden Seiten; echte Nachversorgungszeiten; Wärmebildgeräte an Hubschraubern; drahtgelenkte Panzerabwehrfahrzeuge, die zum Feuern anhalten; echte Hubschrauberkapazitäten; die S-400 bekämpft Raketen. Befehlsschaltflächen, die dem Spiel fehlen. Fünfzehn originale Musikstücke und ein Intro-Thema für die Menüs, in einem durchgehenden Zyklus; in der Schlacht die Musik des Spiels (seit 5.9.2).
 
 <details>
 <summary><b>Echte Entfernungen und echte Zahlen: zum Öffnen klicken</b></summary>
@@ -1737,7 +1816,7 @@ Echte Kaliber, Durchschlag, Streuung und Ballistik mit echter Schwerkraft; echte
 | Ein mit EasyAntiCheat gestartetes Spiel | ⛔ Die Mod beendet das Spiel |
 
 > [!NOTE]
-> **Jede Partie zwischen Spielern läuft über Steam.** Die Lobby ist eine Steam-Lobby, die Schlacht läuft Peer-to-Peer über das Steam-Relay von Valve, und der PC des Hosts dient als Server: Deine IP-Adresse wird nie weitergegeben. Nur legitime Steam-Kopien mit einer unveränderten, versiegelten Mod-Datei können spielen, und alle brauchen genau dieselbe Mod-Datei: Eine Lobby einer anderen Version zeigt **Falsche Version** an. 5.6 ist die Mindestversion für das gemeinsame Spiel.
+> **Jede Partie zwischen Spielern läuft über Steam.** Die Lobby ist eine Steam-Lobby, die Schlacht läuft Peer-to-Peer über das Steam-Relay von Valve, und der PC des Hosts dient als Server: Deine IP-Adresse wird nie weitergegeben. Nur legitime Steam-Kopien mit einer unveränderten, versiegelten Mod-Datei können spielen, und alle brauchen genau dieselbe Mod-Datei: Eine Lobby einer anderen Version zeigt **Falsche Version** an. 5.9.2 ist die Mindestversion für das gemeinsame Spiel.
 
 > [!CAUTION]
 > **Starte das Spiel immer über Steam mit der Startoption "Anti-Cheat Disabled".** Läuft EasyAntiCheat, zeigt die Mod eine Meldung und beendet das Spiel, bevor irgendetwas geladen wird. Sonst passiert nichts: Starte es einfach erneut mit der richtigen Option.
@@ -1772,7 +1851,7 @@ Echte Kaliber, Durchschlag, Streuung und Ballistik mit echter Schwerkraft; echte
 <a id="update"></a>
 
 ### Update von einer älteren Version
-Lade das neue Archiv über die Schaltfläche **DOWNLOAD** oben auf dieser Seite herunter, kopiere die neuen Dateien über die alten (der Ordner `UserData` bringt das Intro-Thema mit), dann öffne deine Decks und prüfe sie. Um zusammen zu spielen, brauchen du und deine Freunde genau dieselbe Version, mindestens 5.6: Sonst zeigt die Lobbyliste **Falsche Version** an.
+Lade das neue Archiv über die Schaltfläche **DOWNLOAD** oben auf dieser Seite herunter, kopiere die neuen Dateien über die alten (der Ordner `UserData` bringt das Intro-Thema mit), dann öffne deine Decks und prüfe sie. Um zusammen zu spielen, brauchen du und deine Freunde genau dieselbe Version, mindestens 5.9.2: Sonst zeigt die Lobbyliste **Falsche Version** an.
 
 ### Deinstallation
 Lösche `Mods\BrokenArrowRealismOverhaul.dll` und die Ordner `UserData\RealismOverhaul...`. Um auch MelonLoader zu entfernen, lösche `version.dll` und den Ordner `MelonLoader`. Die Originaldivisionen und das Menü des Spiels kommen zurück, genau wie vorher.
@@ -1802,7 +1881,8 @@ Alles an der Mod ist immer aktiv, außer den wenigen Dingen, die du ändern kann
 | **Kartengröße** | Das Feld **Partie erstellen** | Vanilla, Mittel oder Groß, mit den echten Kilometern jeder Karte. Die Kampagne behält immer die Originalgröße des Spiels |
 | **Wetter** | Das Feld **Partie erstellen**, **Weitere Einstellungen** | Automatisch, Klar, Bewölkt, Bedeckt, Regen oder Nebel; Regen, bedeckter Himmel und Nebel verkürzen die Sicht für beide Seiten |
 | **Feindlicher und verbündeter Kommandeur** | Das Feld **Partie erstellen**: **Feindlicher Kommandant** und **KI-Verbündeter (solo)** | Ihre Stufe, ausgegraut, wenn der Modus sie nicht braucht |
-| **Einheitenlimit der Logistikfront** | Reiter **Mod**, vom Host gewählt | Seit 5.5: 90, 100, 120 oder 150 Einheiten pro Seite, unter den Spielern der Seite geteilt |
+| **Einheitenlimit** (**Max. Einheiten pro Seite**) | Das Feld **Partie erstellen** oder Reiter **Mod**, vom Host gewählt | Seit 5.5: 90, 100, 120 oder 150 Einheiten pro Seite auf den Frontkarten (Logistikfront, Durchbruch, Jagd auf den Gefechtsstand, Koop auf Mehrspielerkarten, Spieler gegen Spieler), unter den Spielern der Seite geteilt; seit 5.9.2 vor der Partie gewählt und während der Schlacht festgelegt |
+| **Fahrzeuge aufgeben** | Esc > Einstellungen > Mod | **Manuell** (Standard: ein blinkendes gelbes Dreieck und eine Schaltfläche **Aufgeben** bei 30 % Leben oder weniger) oder **Automatisch** (die Besatzung steigt bei 30 % von selbst aus), seit 5.9.2; jeder Spieler stellt es für seine eigenen Fahrzeuge ein, auch während der Schlacht. Die KI gibt Fahrzeuge immer automatisch auf |
 | **DLSS** und **Sichtweite** | Optionen > Grafik | Seit 5.5, von jedem Spieler selbst eingestellt, nie vorgegeben: DLSS (NVIDIA RTX) mit DLAA, Qualität, Ausgewogen, Leistung oder Ultra-Leistung (zuerst FSR 3 ausschalten); Sichtweite Nah, Normal, Weit oder Sehr weit |
 | `FacteurSonGuerre` | `UserData\MelonPreferences.cfg` | 1 realistischer Sound, 0.5 leise, 2 laut, 0 der Originalsound des Spiels |
 
@@ -1854,6 +1934,7 @@ Die Texte im Spiel in den fünf Sprachen und die Übersetzungen dieser Seite wur
 
 | Version | Datum | Höhepunkte |
 |:-:|:-:|---|
+| **5.9.2** | Oktober 2026 | Angreifen (Q, oder A auf AZERTY) wieder als Angriffsbewegung des Spiels, der automatische Halt bei Feindkontakt gestrichen; G als Unterdrückungsfeuer für Bodenfahrzeuge (200 Schuss Maschinenkanone, 5 Panzergranaten, 50 Granaten, 100 Schuss Maschinengewehr); kein Feuer durch zwei getrennte Wälder. Bäume, die unter Feuerstößen von Maschinenkanonen und schweren Maschinengewehren fallen, die Sicht offen für beide Seiten. Fahrzeuge von Hand (ein gelbes Dreieck und eine Schaltfläche Aufgeben bei 30 % Leben) oder automatisch aufgegeben, die KI immer automatisch; aufgegebene Fahrzeuge weiß und neutral, Besatzung und Passagiere draußen, ausgeblendet, wenn niemand sie mehr sieht, Seitenwechsel nur durch einen Bergepanzer in etwa 50 m. Hubschrauber, die landen, mit abgeschaltetem Motor und ohne Treibstoffverbrauch; ein Rettungsraum mit 3 Plätzen im Mi-28. Das Einheitenlimit vor der Partie gewählt und in der Schlacht festgelegt. Die Musik der Mod im Menü, die abwechslungsreiche Musik des Spiels in der Schlacht. Decks, die nur die geänderte Karte verlieren, mit einer Meldung und ohne Kopie. Die Panzerung aller Bodenfahrzeuge geprüft; echte Motoren und echter Schutz zur Wahl im Arsenal; Wärmebildgeräte am T-62MV und am T-72M1R; der ZSSW-30 auf dem polnischen Rosomak; neue Versionen und Korrekturen; neue Karten: JLTV, T-90AK, BMD-2K, BMP-3K und Leopard 2A7; Fahrzeugrauch, der sich ausbreitet. Ein Spezial-Reiter mit Artillerieortungsradaren, elektronischer Kampfführung, Bergepanzern, Minenlegern und Minenräumern. Weniger interne Fehler, kein Geld mehr für eine heimgekehrte Besatzung. 5.9.2 als Mindestversion online. |
 | **5.9.1** | Oktober 2026 | Abstürze zu Beginn einer Schlacht behoben, weniger interne Fehler, ein Hauptmenü, das nicht mehr flackert. Aufgegebene Fahrzeuge völlig untätig bis zur Instandsetzung und nach Ablauf der Wrack-Dauer des Hosts zerstört, wenn sie niemand birgt (Meldung 1 Minute vorher, Countdown ruht beim Abschleppen und Instandsetzen); eine Schaltfläche Aussteigen für ein Fahrzeug, das bewegungsunfähig ist oder 25 % Leben oder weniger hat und steht. Bergepanzer (BREM-1, M88A2, Bergepanzer 3, ukrainischer BREM-1, WZT-3) als eine Karte: 1,5 t Ersatzteile, Instandsetzung aufgegebener und beschädigter Fahrzeuge bis 75 %, Auffüllen in 5 s an einem Depot oder neben einem Lkw, Schleppen / abkuppeln mit einem 11-m-Seil bei halber Geschwindigkeit. Aufgegebene Feindfahrzeuge, abgeschleppt und instand gesetzt, werden Beute (35 % Munition bei Panzern und schweren Fahrzeugen, 50 % des Preises, sobald sie zur Basis zurückgebracht sind), auch für die KI. Der Spezial-Reiter des Zubr und des LCAC nimmt Bergepanzer, Artillerieortungsradare, elektronische Kampfführung und Pioniere auf; Standarddecks RUSSIA und USA aktualisiert. Artillerieortungsradare auf der Radar-Schaltfläche des Spiels, eingeschaltet strahlen sie ab, mit einem blassroten Kreis, wo ein feindliches Geschütz feuert. Flugzeuge, die an der roten Marke wirklich heimkehren; Treibstoff für Hubschrauber, 19 bis 34 Minuten. Karten aus dem Steam Workshop unter Freunden gehostet, mit automatischem Download, einer Zeile Spielmodus und ihren Warnungen; das Workshop-Gefecht im PvP lädt nicht mehr die offizielle Karte. Lobbys zeigen Mod-Spieler in einer Solo-Partie und ob eine Karte offiziell ist oder aus dem Workshop stammt. 5.9.1 als Mindestversion online. |
 | **5.9** | Oktober 2026 | Zwei neue Modi gegen die KI, von den Spielern gewählt: Durchbruch (3 aufeinanderfolgende Verteidigungslinien in Stadtvierteln, 3, 2 und 2 Zonen, alle Zonen einer Linie zu nehmen, für den Angreifer nur die aktuelle Linie sichtbar, eine Sperrzone für seine Bodeneinheiten, 45 Minuten pro Linie, 2 Minuten Vorbereitung, ein Verteidiger mit Hubschraubern, Flugzeugen und Panzerminenfeldern von Anfang an) und Jagd auf den Gefechtsstand (den feindlichen Gefechtsstand finden und zerstören, Geld aus dem Versorgungsbestand). Der Abschnitt Logistikfront wird zu Spielmodi gegen die KI, mit einer Zeile Spielmodus; die Mehrspielerkarten bekommen Offiziell, Front, Durchbruch und Jagd als reines Spieler gegen Spieler, bis zu 3 Spieler pro Seite. Aufgegebene Fahrzeuge: Die Besatzung steigt aus und bringt die Karte zurück, ein aufgegebenes Fahrzeug kann brennen und explodieren, Bergepanzer setzen bis 40 % instand, Radfahrzeuge humpeln davon, Piloten und Besatzungen zu Fuß außerhalb des Einheitenlimits. Die Geran-5 mit Strahltriebwerk nur noch durch Flugkörper abschießbar. Echtes Licht bei Starts und Explosionen, staubiger Startrauch, Rauchspuren bis 90-120 s. Flackerndes feindliches Depot, große gelbe Texte und oberes Banner korrigiert, interne Fehler behoben, ein flüssigeres Spiel. 5.9 als Mindestversion online. |
 | **5.8** | Oktober 2026 | Tarnkappe nur gegen Radar: Auge, Infrarot und Optik sehen Tarnkappenflugzeuge wie alle anderen, das Radar findet sie nach seinem Alter. Echte Wendigkeit für jeden Jäger, Ausweichen vor Flugkörpern nach Wendigkeit, deine Jäger jagen die feindlichen Flugzeuge, die deine Seite sieht, und kehren zurück, wenn sie getroffen sind oder kaum noch Munition haben. Jedes Luftfahrzeug nach seiner echten Selbstschutzausrüstung bepreist, die Flugkörper öfter täuscht; die manuelle Täuschkörper-Taste entfernt. Flugzeuge und Hubschrauber von weiter her, freie Kamera bis 9.000 m, Pylon-Auswahl nach Stärke sortiert mit Filtern. Die Langstrecken-Flugabwehr schießt nicht mehr auf ungelenkte 220/227-mm-Raketen und zerstört die schweren Raketen, die sie erreicht, viel öfter. Eine Granate löscht keinen Trupp mehr aus, Hohlladungs-Panzerabwehrflugkörper schießen nicht mehr auf Infanterie, Panzerabwehrtrupps sparen ihre Flugkörper für Panzer, Trupps verbarrikadieren sich in Gebäuden bis Stufe 2. Nicht durchschlagende Treffer beschädigen Optik, Visierung, Besatzung, Ketten oder Motor; echte Granaten der Hauptwaffe an Bord. Logistikfront: die Tonne zu 100 und Munition nur einmal gezählt; ein KI-Verbündeter mit eigenen Lkw und eigenem Geld. Der Realismus-Modus während der Schlacht festgelegt, der Kommandant auf Workshop-Gefechtskarten, Lobby-Chat repariert, 5.8 als Mindestversion online. |
@@ -1938,6 +2019,6 @@ Die Texte im Spiel in den fünf Sprachen und die Übersetzungen dieser Seite wur
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Alle Rechte vorbehalten.** Du darfst die Mod gern herunterladen und spielen. Sie irgendwo erneut hochzuladen (Steam, Steam Workshop, Nexus Mods, ModDB oder jede andere Seite), sie weiterzuverbreiten, ihren Code oder ihre Daten wiederzuverwenden oder veränderte Versionen zu veröffentlichen, ist ohne die schriftliche Genehmigung des Autors nicht erlaubt. Vollständige Bedingungen: [LICENSE](LICENSE). MelonLoader, im ALL-IN-ONE-Archiv enthalten, behält seine eigene Lizenz (Apache 2.0, Datei beiliegend).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.6-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.6"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.9.2-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.9.2"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
 
 <div align="right"><a href="#top">nach oben</a></div>

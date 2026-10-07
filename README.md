@@ -5,7 +5,7 @@
 <p align="center"><b>The campaign, the scenarios and the skirmish, fought the way the equipment was actually built to fight.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.9.1-2ea44f?style=for-the-badge" alt="Version 5.9.1">
+  <img src="https://img.shields.io/badge/version-5.9.2-2ea44f?style=for-the-badge" alt="Version 5.9.2">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9.1-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 5.9.1"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9.2-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 5.9.2"></a>
   <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"></a>
 </p>
@@ -34,6 +34,8 @@
 Broken Arrow gives you real vehicles, real weapons and real doctrine, and then lets a 152 mm howitzer drop a shell on the tank parked next to it, lets a machine gun swat an aircraft three kilometres up, and caps every missile at the 9 km edge of its old maps.
 
 This mod rewrites **more than 12,000 values** with real-world data, reads the game's own maps and mission scripts, prices every unit on what it can really do, gives every aircraft and every gun the loadouts its real counterpart carries, gives every weapon its published range up to 100 km, and puts a **second commander** on the other side of the map who reads what you field and answers it. You fight as a **nation**, one of eleven countries in two camps, NATO and CSTO. Every vehicle, weapon and round has its **real armour, speed and rate of fire**, every explosive its **real blast and fragmentation**, and you **choose your realism**: realistic or semi-realistic.
+
+**5.9.2 changes how you give fire orders and how a vehicle is abandoned, and gives every vehicle its real engines.** **Attack** (Q, or A on an AZERTY keyboard) is the game's own attack-move again, and **G** becomes **suppressive fire**: the vehicle moves up within range and fires a long burst. Autocannon and heavy machine gun bursts **fell trees**, and the view opens for both sides. You choose how your vehicles are **abandoned**, by hand at 30 % health or automatically, and an abandoned vehicle turns **white**: nobody fires at it on their own any more, and only a recovery vehicle makes it change sides. Helicopters can **land**, the **unit cap** is chosen before the game, the mod's music plays in the menu and the game's own music in battle, and a deck only loses the card that changed. In the Arsenal, every vehicle gets its **real engines** and, when its 3D model shows them, its **real protections**, with new cards for the USA, Russia and Germany. 5.9.2 is the minimum version to play together.
 
 **5.9.1 fixes the crashes and answers the players' requests.** The game no longer closes at the start of a battle with some of the new features, and the main menu no longer flickers. An abandoned vehicle is now completely inert until it is repaired, and it destroys itself if nobody recovers it in time. The **recovery vehicle** becomes one card that repairs up to 75 % and **tows**, and an abandoned enemy vehicle that you tow and repair becomes your **trophy**. **Counter-battery radars** switch on with the game's radar button and show the approximate area an enemy gun fires from, **helicopters** now have a realistic endurance of 19 to 34 minutes, and a **Steam Workshop map** can now be hosted between friends. Support units move to the special tab of the Zubr and the LCAC, so they no longer take the place of combat units. 5.9.1 is the minimum version to play together.
 
@@ -55,7 +57,7 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 
 | 107 | 265 | 90-150 | 16 | 5 | 0 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| aircraft with their real countermeasures | guided munitions with their real seeker | units per side in Logistics Front, set by the host | official PvE scenarios playable in co-op | languages | official servers used |
+| aircraft with their real countermeasures | guided munitions with their real seeker | units per side, set by the host before the game | official PvE scenarios playable in co-op | languages | official servers used |
 
 - **You will pick your fights in the air**, because a Su-35 or a Su-57 out-turns every Western fighter, and an F-35 has the edge only when it fires first, from far away, before an infrared sensor finds it.
 - **You will aim for the optics**, because a hit that does not penetrate can still blind a tank, knock its sights off or break its tracks.
@@ -87,7 +89,7 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 
 | The mod | The battlefield | Practical |
 |---|---|---|
-| [What's new in 5.9.1](#new-591) · [5.9](#new-59) · [5.8](#new-58) · [5.7](#new-57) · [5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [earlier](#earlier) | [Logistics Front](#logistics-front) | [Where it runs](#where-it-runs) |
+| [What's new in 5.9.2](#new-592) · [5.9.1](#new-591) · [5.9](#new-59) · [5.8](#new-58) · [5.7](#new-57) · [5.6](#new-56) · [5.5](#new-55) · [5.4](#new-54) · [5.3](#new-53) · [5.2](#new-52) · [earlier](#earlier) | [Logistics Front](#logistics-front) | [Where it runs](#where-it-runs) |
 | [Roadmap](#roadmap) | [The 22 maps](#maps) | [Download and install](#install) |
 | [The mod's menu](#menu) | [The enemy commander](#commander) | [Update or uninstall](#update) |
 | [Steam lobbies: playing together](#lobbies) · [co-op](#coop) · [rejoin](#rejoin) · [rules and privacy](#rules) | [Air war](#air-war) | [Settings](#settings) |
@@ -98,9 +100,80 @@ This mod rewrites **more than 12,000 values** with real-world data, reads the ga
 
 ---
 
+<a id="new-592"></a>
+
+## 🆕 What's new in 5.9.2: suppressive fire, trees felled by bursts, abandonment your way, real engines and protections, new cards
+
+> [!IMPORTANT]
+> **Replaces 5.9.1 (and any older version):** copy the new files over the old ones. Your decks are kept: when a card changes, only that card is taken out of the deck, with a message, and no copy of your decks is made any more. **5.9.2 is the new minimum version to play together**: every player in a lobby needs 5.9.2, and a player with an older version sees **Wrong version**.
+
+### 🎯 Orders
+- **Right-click** stays a plain move order.
+- **Attack** (**Q** on a QWERTY keyboard, **A** on AZERTY) is the game's own **attack-move** again. The automatic halt on contact tried in the test builds is dropped: it held units in place.
+- **G**, the game's forced fire, becomes **Suppressive fire** for your ground vehicles: the vehicle moves up within range, then fires a long burst on the spot: **200 rounds** from an autocannon, **5 shells** from a tank, **50 grenades** from a grenade launcher, **100 rounds** from a machine gun.
+- Neither **G** nor **Attack** fires through two separate stretches of forest: firing into the first forest is allowed, firing through it is not.
+
+### 🌲 Trees
+- Bursts from **autocannons** and **heavy machine guns** now fell trees: about **2 rounds of 30 mm** on the trunk bring down a tree 20 cm thick.
+- The view opens **for both sides**.
+
+### 🧑‍🔧 Abandoning a vehicle, your way
+- A new setting, **Esc > Options > Mod > Vehicle abandonment**:
+  - **Manual** (default): when one of your ground vehicles falls to **30 % health** or less, a **yellow triangle flashes** above it and an **Abandon** button appears in its orders. You decide.
+  - **Automatic**: at 30 % health or less, the crew bails out on its own.
+  - Each player chooses for his own vehicles, even during a battle. The AI always abandons automatically.
+- **An abandoned vehicle turns white (neutral)**: no unit fires at it on its own any more, and an attack order given earlier is cancelled. A **new attack order** from you can still destroy it.
+- The **crew and the passengers** get out, and the vehicle is **hidden** once nobody sees it any more.
+- It only changes sides through a **recovery vehicle** about **50 m** away: an enemy vehicle becomes your **trophy**, one of yours is **given back** to you.
+
+### 🚁 Helicopters
+- A new **Land** button: the helicopter really sets down, even at x4 speed, with its engine off. It uses **no fuel** and does not fire while it is on the ground, and it takes off again at the next order.
+- The **Mi-28** gets its real **rescue compartment**: 3 seats to pick up a downed crew.
+
+### 🎮 Games
+- The **unit cap** is chosen **before the game**: in **Create a game**, the host sets **Max units per side** to **90, 100, 120 or 150**. It is locked during the battle and the same for everyone.
+
+### 🎵 Music
+- The mod's tracks play **in the menu only**. In battle, the **game's own music** plays, and it varies: calm, suspense, combat.
+
+### 🃏 Decks
+- When a card changes, **only that card** is taken out of the deck, with a message. **No more deck copies.**
+
+### 🛠️ Vehicles: real equipment only
+- **The armour of every ground vehicle checked** against its real values.
+- **Real engines** for each vehicle, to choose in the **Arsenal**: older ones cheaper, newer ones dearer, with their name and horsepower. The engine changes the acceleration, and the top speed only when it really does.
+- **Real protections** to choose when the 3D model shows them: visible reactive armour on the T-72 family (the Ukrainian T-72AMT and the Polish and Ukrainian T-72EA among them), Shtora on the T-90AK, the TUSK I kit on the M1A1 SA, armour kits for the Humvee and the TPQ-50 and TPQ-53 radars, Trophy on the Leopard 2A7A1, kits for the Ukrainian Leopard 1A5, the Rosomak M1M, the AMX-10 RCR, the Fuchs 1A8 and the MT-LB.
+- **Thermal sights** on the T-62MV and the T-72M1R: they see a little further, without firing any further.
+- The **ZSSW-30** turret on the Polish Rosomak.
+- New versions: the **T-64BV obr. 2017**, the Ukrainian **T-80BV obr. 2018**, a **T-80BVM** captured from Russia for Ukraine, the **Osa-AKM Żądło** and the **M-SHORAD Inc 1**.
+- Fixed: the **Borsuk**, the **Puma**, the **T-80BVM** and the **T-72B3 obr. 2022**, with their real engines or armour.
+- **New cards**: **JLTV** (USA); **T-90AK**, **BMD-2K** and **BMP-3K** (Russia); **Leopard 2A7** (Germany).
+- Smoke from vehicles now **spreads**.
+
+### 🗂️ The special tab
+- It now holds the **counter-battery radars**, **electronic warfare**, the **recovery vehicles** and the **mine layers and mine clearers**: Zemledeliye, M270 MARS AT2, UR-77, M1150 and AAVP MICLIC.
+- The **construction engineers** stay in the infantry.
+
+### 🔧 Stability
+- **Fewer internal errors.**
+- A crew brought home gives back **only the card**: no money is refunded any more.
+
+### 🌐 Online
+- **5.9.2 is the new minimum version to play together.**
+
+*And a few surprises to find.*
+
+*Thanks to the Discord players Анчутка, Gigspace, Andrew Woods and cryohellinc.*
+
+<div align="right"><a href="#top">back to top</a></div>
+
+---
+
 <a id="new-591"></a>
 
 ## 🆕 What's new in 5.9.1: crash fixes, recovery vehicles that tow, trophies, counter-battery radars, helicopter fuel, Workshop maps between friends
+
+*Since 5.9.2: the **Vehicle abandonment** setting (an **Abandon** button at 30 % health or less, or automatic), an abandoned vehicle that turns white (neutral) and only changes sides through a recovery vehicle about 50 m away, a deck that only loses the card that changed with no copy kept, mine layers and mine clearers in the special tab, and 5.9.2 as the minimum version to play together ([what's new in 5.9.2](#new-592)).*
 
 > [!IMPORTANT]
 > **Replaces 5.9 (and any older version):** copy the new files over the old ones. Your decks are kept: only a card that moved to the special tab is taken out of a saved deck (see below). **5.9.1 is the new minimum version to play together**: every player in a lobby needs 5.9.1, and a player with an older version sees **Wrong version**.
@@ -1089,6 +1162,7 @@ What comes next, in order. Each step is released when it has been tested, not be
 | ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.8** | Stealth against radar only, real manoeuvrability and dogfights, real countermeasures priced on every aircraft, aircraft from further away, loadouts sorted by power, long-range air defence that leaves unguided rockets alone, fairer damage against infantry, anti-tank missiles kept for armour, tanks worn by hits that do not penetrate, real tank rounds, a tonne at 100 in Logistics Front, an AI ally with its own economy, the realism mode locked in battle, the commander on Workshop skirmish maps, 5.8 as the minimum online. |
 | ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.9** | Two new modes against the AI, Breakthrough and Command Post Hunt, also playable in pure player vs player on the multiplayer maps; abandoned vehicles whose crews can be brought home, recovery vehicles, wheeled vehicles that limp away; the jet Geran-5 shot down by missiles only; real light at launches and explosions, longer trails; 5.9 as the minimum online. |
 | ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.9.1** | Crashes and the flickering menu fixed; abandoned vehicles completely inert and destroyed if nobody recovers them, a Bail out button; recovery vehicles in one card that repairs up to 75 % and tows; enemy vehicles captured as trophies; a special tab for support units; counter-battery radars on the radar button, with the circle of enemy fire; a realistic endurance for helicopters, aircraft that really head home; Steam Workshop maps hosted between friends; 5.9.1 as the minimum online. |
+| ![released](https://img.shields.io/badge/-released-2ea44f?style=flat-square) | **5.9.2** | Attack as the game's attack-move again, G as suppressive fire, no fire through two forests; trees felled by autocannon and heavy machine gun bursts; abandonment by hand or automatic, abandoned vehicles white and neutral, sides changed only by a recovery vehicle; helicopters that land; the unit cap chosen before the game; the mod's music in the menu, the game's in battle; decks that only lose the changed card; real engines and protections to choose in the Arsenal, new cards; a special tab with mine layers and mine clearers; 5.9.2 as the minimum online. |
 | ![next](https://img.shields.io/badge/-next-1f6feb?style=flat-square) | **The official scenarios, one by one** | Each official scenario reworked in turn: a choice of map size, **one enemy only, the mod's commander**, and more depth. |
 | ![later](https://img.shields.io/badge/-later-8957e5?style=flat-square) | **A commander for the campaign** | The mod's commander in the campaign missions, with the mission script left untouched. |
 | ![goal](https://img.shields.io/badge/-goal-bf8700?style=flat-square) | **7.0** | The campaign and the scenarios joined into **one long campaign with three possible endings**. |
@@ -1113,13 +1187,13 @@ Three cards, side by side:
 | Card | What it opens |
 |---|---|
 | **Campaign** | The game's campaign, untouched, played with the mod's rules. |
-| **Create a game** | On the left, four sections, all closed when it opens: **Multiplayer maps** (with their picture; the skirmish is here), **Game modes vs AI** (since 5.9: Logistics Front, Breakthrough or Command post hunt, in the **Game mode** line), **Official scenarios** and **Steam Workshop**. On the right, **one panel**: the map and its description, the mode on multiplayer maps (**Co-op vs AI** or **Players vs players**), the size, your side, your country and battlegroup, the enemy commander (level, one or several countries), the AI ally (solo only), the lobby title and password, the time and the weather. Then **Play solo** (offline, no lobby) or **Play multiplayer** (a mod lobby). |
+| **Create a game** | On the left, four sections, all closed when it opens: **Multiplayer maps** (with their picture; the skirmish is here), **Game modes vs AI** (since 5.9: Logistics Front, Breakthrough or Command post hunt, in the **Game mode** line), **Official scenarios** and **Steam Workshop**. On the right, **one panel**: the map and its description, the mode on multiplayer maps (**Co-op vs AI** or **Players vs players**), the size, the **Max units per side** (since 5.9.2), your side, your country and battlegroup, the enemy commander (level, one or several countries), the AI ally (solo only), the lobby title and password, the time and the weather. Then **Play solo** (offline, no lobby) or **Play multiplayer** (a mod lobby). |
 | **Find a lobby** | The list of the mod's Steam lobbies (only lobbies: a game is created in **Create a game**), and your **Steam friends playing the mod**. |
 
 The Arsenal and the Editor stay where they are. The official Multiplayer card and the quick search are gone from the menu.
 
 ### Options > Mod
-**Esc > Options > Mod** keeps what belongs to you: the **realism mode**, the **durations** (one row since 5.3, **Wrecks, bodies, fires and craters**: 5, 15, 30 or 60 minutes or **Infinite**, set by the host in a game between players), the Logistics Front **unit cap** (since 5.5, set by the host), and **About**. The weather, the map size and the commanders are chosen when you set up the game. [All the settings.](#settings)
+**Esc > Options > Mod** keeps what belongs to you: the **realism mode**, the **durations** (one row since 5.3, **Wrecks, bodies, fires and craters**: 5, 15, 30 or 60 minutes or **Infinite**, set by the host in a game between players), the **unit cap** (since 5.5, set by the host; since 5.9.2 chosen before the game, here or in **Create a game**, and locked during the battle), **Vehicle abandonment** (since 5.9.2: **Manual** or **Automatic**, each player for his own vehicles), and **About**. The weather, the map size and the commanders are chosen when you set up the game. [All the settings.](#settings)
 
 ### Report a mod bug 🐞
 The game's bug button, in the main menu and in battle, opens the mod's **Report a mod bug** window: the link to the Discord, where to open a ticket, the logs to attach **before you start the game again** (`Latest.log`, the `Logs` folder and the game's `GameLogs` folder, each with an **Open folder** button), and a line with the mod and game versions to copy into the ticket.
@@ -1142,13 +1216,14 @@ The mod has its own lobbies, run by **Steam**, not by the game's servers. The lo
 - A second line gives the **host's settings**: realism mode, map size, weather, commanders, and whether a password is set.
 - A **Ping** column (Steam's estimate), **filters**, and the number of **mod players online**.
 - **Join** only works with the **same mod version and file** and the **same game version**. Any other lobby shows **Wrong version**: clicking it opens this GitHub page. The mod never downloads anything.
-- **5.9.1 is the minimum version to play together**: a player with an older version sees **Wrong version**.
+- **5.9.2 is the minimum version to play together**: a player with an older version sees **Wrong version**.
 - **Steam friends playing the mod** have a section of their own: what each one is doing, his version, and a **Join** button (or **Rejoin the battle**). A friend in a private lobby shows no button, and passwords and friends-only lobbies still apply.
 
 ### Create a lobby
 - From **Create a game** with **Play multiplayer**: on a Logistics Front map, an official PvE scenario, a multiplayer map or, since 5.9.1, a Steam Workshop map.
 - A **game title** typed on the keyboard, in any of the five languages, and **who can join**: **Public** (every mod player sees it), **Friends only** (your Steam friends) or **Private** (hidden from the list, Steam invitation only). An optional **password**: too many wrong tries and the player is shut out of that lobby.
 - **The mode**: co-op against the AI on a scenario or Logistics Front, every player on the same side; on a multiplayer map, **Co-op vs AI** (its Logistics Front version) or **Players vs players**, where every player picks his side.
+- **The unit cap** (since 5.9.2): the host sets **Max units per side** (90, 100, 120 or 150) before the game. It applies to everyone, is locked at the lobby countdown and stays locked for the whole battle.
 
 ### In the lobby
 - **Since 5.6, each player picks his country in his side and a deck of that country**: on the NATO side, one can take Germany, another the United States, another Ukraine. At the bottom, a line leads to the mod's [Discord](https://discord.gg/wrtMjUnard) if something goes wrong.
@@ -1255,8 +1330,8 @@ In every game between players, the host's PC looks for impossible actions and fo
 | **50,000 points per category** | In every category of the deck, for every country (logistics unchanged). |
 | **Real availability** | Old, mass-produced vehicles come in numbers, modern ones in small batches: two T-14 per card against twelve old T-72s. |
 | **Real prices** | Every unit priced on its real combat value, rebuilt in 5.3: T-72B3 180, BMP-3 95, Bradley 100, Abrams SEP v3 355, T-90M 330, Grad 150. The T-14 Armata, 560, is the strongest tank in the game and priced like it. Aircraft are much cheaper than before: the airframe plus its weapons, one price per missile. |
-| **Ready-made decks** | Two decks, RUSSIA and USA, are updated with each version, after a copy is kept. |
-| **Your decks are kept** | Since 5.6, at every launch the mod checks your decks before the game reads them. Only a card that became invalid is fixed or removed: a loadout that no longer exists goes back to the default one, copies come back to the maximum, a transport that is no longer allowed becomes an allowed one that carries the squad (a truck), and a category over 7 cards loses only its last cards. Same file, one safety copy in `Decks\avant_correction_auto`, and one single message that names the decks. No deck is ever deleted, and copies no longer pile up at every launch. Duplicate cards are hidden. All camouflages are unlocked. |
+| **Ready-made decks** | Two decks, RUSSIA and USA, created only if you have no deck with that name: an existing deck is never replaced. |
+| **Your decks are kept** | Since 5.6, at every launch the mod checks your decks before the game reads them. Only a card that became invalid is fixed or removed: a loadout that no longer exists goes back to the default one, copies come back to the maximum, a transport that is no longer allowed becomes an allowed one that carries the squad (a truck), and a category over 7 cards loses only its last cards. Since 5.9.2, no copy of a deck is made any more: the same file keeps everything else, and a message asks you to check each deck concerned, naming the cards removed or adjusted. No deck is ever deleted. Duplicate cards are hidden. All camouflages are unlocked. |
 | **Campaign** | Only your USA or Russia deck plays in the campaign, and a message says which one. Everything the mission hands you comes on top of your cards, so the scripted parts keep working. |
 | **Everywhere else** | Scenarios, skirmish and Logistics Front take the deck of any country. |
 
@@ -1268,7 +1343,7 @@ In every game between players, the host's PC looks for impossible actions and fo
 
 ## 🌍 Nations: NATO vs CSTO
 
-The game only knows two sides, so every country belongs to one of them: NATO countries fight on the American side, CSTO countries on the Russian side. Each country is a pair of divisions with its flag and only the equipment it really has: in service, on order, or from its old stocks. Where a vehicle has no 3D model in the game, the closest vehicle of the game stands in, under the real name and with the real stats. Since 5.4, every country fields only real equipment, and small armies get more copies of anti-tank and air defence units.
+The game only knows two sides, so every country belongs to one of them: NATO countries fight on the American side, CSTO countries on the Russian side. Each country is a pair of divisions with its flag and only the equipment it really has: in service, on order, or from its old stocks. Where a vehicle has no 3D model in the game, the closest vehicle of the game stands in, under the real name and with the real stats. Since 5.4, every country fields only real equipment, and small armies get more copies of anti-tank and air defence units. Since 5.9.2, each vehicle also offers its real engines and, when its 3D model shows them, its real protections in the Arsenal ([what's new in 5.9.2](#new-592)).
 
 ### NATO
 
@@ -1309,7 +1384,7 @@ The mod's own scenario. Two bases, a big map, one enemy, and no money unless you
 | **Maps** | **All 22 maps of the game** ([table below](#maps)), in Vanilla, Medium or Large, chosen before the battle. No time limit. |
 | **Opponent** | One enemy only: the mod's commander, with a garrison, hidden depots and convoys of his own. The other enemy slots the game creates stay empty. |
 | **Players** | Solo, or **up to 3 players on the same side** through a mod lobby. The host's rules and settings apply to everyone, and everyone needs the same DLCs to see the same units. |
-| **Unit cap** | **90, 100, 120 or 150 units at once per side** (since 5.5), chosen by the host in **Esc > Options > Mod**. The players of a side share it (with 90: 45 each for two, 30 each for three), and the commander's side has the same cap. Units on the map, in the shop basket and on their way all count, and so does the infantry on board. |
+| **Unit cap** | **90, 100, 120 or 150 units at once per side** (since 5.5), chosen by the host before the game: since 5.9.2, **Max units per side** in **Create a game** (or **Esc > Options > Mod**), locked during the battle. The players of a side share it (with 90: 45 each for two, 30 each for three), and the commander's side has the same cap. Units on the map, in the shop basket and on their way all count, and so does the infantry on board. |
 | **Start** | On a road at your map edge, on a side drawn at random: **1,500 points per player** (the commander gets 1,500 for each human player) and **three supply trucks per player**, loaded to their real weight since 5.5. A 26.5-second camera flight, game paused, shows the enemy base, then yours. |
 | **Air power** | No helicopters and no aircraft for the first 10 minutes of play, helicopters from 10 minutes, aircraft from 20 minutes, for you and for the enemy. Pause and the intro do not count. Infantry that rides a helicopter counts as a helicopter. Since 5.8, aircraft arrive 4.5 km beyond the map edge and helicopters 1.9 km beyond it, and they never stay outside the map. A countdown sits in the banner at the top of the screen. |
 | **Income** | Nothing from the game. Since 5.6, every minute your side earns **2.5 points for every tonne** set down in its depots (in the piles, the buildings and the forest caches): 30 t = 75, 100 t = 250, 400 t = 1,000, in a straight line up to **3,000 a minute for the side**, shared between its players. At the start, each player's three trucks (30 t) pay 75 a minute. **A tonne bought costs 100 points** in Logistics Front since 5.8 (200 before, 25 in the other modes): a tonne set down pays itself back in about 40 minutes. The commander's side is paid by the same rule. **Resupplying your units no longer earns money.** |
@@ -1472,6 +1547,7 @@ Since 5.3 the chance is set **missile by missile**: a modern Patriot or S-400 mi
 - **High flight** (since 5.4): helicopters fly much higher than before, aircraft a little higher, and air defence reaches them up to its **real ceiling**.
 - **Low flight**: helicopters fire normally there again.
 - **Real speed**: a helicopter flies at its real speed, plus 10 % since 5.5 like every unit, almost as fast in low flight as in high flight.
+- **Land** (since 5.9.2): the helicopter really sets down, engine off, uses no fuel and does not fire while on the ground; it takes off again at the next order.
 
 ### Strike
 - **Glide bombs at their real stand-off**, 50 to 100 km, released with the precision-strike order: JSOW, SDB II, PBK-500U, UMPK kits. Air defence can shoot them down, its guns above all.
@@ -1542,6 +1618,7 @@ Charges are reloaded by supply trucks (60 s and 100 points per charge). Active p
 - **Off-road, at least**: transport trucks keep 85 % of their road speed, light vehicles 75 %, wheeled armour 60 %, tracked vehicles 50 %.
 - **Slopes**: uphill, every ground vehicle slows down by its real power for its weight, calibrated on the published figures of the M1A1 Abrams. Off-road, an Abrams drops from 48 to 27 km/h on a 10 % slope; the T-72B3 and the T-14 about the same; a loaded truck slows more; a Humvee hardly at all. Downhill it gains up to 10 %, never beyond its top road speed. Steeper than the real vehicle can climb (60 % for tracks and wheels, 50 % for trucks, 40 % for heavy truck-mounted launchers), it goes on at walking pace, never stuck. On flat ground, on bridges and in the water, nothing changes. Since 5.4, a vehicle only slows down on a climb when its power can no longer hold its speed: a truck keeps almost all its speed on a 3 % hill.
 - **Top speeds are the real ones, plus 10 %** since 5.5, like every movement speed. The T-14 stays the fastest tank (80 km/h in real life) with the best acceleration, level with the K2.
+- **Real engines to choose** (since 5.9.2): in the Arsenal, each vehicle offers its real engines, older ones cheaper and newer ones dearer, with their name and horsepower. The engine changes the acceleration, and the top speed only when it really does.
 
 <a id="damage"></a>
 
@@ -1573,7 +1650,7 @@ The damage shows as the game's own icons on the unit's label, **for every player
 
 ### Mines
 - **Engineers** carry six anti-tank mines and lay them in a line; the enemy cannot see them without a mine-clearing vehicle.
-- **Two remote mine-laying cards**, ISDM Zemledeliye and M270 MARS AT2: 6 km, one rocket per order, three anti-tank mines in a triangle. Heavy air defence can intercept the rockets.
+- **Two remote mine-laying cards**, ISDM Zemledeliye and M270 MARS AT2 (in the special tab since 5.9.2, with the mine-clearing vehicles): 6 km, one rocket per order, three anti-tank mines in a triangle. Heavy air defence can intercept the rockets.
 - A mine is **live the moment it lands**, **any vehicle** that rolls over an anti-tank mine is destroyed, and infantry does not set them off. Mine-clearing vehicles see enemy mines and blow them up from a distance.
 - **Shared by every player** in co-op: every engineer's mine, yours, a friend's or the AI's, exists on every PC. Any vehicle, **friend or foe**, that drives over it explodes, once, and **everyone sees the explosion** and the crater it leaves. The same goes for mine-clearing vehicles (M1150, MICLIC, UR-77). A player who joins or comes back during the battle receives the list of mines.
 
@@ -1613,11 +1690,13 @@ The damage shows as the game's own icons on the unit's label, **for every player
 - **Since 5.4**: **right-click** = by road; **double right-click** = across country.
 - **B key**: back to base by road. The bases' return zone is larger.
 - **Unarmed transport and supply trucks drive back to base on their own**, by road, as soon as they are empty, like transport helicopters.
+- **Attack** (since 5.9.2; **Q** on a QWERTY keyboard, **A** on AZERTY): the game's own attack-move.
+- **G** (since 5.9.2): **Suppressive fire** for your ground vehicles. The vehicle moves up within range, then fires a long burst: 200 rounds from an autocannon, 5 shells from a tank, 50 grenades from a grenade launcher, 100 rounds from a machine gun. Neither G nor Attack fires through two separate stretches of forest: firing into the first forest is allowed.
 - Always on, no setting.
 
 ### Explosions and sound
 - **A destroyed vehicle explodes with the ammunition it still carries**: a full Pantsir about 187 kg of charge, a full Smerch about 1,410 kg. Fireball, one to sixteen secondary explosions, black smoke. Supply trucks and depots explode by their stock, and aircraft nearby are caught in the blast.
-- **Trees fall at the real radius of the charge**: about 10 m for a 155 mm shell, 22 m for a 250 kg bomb.
+- **Trees fall at the real radius of the charge**: about 10 m for a 155 mm shell, 22 m for a 250 kg bomb. Since 5.9.2, bursts from autocannons and heavy machine guns fell trees too (about 2 rounds of 30 mm on the trunk for a tree 20 cm thick), and the view opens for both sides.
 - **Sound travels as far as it really does**:
 
 | Source | Heard up to |
@@ -1695,7 +1774,7 @@ One to three echoes at the real speed of sound and an outdoor reverb. One settin
 - **The mod's commander brings only what you can field**: no helicopters, aircraft or ground units on his side when yours has no spawn point for them. [More on the commander.](#ai-53)
 - **The very first US mission**, the tutorial, is played without the mod on purpose, with the game's own music. The mod switches back on at the next mission.
 - **The fords are closed to non-amphibious vehicles here too**, without breaking any mission: land of 0.5 km² or more is never cut off, and where a ford is the only way across, the shortest one stays open. Infantry, for its part, wades the fords (since 5.4).
-- **The mod's music carries on into the missions**, and a mission's own music always keeps priority.
+- **In the missions, the game's own music plays** (since 5.9.2), varying between calm, suspense and combat; the mod's tracks stay in the menu.
 
 <div align="right"><a href="#top">back to top</a></div>
 
@@ -1705,7 +1784,7 @@ One to three echoes at the real speed of sound and an outdoor reverb. One settin
 
 ## ⚙️ Underneath it all
 
-Real calibres, penetration, dispersion and ballistics with real gravity; real armour and reactive armour; real optical ranges per unit, matched to the arsenal cards and the Alt range circles; real ammunition loads on both sides; real resupply times; thermal sights on helicopters; wire-guided anti-tank vehicles that stop before firing; real helicopter capacities; the S-400 engaging missiles. Order buttons the game lacks. Fifteen original music tracks and an Intro theme for the menus and the battles, in one continuous cycle.
+Real calibres, penetration, dispersion and ballistics with real gravity; real armour and reactive armour; real optical ranges per unit, matched to the arsenal cards and the Alt range circles; real ammunition loads on both sides; real resupply times; thermal sights on helicopters; wire-guided anti-tank vehicles that stop before firing; real helicopter capacities; the S-400 engaging missiles. Order buttons the game lacks. Fifteen original music tracks and an Intro theme for the menus, in one continuous cycle; in battle, the game's own music (since 5.9.2).
 
 <details>
 <summary><b>Real distances and real figures: click to open</b></summary>
@@ -1744,7 +1823,7 @@ Real calibres, penetration, dispersion and ballistics with real gravity; real ar
 | A game started with EasyAntiCheat | ⛔ The mod closes the game |
 
 > [!NOTE]
-> **Every game between players goes through Steam.** The lobby is a Steam lobby, the battle runs peer to peer through Valve's Steam relay, and the host's PC acts as the server: your IP address is never shared. Only legit Steam copies with an intact, sealed mod file can play, and everyone needs exactly the same mod file: a lobby of another version shows **Wrong version**. 5.6 is the minimum version to play together.
+> **Every game between players goes through Steam.** The lobby is a Steam lobby, the battle runs peer to peer through Valve's Steam relay, and the host's PC acts as the server: your IP address is never shared. Only legit Steam copies with an intact, sealed mod file can play, and everyone needs exactly the same mod file: a lobby of another version shows **Wrong version**. 5.9.2 is the minimum version to play together.
 
 > [!CAUTION]
 > **Always start the game from Steam with the "Anti-Cheat Disabled" launch option.** If EasyAntiCheat is running, the mod shows a message and closes the game before anything loads. Nothing else happens: launch it again with the right option.
@@ -1779,7 +1858,7 @@ Real calibres, penetration, dispersion and ballistics with real gravity; real ar
 <a id="update"></a>
 
 ### Update from an older version
-Download the new archive with the **DOWNLOAD** button at the top of this page, copy the new files over the old ones (the `UserData` folder brings the Intro theme), then open your decks and check them. To play together, you and your friends need exactly the same version, 5.6 at least: otherwise the lobby list shows **Wrong version**.
+Download the new archive with the **DOWNLOAD** button at the top of this page, copy the new files over the old ones (the `UserData` folder brings the Intro theme), then open your decks and check them. To play together, you and your friends need exactly the same version, 5.9.2 at least: otherwise the lobby list shows **Wrong version**.
 
 ### Uninstall
 Delete `Mods\BrokenArrowRealismOverhaul.dll` and the `UserData\RealismOverhaul...` folders. To remove MelonLoader too, delete `version.dll` and the `MelonLoader` folder. The game's own divisions and menu come back, exactly as before.
@@ -1806,7 +1885,8 @@ Everything in the mod is always on, except the few things you can change, shown 
 |---|---|---|
 | **Realism mode** | Esc > Options > Mod, or the **Create a game** panel (since 5.8) | Realistic or Semi-realistic (default), chosen before the game and locked during the battle; in co-op the host decides |
 | **Wrecks, bodies, fires and craters** | Esc > Options > Mod | One row since 5.3: 5, 15, 30 or 60 minutes or **Infinite** (30 by default); in co-op the host decides. Since 5.9.1, it is also the time after which an abandoned vehicle that nobody recovers destroys itself (never with **Infinite**). Many bodies and fires at once can lower the frame rate on small PCs |
-| **Unit cap** (Logistics Front) | Esc > Options > Mod | 90, 100, 120 or 150 units per side (since 5.5), shared by the players of the side; in co-op the host decides |
+| **Unit cap** (**Max units per side**) | The **Create a game** panel, or Esc > Options > Mod | 90, 100, 120 or 150 units per side (since 5.5) on the front maps (Logistics Front, Breakthrough, Command post hunt, co-op on multiplayer maps, players vs players), shared by the players of the side; since 5.9.2 chosen before the game and locked during the battle; in a game between players the host decides |
+| **Vehicle abandonment** | Esc > Options > Mod | **Manual** (default: a flashing yellow triangle and an **Abandon** button at 30 % health or less) or **Automatic** (the crew bails out on its own at 30 %), since 5.9.2; each player sets it for his own vehicles, even during a battle. The AI always abandons automatically |
 | **DLSS** | Options > Graphics | DLAA, Quality, Balanced, Performance or Ultra performance, on NVIDIA RTX cards (switch FSR 3 off first); each player sets his own |
 | **Draw distance** | Options > Graphics | Near, Normal, Far or Very far, within the playable area only; each player sets his own |
 | **Map size** | The **Create a game** panel | Vanilla, Medium or Large, with the real kilometres of each map. The campaign always keeps the game's own size |
@@ -1862,6 +1942,7 @@ The in-game texts in the five languages and the translations of this page were m
 
 | Version | Date | Highlights |
 |:-:|:-:|---|
+| **5.9.2** | October 2026 | Attack (Q, or A on AZERTY) as the game's attack-move again, the automatic halt on contact dropped; G as suppressive fire for ground vehicles (200 autocannon rounds, 5 tank shells, 50 grenades, 100 machine gun rounds); no fire through two separate forests. Trees felled by autocannon and heavy machine gun bursts, the view open for both sides. Vehicle abandonment by hand (a yellow triangle and an Abandon button at 30 % health) or automatic, the AI always automatic; abandoned vehicles white and neutral, crew and passengers out, hidden when nobody sees them, sides changed only by a recovery vehicle about 50 m away. Helicopters that land, engine off and using no fuel; a 3-seat rescue compartment on the Mi-28. The unit cap chosen before the game and locked in battle. The mod's music in the menu, the game's varied music in battle. Decks that only lose the changed card, with a message and no copy. The armour of every ground vehicle checked; real engines and protections to choose in the Arsenal; thermal sights on the T-62MV and the T-72M1R; the ZSSW-30 on the Polish Rosomak; new versions and fixes; new cards: JLTV, T-90AK, BMD-2K, BMP-3K and Leopard 2A7; vehicle smoke that spreads. A special tab with counter-battery radars, electronic warfare, recovery vehicles, mine layers and mine clearers. Fewer internal errors, no money refunded for a crew brought home. 5.9.2 as the minimum online. |
 | **5.9.1** | October 2026 | Crashes at the start of a battle fixed, fewer internal errors, a main menu that no longer flickers. Abandoned vehicles completely inert until repaired, and destroyed at the end of the host's wreck duration if nobody recovers them (a notice 1 minute before, the countdown paused while towed or repaired); a Bail out button for a vehicle immobilised or at 25 % health or less, and stopped. Recovery vehicles (BREM-1, M88A2, Bergepanzer 3, Ukrainian BREM-1, WZT-3) in one card: 1.5 t of spare parts, repairs up to 75 % for abandoned and damaged vehicles, a refill in 5 s at a depot or next to a truck, Tow / unhook with an 11 m cable at half speed. Abandoned enemy vehicles towed and repaired become trophies (35 % of their ammunition for tanks and heavy vehicles, 50 % of the price once brought back to base), for the AI too. The special tab of the Zubr and the LCAC now holds recovery vehicles, counter-battery radars, electronic warfare and sappers; default RUSSIA and USA decks updated. Counter-battery radars on the game's radar button, emitting when on, with a pale red circle where an enemy gun fires from. Aircraft that really head home at the red line; helicopter fuel, 19 to 34 minutes. Steam Workshop maps hosted between friends, with an automatic download, a Game mode line and its warnings; the Workshop skirmish in PvP no longer loads the official map. Lobbies show mod players in a solo game and whether a map is official or from the Workshop. 5.9.1 as the minimum online. |
 | **5.9** | October 2026 | Two new modes against the AI, voted for by the players: Breakthrough (3 successive defence lines in urban districts, 3, 2 and 2 zones, every zone of a line to take, only the current line visible to the attacker, a forbidden zone for his ground units, 45 minutes per line, 2 minutes of preparation, a defender with helicopters, aircraft and anti-tank minefields from the start) and Command Post Hunt (find and destroy the enemy command post, money from the supply stock). The Logistics Front section becomes Game modes vs AI, with a Game mode line; multiplayer maps get Official, Front, Breakthrough and Hunt in pure player vs player, up to 3 players per side. Abandoned vehicles: the crew bails out and brings the card back, an abandoned vehicle can burn and explode, recovery vehicles repair up to 40 %, wheeled vehicles limp away, pilots and crews on foot outside the unit cap. The jet Geran-5 shot down by missiles only. Real light at launches and explosions, dusty launch smoke, trails up to 90-120 s. Flickering enemy depot, big yellow texts and top banner fixed, internal errors fixed, a smoother game. 5.9 as the minimum online. |
 | **5.8** | October 2026 | Stealth against radar only: eyes, infrared and optics see stealth aircraft like any other, radar finds them by its age. Real manoeuvrability for every fighter, missile evasion by manoeuvrability, your fighters hunting the enemy aircraft your side sees and coming home when hit or short of ammunition. Every aircraft priced on its real self-protection suite, which fools missiles more often; the manual flares button removed. Aircraft and helicopters from further away, a free camera up to 9,000 m, pylon choices sorted by power with filters. Long-range air defence no longer fires at unguided 220/227 mm rockets and destroys the heavy rockets it reaches far more often. One shell no longer wipes out a squad, shaped-charge anti-tank missiles no longer fire at infantry, anti-tank teams keep their missiles for armour, squads barricade themselves in buildings up to level 2. Hits that do not penetrate damage optics, sights, crew, tracks or engine; real main-gun rounds on board. Logistics Front: a tonne at 100 and ammunition counted once; an AI ally with its own trucks and its own money. The realism mode locked during the battle, the commander on Workshop skirmish maps, lobby chat fixed, 5.8 as the minimum online. |
@@ -1946,6 +2027,6 @@ The in-game texts in the five languages and the translations of this page were m
 > [!IMPORTANT]
 > **© 2026 tassassinno74. All rights reserved.** You are welcome to download the mod and play it. Re-uploading it anywhere (Steam, Steam Workshop, Nexus Mods, ModDB or any other site), redistributing it, reusing its code or data, or publishing modified versions without the author's written permission is not allowed. Full terms: [LICENSE](LICENSE). MelonLoader, included in the ALL-IN-ONE archive, keeps its own licence (Apache 2.0, file included).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.6-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.6"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.9.2-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.9.2"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
 
 <div align="right"><a href="#top">back to top</a></div>
