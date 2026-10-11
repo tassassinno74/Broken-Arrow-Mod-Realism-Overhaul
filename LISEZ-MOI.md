@@ -5,7 +5,7 @@
 <p align="center"><b>La campagne, les scénarios et l'escarmouche, menés comme le matériel a réellement été conçu pour combattre.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.9.4-2ea44f?style=for-the-badge" alt="Version 5.9.4">
+  <img src="https://img.shields.io/badge/version-5.9.5-2ea44f?style=for-the-badge" alt="Version 5.9.5">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9.4-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 5.9.4"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9.5-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 5.9.5"></a>
   <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre le Discord"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Chaîne YouTube"></a>
 </p>
@@ -691,6 +691,7 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 
 | Version | Date | Points forts |
 |:-:|:-:|---|
+| **5.9.5** | Octobre 2026 | Un correctif : la mitrailleuse de 12,7 mm du M88A2 et du Büffel tire ; les missiles « tire et oublie » accrochent à leur vraie portée ; les hélicoptères viennent toujours de hors de la carte, avec un nouveau réglage Apparition des aéronefs ; le brouillard posé au sol ; le Type 99A à sa vraie forme, désormais le meilleur char du jeu |
 | **5.9.4** | Octobre 2026 | Le ZTZ-99A chinois ; grilles anti-roquettes, toits anti-drones, camouflage et lames de terrassement dans l'Arsenal ; toutes les armes comme en vrai et une ligne Portées sur la fiche d'unité ; des bâtiments selon le mode de réalisme ; un deck par défaut pour chaque pays ; une Autoroute de la mort plus verte avec ses étangs ; des carrefours à leur vraie taille ; des avions qui arrivent juste derrière leur camp ; le minage à distance égal des deux côtés ; le crossplay facultatif Steam et VK Play. |
 | **5.9.3** | Octobre 2026 | L'Autoroute de la mort en 10 x 150 km ; des routes à leur vraie largeur et plus rien au-delà de la zone jouable ; la faction Europe ; un Shtora réaliste ; les chasse-mines KMT ; la vraie autonomie et les vrais temps de remise en état dans les airs, les frappes en cabré ; une meilleure vue pour l'infanterie à l'arrêt, une météo qui change et du vent ; des réglages graphiques séparés, une nouvelle intro, des menus plus légers. |
 | **5.9.2** | Octobre 2026 | G en tir de suppression, des arbres couchés par les rafales ; l'abandon à la main ou automatique, des véhicules blancs et neutres ; des hélicoptères qui se posent ; le plafond d'unités choisi avant la partie ; la musique du mod au menu, celle du jeu en bataille ; de vrais moteurs et de vraies protections dans l'Arsenal, de nouvelles cartes. |
@@ -760,6 +761,6 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Tous droits réservés.** Tu peux télécharger le mod et y jouer. Le remettre en ligne où que ce soit (Steam, Steam Workshop, Nexus Mods, ModDB ou tout autre site), le redistribuer, réutiliser son code ou ses données, ou publier des versions modifiées sans l'autorisation écrite de l'auteur n'est pas permis. Conditions complètes : [LICENSE](LICENSE). MelonLoader, inclus dans l'archive ALL-IN-ONE, garde sa propre licence (Apache 2.0, fichier inclus).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.9.4-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.9.4"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.9.5-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.9.5"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
 
 <div align="right"><a href="#top">retour en haut</a></div>

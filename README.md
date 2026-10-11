@@ -5,7 +5,7 @@
 <p align="center"><b>The campaign, the scenarios and the skirmish, fought the way the equipment was actually built to fight.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.9.4-2ea44f?style=for-the-badge" alt="Version 5.9.4">
+  <img src="https://img.shields.io/badge/version-5.9.5-2ea44f?style=for-the-badge" alt="Version 5.9.5">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9.4-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 5.9.4"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9.5-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 5.9.5"></a>
   <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"></a>
 </p>
@@ -691,6 +691,7 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 
 | Version | Date | Highlights |
 |:-:|:-:|---|
+| **5.9.5** | October 2026 | A fix: the 12.7 mm machine gun of the M88A2 and Büffel fires; fire-and-forget missiles lock on at their real range; helicopters always come from outside the map, with a new Aircraft spawn setting; fog lies on the ground; the Type 99A in its real shape, now the best tank of the game |
 | **5.9.4** | October 2026 | The Chinese ZTZ-99A; slat cages, anti-drone roofs, camouflage and dozer blades in the Arsenal; every weapon like real life and a Ranges line on the unit card; buildings by realism mode; a default deck for every country; a greener Highway of Death with its ponds; crossroads at their real size; aircraft appearing just behind their own side; remote mining equal on both sides; optional Steam and VK Play crossplay. |
 | **5.9.3** | October 2026 | The Highway of Death at 10 x 150 km; roads at their real width and nothing beyond the playable area; the Europe faction; a realistic Shtora; KMT mine ploughs; real endurance and turnaround times in the air, toss strikes; better sight for infantry that stops, changing weather and wind; separate graphics settings, a new intro, lighter menus. |
 | **5.9.2** | October 2026 | G as suppressive fire, trees felled by bursts; abandonment by hand or automatic, white neutral vehicles; helicopters that land; the unit cap chosen before the game; the mod's music in the menu, the game's in battle; real engines and protections in the Arsenal, new cards. |
@@ -760,6 +761,6 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 > [!IMPORTANT]
 > **© 2026 tassassinno74. All rights reserved.** You are welcome to download the mod and play it. Re-uploading it anywhere (Steam, Steam Workshop, Nexus Mods, ModDB or any other site), redistributing it, reusing its code or data, or publishing modified versions without the author's written permission is not allowed. Full terms: [LICENSE](LICENSE). MelonLoader, included in the ALL-IN-ONE archive, keeps its own licence (Apache 2.0, file included).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.9.4-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.9.4"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.9.5-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.9.5"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
 
 <div align="right"><a href="#top">back to top</a></div>

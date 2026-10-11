@@ -5,7 +5,7 @@
 <p align="center"><b>Die Kampagne, die Szenarien und das Gefecht, geführt so, wie das Gerät tatsächlich für den Kampf gebaut wurde.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.9.4-2ea44f?style=for-the-badge" alt="Version 5.9.4">
+  <img src="https://img.shields.io/badge/version-5.9.5-2ea44f?style=for-the-badge" alt="Version 5.9.5">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9.4-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 5.9.4 herunterladen"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9.5-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 5.9.5 herunterladen"></a>
   <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Dem Discord beitreten"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube-Kanal"></a>
 </p>
@@ -691,6 +691,7 @@ Noch etwas gefunden? Klicke auf die Fehler-Schaltfläche des Spiels 🐞: Das Fe
 
 | Version | Datum | Höhepunkte |
 |:-:|:-:|---|
+| **5.9.5** | Oktober 2026 | Eine Korrektur: Das 12,7-mm-MG von M88A2 und Büffel feuert; Fire-and-forget-Raketen erfassen auf ihre echte Reichweite; Hubschrauber kommen immer von außerhalb der Karte, mit der neuen Einstellung Erscheinen der Luftfahrzeuge; Nebel liegt am Boden; der Typ 99A in seiner echten Form, jetzt der beste Panzer des Spiels |
 | **5.9.4** | Oktober 2026 | Der chinesische ZTZ-99A; Gitterschutz, Drohnenschutzdächer, Tarnung und Räumschilde im Arsenal; jede Waffe wie in echt und eine Zeile Reichweiten auf der Einheitenkarte; Gebäude je nach Realismus-Modus; ein Standarddeck für jedes Land; eine grünere Todesautobahn mit ihren Teichen; Kreuzungen in echter Größe; Flugzeuge, die direkt hinter ihrer Seite erscheinen; Fernverminung auf beiden Seiten gleich; optionales Crossplay Steam und VK Play. |
 | **5.9.3** | Oktober 2026 | Die Todesautobahn mit 10 x 150 km; Straßen in echter Breite und nichts mehr jenseits des Spielbereichs; die Fraktion Europa; ein realistisches Shtora; Minenräumer KMT; echte Flugdauer und Wartungszeiten in der Luft, Loft-Angriffe; bessere Sicht für stehende Infanterie, wechselndes Wetter und Wind; getrennte Grafikeinstellungen, ein neues Intro, leichtere Menüs. |
 | **5.9.2** | Oktober 2026 | G als Unterdrückungsfeuer, Bäume, die unter Feuerstößen fallen; Aufgeben von Hand oder automatisch, weiße neutrale Fahrzeuge; Hubschrauber, die landen; das Einheitenlimit vor der Partie gewählt; die Musik der Mod im Menü, die des Spiels in der Schlacht; echte Motoren und echter Schutz im Arsenal, neue Karten. |
@@ -760,6 +761,6 @@ Noch etwas gefunden? Klicke auf die Fehler-Schaltfläche des Spiels 🐞: Das Fe
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Alle Rechte vorbehalten.** Du darfst die Mod gern herunterladen und spielen. Sie irgendwo erneut hochzuladen (Steam, Steam Workshop, Nexus Mods, ModDB oder jede andere Seite), sie weiterzuverbreiten, ihren Code oder ihre Daten wiederzuverwenden oder veränderte Versionen ohne die schriftliche Erlaubnis des Autors zu veröffentlichen, ist nicht erlaubt. Vollständige Bedingungen: [LICENSE](LICENSE). MelonLoader, im ALL-IN-ONE-Archiv enthalten, behält seine eigene Lizenz (Apache 2.0, Datei enthalten).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.9.4-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.9.4"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.9.5-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.9.5"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
 
 <div align="right"><a href="#top">nach oben</a></div>
