@@ -5,8 +5,8 @@
 <p align="center"><b>La campagne, les scénarios et l'escarmouche, menés comme le matériel a réellement été conçu pour combattre.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.9.5-2ea44f?style=for-the-badge" alt="Version 5.9.5">
-  <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
+  <img src="https://img.shields.io/badge/version-6.0.2-2ea44f?style=for-the-badge" alt="Version 6.0.2">
+  <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.1-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.1">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
   <img src="https://img.shields.io/badge/languages-EN%20%7C%20FR%20%7C%20RU%20%7C%20DE%20%7C%20ZH-f0883e?style=for-the-badge" alt="Langues : EN, FR, RU, DE, ZH">
@@ -22,8 +22,9 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9.5-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 5.9.5"></a>
-  <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre le Discord"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.0.2-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 6.0.2"></a>
+  <a href="https://discord.gg/brokenarrowrealism"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre le Discord"></a>
+  <a href="https://ko-fi.com/brokenarrowrealism"><img src="https://img.shields.io/badge/KO--FI-SUPPORT%20THE%20MOD-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Soutenir le mod sur Ko-fi"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Chaîne YouTube"></a>
 </p>
 
@@ -33,11 +34,11 @@
 
 Broken Arrow te donne de vrais véhicules, de vraies armes et une vraie doctrine, puis laisse un obusier de 152 mm faire tomber un obus sur le char garé juste à côté de lui, laisse une mitrailleuse abattre un avion à trois kilomètres d'altitude, et plafonne chaque missile à 9 km, le bord de ses anciennes cartes.
 
-Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles et reconstruit le jeu autour d'elles : vrais blindages, vrais moteurs, vraies cadences de tir, vrais emports et portées publiées jusqu'à 100 km, chaque prix fixé selon la vraie valeur au combat, et un **commandant ennemi** qui ne sait que ce que voient ses propres unités. Tu combats pour une **nation**, l'un des douze pays répartis en deux camps, l'OTAN et l'OTSC, avec le matériel qu'il aligne vraiment, et c'est toi qui **choisis ton réalisme** : Réaliste ou Semi-réaliste.
+Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles et reconstruit le jeu autour d'elles : vrais blindages, vrais moteurs, vraies cadences de tir, vrais emports et portées publiées jusqu'à 100 km, chaque prix fixé selon la vraie valeur au combat, et un **commandant ennemi** qui ne sait que ce que voient ses propres unités. Tu combats pour une **nation**, l'un des douze pays répartis en deux camps, l'OTAN et l'OTSC, avec le matériel qu'il aligne vraiment, et c'est toi qui **choisis ton réalisme** : Vanilla, Réaliste ou Semi-réaliste.
 
 Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mod contre l'IA (**Front Logistique**, **Percée**, **Chasse au poste de commandement**) seul, ou ensemble dans les salons du mod : en coop contre l'IA, ou en JcJ entre joueurs du mod. Les serveurs officiels ne sont jamais utilisés.
 
-**La 5.9.4** apporte le char chinois **ZTZ-99A**, de nouvelles options réelles pour les véhicules (grilles anti-roquettes, toits anti-drones, camouflage, lames de terrassement), toutes les armes revues comme en vrai, des bâtiments qui suivent le mode de réalisme, un deck par défaut pour chaque pays, une Autoroute de la mort plus verte, des avions qui arrivent juste derrière leur camp, et le crossplay facultatif entre Steam et VK Play. [Nouveautés de la 5.9.4.](#new-594)
+**La 6.0.2** rend **la Chine jouable** (19 cartes, avec une infanterie neuve), fait vraiment tirer les chars sur les bâtiments, donne à la Percée une vraie attaque à 3 contre 1 et au commandant IA du Front Logistique l'économie d'un joueur. [Nouveautés de la 6.0.2.](#new-602) **La 6.0.1** est faite pour le jeu 1.2.1 final. [Nouveautés de la 6.0.1.](#new-601) **La 6.0** passe le mod sur le jeu 1.2.1 (Unity 6) et apporte un nouveau mode de réalisme Vanilla, des phares éteints en bataille, des cartes agrandies où tu poses de nouveau tes unités partout, des hélicoptères plus vulnérables en vol bas, des portées et des vitesses revues avec les chiffres réels, un plafond d'unités « Dynamique », une IA plus fine, une artillerie qui sort de batterie avant de rouler, l'Atelier BARO pour greffer des sous-mods sur le mod sans désynchro, et des decks propres pour chaque pays. [Nouveautés de la 6.0.](#new-60)
 
 | 12 000+ | 100 km | 12 | 22 | 1 500 km² | 3 c. 1 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -45,7 +46,7 @@ Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mo
 
 | 107 | 265 | 90-150 | 16 | 5 | 0 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| aéronefs avec leurs vraies contre-mesures | munitions guidées avec leur vrai autodirecteur | unités par camp, réglées par l'hôte | scénarios JcE officiels jouables en coop | langues | serveur officiel utilisé |
+| aéronefs avec leurs vraies contre-mesures | munitions guidées avec leur vrai autodirecteur | unités par camp, réglées par l'hôte (ou « Dynamique » : sans limite pour les joueurs) | scénarios JcE officiels jouables en coop | langues | serveur officiel utilisé |
 
 - **Tu choisiras tes combats dans les airs**, parce qu'un Su-35 ou un Su-57 tourne plus serré que tous les chasseurs occidentaux, et qu'un F-35 n'a l'avantage que s'il tire le premier, de loin.
 - **Tu viseras les optiques**, parce qu'un coup qui ne perce pas peut encore aveugler un char, dérégler ses viseurs ou casser ses chenilles.
@@ -65,7 +66,7 @@ Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mo
 
 | Le mod | Le champ de bataille | Pratique |
 |---|---|---|
-| [Nouveautés de la 5.9.4](#new-594) | [Véhicules et Arsenal](#vehicles) | [Télécharger et installer](#install) |
+| [Nouveautés de la 6.0.2](#new-602) · [6.0.1](#new-601) · [de la 6.0](#new-60) | [Véhicules et Arsenal](#vehicles) | [Télécharger et installer](#install) |
 | [Jouer ensemble](#lobbies) · [crossplay et vie privée](#privacy) | [Guerre au sol](#ground-war) | [Mettre à jour ou désinstaller](#update) |
 | [Le menu du mod](#menu) | [Guerre aérienne](#air-war) | [Réglages](#settings) |
 | [Ton deck](#deck) | [Le commandant ennemi](#commander) | [Où il fonctionne](#where-it-runs) |
@@ -75,61 +76,84 @@ Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mo
 
 ---
 
-<a id="new-594"></a>
+<a id="new-602"></a>
 
-## 🆕 Nouveautés de la 5.9.4
+## 🆕 Nouveautés de la 6.0.2
+
+> Si tu viens de la 6.0.1, remplace `Mods\BrokenArrowRealismOverhaul.dll` et le dossier `UserData\RealismOverhaul_musique` (garde tes propres musiques si tu en as ajouté). Nouveau dans le paquet : `RETIRER LE MOD - REMOVE THE MOD.txt`, pour retirer le mod et rejouer en multijoueur officiel.
+
+- **La Chine est jouable :** 19 cartes : Type 99A, Type 96B, ZBD-04A, ZBL-08, S-400 (DLC3), S-300PMU-1/2, Tor-M1, Su-35, J-11B, J-15, Il-76MD, Mi-17V-5, Mi-171Sh, et une infanterie neuve qui monte dans les ZBD-04A, les ZBL-08 et les hélicoptères : groupe QBZ-191, équipe de mitrailleuse QJY-88, tireurs QBU-88, équipe antichar HJ-8E, sol-air QW-2, équipe de roquettes PF-98 (tenues et voix russes pour l'instant). D'autres chars chinois arriveront après leur contrôle.
+- **Chars et bâtiments :** le tir forcé (G) sur un bâtiment tire vraiment (avant, il se terminait sans un coup), et à l'explosif : les obus explosifs des chars ont leur vraie charge. Un ordre d'attaque sur de l'infanterie dans un bâtiment fait tirer le char de là où il la voit, au lieu de rouler jusqu'au mur. Les obus coupés dans le panneau de l'arme restent coupés.
+- **Bâtiments :** les missiles à charge perforante (Kh-29, Kh-38, Kh-35U, SLAM-ER, JSM, NSM, Kh-59M2, Kh-69, Oniks, Zircon) et la GBU-39 SDB explosent dans le bâtiment touché ; les grands bâtiments ont leur vraie emprise au sol ; en semi-réaliste, une bombe de 250 kg au but abat les constructions légères (bois, tôle, hangars).
+- **Percée :** l'attaquant a environ 3 contre 1, comme dans la vraie doctrine ; le temps par ligne compte la marche ; l'aviation de l'attaquant arrive dès la fin de la préparation ; une zone se prend à 3 contre 1.
+- **Commandant IA du Front Logistique :** la même économie qu'un joueur : 8 dépôts, 1, 2 ou 3 convois à la fois selon la difficulté, sa réserve ne bloque plus ses achats et il n'arrête plus jamais d'acheter pour de bon. Le texte du plafond Dynamique est corrigé.
+- **Portées réelles depuis l'altitude de vol du jeu** (vol haut à 1,7 km en semi-réaliste, 2 km en réaliste) : bombes planantes FAB avec UMPK 19 km (FAB-1500 UMPK 16), JSOW 35 km, SDB 30 km, JDAM-ER et AASM 19 km ; missiles air-air contre un avion en vol haut R-27ET 34,6 km, R-27ER 39, R-77-1 36,6, AIM-9X 11,8, AIM-120D 53,3 ; bombes guidées sans moteur (JDAM, Paveway, KAB) environ 5,5 à 6 km au lieu de 1,5 km.
+- **Cages anti-drones** montées d'office, et gratuites, sur les chars qui les portent en vrai.
+- **Artillerie :** vrais temps de mise en batterie : un mortier en position tire en 25 s environ, 15 s avec une conduite de tir numérique.
+- **Les dépanneurs sont de retour** dans chaque camp (BREM-1, M88A2, Bergepanzer 3 Büffel, WZT-3), sur un modèle provisoire, pour récupérer les véhicules abandonnés.
+- **Sapeurs russes :** le deck russe tout prêt leur donne un vrai transport, et ils peuvent aussi prendre le BTR-82A, le BTR-80 et le MT-LB.
+- **Musique :** seulement de la musique libre de droits, avec 44 morceaux libres ajoutés (musique suisse d'abord, hymnes et marches des pays du mod). Tes propres fichiers : « Musique N » = intro, « Chant N » = menu et bataille, mêlés à la musique du jeu (n'importe quel numéro) ; voir `VOS MUSIQUES - YOUR MUSIC.txt` dans le dossier de musique.
+- **Retour au menu après une bataille solo :** une fenêtre de chargement au lieu d'un écran figé. Le paquet de 10 t est de nouveau posé devant la porte ; infobulles des ordres plus courtes ; **grande carte :** 20 Go de RAM conseillés.
+
+<a id="new-601"></a>
+
+## 🆕 Nouveautés de la 6.0.1
+
+> Faite pour le jeu 1.2.1 **final**. Si tu viens de la 6.0, il suffit de remplacer `Mods\BrokenArrowRealismOverhaul.dll` (rien d'autre ne change) ; pour une nouvelle installation, prends le téléchargement complet.
+
+- **Jeu 1.2.1 final :** plus d'avertissement « aeg-fsr manquant » dans le journal de MelonLoader (le studio a retiré cette bibliothèque).
+- **Decks :** les cartes qui ont maintenant une version nationale (Scouts, Scout Snipers, Mech. Riflemen…) sont **remplacées** dans tes decks enregistrés au lieu d'être retirées ; les cartes retirées (comme le COBRA) sortent aussi des anciens decks ; l'avis au démarrage est court et peut toujours être fermé.
+- **Véhicules abandonnés :** tes unités ne tirent plus dessus toutes seules ; si tu ordonnes toi-même l'attaque, ils prennent des dégâts normaux et peuvent être détruits.
+- **Bâtiments :** les gros missiles de croisière (Kh-55SM…) abattent aussi les bâtiments en mode semi-réaliste. Les missiles de croisière perforants (JASSM, AGM-86D…) explosent maintenant dans le bâtiment touché : un coup au but abat une maison.
+- **Laser :** nouveau choix dans Échap > Options > Mod : **Automatique** ou **Manuel**. En Automatique, un laser que tu poses toi-même n'est jamais déplacé ; en Manuel, rien n'est automatique. Un drone ou un avion garde sa cible tant qu'elle est vivante et visible ; il y a 30 s entre deux désignations automatiques et beaucoup moins de phrases radio.
+- **Lancement avec l'anti-triche :** l'avertissement passe au premier plan et le jeu se ferme proprement, au lieu de rester figé avant le menu.
+
+<a id="new-60"></a>
+
+## 🆕 Nouveautés de la 6.0
 
 > [!IMPORTANT]
-> **Remplace la 5.9.3 et toutes les versions plus anciennes :** copie les nouveaux dossiers par-dessus les anciens (le dossier `RealismOverhaul_Vehicules` est nouveau : voir [Installation](#install)). Tes decks sont gardés : si une carte a changé, seule cette carte quitte ton deck enregistré, avec un message. **La 5.9.4 est la version minimale pour jouer ensemble** : tous les joueurs d'un salon doivent avoir la 5.9.4.
+> **Remplace la 5.9.5 et toutes les versions plus anciennes :** supprime d'abord l'ancien dossier `RealismOverhaul_Vehicules` du jeu, puis copie les nouveaux dossiers (voir [Installation](#install)). **Le jeu en version 1.2.1 est obligatoire.** Tes decks sont gardés : si une carte a changé, seule cette carte quitte ton deck enregistré, avec un message.
+>
+> **Attention : la 6.0 demande le jeu en version 1.2.1, et c'est la version minimale pour jouer ensemble.** Tous les joueurs d'un salon doivent avoir la 6.0.
 
-### 🇨🇳 Un nouveau char : le ZTZ-99A chinois
-- Une nouvelle carte dans la division **Russie** de l'Arsenal.
-- Sa vraie mobilité : un moteur de **1 500 ch** et **76 km/h** sur route.
-- Une tourelle fidèle à la vraie, avec son tourelleau téléopéré, ses lance-fumigènes et son alerte laser, et le **camouflage numérique** chinois.
-- Son canon et son blindage sont ceux du T-90M : les vrais chiffres chinois ne sont pas publics.
-- Son allure est lue dans le nouveau dossier `RealismOverhaul_Vehicules` : sans lui, le char a l'allure d'un T-90M.
+### 🎮 Le jeu 1.2.1
+- **Compatible avec le jeu 1.2.1 (Unity 6)** : démarrage sûr, roquettes et missiles neufs de la 1.2.1 avec leurs vraies valeurs, et choix d'arsenal cassés par la mise à jour remis en place (emports d'hélicoptères, équipes de génie).
 
-### 🗺️ Cartes
-- **Autoroute de la mort** : herbe 3D sur presque toute la carte, plus de forêts, des bosquets, des haies autour des champs, des buissons le long des routes et des lisières, et environ **120 étangs** dans les vrais creux du relief (vraie eau : les véhicules la contournent). Plus de coudes ni de demi-tours au pied des ponts ; dans les 3 bourgs, la route traverse l'autoroute tout droit.
-- Le réglage **Distance de l'herbe** agit enfin, sur toutes les cartes.
-- **Cartes agrandies** : chaque carrefour est posé à sa vraie taille et sous sa vraie forme, avec des bordures continues et des passages piétons sur la route ; seules les routes entre les carrefours s'allongent. Sur les cartes d'hiver, la neige couvre tout jusqu'aux bords.
-- Après une bombe nucléaire près du bord, plus d'herbe, de fougères, de ruines ni de débris qui réapparaissent hors de la carte.
-- **Les avions apparaissent à 1 km et les hélicoptères à 500 m hors de la carte, derrière leur camp** (au bord sur l'Autoroute de la mort) : plus de points d'apparition à des kilomètres de la carte.
+### ⚖️ Réalisme
+- **Un nouveau mode de réalisme : Vanilla.** Chaque carte du mod prend les stats de sa carte de base du jeu. **Semi-réaliste** : +60 % de vie partout, aéronefs compris, portées inchangées.
+- **Les phares des véhicules restent éteints en bataille** ; la lumière des tirs et des explosions reste.
+- **Portées et vitesses revues avec les chiffres réels** : portée pratique (là où l'arme est précise) et portée maximale, missiles à leur vraie portée d'engagement, vitesses de service vérifiées véhicule par véhicule.
 
-### 🎯 Armes et combat
-- **Toutes les armes revues comme en vrai** : cadence, chargeurs, rechargement et rafales, très précises à bout portant, vraie dispersion des canons antiaériens.
-- Une nouvelle ligne **Portées (tir direct)** sur la fiche d'unité : portée pratique, portée maximale et visée (à l'œil, lunette, thermique). Pour les mitrailleuses de 12,7 mm, la limite de visée dépend du montage.
-- **Les bâtiments suivent le mode de réalisme de l'hôte.** Réaliste : comme en vrai, une bombe souffle une maison en bois et seule la partie touchée s'effondre. Semi-réaliste : des bâtiments 2 à 3 fois plus solides. Dans les deux modes, une bombe ne rase plus tout très loin autour d'elle, et balles, canons de 20 à 40 mm et grenades ne font rien aux murs.
-- Les corps de l'infanterie ne disparaissent plus quand une escouade meurt hors de l'écran ou loin de la caméra : la durée choisie pour les morts est respectée.
-- Un bouton **Salve de roquettes** sur les avions et les hélicoptères à roquettes non guidées : 25, 50, 75 ou 100 % des roquettes par passe.
-- **G** sur un point du sol marche maintenant pour les véhicules armés d'une mitrailleuse ou d'un lance-grenades : ils s'approchent à leur vraie portée et tirent.
-- Corrigé : un avion qui porte des bombes guidées de plusieurs calibres (UMPK, KAB, GBU) les largue toutes, plus seulement le premier calibre.
+### 🗺️ Cartes agrandies
+- Tu poses de nouveau tes unités partout (réparé pour la 1.2.1).
+- Les routes s'étirent avec la carte, lisses et sans zigzag.
 
-### 🛡️ Véhicules : nouvelles options de l'Arsenal
-- **Protection extérieure (+10)** : grilles anti-roquettes sur des chars et blindés russes, biélorusses et ukrainiens. Elles arrêtent vraiment une partie des roquettes et des missiles à charge creuse simple sur les flancs et l'arrière. Les grilles que le jeu montre déjà sur les véhicules légers (BTR, BMP, MT-LB, BMD-4M, M113, Stryker...) protègent aussi (+5).
-- **Toit anti-drones (+10)** : il arrête le premier petit drone (type Lancet ou Switchblade 300) qui frappe le toit ; le char perd un peu de vie et le toit est arraché, le drone suivant frappe donc normalement. Les gros drones kamikazes (type Shahed) passent. Même règle pour l'IA.
-- **Camouflage** sur 31 chars et blindés, dont le M1A2, toutes les versions SEP et le Leopard 2A7 : motif adapté au terrain (+5, neige sur les cartes d'hiver), buissons à l'avant (+10), buissons très denses à l'avant (+20). De vrais branchages du jeu, collés à la caisse : le véhicule est plus difficile à repérer. Décor seulement : ni collision, ni gêne pour le canon.
-- **Lame de terrassement (+10)** sur 27 chars de l'école soviétique (T-64, tous les T-72 dont le PT-91, T-80, T-90) : le char s'enterre 3 fois plus vite, tout seul, sans génie. La lame se voit, relevée pour rouler et abaissée une fois retranché, avec un talus de terre devant.
-- **Chasse-mines KMT** : un nouveau bouton **Mode déminage**. À 12 km/h, les mines sautent devant la charrue avec de petits dégâts, et la charrue s'use. L'IA s'en sert aussi.
-- **Minage à distance**, le même nombre de chaque côté : États-Unis, M109A6 et M109A7 avec obus à mines RAAM ; Russie, ISDM Zemledeliye et Grad à roquettes à mines 9M28K. 10 km de portée pour tous, des mines qui restent toute la partie, 100 au plus en place par camp.
+### 🎯 Combat
+- **Contre les hélicoptères en vol** : la mitrailleuse de 12,7 mm porte jusqu'à 1 000 m ; le 5,56 et le 7,62 mm (fusils, mitrailleuses, miniguns) ne font presque rien aux hélicoptères blindés (Mi-28, Ka-52, Ka-50, AH-64, AH-1Z, Tiger, Mi-24/Mi-35), le 12,7 mm et plus gardent leur effet ; la mitrailleuse coaxiale d'un char ne tire pas plus haut que la hausse de son canon (la 12,7 du chef de char et les tourelleaux tirent toujours) ; un hélicoptère qui file est plus dur à toucher pour les mitrailleuses et canons sans radar (Gepard, Tunguska, Pantsir, Skyranger, C-RAM inchangés) ; voler bas coûte plus cher face aux canons et aux mitrailleuses ; les missiles d'épaule ne tirent que s'ils voient la cible ; les missiles radar des systèmes sol-air sont aveugles en vol bas.
+- **Plus d'avion sacrifié pour revenir plus vite** : un avion ou un hélicoptère perdu met toujours plus de temps à revenir qu'un appareil rentré vide ou intact.
+- **Artillerie, pour toi comme pour l'IA** : sortie de batterie avant de rouler (30 s pour un automoteur, 120 s pour une pièce tractée) ; l'IA demande son tir (60 s) et le règle.
 
-### 🃏 Decks et Arsenal
-- **Un deck par défaut pour chaque pays (12)** : États-Unis, Ukraine, Allemagne, Pologne, Lituanie, Lettonie, Estonie, Europe, Russie, Donbass, Biélorussie, Kazakhstan. Des unités en service, en quantités réelles. Ils ne se modifient pas, mais tu peux en copier un et modifier la copie. Tes propres decks restent toujours en haut de la liste.
-- Filtres de l'Arsenal : un drapeau par pays, 7 au plus par ligne, plus aucun drapeau caché sous la fiche d'unité.
-- Le drone **Heron TP** de la division allemande marche de nouveau : il ne rend plus un deck invalide.
+### 🧠 Plafond d'unités et IA
+- **Plafond d'unités « Dynamique »** : aucune limite pour les joueurs ; l'IA se limite à 150 par camp et te suit au-delà. Les bots alliés des scénarios sont réparés, et en Front Logistique solo, un allié IA est possible.
+- **Une IA plus fine, qui ne voit que ce que voient ses unités** : elle envoie davantage d'éclaireurs, retourne voir là où elle a perdu le contact, retient les champs de mines, et ses hélicoptères ont le même carburant que les tiens.
 
-### 🌐 Steam et VK Play (facultatif)
-- **Jouer > Chercher un salon** montre une seule liste de salons Steam et VK Play, chacun avec l'étiquette de sa plateforme. Clique simplement sur **Rejoindre**.
-- Un salon public est ouvert aux deux par défaut. Coche **Steam uniquement** pour garder le tien sur Steam. Les salons Amis seulement, Privés et ceux sur une carte du Workshop restent toujours sur Steam. [Vie privée.](#privacy)
-- Le mod reconnaît la version VK Play du jeu : le solo, l'escarmouche et la campagne marchent.
+### 🧩 Atelier BARO
+- Des **sous-mods se greffent sur le mod sans désynchro**. Le dossier `RealismOverhaul_SousMods` contient les guides, en 5 langues. Les salons affichent « Partie moddée ».
+
+### 🃏 Decks et équipes
+- **Des decks propres** : chaque pays a son vrai matériel, cartes officielles et DLC comprises, son drapeau et son nom dans l'arsenal, et une infanterie aux vrais noms nationaux ; les divisions américaines et russes gardent toutes leurs cartes d'origine.
+- Les cartes dont le modèle n'était pas le vrai engin sont mises de côté : tes decks enregistrés ne perdent que ces cartes.
+- **Chine et France : « En préparation »**, pas encore jouables.
+- **Nouvelles équipes** : mortiers M252 et 2B14 à leur vraie cadence, forces spéciales SSO du Kazakhstan.
 
 ### 🔧 Corrections
-- Un plantage rare dans les longues batailles avec beaucoup de véhicules.
-- Le M1064A3 apparaissait sans son mortier.
-- Le son de bataille du jeu (tirs, coups de canon) ne joue plus sous l'intro et dans le menu au démarrage.
-- Retour au menu après une bataille : plus de panneaux qui clignotent, plus de page du mod qui apparaît puis disparaît.
-
-*Merci aux joueurs qui ont signalé le plantage, les corps qui disparaissaient, les points d'apparition hors de la carte et les bombes guidées.*
+- Un plantage au déchargement du ravitaillement en Front Logistique.
+- Une saccade toutes les 2 secondes.
+- La caméra de début de bataille, arrêtée avant la base ennemie.
+- L'IRIS-T, qui explosait au départ.
+- Des ponts mal raccordés sur les cartes agrandies.
+- Une bombe guidée sans effet sur un char touché.
 
 <div align="right"><a href="#top">retour en haut</a></div>
 
@@ -139,13 +163,13 @@ Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mo
 
 ## 📦 Télécharger et installer
 
-**Configuration requise :** Broken Arrow 1.2.0.3 (une copie légitime), Windows, 16 Go de mémoire conseillés (30 Go pour l'Autoroute de la mort en 10 x 150 km). Les DLC sont facultatifs. MelonLoader 0.7.3 est inclus dans le téléchargement ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), guide sur [melonwiki.xyz](https://melonwiki.xyz/)). Une version **LITE** existe aussi sur [Nexus Mods](https://www.nexusmods.com/brokenarrow/mods/7) : le mod seul, pour les joueurs qui ont déjà MelonLoader 0.7.3.
+**Configuration requise :** Broken Arrow 1.2.1 (une copie légitime), Windows, 16 Go de mémoire conseillés (30 Go pour l'Autoroute de la mort en 10 x 150 km). Les DLC sont facultatifs. MelonLoader 0.7.3, qui marche avec le jeu 1.2.1, est inclus dans le téléchargement ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), guide sur [melonwiki.xyz](https://melonwiki.xyz/)). Une version **LITE** existe aussi sur [Nexus Mods](https://www.nexusmods.com/brokenarrow/mods/7) : le mod seul, pour les joueurs qui ont déjà MelonLoader 0.7.3.
 
 ### Installation
 
-1. Clique sur le bouton vert **DOWNLOAD** en haut de cette page. Il ouvre le fichier sur Google Drive : clique sur **Télécharger**, puis décompresse l'archive (Windows 11, 7-Zip ou WinRAR). Elle contient le dossier **BROKEN ARROW REALISM OVERHAUL** : le mod, MelonLoader, la musique, les fichiers des véhicules et la licence (`LICENSE.txt`).
+1. Clique sur le bouton vert **DOWNLOAD** en haut de cette page. Il ouvre le fichier sur Google Drive : clique sur **Télécharger**, puis décompresse l'archive (Windows 11, 7-Zip ou WinRAR). Elle contient le dossier **BROKEN ARROW REALISM OVERHAUL** : le mod, MelonLoader, la musique, l'aspect des véhicules, les guides de l'Atelier BARO et la licence (`LICENSE.txt`).
 2. Dans Steam, fais un clic droit sur **Broken Arrow**, puis **Gérer**, puis **Parcourir les fichiers locaux**.
-3. Ouvre le dossier **BROKEN ARROW REALISM OVERHAUL** et copie `version.dll` et les dossiers `MelonLoader`, `Mods`, `UserData` et `RealismOverhaul_Vehicules` dans le dossier du jeu, à côté de `BrokenArrow.exe`. `UserData` contient la musique du mod, `RealismOverhaul_Vehicules` l'allure du ZTZ-99A. `LICENSE.txt` n'a pas besoin d'être copié.
+3. Ouvre le dossier **BROKEN ARROW REALISM OVERHAUL** et copie `version.dll` et les dossiers `MelonLoader`, `Mods`, `UserData`, `RealismOverhaul_Vehicules` et `RealismOverhaul_SousMods` dans le dossier du jeu, à côté de `BrokenArrow.exe`. `UserData` contient la musique du mod, `RealismOverhaul_Vehicules` l'aspect des véhicules du mod et `RealismOverhaul_SousMods` les guides de l'Atelier BARO (sous-mods). `LICENSE.txt` n'a pas besoin d'être copié.
 4. Lance le jeu depuis Steam avec **Anti-Cheat Disabled**. Le premier lancement prend un peu plus de temps, le temps que MelonLoader se prépare, et une fenêtre de console s'ouvre : c'est normal.
 5. L'**écran d'accueil du mod** apparaît dans le menu principal, et un onglet **Mod** dans la fenêtre Options. Dans l'Arsenal, crée un deck (OTAN ou OTSC, puis ton pays), ou copie le deck par défaut de ton pays.
 
@@ -161,10 +185,10 @@ Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mo
 <a id="update"></a>
 
 ### Mettre à jour depuis une ancienne version
-Télécharge la nouvelle archive avec le bouton **DOWNLOAD**, copie les nouveaux fichiers et dossiers par-dessus les anciens, puis ouvre tes decks et vérifie-les. Pour jouer ensemble, tes amis et toi devez avoir exactement la même version, la 5.9.4 au minimum : sinon, la liste des salons affiche **Mauvaise version**.
+Télécharge la nouvelle archive avec le bouton **DOWNLOAD**. **Avant de copier, supprime l'ancien dossier `RealismOverhaul_Vehicules` du jeu** : les anciennes formes de la 5.9.x ne servent plus. Copie ensuite les nouveaux fichiers et dossiers par-dessus les anciens, puis ouvre tes decks et vérifie-les. Pour jouer ensemble, tes amis et toi devez avoir exactement la même version, la 6.0 au minimum : sinon, la liste des salons affiche **Mauvaise version**.
 
 ### Désinstaller
-Supprime `Mods\BrokenArrowRealismOverhaul.dll`, les dossiers `UserData\RealismOverhaul...` et le dossier `RealismOverhaul_Vehicules`. Pour retirer aussi MelonLoader, supprime `version.dll` et le dossier `MelonLoader`. Les divisions d'origine du jeu et son menu reviennent, exactement comme avant.
+Supprime `Mods\BrokenArrowRealismOverhaul.dll`, les dossiers `UserData\RealismOverhaul...`, le dossier `RealismOverhaul_Vehicules` et le dossier `RealismOverhaul_SousMods`. Pour retirer aussi MelonLoader, supprime `version.dll` et le dossier `MelonLoader`. Les divisions d'origine du jeu et son menu reviennent, exactement comme avant.
 
 > [!TIP]
 > Avant de désinstaller, garde une copie de ton dossier `Decks` (`%USERPROFILE%\AppData\LocalLow\SteelBalalaikaStudio\BrokenArrow\Decks`). Les decks construits sur les divisions du mod n'ont de sens qu'avec le mod.
@@ -195,7 +219,7 @@ Le mod tient le jeu à l'écart des serveurs officiels, exprès, et lui donne **
 - Un **titre**, et qui peut entrer : **Public**, **Amis seulement** ou **Privé** (sur invitation Steam uniquement), avec un **mot de passe** facultatif.
 - Un salon public est ouvert aux joueurs Steam et VK Play ; coche **Steam uniquement** (gardé sur ton PC) pour garder le tien sur Steam. Les salons Amis seulement, Privés et ceux sur une carte du Workshop sont toujours sur Steam uniquement.
 - **Le mode** : coop contre l'IA, tous les joueurs dans le même camp, ou **Joueurs contre joueurs** sur une carte multijoueur, jusqu'à 3 joueurs par camp, sans IA.
-- **Unités max par camp** (90, 100, 120 ou 150), choisi avant la partie et figé pendant toute la bataille.
+- **Unités max par camp** (90, 100, 120, 150 ou **Dynamique**, sans limite pour les joueurs), choisi avant la partie et figé pendant toute la bataille.
 
 ### Dans le salon
 - **Chaque joueur choisit son pays dans son camp et un deck de ce pays** : côté OTAN, l'un peut prendre l'Allemagne, l'autre les États-Unis, l'autre l'Ukraine.
@@ -258,7 +282,7 @@ Le mod donne au jeu un menu à lui, épuré et dans ta langue. Une intro verte, 
 | **Chercher un salon** | Les salons du mod (Steam et VK Play) et tes **amis Steam qui jouent au mod**. |
 
 ### Options > Mod
-**Échap > Options > Mod** garde ce qui t'appartient : le **mode de réalisme**, la durée des **épaves, morts, feux et cratères**, le **plafond d'unités**, l'**Abandon des véhicules** et **À propos**. [Tous les réglages.](#settings)
+**Échap > Options > Mod** garde ce qui t'appartient : le **mode de réalisme**, la durée des **épaves, morts, feux et cratères**, le **plafond d'unités**, l'**Abandon des véhicules**, le **Laser des désignateurs** et **À propos**. [Tous les réglages.](#settings)
 
 ### Signaler un bug du mod 🐞
 Le bouton de bug du jeu, dans le menu principal comme en bataille, ouvre la fenêtre **Signaler un bug du mod** : où le signaler sur le Discord, les journaux à joindre **avant de relancer le jeu** (`Latest.log`, le dossier `Logs` et le dossier `GameLogs` du jeu, chacun avec un bouton **Ouvrir le dossier**), et une ligne avec les versions à recopier dans le ticket.
@@ -270,10 +294,11 @@ Tout le mod est toujours actif, sauf les quelques éléments ci-dessous, affich�
 
 | Réglage | Où | Choix |
 |---|---|---|
-| **Mode de réalisme** | Échap > Options > Mod, ou **Créer une partie** | **Réaliste** garde les vraies valeurs telles quelles ; **Semi-réaliste** (par défaut) les rééquilibre un peu (avions un peu plus chanceux face aux missiles, plus de survivants d'un transport détruit, bâtiments plus solides). Figé pendant la bataille |
+| **Mode de réalisme** | Échap > Options > Mod, ou **Créer une partie** | **Vanilla** : chaque carte du mod prend les stats de sa carte de base du jeu ; **Réaliste** garde les vraies valeurs telles quelles ; **Semi-réaliste** (par défaut) les rééquilibre un peu (+60 % de vie partout, aéronefs compris, portées inchangées ; avions un peu plus chanceux face aux missiles, plus de survivants d'un transport détruit, bâtiments plus solides). Figé pendant la bataille |
 | **Épaves, morts, feux et cratères** | Échap > Options > Mod | 5, 15, 30 ou 60 minutes ou **Infini** (30 par défaut). C'est aussi le délai au bout duquel un véhicule abandonné que personne ne récupère s'autodétruit (jamais avec Infini) |
-| **Unités max par camp** | **Créer une partie**, ou Échap > Options > Mod | 90, 100, 120 ou 150 par camp sur les cartes du front, partagées entre les joueurs du camp, choisi avant la partie et figé en bataille |
+| **Unités max par camp** | **Créer une partie**, ou Échap > Options > Mod | 90, 100, 120 ou 150 par camp sur les cartes du front, partagées entre les joueurs du camp, ou **Dynamique** (aucune limite pour les joueurs ; l'IA se limite à 150 par camp et te suit au-delà) ; choisi avant la partie et figé en bataille |
 | **Abandon des véhicules** | Échap > Options > Mod | **Manuel** (par défaut : un triangle jaune qui clignote et un bouton **Abandonner** à 30 % de vie ou moins) ou **Automatique** ; chaque joueur pour ses propres véhicules. L'IA abandonne toujours automatiquement |
+| **Laser des désignateurs** | Échap > Options > Mod | **Automatique** (par défaut ; un laser que tu poses toi-même n'est jamais déplacé) ou **Manuel** (rien n'est automatique) ; chaque joueur pour ses propres unités, jamais imposé par l'hôte |
 | **Lignes graphiques** | Options > Graphismes | **Distance des objets**, **Distance de l'herbe**, **Densité de l'herbe**, **Distance des arbres**, **Distance des ombres** (0 à 5 000 m), les ombres et les effets un par un, **Images par seconde au menu**, un bouton **Valeurs par défaut** ; le **DLSS** (NVIDIA RTX) et le FSR 3 se coupent l'un l'autre. Chaque joueur règle les siens |
 | **Taille de la carte** | **Créer une partie** | Vanilla, Moyenne ou Grande, avec les vrais kilomètres de chaque carte. La campagne garde la taille d'origine du jeu |
 | **Météo** | **Créer une partie**, **Paramètres supplémentaires** | Automatique, Dégagé, Nuageux, Couvert, Pluie ou Brouillard, et **Météo pendant la partie** : **Fixe** ou **Changeante** |
@@ -301,7 +326,7 @@ La caméra libre (de 6 m à 9 000 m), les ordres de mouvement et le retour des c
 | **Vrais prix** | Chaque unité au prix de sa vraie valeur au combat : T-72B3 180, BMP-3 95, Bradley 100, T-90M 330, Abrams SEP v3 355, Grad 150, et le T-14 Armata, le char le plus fort du jeu, 560. Les avions paient leur vraie autoprotection et leur emport. |
 | **Decks par défaut** | Un par pays (12) : unités en service, en quantités réelles. En lecture seule, mais tu peux en copier un et modifier la copie. Tes propres decks restent toujours en haut de la liste. |
 | **Tes decks sont gardés** | À chaque lancement et à chaque mise à jour, seule une carte devenue invalide est corrigée ou retirée, avec un message qui la nomme. Aucun deck n'est jamais supprimé, et les cartes en double sont masquées. |
-| **L'onglet spécial** | À côté du Zubr et du LCAC : dépanneurs, radars de contre-batterie, guerre électronique, poseurs et enleveurs de mines, pour qu'ils ne prennent jamais la place des unités de combat. |
+| **L'onglet spécial** | À côté du Zubr et du LCAC : les unités de soutien, comme les poseurs et enleveurs de mines, pour qu'elles ne prennent jamais la place des unités de combat. |
 | **Campagne** | Seul ton deck USA ou Russie joue en campagne, en plus de ce que la mission te donne. |
 | **Partout ailleurs** | Scénarios, escarmouche et modes contre l'IA prennent le deck de n'importe quel pays. |
 
@@ -313,30 +338,30 @@ La caméra libre (de 6 m à 9 000 m), les ordres de mouvement et le retour des c
 
 ## 🌍 Nations : OTAN contre OTSC
 
-Le jeu ne connaît que deux camps, donc chaque pays appartient à l'un d'eux : les pays de l'OTAN combattent du côté américain, ceux de l'OTSC du côté russe. Chaque pays a son drapeau et seulement le matériel qu'il a vraiment : en service, en commande, ou tiré de ses vieux stocks. Quand un véhicule n'a pas de modèle 3D dans le jeu, le véhicule du jeu le plus proche le remplace, sous le vrai nom et avec les vraies stats. Les petites armées reçoivent plus d'exemplaires de leurs unités antichars et antiaériennes.
+Le jeu ne connaît que deux camps, donc chaque pays appartient à l'un d'eux : les pays de l'OTAN combattent du côté américain, ceux de l'OTSC du côté russe. Chaque pays a son drapeau et seulement le matériel qu'il a vraiment : en service, en commande, ou tiré de ses vieux stocks. Seuls les véhicules dont le modèle montré dans le jeu est le vrai engin ont leur carte : les autres sont mis de côté plutôt que remplacés par un autre véhicule. La Chine est jouable depuis la 6.0.2 ; la France est « En préparation » : elle n'est pas encore jouable. Les petites armées reçoivent plus d'exemplaires de leurs unités antichars et antiaériennes.
 
 ### OTAN
 | Pays | Ce qu'il aligne | Il faut |
 |---|---|---|
 | **États-Unis** | Tout l'arsenal américain du jeu, le NASAMS compris, et le JLTV avec TOW ou Mk 19. | Jeu de base |
-| **Ukraine** | Du matériel de l'époque soviétique et du matériel livré par les pays partenaires, le VAB, le Bayraktar TB2 avec quatre MAM-L et le Liutyi. Le T-64BV, le BTR-4E et le 2S22 Bohdana utilisent des remplaçants. | Jeu de base |
-| **Allemagne** | La Bundeswehr en 2026 : Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM, sa propre infanterie (G36, MG3, MG5, Panzerfaust 3), Eurofighter et Tornado. Le Puma, le Marder, le Fennek, le Tiger, le NH90, l'Eurofighter et le Tornado utilisent des remplaçants. | DLC balte |
+| **Ukraine** | Du matériel de l'époque soviétique et du matériel livré par les pays partenaires, le VAB, le Bayraktar TB2 avec quatre MAM-L et le Liutyi. | Jeu de base |
+| **Allemagne** | La Bundeswehr en 2026 : Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM, sa propre infanterie (G36, MG3, MG5, Panzerfaust 3). | DLC balte |
 | **Pologne** | Chars K2 et Abrams, Leopard 2, PT-91, Rosomak, artillerie à roquettes coréenne et américaine, Patriot, F-16, le mortier M120 Rak, le système antiaérien Poprad, les hélicoptères AW149 et W-3 Sokol. | Jeu de base |
 | **Lituanie** | Vilkas (Boxer) et M113, PzH 2000 et HIMARS, NASAMS, Black Hawk. Aucun char en service. | DLC balte |
 | **Lettonie** | CVR(T) Scimitar et Spartan, Patria 6x6, obusiers M109A5Ö, RBS 70, Spike et Piorun, Black Hawk. | DLC balte |
-| **Estonie** | CV9035, Patria XA-180/188 et ARMA 6x6, obusiers K9 Kõu et CAESAR, HIMARS, IRIS-T SLM, Mistral et Piorun. Ni chars ni avions de chasse. | DLC balte |
-| **Europe** | De vrais véhicules d'Europe de l'Ouest et du Nord, de Pologne et des pays baltes, sous leur vrai nom et avec leurs vraies stats, sans matériel de l'époque soviétique, et le drapeau du pays d'origine sur chaque carte. Le VAB et le TPz Fuchs portent leur tourelleau à l'avant droit, et le VAB TOP sa tourelle téléopérée de 12,7 mm. | Jeu de base |
+| **Estonie** | CV9035, Patria XA-180/188 et ARMA 6x6, obusiers K9 Kõu, HIMARS, IRIS-T SLM, Mistral et Piorun. Ni chars ni avions de chasse. | DLC balte |
+| **Europe** | De vrais véhicules d'Europe de l'Ouest et du Nord, de Pologne et des pays baltes, sous leur vrai nom et avec leurs vraies stats, sans matériel de l'époque soviétique. | Jeu de base |
 
 ### OTSC
 | Pays | Ce qu'il aligne | Il faut |
 |---|---|---|
-| **Russie** | Tout l'arsenal russe du jeu, et le **ZTZ-99A** chinois. | Jeu de base |
+| **Russie** | Tout l'arsenal russe du jeu. | Jeu de base |
 | **Donbass** | Donetsk et Louhansk, 2023-2026 : matériel soviétique et russe, un drapeau commun, les drones de reconnaissance Forpost et Korsar. | Jeu de base |
-| **Biélorussie** | Du matériel de l'époque soviétique modernisé sur place et des livraisons russes : T-72B3, BTR-82A, Tor-M2K, Iskander-M, Su-30SM2, Mi-35M, les drones de reconnaissance Forpost et Korsar. | Jeu de base |
-| **Kazakhstan** | Du matériel de l'époque soviétique et des achats russes : T-72BA, BTR-82A, BMPT, Buk-M2E, Tor-M2K, Su-30SM, Mi-35M. L'Arlan, le Cobra, le Naiza, l'EC145 et le BM-27 utilisent des remplaçants. | Jeu de base |
+| **Biélorussie** | Du matériel de l'époque soviétique modernisé sur place et des livraisons russes : T-72B3, BTR-82A, Iskander-M, Su-30SM2, Mi-35M, les drones de reconnaissance Forpost et Korsar. | Jeu de base |
+| **Kazakhstan** | Du matériel de l'époque soviétique et des achats russes : T-72BA, BTR-82A, BMPT, Buk-M2E, Su-30SM, Mi-35M, et les forces spéciales SSO. | Jeu de base |
 
 > [!NOTE]
-> Les unités d'un DLC que tu n'as pas n'apparaissent tout simplement pas. L'Allemagne, la Lituanie, la Lettonie et l'Estonie demandent le DLC balte, et certaines cartes et certains remplaçants, comme le BM-27 Ouragan, demandent le DLC3.
+> Les unités d'un DLC que tu n'as pas n'apparaissent tout simplement pas. L'Allemagne, la Lituanie, la Lettonie et l'Estonie demandent le DLC balte, et certaines cartes demandent le DLC3.
 
 <div align="right"><a href="#top">retour en haut</a></div>
 
@@ -348,7 +373,7 @@ Le jeu ne connaît que deux camps, donc chaque pays appartient à l'un d'eux : l
 
 ### Vrais moteurs et vrais équipements
 - **De vrais moteurs au choix** pour chaque véhicule, avec leur nom et leur puissance : les anciens moins chers, les récents plus chers. Le moteur change l'accélération, et la vitesse de pointe seulement quand c'est le cas en vrai.
-- **De vraies protections au choix** quand le modèle 3D les montre : blindage réactif sur la famille T-72, Shtora, kit TUSK I, Trophy, kits de blindage pour les véhicules légers et les radars.
+- **De vraies protections au choix** quand le modèle 3D les montre : blindage réactif sur la famille T-72, Shtora, kit TUSK I, Trophy, kits de blindage pour les véhicules légers.
 - **Protection extérieure (+10)** : grilles anti-roquettes sur des chars et blindés russes, biélorusses et ukrainiens, qui arrêtent vraiment une partie des roquettes et des missiles à charge creuse simple sur les flancs et l'arrière. Les grilles déjà visibles sur les véhicules légers (BTR, BMP, MT-LB, BMD-4M, M113, Stryker...) protègent aussi (+5).
 - **Toit anti-drones (+10)** : arrête le premier petit drone qui frappe le toit, puis il est arraché. Les gros drones kamikazes passent.
 - **Camouflage** sur 31 chars et blindés : motif adapté au terrain (+5), buissons (+10), buissons très denses (+20). Plus difficiles à repérer, décor seulement.
@@ -357,7 +382,6 @@ Le jeu ne connaît que deux camps, donc chaque pays appartient à l'un d'eux : l
 
 ### Chars
 - **Des versions de chars avec leur propre blindage, leur prix et leur disponibilité** : T-72M1, T-72B3 obr. 2022, T-80B, T-80BVM, T-90 (8 par carte), le rare T-90AK, T-90M, T-14, Leopard 2A4 à 2A7, M1A1 SA, versions SEP de l'Abrams, BMPT-72 et d'autres. Le T-14 Armata est le meilleur char du jeu.
-- **Le ZTZ-99A** (division Russie) : un moteur de 1 500 ch pour 76 km/h sur route, une tourelle fidèle à la vraie avec son tourelleau téléopéré, ses lance-fumigènes et son alerte laser, et le camouflage numérique chinois. Canon et blindage du T-90M, puisque les vrais chiffres chinois ne sont pas publics.
 - **Un vrai blindage frontal** en vrais millimètres, et le vrai nombre d'obus à bord.
 
 ### Protection active, système par système
@@ -374,11 +398,10 @@ Le jeu ne connaît que deux camps, donc chaque pays appartient à l'un d'eux : l
 
 Les charges sont rechargées par les camions de ravitaillement. La protection active ne peut pas arrêter ce qui plonge sur le toit (Javelin, Spike LR, Hellfire, JAGM, munitions rôdeuses). Le **Shtora** agit selon le missile qu'il affronte : fort contre les vieux missiles filoguidés, inutile contre le Javelin ; un char qui voit l'équipe du missile lui tire dessus en premier.
 
-### Véhicules abandonnés, dépannage et trophées
+### Véhicules abandonnés et trophées
 - Un véhicule terrestre à **30 % de vie ou moins** peut être **abandonné** : à la main (un triangle jaune et un bouton **Abandonner**) ou automatiquement. Son équipage sort et rend la carte une fois arrivé à ta base.
 - Un véhicule abandonné devient **blanc (neutre)** : personne ne lui tire dessus de lui-même, il est totalement inerte, et il s'autodétruit à la fin de la durée des épaves si personne ne le récupère.
-- **Les dépanneurs** (BREM-1, M88A2, Bergepanzer 3, WZT-3) sont une seule carte : 1,5 t de pièces, des réparations jusqu'à 75 %, et un bouton **Remorquer / décrocher**. L'équipage remonte dans son véhicule réparé.
-- Un véhicule **ennemi** abandonné que tu remorques et répares devient ton **trophée** ; ramené à la base, il te rapporte la moitié de son prix. L'IA fait de même.
+- Un véhicule **ennemi** abandonné que tu récupères et répares devient ton **trophée** ; ramené à la base, il te rapporte la moitié de son prix. L'IA fait de même.
 
 <div align="right"><a href="#top">retour en haut</a></div>
 
@@ -423,8 +446,8 @@ Le stress monte avec les coups reçus **et les coups qui passent tout près**, j
 
 ### Artillerie
 - **De vrais emports et de vraies dotations**, des obus guidés (Krasnopol-M, Excalibur, Vulcano...), de vrais **temps de pointage** et de vraies **portées minimales**.
-- **Mise en batterie** : après chaque déplacement, une pièce passe par un vrai temps de mise en batterie avant de tirer.
-- **Deux modes**, ensemble si tu veux : **Tir sur les unités repérées** et **Contre-batterie**, sur une batterie localisée par un radar de contre-batterie (Zoopark-1, AN/TPQ-50, AN/TPQ-53, COBRA, Liwiec) ou au son. Un radar allumé émet, et peut être trouvé.
+- **Mise en batterie** : après chaque déplacement, une pièce passe par un vrai temps de mise en batterie avant de tirer, et par une sortie de batterie avant de rouler (30 s pour un automoteur, 120 s pour une pièce tractée). L'IA suit les mêmes règles : elle demande son tir (60 s) et le règle.
+- **Deux modes**, ensemble si tu veux : **Tir sur les unités repérées** et **Contre-batterie**, sur une batterie localisée par un radar ou au son. Un radar allumé émet, et peut être trouvé.
 - Obus et roquettes de **minage à distance**, et **armes à sous-munitions** à leur vraie efficacité.
 
 ### Ordres de mouvement et de tir
@@ -474,13 +497,13 @@ En Semi-réaliste, chaque contre-mesure réussit 25 % plus souvent. Plusieurs s'
 - **La frappe en cabré** pour les avions qui le font en vrai ; le bouton **Salve de roquettes** (25, 50, 75 ou 100 % des roquettes non guidées par passe).
 - **Plus de 160 vrais emports** sur les bons pylônes ; les emports que le vrai avion n'a jamais portés sont masqués.
 - **De vrais profils de missiles** : le Kinjal, le Zircon et l'ARRW volent comme en vrai ; Javelin, Spike et Hellfire plongent sur le toit.
-- **La désignation laser** est automatique sur les unités qui portent vraiment un désignateur.
+- **La désignation laser** se fait sur les unités qui portent vraiment un désignateur, en **Automatique** ou en **Manuel** au choix dans Échap > Options > Mod ; un laser que tu poses toi-même n'est jamais déplacé.
 - **Drones kamikazes** (Geran-2, LUCAS) : cinq moteurs, trois charges, et le bouton **PLONGER ICI**. Le Geran-5 à réaction ne peut être abattu que par des missiles.
 
-### Défense antiaérienne et guerre électronique
-- **Deux missiles antiaériens abattent tout ce qui vole.** Une mitrailleuse de 12,7 mm est mortelle pour un hélicoptère entre 300 et 500 m ; les canons sans radar atteignent les hélicoptères à 1 500 m au plus.
+### Défense antiaérienne
+- **Deux missiles antiaériens abattent tout ce qui vole.** Contre un hélicoptère en vol, la mitrailleuse de 12,7 mm porte jusqu'à 1 000 m ; les canons sans radar atteignent les hélicoptères à 1 500 m au plus ; voler bas coûte plus cher face aux canons et aux mitrailleuses ; les missiles d'épaule ne tirent que s'ils voient la cible, et les missiles radar des systèmes sol-air sont aveugles en vol bas.
 - **Tu règles chaque lanceur** : missiles, hélicoptères, avions, drones. Des interrupteurs **antimissile** et **Anti-roquettes/bombes** sur les systèmes faits pour ça.
-- **Un radar allumé se fait repérer** par les avions ennemis ; éteins-le pour te cacher. L'EA-6B Prowler et le Su-24MP brouillent les radars qui visent les avions amis. Le brouillage ne touche à aucune portée d'arme.
+- **Un radar allumé se fait repérer** par les avions ennemis ; éteins-le pour te cacher.
 
 <div align="right"><a href="#top">retour en haut</a></div>
 
@@ -572,7 +595,7 @@ Tailles en kilomètres. **Moyenne** fait 144 km² ou plus, **Grande** de 200 à 
 
 ### Cartes agrandies
 - **Des routes à leur vraie largeur**, des carrefours à leur vraie taille et sous leur vraie forme, des ponts posés d'un seul tenant, et plus rien au-delà de la zone jouable.
-- **Des cartes vivantes** : voies ferrées, pylônes, ports et navires suivent la carte étirée, et de nouvelles maisons, cours et dépôts comblent les vides, seulement sur un sol plat et dégagé.
+- **Des cartes vivantes** : voies ferrées, pylônes et ports suivent la carte étirée, et de nouvelles maisons, cours et dépôts comblent les vides, seulement sur un sol plat et dégagé.
 - La neige jusqu'aux bords sur les cartes d'hiver. **La même carte pour tout le monde**, sans hasard ; la taille Vanilla n'est jamais touchée.
 
 <div align="right"><a href="#top">retour en haut</a></div>
@@ -658,7 +681,7 @@ Tailles en kilomètres. **Moyenne** fait 144 km² ou plus, **Grande** de 200 à 
 ## 🚫 Ce qui n'est pas possible, et je préfère le dire
 
 - **Deux camps seulement.** Le jeu connaît le camp américain et le camp russe, donc les pays de l'OTAN combattent toujours ceux de l'OTSC.
-- **Les pays dont le matériel principal n'est pas dans le jeu**, comme la France ou le Royaume-Uni, ne peuvent pas être faits à part. Quand un véhicule n'a pas de modèle 3D, un véhicule de la même classe le remplace, avec le vrai nom et les vraies stats, et souvent les armes de son modèle.
+- **Les pays dont le matériel principal n'est pas dans le jeu**, comme la France ou le Royaume-Uni, ne sont pas jouables pour l'instant : la France est « En préparation ». Un véhicule qui n'a pas de vrai modèle 3D dans le jeu n'a pas de carte, plutôt qu'un autre véhicule mis à sa place.
 - **Pas de jeu sur les serveurs officiels.** Le mod se joue en solo et, ensemble, seulement dans ses propres salons.
 - **Tout retrouver après un plantage.** Un joueur qui revient récupère ses unités, leur vie et son argent, mais les arbres couchés, les cratères et les épaves faits pendant son absence ne s'affichent pas, et il n'y a pas de mode spectateur.
 - **Les bombes sans ailes tombent toujours de façon balistique**, et en campagne un avion du commandant ne vient que là où la mission elle-même en fait voler un.
@@ -679,7 +702,7 @@ Tailles en kilomètres. **Moyenne** fait 144 km² ou plus, **Grande** de 200 à 
 - Certaines cartes du Steam Workshop n'acceptent pas tous les modes de jeu.
 - **Pièces endommagées en coop** : les icônes sont vues par tous, mais l'avis à l'écran n'apparaît que sur le PC qui a tiré.
 
-Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtre **Signaler un bug du mod** te dit où le signaler sur le [Discord](https://discord.gg/wrtMjUnard) et quels journaux envoyer. Les erreurs de traduction se signalent de la même façon.
+Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtre **Signaler un bug du mod** te dit où le signaler sur le [Discord](https://discord.gg/brokenarrowrealism) et quels journaux envoyer. Les erreurs de traduction se signalent de la même façon.
 
 <div align="right"><a href="#top">retour en haut</a></div>
 
@@ -691,6 +714,9 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 
 | Version | Date | Points forts |
 |:-:|:-:|---|
+| **6.0.2** | Octobre 2026 | Chine jouable (19 cartes, infanterie neuve) ; le tir forcé (G) sur un bâtiment tire vraiment, à l'explosif ; missiles perforants et GBU-39 contre les bâtiments ; Percée à un vrai 3 contre 1 ; commandant IA avec l'économie d'un joueur ; vraies portées des bombes planantes, des missiles air-air et des bombes guidées ; cages anti-drones d'office ; vrais temps de mise en batterie ; dépanneurs de retour ; musique libre de droits seulement (44 morceaux) ; fenêtre de chargement au retour au menu. |
+| **6.0.1** | Octobre 2026 | Jeu 1.2.1 final ; cartes remplacées dans les decks au lieu d'être retirées ; véhicules abandonnés destructibles ; bâtiments contre les missiles de croisière ; laser Automatique / Manuel ; lancement avec l'anti-triche réparé. |
+| **6.0** | Octobre 2026 | Le mod passe sur le jeu 1.2.1 (Unity 6) ; le mode de réalisme Vanilla ; des phares éteints en bataille ; des hélicoptères plus vulnérables en vol bas ; des portées et des vitesses revues avec les chiffres réels ; le plafond d'unités « Dynamique » ; une IA qui ne voit que ce que voient ses unités ; la sortie de batterie de l'artillerie ; l'Atelier BARO pour les sous-mods ; des decks propres pour chaque pays. |
 | **5.9.5** | Octobre 2026 | Un correctif : la mitrailleuse de 12,7 mm du M88A2 et du Büffel tire ; les missiles « tire et oublie » accrochent à leur vraie portée ; les hélicoptères viennent toujours de hors de la carte, avec un nouveau réglage Apparition des aéronefs ; le brouillard posé au sol ; le Type 99A à sa vraie forme, désormais le meilleur char du jeu |
 | **5.9.4** | Octobre 2026 | Le ZTZ-99A chinois ; grilles anti-roquettes, toits anti-drones, camouflage et lames de terrassement dans l'Arsenal ; toutes les armes comme en vrai et une ligne Portées sur la fiche d'unité ; des bâtiments selon le mode de réalisme ; un deck par défaut pour chaque pays ; une Autoroute de la mort plus verte avec ses étangs ; des carrefours à leur vraie taille ; des avions qui arrivent juste derrière leur camp ; le minage à distance égal des deux côtés ; le crossplay facultatif Steam et VK Play. |
 | **5.9.3** | Octobre 2026 | L'Autoroute de la mort en 10 x 150 km ; des routes à leur vraie largeur et plus rien au-delà de la zone jouable ; la faction Europe ; un Shtora réaliste ; les chasse-mines KMT ; la vraie autonomie et les vrais temps de remise en état dans les airs, les frappes en cabré ; une meilleure vue pour l'infanterie à l'arrêt, une météo qui change et du vent ; des réglages graphiques séparés, une nouvelle intro, des menus plus légers. |
@@ -730,14 +756,14 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 ## 🤝 Communauté
 
 <p align="center">
-  <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre le Discord"></a>
+  <a href="https://discord.gg/brokenarrowrealism"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre le Discord"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-@FrenchBaguette0609-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube : @FrenchBaguette0609"></a>
   <a href="https://github.com/tassassinno74/Broken-Arrow-Mod-Realism-Overhaul"><img src="https://img.shields.io/badge/GITHUB-THIS%20PAGE-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 | Où | Ce que tu y trouves |
 |---|---|
-| **Discord** · [discord.gg/wrtMjUnard](https://discord.gg/wrtMjUnard) | Les nouvelles, les questions et les signalements de bugs, directement à l'auteur (**Noichi** sur Discord). Chaque version y est annoncée en premier. |
+| **Discord** · [discord.gg/brokenarrowrealism](https://discord.gg/brokenarrowrealism) | Les nouvelles, les questions et les signalements de bugs, directement à l'auteur (**Noichi** sur Discord). Chaque version y est annoncée en premier. |
 | **YouTube** · [@FrenchBaguette0609](https://www.youtube.com/@FrenchBaguette0609) | La chaîne de l'auteur. |
 | **GitHub** · [tassassinno74/Broken-Arrow-Mod-Realism-Overhaul](https://github.com/tassassinno74/Broken-Arrow-Mod-Realism-Overhaul) | Cette page en cinq langues, le lien de téléchargement et la licence. |
 | **Nexus Mods** · [nexusmods.com/brokenarrow/mods/7](https://www.nexusmods.com/brokenarrow/mods/7) | La version **LITE** : le mod seul, sans MelonLoader. |
@@ -751,7 +777,7 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 
 ## 💬 Retours et crédits
 
-**Un problème ?** Clique sur le bouton de bug du jeu 🐞, au menu ou en bataille : la fenêtre **Signaler un bug du mod** t'ouvre les bons dossiers. Le mod écrit son journal dans `MelonLoader\Latest.log`, à côté de `BrokenArrow.exe`, et les anciens journaux dans le dossier `Logs` ; le jeu écrit le sien dans `GameLogs`. Envoie-les **avant de relancer le jeu**, sur le [Discord](https://discord.gg/wrtMjUnard) ou dans une issue de ce dépôt.
+**Un problème ?** Clique sur le bouton de bug du jeu 🐞, au menu ou en bataille : la fenêtre **Signaler un bug du mod** t'ouvre les bons dossiers. Le mod écrit son journal dans `MelonLoader\Latest.log`, à côté de `BrokenArrow.exe`, et les anciens journaux dans le dossier `Logs` ; le jeu écrit le sien dans `GameLogs`. Envoie-les **avant de relancer le jeu**, sur le [Discord](https://discord.gg/brokenarrowrealism) ou dans une issue de ce dépôt.
 
 - Mod de **tassassinno74** (**Noichi** sur Discord).
 - Construit sur [MelonLoader](https://github.com/LavaGang/MelonLoader) de LavaGang.
@@ -761,6 +787,6 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Tous droits réservés.** Tu peux télécharger le mod et y jouer. Le remettre en ligne où que ce soit (Steam, Steam Workshop, Nexus Mods, ModDB ou tout autre site), le redistribuer, réutiliser son code ou ses données, ou publier des versions modifiées sans l'autorisation écrite de l'auteur n'est pas permis. Conditions complètes : [LICENSE](LICENSE). MelonLoader, inclus dans l'archive ALL-IN-ONE, garde sa propre licence (Apache 2.0, fichier inclus).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.9.5-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.9.5"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.0.2-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.0.2"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
 
 <div align="right"><a href="#top">retour en haut</a></div>

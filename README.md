@@ -5,8 +5,8 @@
 <p align="center"><b>The campaign, the scenarios and the skirmish, fought the way the equipment was actually built to fight.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.9.5-2ea44f?style=for-the-badge" alt="Version 5.9.5">
-  <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.0.3-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.0.3">
+  <img src="https://img.shields.io/badge/version-6.0.2-2ea44f?style=for-the-badge" alt="Version 6.0.2">
+  <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.1-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.1">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
   <img src="https://img.shields.io/badge/languages-EN%20%7C%20FR%20%7C%20RU%20%7C%20DE%20%7C%20ZH-f0883e?style=for-the-badge" alt="Languages: EN, FR, RU, DE, ZH">
@@ -22,8 +22,9 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%205.9.5-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 5.9.5"></a>
-  <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.0.2-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 6.0.2"></a>
+  <a href="https://discord.gg/brokenarrowrealism"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
+  <a href="https://ko-fi.com/brokenarrowrealism"><img src="https://img.shields.io/badge/KO--FI-SUPPORT%20THE%20MOD-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"></a>
 </p>
 
@@ -33,11 +34,11 @@
 
 Broken Arrow gives you real vehicles, real weapons and real doctrine, and then lets a 152 mm howitzer drop a shell on the tank parked next to it, lets a machine gun swat an aircraft three kilometres up, and caps every missile at the 9 km edge of its old maps.
 
-This mod rewrites **more than 12,000 values** with real-world data and rebuilds the game around them: real armour, engines, rates of fire, loadouts and published ranges up to 100 km, every price set on real combat value, and an **enemy commander** who only knows what his own units see. You fight as a **nation**, one of twelve countries in two camps, NATO and CSTO, with the equipment it really fields, and you **choose your realism**: Realistic or Semi-realistic.
+This mod rewrites **more than 12,000 values** with real-world data and rebuilds the game around them: real armour, engines, rates of fire, loadouts and published ranges up to 100 km, every price set on real combat value, and an **enemy commander** who only knows what his own units see. You fight as a **nation**, one of twelve countries in two camps, NATO and CSTO, with the equipment it really fields, and you **choose your realism**: Vanilla, Realistic or Semi-realistic.
 
 You play the campaign, the official scenarios, the skirmish and the mod's own modes against the AI (**Logistics Front**, **Breakthrough**, **Command Post Hunt**) alone, or together in the mod's own lobbies: co-op against the AI, or PvP between mod players. The official servers are never used.
 
-**5.9.4** brings the Chinese **ZTZ-99A** tank, new real vehicle options (slat cages, anti-drone roofs, camouflage, dozer blades), every weapon reworked like real life, buildings that follow the realism mode, a default deck for every country, a greener Highway of Death, aircraft that appear just behind their own side, and optional crossplay between Steam and VK Play. [What's new in 5.9.4.](#new-594)
+**6.0.2** makes **China playable** (19 cards, with new infantry), makes tanks really fire on buildings, gives Breakthrough a real 3-to-1 attack and the Logistics Front AI commander a player's economy. [What's new in 6.0.2.](#new-602) **6.0.1** is built for the final game 1.2.1: it fixes saved decks, abandoned vehicles, buildings hit by cruise missiles and the launch with anti-cheat on, and adds an Automatic / Manual laser choice. [What's new in 6.0.1.](#new-601) It builds on **6.0**, made for the game's 1.2.1 update (Unity 6). 6.0 adds a Vanilla realism mode and a Dynamic unit cap, keeps vehicle headlights off in battle, makes helicopters pay for flying low, gives the AI a sharper picture of the battlefield, makes artillery leave battery before it moves, and opens the door to sub-mods with the BARO Workshop. [What's new in 6.0.](#new-60)
 
 | 12,000+ | 100 km | 12 | 22 | 1,500 km² | 3 v 1 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -45,7 +46,7 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 
 | 107 | 265 | 90-150 | 16 | 5 | 0 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| aircraft with their real countermeasures | guided munitions with their real seeker | units per side, set by the host | official PvE scenarios playable in co-op | languages | official servers used |
+| aircraft with their real countermeasures | guided munitions with their real seeker | units per side, set by the host (or Dynamic) | official PvE scenarios playable in co-op | languages | official servers used |
 
 - **You will pick your fights in the air**, because a Su-35 or a Su-57 out-turns every Western fighter, and an F-35 has the edge only when it fires first, from far away.
 - **You will aim for the optics**, because a hit that does not penetrate can still blind a tank, knock its sights off or break its tracks.
@@ -65,7 +66,7 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 
 | The mod | The battlefield | Practical |
 |---|---|---|
-| [What's new in 5.9.4](#new-594) | [Vehicles and the Arsenal](#vehicles) | [Download and install](#install) |
+| [What's new in 6.0.2](#new-602) · [6.0.1](#new-601) · [in 6.0](#new-60) | [Vehicles and the Arsenal](#vehicles) | [Download and install](#install) |
 | [Playing together](#lobbies) · [crossplay and privacy](#privacy) | [Ground war](#ground-war) | [Update or uninstall](#update) |
 | [The mod's menu](#menu) | [Air war](#air-war) | [Settings](#settings) |
 | [Your deck](#deck) | [The enemy commander](#commander) | [Where it runs](#where-it-runs) |
@@ -75,61 +76,78 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 
 ---
 
-<a id="new-594"></a>
+<a id="new-602"></a>
 
-## 🆕 What's new in 5.9.4
+## 🆕 What's new in 6.0.2
+
+> From 6.0.1, replace `Mods\BrokenArrowRealismOverhaul.dll` and the `UserData\RealismOverhaul_musique` folder (keep your own music files if you added some). New in the package: `RETIRER LE MOD - REMOVE THE MOD.txt`, how to remove the mod to play official multiplayer again.
+
+- **China is playable:** 19 cards: Type 99A, Type 96B, ZBD-04A, ZBL-08, S-400 (DLC3), S-300PMU-1/2, Tor-M1, Su-35, J-11B, J-15, Il-76MD, Mi-17V-5, Mi-171Sh, and new infantry riding the ZBD-04A, the ZBL-08 and the helicopters: QBZ-191 squad, QJY-88 machine-gun team, QBU-88 snipers, HJ-8E anti-tank team, QW-2 MANPADS, PF-98 rocket team (Russian uniforms and voices for now). More Chinese tanks will come after their checks.
+- **Tanks and buildings:** force fire (G) on a building really fires now (it used to end without a shot), and with HE: tank HE shells have their real charge. An attack order on infantry in a building makes the tank fire from where it sees them, instead of driving up to the wall. Shells switched off in the weapon panel stay off.
+- **Buildings:** missiles with a penetrating warhead (Kh-29, Kh-38, Kh-35U, SLAM-ER, JSM, NSM, Kh-59M2, Kh-69, Oniks, Zircon) and the GBU-39 SDB explode inside the building they hit; large buildings use their real ground footprint; in semi-realistic mode, a direct hit by a 250 kg-class bomb brings down light constructions (wood, sheet metal, hangars).
+- **Breakthrough:** the attacker has about 3 to 1, as in real doctrine; the time per line counts the march; the attacker's aviation comes from the end of the preparation; a zone is taken at 3 to 1.
+- **AI commander in Logistics Front:** the same economy as a player: 8 depots, 1, 2 or 3 convoys at once by difficulty, its reserve no longer freezes its spending, and it never stops buying for good. The Dynamic cap text is fixed.
+- **Real ranges from the game's flight altitude** (aircraft fly high at 1.7 km in semi-realistic, 2 km in realistic): glide bombs FAB with UMPK 19 km (FAB-1500 UMPK 16), JSOW 35 km, SDB 30 km, JDAM-ER and AASM 19 km; air-to-air missiles against an aircraft in high flight R-27ET 34.6 km, R-27ER 39, R-77-1 36.6, AIM-9X 11.8, AIM-120D 53.3; unpowered guided bombs (JDAM, Paveway, KAB) about 5.5 to 6 km instead of 1.5 km.
+- **Cope cages** fitted by default, and free, on the tanks that carry them in real life.
+- **Artillery:** real laying times: an emplaced mortar fires in about 25 s, 15 s with digital fire control.
+- **Armoured recovery vehicles are back** for each side (BREM-1, M88A2, Bergepanzer 3 Büffel, WZT-3), on a provisional model, to recover abandoned vehicles.
+- **Russian sappers:** the ready-made Russian deck gives them a real transport, and they can also take the BTR-82A, BTR-80 and MT-LB.
+- **Music:** royalty-free music only, with 44 free tracks added (Swiss music first, anthems and marches of the mod's countries). Your own files: "Music N" = intro, "Song N" = menu and battle, mixed with the game's music (any number); see `VOS MUSIQUES - YOUR MUSIC.txt` in the music folder.
+- **Back to the menu after a solo battle:** a loading window instead of a frozen screen. The 10 t package is placed in front of the door again; shorter order tooltips; **Large map:** 20 GB of RAM recommended.
+
+<a id="new-601"></a>
+
+## 🆕 What's new in 6.0.1
+
+> Built for the **final** game 1.2.1. From 6.0, just replace `Mods\BrokenArrowRealismOverhaul.dll` (nothing else changes); for a clean install, take the full download.
+
+- **Final game 1.2.1:** no more "missing dependency aeg-fsr" warning in the MelonLoader log (the studio removed that library).
+- **Decks:** cards that now have a national version (Scouts, Scout Snipers, Mech. Riflemen…) are **replaced** in your saved decks instead of removed; removed cards (like the COBRA) also leave old decks; the start-up notice is short and can always be closed.
+- **Abandoned vehicles:** your units no longer keep shooting them on their own; if you order the attack yourself, they take normal damage and can be destroyed.
+- **Buildings:** heavy cruise missiles (Kh-55SM…) now bring buildings down in semi-realistic mode too. Penetrating cruise missiles (JASSM, AGM-86D…) now explode inside the building they hit: one direct hit brings a house down.
+- **Laser:** new choice in Esc > Options > Mod: **Automatic** or **Manual**. In Automatic, a laser you set yourself is never moved; in Manual, nothing is automatic. A drone or aircraft keeps its target while it is alive and visible; there are 30 s between two automatic designations, and drones send far fewer radio lines.
+- **Launch with anti-cheat on:** the warning now comes to the front and the game closes cleanly, instead of hanging before the menu.
+
+<a id="new-60"></a>
+
+## 🆕 What's new in 6.0
 
 > [!IMPORTANT]
-> **Replaces 5.9.3 and every older version:** copy the new folders over the old ones (the `RealismOverhaul_Vehicules` folder is new: see [Install](#install)). Your decks are kept: if a card changed, only that card leaves your saved deck, with a message. **5.9.4 is the minimum version to play together**: every player in a lobby needs 5.9.4.
+> **Replaces 5.9.5 and every older version. The game must be on version 1.2.1.** Delete your old `RealismOverhaul_Vehicules` folder before you copy the new ones: see [Install](#install). Your decks are kept: if a card changed, only that card leaves your saved deck, with a message. **6.0 is the minimum version to play together**: every player in a lobby needs 6.0.
 
-### 🇨🇳 A new tank: the Chinese ZTZ-99A
-- A new card in the **Russia** division of the Arsenal.
-- Its real mobility: a **1,500 hp** engine and **76 km/h** on the road.
-- A turret true to the real one, with its remote weapon station, smoke launchers and laser warning, and the Chinese **digital camouflage**.
-- Its gun and armour are those of the T-90M: the real Chinese figures are not public.
-- Its look is read from the new `RealismOverhaul_Vehicules` folder: without it, the tank looks like a T-90M.
+### 🔄 Built for game 1.2.1
+- **Compatible with Broken Arrow 1.2.1 (Unity 6)**: the game starts safely, the new rockets and missiles of 1.2.1 come with their real values, and the Arsenal choices broken by the update are back in place (helicopter loadouts, engineer teams).
+- **A new Vanilla realism mode**: every card of the mod takes the stats of its base-game card. **Semi-realistic** now gives **+60 % health** to everything, aircraft included, and leaves the ranges alone.
+- **Vehicle headlights stay off in battle.** The light of gunfire and explosions stays.
 
-### 🗺️ Maps
-- **Highway of Death**: 3D grass over almost the whole map, more forests, groves, hedges around the fields, bushes along the roads and the woods, and about **120 ponds** in the real hollows of the ground (real water: vehicles drive around it). No more bends or U-turns at the foot of the bridges; in the 3 small towns the road crosses the highway in a straight line.
-- The **Grass distance** setting now works on every map.
-- **Enlarged maps**: every crossroads is laid at its real size and shape, with continuous kerbs and pedestrian crossings on the road; only the roads between them get longer. On winter maps, snow covers everything up to the edges.
-- After a nuclear bomb near the edge, no grass, ferns, ruins or debris reappear outside the map.
-- **Aircraft appear 1 km and helicopters 500 m outside the map, behind their own side** (at the edge on the Highway of Death): no more spawn points miles off the map.
+### 🗺️ Enlarged maps
+- You can place your units anywhere on the map again (repaired for 1.2.1).
+- The roads stretch with the map, smooth and with no zigzag.
 
-### 🎯 Weapons and combat
-- **Every weapon reworked like real life**: rate of fire, magazines, reloading and bursts, very accurate at point-blank range, real spread for anti-aircraft guns.
-- A new **Ranges (direct fire)** line on the unit card: practical range, maximum range and how the weapon aims (iron sights, scope, thermal). For 12.7 mm machine guns, the aiming limit depends on the mount.
-- **Buildings follow the host's realism mode.** Realistic: like in real life, a bomb blows away a wooden house and only the part that is hit collapses. Semi-realistic: buildings are 2 to 3 times sturdier. In both modes a bomb no longer flattens everything far around it, and bullets, 20 to 40 mm guns and grenades do nothing to walls.
-- Infantry bodies no longer vanish when a squad dies off-screen or far from the camera: the duration you chose for the dead is respected.
-- A **Rocket salvo** button on aircraft and helicopters with unguided rocket pods: 25, 50, 75 or 100 % of the rockets per pass.
-- **G** on a point on the ground now works for vehicles armed with a machine gun or a grenade launcher: they move up to their real range and fire.
-- Fixed: an aircraft carrying guided bombs of several calibres (UMPK, KAB, GBU) now drops them all, not only the first calibre.
+### 🚁 Air war
+- **Against helicopters in flight**: the 12.7 mm machine gun reaches up to 1,000 m; 5.56 and 7.62 mm (rifles, machine guns, miniguns) barely hurt armored helicopters (Mi-28, Ka-52, Ka-50, AH-64, AH-1Z, Tiger, Mi-24/Mi-35), while 12.7 mm and up keep their effect; a tank's coaxial machine gun does not fire higher than its gun can elevate (the commander's 12.7 mm and the small turrets still fire); a fast-moving helicopter is harder to hit for machine guns and cannons without radar (Gepard, Tunguska, Pantsir, Skyranger and C-RAM unchanged); flying low costs more against cannons and machine guns; shoulder-fired missiles only fire when they can see their target; the radar missiles of SAM systems are blind against low flyers.
+- **A lost aircraft or helicopter always takes longer to come back** than one that returns empty or intact: no more sacrificing a plane to get it back sooner.
 
-### 🛡️ Vehicles: new Arsenal options
-- **External protection (+10)**: slat cages on Russian, Belarusian and Ukrainian tanks and armoured vehicles. They really stop part of the rockets and single-charge HEAT missiles hitting the sides and the rear. The slat armour the game already shows on light vehicles (BTR, BMP, MT-LB, BMD-4M, M113, Stryker...) now protects too (+5).
-- **Anti-drone roof (+10)**: it stops the first small drone (Lancet or Switchblade 300 type) that hits the roof; the tank loses a little health and the roof is torn off, so the next drone hits normally. Big kamikaze drones (Shahed type) get through. The same rule for the AI.
-- **Camouflage** on 31 tanks and armoured vehicles, including the M1A2, every SEP version and the Leopard 2A7: terrain pattern (+5, snow on winter maps), bushes on the front (+10), very dense bushes on the front (+20). Real foliage from the game, stuck to the hull: the vehicle is harder to spot. Decoration only: no collision, never in the gun's way.
-- **Dozer blade (+10)** on 27 Soviet-school tanks (T-64, every T-72 including the PT-91, T-80, T-90): the tank digs in 3 times faster, on its own, without engineers. The blade is visible, raised to drive and lowered once dug in, with an earth berm in front.
-- **KMT mine ploughs**: a new **Mine-clearing mode** button. At 12 km/h, mines go off in front of the plough with light damage, and the plough wears out. The AI uses it too.
-- **Remote mining**, the same number on each side: United States, M109A6 and M109A7 with RAAM mine shells; Russia, ISDM Zemledeliye and Grad with 9M28K mine rockets. A 10 km range for all, mines that stay for the whole game, at most 100 laid per side.
+### 🎯 Ranges, speeds and unit cap
+- **Ranges and speeds checked against real figures**: practical range (where the weapon is accurate) and maximum range, missiles at their real engagement range, service speeds verified vehicle by vehicle.
+- **A "Dynamic" unit cap**: no limit for the players, while the AI stops at 150 per side and follows you beyond that. The allied bots of the scenarios work again, and in solo Logistics Front you can have an AI ally.
 
-### 🃏 Decks and Arsenal
-- **A default deck for every country (12)**: United States, Ukraine, Germany, Poland, Lithuania, Latvia, Estonia, Europe, Russia, Donbass, Belarus, Kazakhstan. Units in service, in real quantities. They cannot be edited, but you can copy one and edit the copy. Your own decks always stay at the top of the list.
-- Arsenal filters: one flag per country, at most 7 per row, so no flag hides under the unit card any more.
-- The **Heron TP** drone of the German division works again: it no longer makes a deck invalid.
+### 🧠 AI and artillery
+- **A sharper AI that only sees what its units see**: more scouts, it goes back to look where it lost contact, it remembers minefields, and its helicopters burn the same fuel as yours.
+- **Artillery, for you and for the AI**: guns leave battery before they drive off (30 s for self-propelled guns, 120 s for towed ones). The AI calls for its fire (60 s) and adjusts it.
 
-### 🌐 Steam and VK Play (optional)
-- **Play > Find a lobby** shows a single list of Steam and VK Play lobbies, each labelled with its platform. Just click **Join**.
-- A public lobby is open to both by default. Tick **Steam only** to keep yours on Steam. Friends only, Private and Workshop-map lobbies always stay on Steam. [Privacy.](#privacy)
-- The mod recognises the VK Play version of the game: solo, skirmish and campaign work.
+### 🧩 Sub-mods and decks
+- **BARO Workshop**: sub-mods can be grafted onto the mod with no desync. The `RealismOverhaul_SousMods` folder holds their guides in 5 languages, and lobbies show **Modded game**.
+- **Cleaner decks**: every country has its real equipment, official cards and DLC included, its own flag and name in the Arsenal, and infantry with real national names; the American and Russian divisions keep all their original cards. Cards whose model was not the real vehicle are set aside (your saved decks only lose those cards). China and France: **In preparation**.
+- **New teams**: M252 and 2B14 mortars at their real rate of fire, and the SSO special forces of Kazakhstan.
 
 ### 🔧 Fixes
-- A rare crash in long battles with many vehicles.
-- The M1064A3 spawned without its mortar.
-- The game's battle sound (gunfire, cannon) no longer plays under the intro and in the menu at startup.
-- Back to the menu after a battle: no more panels flashing, no more mod page popping up and vanishing.
-
-*Thanks to the players who reported the crash, the vanishing bodies, the off-map spawn points and the guided bombs.*
+- A crash when unloading supplies in Logistics Front.
+- A hitch every 2 seconds.
+- The opening camera of a battle now stops before the enemy base.
+- An IRIS-T that blew up at launch.
+- Bridges badly joined on the enlarged maps.
+- A guided bomb that did nothing to a tank it had hit.
 
 <div align="right"><a href="#top">back to top</a></div>
 
@@ -139,13 +157,13 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 
 ## 📦 Download and install
 
-**Requirements:** Broken Arrow 1.2.0.3 (a legit copy), Windows, 16 GB of memory recommended (30 GB for the Highway of Death at 10 x 150 km). The DLCs are optional. MelonLoader 0.7.3 is included in the download ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), guide at [melonwiki.xyz](https://melonwiki.xyz/)). A **LITE** version also exists on [Nexus Mods](https://www.nexusmods.com/brokenarrow/mods/7): the mod alone, for players who already have MelonLoader 0.7.3.
+**Requirements:** Broken Arrow 1.2.1 (a legit copy), Windows, 16 GB of memory recommended (30 GB for the Highway of Death at 10 x 150 km). The DLCs are optional. MelonLoader 0.7.3 is included in the download ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), guide at [melonwiki.xyz](https://melonwiki.xyz/)). A **LITE** version also exists on [Nexus Mods](https://www.nexusmods.com/brokenarrow/mods/7): the mod alone, for players who already have MelonLoader 0.7.3.
 
 ### Install
 
-1. Click the green **DOWNLOAD** button at the top of this page. It opens the file on Google Drive: click **Download**, then extract the archive (Windows 11, 7-Zip or WinRAR). It holds the folder **BROKEN ARROW REALISM OVERHAUL**: the mod, MelonLoader, the music, the vehicle files and the licence (`LICENSE.txt`).
+1. Click the green **DOWNLOAD** button at the top of this page. It opens the file on Google Drive: click **Download**, then extract the archive (Windows 11, 7-Zip or WinRAR). It holds the folder **BROKEN ARROW REALISM OVERHAUL**: the mod, MelonLoader, the music, the vehicle files, the sub-mod guides and the licence (`LICENSE.txt`).
 2. In Steam, right-click **Broken Arrow**, then **Manage**, then **Browse local files**.
-3. Open the folder **BROKEN ARROW REALISM OVERHAUL** and copy `version.dll` and the `MelonLoader`, `Mods`, `UserData` and `RealismOverhaul_Vehicules` folders into the game folder, next to `BrokenArrow.exe`. `UserData` holds the mod's music, `RealismOverhaul_Vehicules` the look of the ZTZ-99A. `LICENSE.txt` does not need to be copied.
+3. Open the folder **BROKEN ARROW REALISM OVERHAUL** and copy `version.dll` and the `MelonLoader`, `Mods`, `UserData`, `RealismOverhaul_Vehicules` and `RealismOverhaul_SousMods` folders into the game folder, next to `BrokenArrow.exe`. `UserData` holds the mod's music, `RealismOverhaul_Vehicules` the look of the mod's vehicles and `RealismOverhaul_SousMods` the guides of the BARO Workshop (the sub-mods). `LICENSE.txt` does not need to be copied.
 4. Start the game from Steam with **Anti-Cheat Disabled**. The first launch takes a little longer while MelonLoader gets ready, and a console window opens: that is normal.
 5. The **mod's home screen** appears in the main menu, and a **Mod** tab in the Options window. In the Arsenal, create a deck (NATO or CSTO, then your country), or copy the default deck of your country.
 
@@ -161,10 +179,10 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 <a id="update"></a>
 
 ### Update from an older version
-Download the new archive with the **DOWNLOAD** button, copy the new files and folders over the old ones, then open your decks and check them. To play together, you and your friends need exactly the same version, 5.9.4 at least: otherwise the lobby list shows **Wrong version**.
+Download the new archive with the **DOWNLOAD** button. **Before you copy anything, delete the old `RealismOverhaul_Vehicules` folder from the game folder**: the old shapes of the 5.9.x versions are no longer used. Then copy the new files and folders over the old ones, open your decks and check them. To play together, you and your friends need exactly the same version, 6.0 at least: otherwise the lobby list shows **Wrong version**.
 
 ### Uninstall
-Delete `Mods\BrokenArrowRealismOverhaul.dll`, the `UserData\RealismOverhaul...` folders and the `RealismOverhaul_Vehicules` folder. To remove MelonLoader too, delete `version.dll` and the `MelonLoader` folder. The game's own divisions and menu come back, exactly as before.
+Delete `Mods\BrokenArrowRealismOverhaul.dll`, the `UserData\RealismOverhaul...` folders, the `RealismOverhaul_Vehicules` folder and the `RealismOverhaul_SousMods` folder. To remove MelonLoader too, delete `version.dll` and the `MelonLoader` folder. The game's own divisions and menu come back, exactly as before.
 
 > [!TIP]
 > Before uninstalling, keep a copy of your `Decks` folder (`%USERPROFILE%\AppData\LocalLow\SteelBalalaikaStudio\BrokenArrow\Decks`). Decks built on the mod's divisions only make sense with the mod.
@@ -195,7 +213,7 @@ The mod keeps the game off the official servers on purpose and gives it **lobbie
 - A **title**, and who can join: **Public**, **Friends only** or **Private** (Steam invitation only), with an optional **password**.
 - A public lobby is open to Steam and VK Play players; tick **Steam only** (remembered on your PC) to keep yours on Steam. Friends only, Private and Workshop-map lobbies are always Steam only.
 - **The mode**: co-op against the AI, every player on the same side, or **Players vs players** on a multiplayer map, up to 3 players per side, with no AI.
-- **Max units per side** (90, 100, 120 or 150), chosen before the game and locked for the whole battle.
+- **Max units per side** (90, 100, 120, 150 or **Dynamic**: no limit for the players, the AI stops at 150 per side), chosen before the game and locked for the whole battle.
 
 ### In the lobby
 - **Each player picks his country in his side and a deck of that country**: on the NATO side, one can take Germany, another the United States, another Ukraine.
@@ -258,7 +276,7 @@ The mod gives the game a menu of its own, clean and in your language. A green in
 | **Find a lobby** | The mod's lobbies (Steam and VK Play) and your **Steam friends playing the mod**. |
 
 ### Options > Mod
-**Esc > Options > Mod** keeps what belongs to you: the **realism mode**, the duration of **wrecks, bodies, fires and craters**, the **unit cap**, **Vehicle abandonment** and **About**. [All the settings.](#settings)
+**Esc > Options > Mod** keeps what belongs to you: the **realism mode**, the duration of **wrecks, bodies, fires and craters**, the **unit cap**, **Vehicle abandonment**, **Laser designators** and **About**. [All the settings.](#settings)
 
 ### Report a mod bug 🐞
 The game's bug button, in the main menu and in battle, opens the mod's **Report a mod bug** window: where to report on the Discord, the logs to attach **before you start the game again** (`Latest.log`, the `Logs` folder and the game's `GameLogs` folder, each with an **Open folder** button), and a line with the versions to copy into the ticket.
@@ -270,10 +288,11 @@ Everything in the mod is always on, except the few things below, shown in Englis
 
 | Setting | Where | Choices |
 |---|---|---|
-| **Realism mode** | Esc > Options > Mod, or **Create a game** | **Realistic** keeps the real values untouched; **Semi-realistic** (default) rebalances them slightly (aircraft a little luckier against missiles, more survivors from a destroyed carrier, sturdier buildings). Locked during the battle |
+| **Realism mode** | Esc > Options > Mod, or **Create a game** | **Vanilla** gives every card of the mod the stats of its base-game card; **Realistic** keeps the real values untouched; **Semi-realistic** (default) rebalances them: +60 % health on everything, aircraft included, ranges unchanged, aircraft a little luckier against missiles, more survivors from a destroyed carrier, sturdier buildings. Locked during the battle |
 | **Wrecks, bodies, fires and craters** | Esc > Options > Mod | 5, 15, 30 or 60 minutes or **Infinite** (30 by default). Also the time after which an abandoned vehicle that nobody recovers destroys itself (never with Infinite) |
-| **Max units per side** | **Create a game**, or Esc > Options > Mod | 90, 100, 120 or 150 per side on the front maps, shared by the players of the side, chosen before the game and locked in battle |
+| **Max units per side** | **Create a game**, or Esc > Options > Mod | 90, 100, 120 or 150 per side on the front maps, or **Dynamic** (no limit for the players; the AI stops at 150 per side and follows you beyond), shared by the players of the side, chosen before the game and locked in battle |
 | **Vehicle abandonment** | Esc > Options > Mod | **Manual** (default: a flashing yellow triangle and an **Abandon** button at 30 % health or less) or **Automatic**; each player for his own vehicles. The AI always abandons automatically |
+| **Laser designators** | Esc > Options > Mod | **Automatic** (default; a laser you set yourself is never moved) or **Manual** (nothing is automatic); each player for his own units, never set by the host |
 | **Graphics lines** | Options > Graphics | **Object distance**, **Grass distance**, **Grass density**, **Tree distance**, **Shadow distance** (0 to 5,000 m), shadows and effects one by one, **Menu frame rate**, a **Default values** button; **DLSS** (NVIDIA RTX) and FSR 3 switch each other off. Each player sets his own |
 | **Map size** | **Create a game** | Vanilla, Medium or Large, with the real kilometres of each map. The campaign keeps the game's own size |
 | **Weather** | **Create a game**, **Additional settings** | Automatic, Clear, Cloudy, Overcast, Rain or Fog, and **Weather during the game**: **Fixed** or **Changing** |
@@ -301,7 +320,7 @@ The free camera (from 6 m up to 9,000 m), the movement orders and the empty truc
 | **Real prices** | Every unit priced on its real combat value: T-72B3 180, BMP-3 95, Bradley 100, T-90M 330, Abrams SEP v3 355, Grad 150, and the T-14 Armata, the strongest tank in the game, 560. Aircraft pay for their real self-protection and their loadout. |
 | **Default decks** | One per country (12): units in service, in real quantities. Read-only, but you can copy one and edit the copy. Your own decks always stay at the top of the list. |
 | **Your decks are kept** | At every launch and every update, only a card that became invalid is fixed or taken out, with a message naming it. No deck is ever deleted, and duplicate cards are hidden. |
-| **The special tab** | Next to the Zubr and the LCAC: recovery vehicles, counter-battery radars, electronic warfare, mine layers and mine clearers, so they never take the place of combat units. |
+| **The special tab** | Next to the Zubr and the LCAC: support units such as mine layers and mine clearers, so they never take the place of combat units. |
 | **Campaign** | Only your USA or Russia deck plays in the campaign, on top of what the mission hands you. |
 | **Everywhere else** | Scenarios, skirmish and the modes vs AI take the deck of any country. |
 
@@ -313,30 +332,33 @@ The free camera (from 6 m up to 9,000 m), the movement orders and the empty truc
 
 ## 🌍 Nations: NATO vs CSTO
 
-The game only knows two sides, so every country belongs to one of them: NATO countries fight on the American side, CSTO countries on the Russian side. Each country has its flag and only the equipment it really has: in service, on order, or from its old stocks. Where a vehicle has no 3D model in the game, the closest vehicle of the game stands in, under the real name and with the real stats. Small armies get more copies of anti-tank and air defence units.
+The game only knows two sides, so every country belongs to one of them: NATO countries fight on the American side, CSTO countries on the Russian side. Each country has its flag and only the equipment it really has: in service, on order, or from its old stocks. A card is kept only when the model shown in the game is the real vehicle; the others are set aside. Small armies get more copies of anti-tank and air defence units.
 
 ### NATO
 | Country | What it fields | Needs |
 |---|---|---|
 | **United States** | The complete American arsenal of the game, the NASAMS included, and the JLTV with TOW or Mk 19. | Base game |
-| **Ukraine** | Soviet-era equipment and equipment delivered by partner countries, the VAB, the Bayraktar TB2 with four MAM-L and the Liutyi. The T-64BV, BTR-4E and 2S22 Bohdana use stand-ins. | Base game |
-| **Germany** | The Bundeswehr in 2026: Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM, its own infantry (G36, MG3, MG5, Panzerfaust 3), Eurofighter and Tornado. The Puma, Marder, Fennek, Tiger, NH90, Eurofighter and Tornado use stand-ins. | Baltic DLC |
+| **Ukraine** | Soviet-era equipment and equipment delivered by partner countries, the VAB, the Bayraktar TB2 with four MAM-L and the Liutyi. | Base game |
+| **Germany** | The Bundeswehr in 2026: Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM and its own infantry (G36, MG3, MG5, Panzerfaust 3). | Baltic DLC |
 | **Poland** | K2 and Abrams tanks, Leopard 2, PT-91, Rosomak, Korean and American rocket artillery, Patriot, F-16, the M120 Rak mortar, the Poprad air defence system, the AW149 and W-3 Sokol helicopters. | Base game |
 | **Lithuania** | Vilkas (Boxer) and M113, PzH 2000 and HIMARS, NASAMS, Black Hawks. No tanks in service. | Baltic DLC |
 | **Latvia** | CVR(T) Scimitar and Spartan, Patria 6x6, M109A5Ö howitzers, RBS 70, Spike and Piorun, Black Hawks. | Baltic DLC |
-| **Estonia** | CV9035, Patria XA-180/188 and ARMA 6x6, K9 Kõu and CAESAR howitzers, HIMARS, IRIS-T SLM, Mistral and Piorun. No tanks and no fighter jets. | Baltic DLC |
-| **Europe** | Real vehicles from Western and Northern Europe, Poland and the Baltic states, under their real names and with their real stats, no Soviet-era equipment, and the flag of the country of origin on every card. The VAB and the TPz Fuchs carry their small turret at the front right, and the VAB TOP its remote 12.7 mm turret. | Base game |
+| **Estonia** | CV9035, Patria XA-180/188 and ARMA 6x6, K9 Kõu howitzers, HIMARS, IRIS-T SLM, Mistral and Piorun. No tanks and no fighter jets. | Baltic DLC |
+| **Europe** | Real vehicles from Western and Northern Europe, Poland and the Baltic states, under their real names and with their real stats, no Soviet-era equipment. The VAB and the TPz Fuchs carry their small turret at the front right, and the VAB TOP its remote 12.7 mm turret. | Base game |
 
 ### CSTO
 | Country | What it fields | Needs |
 |---|---|---|
-| **Russia** | The complete Russian arsenal of the game, and the Chinese **ZTZ-99A**. | Base game |
-| **Donbass** | Donetsk and Luhansk, 2023-2026: Soviet and Russian equipment, one shared flag, the Forpost and Korsar recon drones. | Base game |
-| **Belarus** | Soviet-era equipment modernised at home and Russian deliveries: T-72B3, BTR-82A, Tor-M2K, Iskander-M, Su-30SM2, Mi-35M, the Forpost and Korsar recon drones. | Base game |
-| **Kazakhstan** | Soviet-era equipment and Russian purchases: T-72BA, BTR-82A, BMPT, Buk-M2E, Tor-M2K, Su-30SM, Mi-35M. The Arlan, Cobra, Naiza, EC145 and BM-27 use stand-ins. | Base game |
+| **Russia** | The complete Russian arsenal of the game. | Base game |
+| **Donbass** | Donetsk and Luhansk, 2023-2026: Soviet and Russian equipment, one shared flag, recon drones. | Base game |
+| **Belarus** | Soviet-era equipment modernised at home and Russian deliveries: T-72B3, BTR-82A, Iskander-M, Su-30SM2, Mi-35M, recon drones. | Base game |
+| **Kazakhstan** | Soviet-era equipment and Russian purchases: T-72BA, BTR-82A, BMPT, Buk-M2E, Su-30SM, Mi-35M, and the SSO special forces. | Base game |
 
 > [!NOTE]
-> DLC units you do not own simply do not appear. Germany, Lithuania, Latvia and Estonia need the Baltic DLC, and some cards and stand-ins, such as the BM-27 Uragan, need the DLC3.
+> **China is playable since 6.0.2** ([what's new](#new-602)); **France is in preparation**: it cannot be played yet.
+
+> [!NOTE]
+> DLC units you do not own simply do not appear. Germany, Lithuania, Latvia and Estonia need the Baltic DLC, and some cards need the DLC3.
 
 <div align="right"><a href="#top">back to top</a></div>
 
@@ -356,8 +378,7 @@ The game only knows two sides, so every country belongs to one of them: NATO cou
 - Loadouts the real vehicle never carried are hidden, and the pylon choices of aircraft go from the most to the least powerful, with filters.
 
 ### Tanks
-- **Tank versions with their own armour, price and availability**: T-72M1, T-72B3 obr. 2022, T-80B, T-80BVM, T-90 (8 per card), the rare T-90AK, T-90M, T-14, Leopard 2A4 to 2A7, M1A1 SA, Abrams SEP versions, BMPT-72 and more. The T-14 Armata is the best tank in the game.
-- **The ZTZ-99A** (Russia division): a 1,500 hp engine for 76 km/h on the road, a turret true to the real one with its remote weapon station, smoke launchers and laser warning, and the Chinese digital camouflage. Gun and armour of the T-90M, since the real Chinese figures are not public.
+- **Tank versions with their own armour, price and availability**, from the T-72B3 to the T-14 Armata, the best tank in the game, and from the Leopard 2 to the Abrams SEP versions.
 - **Real frontal armour** in real millimetres, and real main-gun rounds on board.
 
 ### Active protection, system by system
@@ -374,11 +395,10 @@ The game only knows two sides, so every country belongs to one of them: NATO cou
 
 Charges are reloaded by supply trucks. Active protection cannot stop what dives onto the roof (Javelin, Spike LR, Hellfire, JAGM, loitering munitions). **Shtora** works by the missile it faces: strong against old wire-guided missiles, useless against the Javelin; a tank that sees the missile team fires back at it first.
 
-### Abandoned vehicles, recovery and trophies
+### Abandoned vehicles and trophies
 - A ground vehicle at **30 % health or less** can be **abandoned**: by hand (a yellow triangle and an **Abandon** button) or automatically. Its crew bails out and brings the card back once it reaches your base.
 - An abandoned vehicle turns **white (neutral)**: nobody fires at it on their own, it is completely inert, and it destroys itself at the end of the wreck duration if nobody recovers it.
-- **Recovery vehicles** (BREM-1, M88A2, Bergepanzer 3, WZT-3) are one card: 1.5 t of spare parts, repairs up to 75 %, and a **Tow / unhook** button. The crew climbs back into its repaired vehicle.
-- An abandoned **enemy** vehicle that you tow and repair becomes your **trophy**; brought back to base, it earns you half its price. The AI does the same.
+- An abandoned **enemy** vehicle that you recover becomes your **trophy**; brought back to base, it earns you half its price. The AI does the same.
 
 <div align="right"><a href="#top">back to top</a></div>
 
@@ -418,13 +438,13 @@ Stress rises with hits **and near misses**, up to **shaken** and then **panicked
 ### Mines
 - **Engineers** lay anti-tank mines in a line; a mine is live the moment it lands, and **any vehicle** that rolls over it is destroyed, friend or foe.
 - **Remote mining**, the same number on each side: M109A6 and M109A7 with RAAM shells for the United States, ISDM Zemledeliye and Grad with 9M28K rockets for Russia, 10 km range, mines that stay for the whole game, at most 100 per side.
-- **Mine clearing**: mine-clearing vehicles (M1150, MICLIC, UR-77), sappers, and KMT ploughs with their **Mine-clearing mode**.
+- **Mine clearing**: mine-clearing vehicles, sappers, and KMT ploughs with their **Mine-clearing mode**.
 - Mines are shared by every player in co-op, with their explosion and crater.
 
 ### Artillery
 - **Real loadouts and stowage**, guided shells (Krasnopol-M, Excalibur, Vulcano...), real **aiming times** and **minimum ranges**.
-- **In battery**: after every move, a gun goes through a real emplacement time before it fires.
-- **Two modes**, together if you wish: **Fire at spotted units** and **Counter-battery**, on a battery located by a counter-battery radar (Zoopark-1, AN/TPQ-50, AN/TPQ-53, COBRA, Liwiec) or by sound. A radar that is on emits, and can be found.
+- **In battery**: after every move, a gun goes through a real emplacement time before it fires, and it leaves battery before it drives off (30 s self-propelled, 120 s towed). The AI calls for its fire (60 s) and adjusts it.
+- **Two modes**, together if you wish: **Fire at spotted units** and **Counter-battery**, on a battery located by sound.
 - **Remote mining** shells and rockets, and **cluster munitions** with their real effectiveness.
 
 ### Movement and fire orders
@@ -474,13 +494,13 @@ In Semi-realistic, each countermeasure succeeds 25 % more often. Several add up,
 - **Toss strike** for the aircraft that really do it; **Rocket salvo** button (25, 50, 75 or 100 % of the unguided rockets per pass).
 - **Over 160 real loadouts** on the right pylons; loadouts the real aircraft never carried are hidden.
 - **Real missile profiles**: the Kinzhal, the Zircon and the ARRW fly the way they really do; Javelin, Spike and Hellfire dive onto the roof.
-- **Laser designation** is automatic on the units that really carry a designator.
+- **Laser designation** on the units that really carry a designator: **Automatic** or **Manual** (Esc > Options > Mod); a laser you set yourself is never moved.
 - **Kamikaze drones** (Geran-2, LUCAS): five engines, three warheads, and the **DIVE HERE** button. The jet Geran-5 can only be shot down by missiles.
 
-### Air defence and electronic warfare
-- **Two anti-air missile hits bring down anything that flies.** A 12.7 mm machine gun is deadly to a helicopter at 300 to 500 m; cannons without radar reach helicopters at 1,500 m at most.
+### Air defence
+- **Two anti-air missile hits bring down anything that flies.** A 12.7 mm machine gun reaches a helicopter in flight up to 1,000 m; cannons without radar reach helicopters at 1,500 m at most.
 - **You set each launcher**: missiles, helicopters, aircraft, drones. **Anti-missile** and **Rocket/bomb intercept** switches on the systems built for it.
-- **A radar that is on gets picked up** by enemy aircraft; switch it off to hide. EA-6B Prowler and Su-24MP jam the radars aiming at friendly aircraft. No weapon range is touched by jamming.
+- **A radar that is on gets picked up** by enemy aircraft; switch it off to hide.
 
 <div align="right"><a href="#top">back to top</a></div>
 
@@ -572,7 +592,7 @@ Sizes in kilometres. **Medium** is 144 km² or more, **Large** 200 to 225 km².
 
 ### Enlarged maps
 - **Roads at their real width**, crossroads at their real size and shape, bridges laid in one piece, and nothing beyond the playable area.
-- **Living maps**: railways, pylons, harbours and ships follow the stretched map, and new houses, yards and depots fill the gaps, only on flat, open ground.
+- **Living maps**: railways, pylons and harbours follow the stretched map, and new houses, yards and depots fill the gaps, only on flat, open ground.
 - Snow up to the edges on winter maps. **The same map for everyone**, with no randomness; the Vanilla size is never touched.
 
 <div align="right"><a href="#top">back to top</a></div>
@@ -658,7 +678,7 @@ Sizes in kilometres. **Medium** is 144 km² or more, **Large** 200 to 225 km².
 ## 🚫 What is not possible, and I'd rather say it
 
 - **Two sides only.** The game knows the American side and the Russian side, so NATO countries always fight CSTO countries.
-- **Countries whose main equipment is not in the game**, such as France or the United Kingdom, cannot be made on their own. When a vehicle has no 3D model, a vehicle of the same class stands in, with the real name and the real stats, and often the weapons of its model.
+- **Countries whose main equipment is not in the game**, such as the United Kingdom, cannot be made on their own, and France is still in preparation. A card is kept only when the model shown in the game is the real vehicle.
 - **No play on the official servers.** The mod plays solo and, together, only in its own lobbies.
 - **Everything coming back after a crash.** A player who rejoins gets his units, their health and his money back, but felled trees, craters and wrecks made while he was away do not show, and there is no spectator mode.
 - **Bombs without wings still fall ballistically**, and a commander's aircraft in the campaign only comes where the mission itself flies one.
@@ -679,7 +699,7 @@ Sizes in kilometres. **Medium** is 144 km² or more, **Large** 200 to 225 km².
 - Some Steam Workshop maps do not allow every game mode.
 - **Damaged parts in co-op**: the icons are seen by everyone, but the on-screen notice only appears on the PC that fired.
 
-Found something else? Click the game's bug button 🐞: the **Report a mod bug** window tells you where to report it on the [Discord](https://discord.gg/wrtMjUnard) and which logs to send. Translation errors can be reported the same way.
+Found something else? Click the game's bug button 🐞: the **Report a mod bug** window tells you where to report it on the [Discord](https://discord.gg/brokenarrowrealism) and which logs to send. Translation errors can be reported the same way.
 
 <div align="right"><a href="#top">back to top</a></div>
 
@@ -691,6 +711,9 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 
 | Version | Date | Highlights |
 |:-:|:-:|---|
+| **6.0.2** | October 2026 | China playable (19 cards, new infantry); force fire (G) on buildings really fires, with HE; penetrating missiles and the GBU-39 vs buildings; Breakthrough at a real 3 to 1; AI commander with a player's economy; real ranges of glide bombs, air-to-air missiles and guided bombs; cope cages by default; real artillery laying times; recovery vehicles back; royalty-free music only (44 tracks); loading window back to the menu. |
+| **6.0.1** | October 2026 | Final game 1.2.1; cards replaced in saved decks instead of removed; abandoned vehicles can be destroyed; buildings vs cruise missiles; Automatic / Manual laser; anti-cheat launch fixed. |
+| **6.0** | October 2026 | Built for game 1.2.1; a Vanilla realism mode and a Dynamic unit cap; helicopters that pay for flying low; ranges and speeds checked against real figures; a sharper AI and artillery that leaves battery; sub-mods through the BARO Workshop; cleaner decks and many fixes. |
 | **5.9.5** | October 2026 | A fix: the 12.7 mm machine gun of the M88A2 and Büffel fires; fire-and-forget missiles lock on at their real range; helicopters always come from outside the map, with a new Aircraft spawn setting; fog lies on the ground; the Type 99A in its real shape, now the best tank of the game |
 | **5.9.4** | October 2026 | The Chinese ZTZ-99A; slat cages, anti-drone roofs, camouflage and dozer blades in the Arsenal; every weapon like real life and a Ranges line on the unit card; buildings by realism mode; a default deck for every country; a greener Highway of Death with its ponds; crossroads at their real size; aircraft appearing just behind their own side; remote mining equal on both sides; optional Steam and VK Play crossplay. |
 | **5.9.3** | October 2026 | The Highway of Death at 10 x 150 km; roads at their real width and nothing beyond the playable area; the Europe faction; a realistic Shtora; KMT mine ploughs; real endurance and turnaround times in the air, toss strikes; better sight for infantry that stops, changing weather and wind; separate graphics settings, a new intro, lighter menus. |
@@ -730,14 +753,14 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 ## 🤝 Community
 
 <p align="center">
-  <a href="https://discord.gg/wrtMjUnard"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
+  <a href="https://discord.gg/brokenarrowrealism"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-@FrenchBaguette0609-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: @FrenchBaguette0609"></a>
   <a href="https://github.com/tassassinno74/Broken-Arrow-Mod-Realism-Overhaul"><img src="https://img.shields.io/badge/GITHUB-THIS%20PAGE-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 | Where | What you find there |
 |---|---|
-| **Discord** · [discord.gg/wrtMjUnard](https://discord.gg/wrtMjUnard) | News, questions and bug reports, straight to the author (**Noichi** on Discord). Every version is announced there first. |
+| **Discord** · [discord.gg/brokenarrowrealism](https://discord.gg/brokenarrowrealism) | News, questions and bug reports, straight to the author (**Noichi** on Discord). Every version is announced there first. |
 | **YouTube** · [@FrenchBaguette0609](https://www.youtube.com/@FrenchBaguette0609) | The author's channel. |
 | **GitHub** · [tassassinno74/Broken-Arrow-Mod-Realism-Overhaul](https://github.com/tassassinno74/Broken-Arrow-Mod-Realism-Overhaul) | This page in five languages, the download link and the licence. |
 | **Nexus Mods** · [nexusmods.com/brokenarrow/mods/7](https://www.nexusmods.com/brokenarrow/mods/7) | The **LITE** version: the mod alone, without MelonLoader. |
@@ -751,7 +774,7 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 
 ## 💬 Feedback and credits
 
-**Something went wrong?** Click the game's bug button 🐞, in the menu or in battle: the **Report a mod bug** window opens the right folders for you. The mod writes its log to `MelonLoader\Latest.log`, next to `BrokenArrow.exe`, and older logs to the `Logs` folder; the game writes its own to `GameLogs`. Send them **before you start the game again**, on the [Discord](https://discord.gg/wrtMjUnard) or in an issue on this repository.
+**Something went wrong?** Click the game's bug button 🐞, in the menu or in battle: the **Report a mod bug** window opens the right folders for you. The mod writes its log to `MelonLoader\Latest.log`, next to `BrokenArrow.exe`, and older logs to the `Logs` folder; the game writes its own to `GameLogs`. Send them **before you start the game again**, on the [Discord](https://discord.gg/brokenarrowrealism) or in an issue on this repository.
 
 - Mod by **tassassinno74** (**Noichi** on Discord).
 - Built on [MelonLoader](https://github.com/LavaGang/MelonLoader) by LavaGang.
@@ -761,6 +784,6 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 > [!IMPORTANT]
 > **© 2026 tassassinno74. All rights reserved.** You are welcome to download the mod and play it. Re-uploading it anywhere (Steam, Steam Workshop, Nexus Mods, ModDB or any other site), redistributing it, reusing its code or data, or publishing modified versions without the author's written permission is not allowed. Full terms: [LICENSE](LICENSE). MelonLoader, included in the ALL-IN-ONE archive, keeps its own licence (Apache 2.0, file included).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-5.9.5-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 5.9.5"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.0.2-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.0.2"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
 
 <div align="right"><a href="#top">back to top</a></div>
