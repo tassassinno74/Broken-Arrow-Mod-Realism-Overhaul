@@ -5,7 +5,7 @@
 <p align="center"><b>Die Kampagne, die Szenarien und das Gefecht, geführt so, wie das Gerät tatsächlich für den Kampf gebaut wurde.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-6.0.2-2ea44f?style=for-the-badge" alt="Version 6.0.2">
+  <img src="https://img.shields.io/badge/version-6.0.3-2ea44f?style=for-the-badge" alt="Version 6.0.3">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.1-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.1">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.0.2-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 6.0.2 herunterladen"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.0.3-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 6.0.3 herunterladen"></a>
   <a href="https://discord.gg/brokenarrowrealism"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Dem Discord beitreten"></a>
   <a href="https://ko-fi.com/brokenarrowrealism"><img src="https://img.shields.io/badge/KO--FI-SUPPORT%20THE%20MOD-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Die Mod auf Ko-fi unterstützen"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube-Kanal"></a>
@@ -34,26 +34,26 @@
 
 Broken Arrow gibt dir echte Fahrzeuge, echte Waffen und echte Doktrin, und dann lässt es eine 152-mm-Haubitze eine Granate auf den Panzer fallen, der direkt neben ihr parkt, lässt ein Maschinengewehr ein Flugzeug in drei Kilometern Höhe vom Himmel holen und begrenzt jeden Flugkörper auf die 9 km seiner alten Karten.
 
-Diese Mod schreibt **mehr als 12.000 Werte** mit echten Daten neu und baut das Spiel um sie herum auf: echte Panzerung, Motoren, Kadenzen, Bewaffnungen und veröffentlichte Reichweiten bis 100 km, jeder Preis nach dem echten Kampfwert, und ein **feindlicher Kommandeur**, der nur weiß, was seine eigenen Einheiten sehen. Du kämpfst als **Nation**, eines von zwölf Ländern in zwei Lagern, NATO und OVKS, mit dem Gerät, das es wirklich einsetzt, und du **wählst deinen Realismus**: Realistisch, Halbrealistisch oder Vanilla.
+Diese Mod schreibt **mehr als 12.000 Werte** mit echten Daten neu und baut das Spiel um sie herum auf: echte Panzerung, Motoren, Kadenzen, Bewaffnungen und veröffentlichte Reichweiten bis 100 km, jeder Preis nach dem echten Kampfwert, und ein **feindlicher Kommandeur**, der nur weiß, was seine eigenen Einheiten sehen. Du kämpfst als **Nation**, eines von dreizehn Ländern in zwei Lagern, NATO und OVKS, mit dem Gerät, das es wirklich einsetzt, und du **wählst deinen Realismus**: Realistisch, Halbrealistisch oder Vanilla.
 
 Du spielst die Kampagne, die offiziellen Szenarien, das Gefecht und die eigenen Modi der Mod gegen die KI (**Logistikfront**, **Durchbruch**, **Jagd auf den Gefechtsstand**) allein oder gemeinsam in den eigenen Lobbys der Mod: im Koop gegen die KI oder im PvP zwischen Mod-Spielern. Die offiziellen Server werden nie genutzt.
 
-**6.0.2** macht **China spielbar** (19 Karten, mit neuer Infanterie), lässt Panzer wirklich auf Gebäude feuern und gibt dem Durchbruch einen echten Angriff 3 zu 1 und dem KI-Kommandeur der Logistikfront die Wirtschaft eines Spielers. [Neu in der 6.0.2.](#new-602) **6.0.1** läuft mit dem finalen Spiel in Version **1.2.1** (Unity 6). Die **6.0** brachte den neuen Realismus-Modus **Vanilla**, ausgeschaltete Fahrzeugscheinwerfer in der Schlacht, eine feinere KI, die nur sieht, was ihre Einheiten sehen, Artillerie, die vor der Fahrt erst die Stellung abbaut, die **BARO-Werkstatt** für Submods und saubere Decks mit dem echten Gerät jedes Landes. [Neu in der 6.0.1](#new-601) · [Neu in der 6.0.](#new-60)
+**6.0.3** gibt China **43 Fahrzeuge auf eigenen 3D-Modellen**, mit ihren echten Daten und echten Waffen, die sich drehen und feuern, lässt **jedes Fahrzeug ein anderes abschleppen**, je nach seinem echten Gewicht, und gibt **jeder Schaltfläche der Mod ein sauberes Symbol**. Außerdem lässt sie den Host die Zahl der Spieler wählen (Koop bis zu 5, PvP bis zu 5 gegen 5), setzt das Einheitenlimit pro Spieler, öffnet die **offiziellen Missionen** für den Koop, gibt dem Host neue Einstellungen und bringt echte Sichtlinien, einen C-RAM gegen Granaten und Raketen und neue echte Bewaffnungen. [Neu in der 6.0.3.](#new-603) **6.0.2** macht **China spielbar**, mit neuer Infanterie, lässt Panzer wirklich auf Gebäude feuern und gibt dem Durchbruch einen echten Angriff 3 zu 1 und dem KI-Kommandeur der Logistikfront die Wirtschaft eines Spielers. [Neu in der 6.0.2.](#new-602) **6.0.1** läuft mit dem finalen Spiel in Version **1.2.1** (Unity 6). Die **6.0** brachte den neuen Realismus-Modus **Vanilla**, ausgeschaltete Fahrzeugscheinwerfer in der Schlacht, eine feinere KI, die nur sieht, was ihre Einheiten sehen, Artillerie, die vor der Fahrt erst die Stellung abbaut, die **BARO-Werkstatt** für Submods und saubere Decks mit dem echten Gerät jedes Landes. [Neu in der 6.0.1](#new-601) · [Neu in der 6.0.](#new-60)
 
-| 12.000+ | 100 km | 12 | 22 | 1.500 km² | 3 gegen 1 |
+| 12.000+ | 100 km | 13 | 22 | 1.500 km² | 1 je 2 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| echte Werte | veröffentlichte Reichweiten, bis | Länder in zwei Lagern | Logistikfront-Karten | größte Karte (Todesautobahn) | drei Spieler gegen einen Kommandeur |
+| echte Werte | veröffentlichte Reichweiten, bis | Länder in zwei Lagern | Logistikfront-Karten | größte Karte (Todesautobahn) | ein feindlicher Kommandeur für je zwei Spieler |
 
-| 107 | 265 | 90-150 | 16 | 5 | 0 |
+| ~400 | 265 | 25-150 | 16 | 5 | 0 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| Luftfahrzeuge mit ihren echten Gegenmaßnahmen | Lenkwaffen mit ihrem echten Suchkopf | Einheiten pro Seite, vom Host gewählt (oder dynamisch) | offizielle PvE-Szenarien im Koop spielbar | Sprachen | genutzte offizielle Server |
+| Modelle insgesamt, nach und nach hinzugefügt | Lenkwaffen mit ihrem echten Suchkopf | Einheiten pro Spieler, vom Host gewählt (oder dynamisch); Summe der Seite = x Spieler | offizielle PvE-Szenarien im Koop spielbar | Sprachen | genutzte offizielle Server |
 
-- **Du wirst deine Luftkämpfe auswählen**, denn eine Su-35 oder Su-57 kurvt enger als jeder westliche Jäger, und eine F-35 ist nur im Vorteil, wenn sie zuerst schießt, aus großer Entfernung.
+- **Du wirst deine Luftkämpfe auswählen**, denn ein Jäger mit Schubvektorsteuerung kurvt enger als die anderen, und ein Tarnkappenjäger ist nur im Vorteil, wenn er zuerst schießt, aus großer Entfernung.
 - **Du wirst auf die Optiken zielen**, denn ein Treffer, der nicht durchschlägt, kann einen Panzer trotzdem blenden, seine Visiere verstellen oder seine Ketten zerreißen.
 - **Du wirst deine Transporter eskortieren**, denn wenn ein Träger zerstört wird, kommen die Trupps darin selten heraus.
 - **Du wirst die Artillerie nicht mehr als Panikknopf benutzen**, denn Geschütze haben Mindestreichweiten, echte Richtzeiten und nach jeder Bewegung einen echten Stellungswechsel.
 - **Du wirst den Boden fürchten, wenn du fliegst**, denn zwei Flugabwehrtreffer holen alles herunter, was fliegt, und Tiefflug liefert dich jedem Maschinengewehr in Reichweite aus.
-- **Du wirst nachdenken, bevor du kaufst**, denn ein T-14 Armata kostet 560 Punkte, mehr als drei T-72B3, und du bekommst nur zwei davon.
+- **Du wirst nachdenken, bevor du kaufst**, denn der stärkste Panzer kostet 560 Punkte, mehr als drei alte Kampfpanzer, und du bekommst nur zwei davon.
 - **Du wirst deine Versorgungs-Lkw bewachen**, denn an der Logistikfront ist dein Geld der Bestand in deinen Depots.
 - **Du wirst um die Brücken kämpfen**, denn Fahrzeuge, die nicht schwimmen können, fahren nie ins Wasser.
 - **Du wirst das Gelände nutzen**, denn ein dichter Wald blockiert das Direktfeuer, und ein Werfer, der dich nicht sieht, kann nicht auf dich schießen.
@@ -66,15 +66,61 @@ Du spielst die Kampagne, die offiziellen Szenarien, das Gefecht und die eigenen 
 
 | Die Mod | Das Schlachtfeld | Praktisches |
 |---|---|---|
-| [Neu in der 6.0.2](#new-602) · [6.0.1](#new-601) · [Neu in der 6.0](#new-60) | [Fahrzeuge und Arsenal](#vehicles) | [Download und Installation](#install) |
+| [Neu in der 6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [Neu in der 6.0](#new-60) | [Fahrzeuge und Arsenal](#vehicles) | [Download und Installation](#install) |
 | [Gemeinsam spielen](#lobbies) · [Crossplay und Datenschutz](#privacy) | [Landkrieg](#ground-war) | [Update oder Deinstallation](#update) |
 | [Das Menü der Mod](#menu) | [Luftkrieg](#air-war) | [Einstellungen](#settings) |
-| [Dein Deck](#deck) | [Der feindliche Kommandeur](#commander) | [Wo die Mod läuft](#where-it-runs) |
+| [Dein Deck](#deck) | [Der feindliche Kommandeur](#commander) | [Wo die Mod läuft](#where-it-runs) · [Fragen der Spieler](#faq) |
 | [Nationen: NATO gegen OVKS](#nations) | [Spielmodi und Karten](#modes) | [Was nicht möglich ist](#not-possible) · [Bekannte Probleme](#known-issues) |
 | [Kampagne](#campaign) | [Sichtlinie, Wetter und Wasser](#line-of-sight) | [Versionsgeschichte](#history) |
 | | [Unter der Haube](#underneath) | [Community](#community) · [Danksagungen und Lizenz](#credits) |
 
 ---
+
+<a id="new-603"></a>
+
+## 🆕 Neu in der 6.0.3
+
+> **Die 6.0.3 in fünf Zeilen**
+> - China bekommt **43 Fahrzeuge auf eigenen 3D-Modellen**, mit ihren echten Daten und echten Waffen, die sich drehen und feuern.
+> - **Jedes Fahrzeug kann ein anderes abschleppen**, je nach seinem echten Gewicht.
+> - **Ein sauberes Symbol** für jede Schaltfläche der Mod.
+> - **Bis zu 5 Spieler pro Seite**, ein Einheitenlimit pro Spieler und die offiziellen Missionen im Koop.
+> - Neue Einstellungen des Hosts, ein C-RAM, der Granaten und Raketen bekämpft, echte Sichtlinien und ein aktiverer KI-Verbündeter.
+
+> Von 6.0.2 aus: das Spiel schließen, `Mods\BrokenArrowRealismOverhaul.dll` ersetzen und den neuen Ordner `RealismOverhaul_Vehicules` in den Spielordner kopieren (Windows die Dateien ersetzen lassen). **Alle Spieler einer Lobby brauchen die 6.0.3.**
+
+- **China: 43 Fahrzeuge auf eigenen Modellen.** Jedes chinesische Fahrzeug hat jetzt sein eigenes 3D-Modell, seine echten Daten und die echten Waffen des Spiels: Die Maschinengewehre und fernbedienten Waffenstationen auf den Dächern sind sichtbar, drehen sich und feuern wirklich. Das Deck behält nur, was China wirklich einsetzt: Die Karte des Tor-M1 macht dem HQ-17 Platz.
+  - **Panzer:** ZTZ-99A, ZTZ-99A2, ZTZ-20, leichter Panzer ZTQ-15.
+  - **Kettenfahrzeuge:** Schützenpanzer ZBD-04A und ZBD-04AG, Panzerabwehr-Lenkflugkörperträger AFT-10.
+  - **Radfahrzeuge:** WZ551, ZSL-92A, ZBL-08AG, ZBD-09, Sturmgeschütze PTL-02 und ZTL-11, Panzerabwehr-Lenkflugkörperträger WZ550.
+  - **Artillerie:** Panzerhaubitze PLZ-05 (155 mm), Mörserhaubitze PLL-05 (120 mm).
+  - **Flugabwehr:** HQ-17, HQ-7, HQ-7B, Typ 625, PGZ-09, PGZ-95 und das Radar 96L6E der S-400.
+  - **Leichte Fahrzeuge und Lkw:** BJ2022, BJ212 mit Panzerabwehrflugkörper, Dongfeng EQ2050 (Mengshi), Dongfeng EQ240 / EQ2081.
+  - **Jäger und Jagdbomber:** J-10C, J-11, J-11B, J-15, J-16, J-20, Su-30MKK, JH-7A.
+  - **Bomber:** H-6 und H-6K.
+  - **Hubschrauber:** Z-8, Z-9 mit HJ-8, Z-10, Z-10W, Z-19, Z-20A.
+- **Abschleppen mit jedem Fahrzeug:** Jedes Fahrzeug kann jetzt ein anderes an einer Kette oder einem Stahlseil abschleppen, soweit sein Gewicht es erlaubt: Ein Panzer schleppt alles, manche Schützenpanzer können einen Panzer schleppen, ein Auto schleppt ein Auto, aber keinen Panzer. **Abschleppen** (der Haken): anklicken, dann das Fahrzeug anklicken, das geschleppt werden soll. **Abkuppeln** (der durchgestrichene Haken): anklicken, dann die Stelle anklicken, an der das Fahrzeug bleiben soll. So bringst du ein aufgegebenes oder bewegungsunfähiges Fahrzeug nach hinten, wo Bergepanzer es instand setzen und seine Besatzung wieder einsteigt. **Instandsetzung:** Ein Bergepanzer setzt vollständig instand. In einer Versorgungszone ohne ihn geht es dreimal langsamer und endet bei Orange: Das Fahrzeug fährt und schießt wieder, seine beschädigten Teile bleiben beschädigt. Pioniere setzen ebenfalls bis Orange instand. Instandsetzen kostet Nachschub.
+- **Ein sauberes Symbol für jede Schaltfläche:** Jede Schaltfläche der Mod hat ihr eigenes weißes Symbol, auf einen Blick klar und im Stil des Spiels: ein Haken zum Abschleppen, ein Schild gegen Flugkörper, ein Fadenkreuz für Feuer frei, ein Radar für Konterbatterie, ein Hubschrauber am Seil für Fast Rope, eine Mine für jede Minenart und mehr. Die Modi der Artillerie sind klar benannt: **Feuer frei** (jeder Feind, den deine Seite aufgeklärt hat) und **Konterbatterie**.
+- **Spielerzahl nach Wahl** in **Partie erstellen** und im Lobby-Bildschirm: gegen die KI 1 bis 5 Spieler (das Spiel hat 5 Plätze pro Seite); zwischen Spielern auf den Frontkarten 2, 4, 6, 8 oder 10 (1 gegen 1 bis 5 gegen 5). Vom Host gewählt, beim Start festgelegt.
+- **Einheitenlimit pro Spieler:** 25, 50, 75, 100, 125 oder 150 (Standard 100). Eine Seite hat diese Zahl mal ihre Spieler, und die KI gegenüber bekommt dieselbe Summe (höchstens 450, für die Leistung). Das Menü zeigt die Summe („100 pro Spieler, 4 Spieler: 400 pro Seite“).
+- **Limit „Dynamisch“:** keine Grenze für die Spieler; die KI startet bei 150 und steigt auf die Zahl der Spielereinheiten auf der Karte, sobald diese größer ist. Während der Schlacht sinkt sie nie wieder (höchstens 450).
+- **Gegen die KI an der Front:** ein feindlicher Kommandeur für je zwei Spieler (1-2 Spieler: 1; 3-4: 2; 5: 3), und sie greifen von verschiedenen Seiten an.
+- **Offizielle Missionen im Koop:** ein Reiter **Missionen** in **Partie erstellen** (russische und amerikanische Missionen, außer dem Tutorial), solo oder mit bis zu 5 Spielern derselben Seite, mit den Kommandeuren der Mod zusätzlich zum Skript (einer für je zwei Spieler). Die Solo-Kampagne bleibt unverändert.
+- **Deine Seite:** NATO, OVKS oder **Gemischt** (jedes Deck in den Szenarien; die KI nimmt die Fraktion gegenüber).
+- **Für Ersteller von Szenarien und Submods:** Wahl des Decks der feindlichen KI; die Datei `baro_rules.txt` (oder ein Block `[BARO]` in der Beschreibung) legt für alle Spieler fest: Seite, erlaubte Länder, Land und Deck der KI, verbotene Familien oder Karten, Bots, Stufe und die Musik des Szenarios (`music = ...`, `music_mode = replace | mix`).
+- **Neue Einstellungen des Hosts** (vor der Partie gewählt, für alle gleich): Reichweite der Flugabwehr Realistisch / 25 km / 15 km / Vanilla; Reichweite von Flugkörpern und Artillerie Realistisch / 50 % / 25 % / Vanilla (im Modus Vanilla ausgegraut); Erscheinen der Flugzeuge 1, 5 oder 10 km hinter dem Kartenrand, der Hubschrauber 1, 2, 3 oder 5 km; **Aufgeben erlaubt** Ja / Nein (Nein: Die Fahrzeuge kämpfen bis zum Tod, und die Besatzungen von Luftfahrzeugen haben ihre echten Überlebenschancen).
+- **C-RAM:** zielt auch auf Mörser- und Artilleriegranaten, Raketen und den Grad, mit seinen echten Grenzen: eine Schutzblase von 2 km, ein Ziel nach dem anderen, eine große Salve sättigt ihn, kurzer Feuerstoß und eine echte Chance pro Geschoss.
+- **Sichtlinien:** nie durch einen Wald (Baumkronen bei 20 m); wer hoch steht, sieht darüber hinweg; Infanterie in einem Gebäude schaut von der Fassade, die dem Ziel zugewandt ist, und aus dem obersten Stockwerk.
+- **Gebäude:** Benachbarte Teile stürzen nicht mehr bei einem Treffer ein, der sie nicht trifft; jede Ladung hat ihren echten Radius.
+- **Einnahme nach Kräfteverhältnis** auf den Gefechtszonen: Ein einzelner Schütze blockiert keine Einnahme mehr; der Stärkere nimmt die Zone, umso schneller, je stärker er ist. Der Modus **Zerstörung** ist an der Front zurück: eine große Zone in der Mitte.
+- **Schiffe:** ein eigener Punkt zum Zuwasserlassen für jede Seite auf den Karten mit echtem Meer auf beiden Seiten.
+- **T-80BVM:** Sein Drohnenschutzdach deckt jetzt den ganzen Turm ab, wie bei den echten Panzern.
+- **Luftwaffe:** Kein Flugzeug wird mehr beim Erscheinen abgeschossen; kein automatisches Steigen mehr gegen ein Luftziel jenseits von 10 km (der Spieler steigt per Schaltfläche); große Flugzeuge stürzen im Tiefflug nicht mehr ab; schwere Lenkbomben fallen nicht mehr senkrecht herunter.
+- **Neue echte Bewaffnungen:** Gleitbomben UMPK (FAB-500 und FAB-1500) an den russischen Flugzeugen, die sie tragen; SDB und StormBreaker (bis zu 28 SDB); HARM, JSOW und GBU-54; Ataka + Verba am Hubschrauber; die StormBreaker trifft ein fahrendes Ziel. Der Grad kann eine ganze Salve Raketen mit Panzerminen abfeuern.
+- **Automatischer Laser:** Er markiert keine aufgegebenen Fahrzeuge mehr. **Freie Kamera:** bis 25.000 m.
+- **KI:** Der KI-Verbündete ist aktiver: Im Durchbruch drängt er in die umkämpften Zonen und schickt Verstärkung; an der Front kauft er wie der Feind (Infanterie, Flugabwehr, Reserve, Operationen) und hält eine Verteidigungslinie. Beide Kommandeure fordern Feuerunterstützung an und jagen die Flugabwehr, die sie gesehen haben.
+- **Decks:** Die Sappeure stehen jetzt im Reiter Infanterie, mit ihrem Transport (ein Hinweis beim Start sagt es dir; nimm sie dort wieder auf). Offizielle Namen auf den Karten. Kornet-Trupps der VDV: 8 Mann, wie in echt.
+- **Korrekturen nach Meldungen der Spieler:** JSOW der schweren Bomber mit ihren echten Regeln; die LShO-57; Fallschirmjäger, die sich nicht bewegten; Namen „DLC2“; Meldungen der Mod auf zwei Zeilen; leere Pylonen mancher Hubschrauber; rosa Scheiben im Arsenal. **Todesautobahn:** Der Speicher wird während des Ladens aufgeräumt (Graphen und Bäume in einem einzigen Durchgang). **Verwundete** werden an deinen Versorgungspunkten wieder geheilt, und die Heilung leert die Versorgungskiste nicht mehr. **Durch die Kanone abgefeuerte Flugkörper** (Invar, Sprinter, Arkan, Kombat, Shillelagh, Sokol-V) behalten die Reichweite der Granaten ihrer Kanone, wenn der Host die Reichweite der Flugkörper verkürzt. **S-8- und S-13-Raketen** der Hubschrauber feuern wieder ab 500 m (vorher erst ab 1.300 m bzw. 1.100 m). **Flugzeuge und Hubschrauber** greifen ein Ziel im Wald an: Von oben verdecken die Bäume um das Ziel es nicht mehr. **MLDatabaseMod:** eine Warnung beim Start, wenn es installiert ist. Es ersetzt ganze Tabellen der Spieldatenbank, dieselben, die die Mod schreibt, und vermischt so Werte, Waffen und Preise.
 
 <a id="new-602"></a>
 
@@ -82,7 +128,7 @@ Du spielst die Kampagne, die offiziellen Szenarien, das Gefecht und die eigenen 
 
 > Von 6.0.1 aus: `Mods\BrokenArrowRealismOverhaul.dll` und den Ordner `UserData\RealismOverhaul_musique` ersetzen (deine eigene Musik behältst du, falls du welche hinzugefügt hast). Neu im Paket: `RETIRER LE MOD - REMOVE THE MOD.txt`, wie du die Mod entfernst, um wieder im offiziellen Mehrspieler zu spielen.
 
-- **China ist spielbar:** 19 Karten: Type 99A, Type 96B, ZBD-04A, ZBL-08, S-400 (DLC3), S-300PMU-1/2, Tor-M1, Su-35, J-11B, J-15, Il-76MD, Mi-17V-5, Mi-171Sh, dazu neue Infanterie, die in ZBD-04A, ZBL-08 und Hubschraubern mitfährt: QBZ-191-Gruppe, QJY-88-MG-Trupp, QBU-88-Scharfschützen, HJ-8E-Panzerabwehrtrupp, QW-2-Fliegerfaust, PF-98-Raketentrupp (vorerst mit russischen Uniformen und Stimmen). Weitere chinesische Panzer folgen nach ihrer Prüfung.
+- **China ist spielbar**, mit neuer Infanterie (vorerst mit russischen Uniformen und Stimmen).
 - **Panzer und Gebäude:** Erzwungenes Feuer (G) auf ein Gebäude feuert jetzt wirklich (vorher endete es ohne Schuss), und zwar mit Sprenggranaten: Die Sprenggranaten der Panzer haben ihre echte Ladung. Ein Angriffsbefehl auf Infanterie im Gebäude lässt den Panzer von dort feuern, wo er sie sieht, statt an die Wand zu fahren. Im Waffenfeld abgeschaltete Granaten bleiben aus.
 - **Gebäude:** Raketen mit durchdringendem Gefechtskopf (Kh-29, Kh-38, Kh-35U, SLAM-ER, JSM, NSM, Kh-59M2, Kh-69, Oniks, Zirkon) und die GBU-39 SDB explodieren im getroffenen Gebäude; große Gebäude haben ihre echte Grundfläche; im halbrealistischen Modus bringt ein Volltreffer einer Bombe der 250-kg-Klasse Leichtbauten (Holz, Blech, Hallen) zum Einsturz.
 - **Durchbruch:** Der Angreifer hat etwa 3 zu 1, wie in echter Doktrin; die Zeit pro Linie rechnet den Anmarsch mit; die Luftwaffe des Angreifers kommt ab dem Ende der Vorbereitung; eine Zone wird bei 3 zu 1 genommen.
@@ -90,8 +136,8 @@ Du spielst die Kampagne, die offiziellen Szenarien, das Gefecht und die eigenen 
 - **Echte Reichweiten aus der Flughöhe des Spiels** (hoher Flug in 1,7 km halbrealistisch, 2 km realistisch): Gleitbomben FAB mit UMPK 19 km (FAB-1500 UMPK 16), JSOW 35 km, SDB 30 km, JDAM-ER und AASM 19 km; Luft-Luft-Raketen gegen Flugzeuge im hohen Flug R-27ET 34,6 km, R-27ER 39, R-77-1 36,6, AIM-9X 11,8, AIM-120D 53,3; Lenkbomben ohne Antrieb (JDAM, Paveway, KAB) etwa 5,5 bis 6 km statt 1,5 km.
 - **Cope Cages** ab Werk und gratis auf den Panzern, die sie in Wirklichkeit tragen.
 - **Artillerie:** echte Zeiten für den Stellungsbezug: Ein Mörser in Stellung feuert nach etwa 25 s, mit digitaler Feuerleitung nach 15 s.
-- **Bergepanzer sind zurück** auf jeder Seite (BREM-1, M88A2, Bergepanzer 3 Büffel, WZT-3), vorerst mit einem vorläufigen Modell, um verlassene Fahrzeuge zu bergen.
-- **Russische Pioniere:** Das fertige russische Deck gibt ihnen einen echten Transport, und sie können auch BTR-82A, BTR-80 und MT-LB nehmen.
+- **Bergepanzer sind zurück** auf jeder Seite, um verlassene Fahrzeuge zu bergen.
+- **Russische Pioniere:** Das fertige russische Deck gibt ihnen einen echten Transport, und sie haben mehr Transporter zur Wahl.
 - **Musik:** nur noch lizenzfreie Musik, mit 44 freien Stücken dazu (zuerst Schweizer Musik, Hymnen und Märsche der Länder der Mod). Eigene Dateien: „Musik N“ = Intro, „Lied N“ = Menü und Schlacht, gemischt mit der Spielmusik (beliebige Nummer); siehe `VOS MUSIQUES - YOUR MUSIC.txt` im Musikordner.
 - **Zurück ins Menü nach einer Solo-Schlacht:** ein Ladefenster statt eines eingefrorenen Bildschirms. Das 10-t-Paket steht wieder vor der Tür; kürzere Tooltips der Befehle; **große Karte:** 20 GB RAM empfohlen.
 
@@ -102,7 +148,7 @@ Du spielst die Kampagne, die offiziellen Szenarien, das Gefecht und die eigenen 
 > Für das **finale** Spiel 1.2.1. Einfach `Mods\BrokenArrowRealismOverhaul.dll` ersetzen (sonst ändert sich nichts).
 
 - **Finales Spiel 1.2.1:** keine Warnung „aeg-fsr fehlt" mehr im MelonLoader-Log (das Studio hat diese Bibliothek entfernt).
-- **Decks:** Karten, die jetzt eine nationale Version haben (Scouts, Scout Snipers, Mech. Riflemen…), werden in gespeicherten Decks **ersetzt** statt entfernt; entfernte Karten (z. B. COBRA) verschwinden auch aus alten Decks; der Hinweis beim Start ist kurz und lässt sich immer schließen.
+- **Decks:** Karten, die jetzt eine nationale Version haben, werden in gespeicherten Decks **ersetzt** statt entfernt; entfernte Karten verschwinden auch aus alten Decks; der Hinweis beim Start ist kurz und lässt sich immer schließen.
 - **Verlassene Fahrzeuge:** Deine Einheiten schießen nicht mehr von selbst darauf; befiehlst du den Angriff selbst, nehmen die Fahrzeuge normalen Schaden und können zerstört werden.
 - **Gebäude:** schwere Marschflugkörper (Kh-55SM…) bringen Gebäude jetzt auch im halbrealistischen Modus zum Einsturz. Durchdringende Marschflugkörper (JASSM, AGM-86D…) explodieren jetzt im getroffenen Gebäude: ein Volltreffer bringt ein Haus zum Einsturz.
 - **Laser:** neue Wahl unter Esc > Einstellungen > Mod: **Automatisch** oder **Manuell**. Automatisch: ein Laser, den du selbst setzt, wird nie verschoben; Manuell: nichts geschieht automatisch. Drohne oder Flugzeug behalten ihr Ziel, solange es lebt und sichtbar ist; zwischen zwei automatischen Markierungen liegen 30 s, und es gibt viel weniger Funksprüche.
@@ -136,9 +182,9 @@ Du spielst die Kampagne, die offiziellen Szenarien, das Gefecht und die eigenen 
 
 ### 🚁 Gegen Hubschrauber im Flug
 - Das 12,7-mm-Maschinengewehr reicht jetzt bis 1.000 m.
-- 5,56 und 7,62 mm (Gewehre, MGs, Miniguns) richten bei gepanzerten Hubschraubern (Mi-28, Ka-52, Ka-50, AH-64, AH-1Z, Tiger, Mi-24/Mi-35) kaum etwas aus; 12,7 mm und mehr behalten ihre Wirkung.
+- 5,56 und 7,62 mm (Gewehre, MGs, Miniguns) richten bei gepanzerten Hubschraubern kaum etwas aus; 12,7 mm und mehr behalten ihre Wirkung.
 - Das koaxiale MG eines Panzers feuert nicht höher, als sein Rohr sich heben lässt (das 12,7-mm-MG des Kommandanten und die kleinen Türme feuern weiter).
-- Ein schnell fliegender Hubschrauber ist für MGs und Kanonen ohne Radar schwerer zu treffen (Gepard, Tunguska, Pantsir, Skyranger und C-RAM unverändert).
+- Ein schnell fliegender Hubschrauber ist für MGs und Kanonen ohne Radar schwerer zu treffen (Flugabwehrkanonen mit Radar unverändert).
 - Tiefflug kostet mehr: Gegen Kanonen und Maschinengewehre ist ein tief fliegender Hubschrauber leichter zu treffen.
 - Flugkörper aus der Schulter schießen nur, wenn sie das Ziel sehen.
 - Die Radarflugkörper der Flugabwehrsysteme sind im Tiefflug blind.
@@ -173,7 +219,6 @@ Du spielst die Kampagne, die offiziellen Szenarien, das Gefecht und die eigenen 
 - Jedes Land hat sein echtes Gerät, offizielle Karten und DLC eingeschlossen, dazu seine Flagge und seinen Namen im Arsenal.
 - Die amerikanischen und russischen Divisionen behalten alle ihre ursprünglichen Karten.
 - Die Infanterie trägt die echten Namen ihres Landes.
-- Karten, deren Modell nicht das echte Fahrzeug war, sind zur Seite gelegt; deine gespeicherten Decks verlieren nur diese Karten.
 - Frankreich und China: **in Vorbereitung** (noch nicht spielbar).
 
 ### 🪖 Neue Teams
@@ -200,9 +245,9 @@ Du spielst die Kampagne, die offiziellen Szenarien, das Gefecht und die eigenen 
 
 ### Installation
 
-1. Klicke oben auf dieser Seite auf die grüne Schaltfläche **DOWNLOAD**. Sie öffnet die Datei auf Google Drive: Klicke auf **Herunterladen** und entpacke dann das Archiv (Windows 11, 7-Zip oder WinRAR). Es enthält den Ordner **BROKEN ARROW REALISM OVERHAUL**: die Mod, MelonLoader, die Musik, das Aussehen der Fahrzeuge, die Guides der BARO-Werkstatt und die Lizenz (`LICENSE.txt`).
+1. Klicke oben auf dieser Seite auf die grüne Schaltfläche **DOWNLOAD**. Sie öffnet die Datei auf Google Drive: Klicke auf **Herunterladen** und entpacke dann das Archiv (Windows 11, 7-Zip oder WinRAR). Es enthält den Ordner **BROKEN ARROW REALISM OVERHAUL**: die Mod, MelonLoader, die Musik, die Fahrzeugdateien, die Guides der BARO-Werkstatt und die Lizenz (`LICENSE.txt`).
 2. Klicke in Steam mit der rechten Maustaste auf **Broken Arrow**, dann auf **Verwalten** und dann auf **Lokale Dateien durchsuchen**.
-3. Öffne den Ordner **BROKEN ARROW REALISM OVERHAUL** und kopiere `version.dll` und die Ordner `MelonLoader`, `Mods`, `UserData`, `RealismOverhaul_Vehicules` und `RealismOverhaul_SousMods` in den Spielordner, neben `BrokenArrow.exe`. `UserData` enthält die Musik der Mod, `RealismOverhaul_Vehicules` das Aussehen der Fahrzeuge der Mod und `RealismOverhaul_SousMods` die Guides der BARO-Werkstatt (Submods). `LICENSE.txt` muss nicht kopiert werden.
+3. Öffne den Ordner **BROKEN ARROW REALISM OVERHAUL** und kopiere `version.dll` und die Ordner `MelonLoader`, `Mods`, `UserData`, `RealismOverhaul_Vehicules` und `RealismOverhaul_SousMods` in den Spielordner, neben `BrokenArrow.exe`. `UserData` enthält die Musik der Mod, `RealismOverhaul_Vehicules` die Fahrzeugdateien der Mod und `RealismOverhaul_SousMods` die Guides der BARO-Werkstatt (Submods). `LICENSE.txt` muss nicht kopiert werden.
 4. Starte das Spiel über Steam mit **Anti-Cheat Disabled**. Der erste Start dauert etwas länger, während MelonLoader sich einrichtet, und ein Konsolenfenster öffnet sich: Das ist normal.
 5. Im Hauptmenü erscheint der **Startbildschirm der Mod** und im Fenster Einstellungen ein Reiter **Mod**. Erstelle im Arsenal ein Deck (NATO oder OVKS, dann dein Land), oder kopiere das Standarddeck deines Landes.
 
@@ -218,7 +263,7 @@ Du spielst die Kampagne, die offiziellen Szenarien, das Gefecht und die eigenen 
 <a id="update"></a>
 
 ### Update von einer älteren Version
-Lade das neue Archiv mit der Schaltfläche **DOWNLOAD** herunter. **Lösche vor dem Kopieren den alten Ordner `RealismOverhaul_Vehicules` aus dem Spielordner** (die alten Formen der 5.9.x werden nicht mehr gebraucht), kopiere dann die neuen Dateien und Ordner über die alten (siehe Schritt 3, mit dem neuen Ordner `RealismOverhaul_SousMods`), öffne danach deine Decks und prüfe sie. Um gemeinsam zu spielen, brauchen du und deine Freunde genau dieselbe Version, mindestens 6.0: Sonst zeigt die Lobbyliste **Falsche Version**.
+Lade das neue Archiv mit der Schaltfläche **DOWNLOAD** herunter. **Von 6.0.2 aus:** Schließe das Spiel, ersetze `Mods\BrokenArrowRealismOverhaul.dll` und kopiere den neuen Ordner `RealismOverhaul_Vehicules` in den Spielordner (lass Windows die Dateien ersetzen): Er enthält die neuen chinesischen Fahrzeuge. MelonLoader 0.7.3 und die anderen Ordner bleiben, wie sie sind; deine Decks bleiben erhalten. **Von einer älteren Version aus: Lösche vor dem Kopieren den alten Ordner `RealismOverhaul_Vehicules` aus dem Spielordner** (die alten Dateien der 5.9.x werden nicht mehr gebraucht), kopiere dann die neuen Dateien und Ordner über die alten (siehe Schritt 3, mit dem neuen Ordner `RealismOverhaul_SousMods`), öffne danach deine Decks und prüfe sie. Um gemeinsam zu spielen, brauchen du und deine Freunde genau dieselbe Version, die 6.0.3: Sonst zeigt die Lobbyliste **Falsche Version**.
 
 ### Deinstallation
 Lösche `Mods\BrokenArrowRealismOverhaul.dll`, die Ordner `UserData\RealismOverhaul...` sowie die Ordner `RealismOverhaul_Vehicules` und `RealismOverhaul_SousMods`. Um auch MelonLoader zu entfernen, lösche `version.dll` und den Ordner `MelonLoader`. Die eigenen Divisionen und das Menü des Spiels kommen genau wie vorher zurück.
@@ -228,6 +273,9 @@ Lösche `Mods\BrokenArrowRealismOverhaul.dll`, die Ordner `UserData\RealismOverh
 
 > [!NOTE]
 > **Zur Virenwarnung: Es ist ein Fehlalarm.** MelonLoader legt eine native Datei, `version.dll`, unter dem Namen einer Windows-Systembibliothek neben das Spiel, damit das Spiel sie statt der echten lädt. So funktioniert jede MelonLoader-Mod für jedes Unity-Spiel, und genau diese Technik sollen Virenscanner erkennen: Die Datei wird für das gemeldet, wonach sie aussieht, nicht für das, was sie tut. Die Mod selbst, `BrokenArrowRealismOverhaul.dll`, ist eine einzige verwaltete .NET-Datei, ohne nativen Code, ohne Packer und ohne Verschleierung; sie nutzt das Netzwerk nur zum gemeinsamen Spielen (Steam-Lobbys und, für Lobbys, die für VK Play offen sind, das öffentliche BitTorrent-Netz und direkte Verbindungen).
+
+> [!NOTE]
+> **Gelbe Warnungen in der Konsole** (Il2CppInterop „Class::Init signatures have been exhausted“, AccessTools „GetTypesFromAssembly“): Sie kommen daher, dass MelonLoader das Spiel einliest, und sind für sich genommen harmlos. Stürzt das Spiel beim Start einer Schlacht ab, schließe es, lösche den Ordner `MelonLoader\Il2CppAssemblies`, starte das Spiel mit Internetverbindung neu, damit MelonLoader den Ordner neu aufbaut, und prüfe den empfohlenen Arbeitsspeicher oben.
 
 Nicht kompatibel mit anderen Mods, die Einheitenwerte umschreiben.
 
@@ -251,8 +299,9 @@ Die Mod hält das Spiel absichtlich von den offiziellen Servern fern und gibt ih
 - Über **Spielen > Partie erstellen**, dann **Mehrspieler spielen**: eine Karte der Modi gegen die KI, ein offizielles PvE-Szenario, eine Mehrspielerkarte oder eine Karte aus dem Steam Workshop (deine Freunde laden sie automatisch herunter).
 - Ein **Titel**, und wer beitreten kann: **Öffentlich**, **Nur Freunde** oder **Privat** (nur per Steam-Einladung), mit einem optionalen **Passwort**.
 - Eine öffentliche Lobby ist für Steam- und VK-Play-Spieler offen; hake **Nur Steam** an (auf deinem PC gespeichert), um deine auf Steam zu halten. Lobbys „Nur Freunde“, „Privat“ und auf Workshop-Karten sind immer nur Steam.
-- **Der Modus**: Koop gegen die KI, alle Spieler auf derselben Seite, oder **Spieler gegen Spieler** auf einer Mehrspielerkarte, bis zu 3 Spieler pro Seite, ohne KI.
-- **Max. Einheiten pro Seite** (90, 100, 120, 150 oder **Dynamisch**), vor der Partie gewählt und die ganze Schlacht über festgelegt.
+- **Der Modus**: Koop gegen die KI, alle Spieler auf derselben Seite, oder **Spieler gegen Spieler** auf einer Mehrspielerkarte, ohne KI.
+- **Die Zahl der Spieler**, auch im Lobby-Bildschirm wählbar: gegen die KI 1 bis 5 Spieler (das Spiel hat 5 Plätze pro Seite); zwischen Spielern auf den Frontkarten 2, 4, 6, 8 oder 10 (1 gegen 1 bis 5 gegen 5). Beim Start festgelegt.
+- **Max. Einheiten pro Spieler** (25, 50, 75, 100, 125 oder 150, Standard 100, oder **Dynamisch**): Eine Seite hat diese Zahl mal ihre Spieler, und das Menü zeigt die Summe. Vor der Partie gewählt und die ganze Schlacht über festgelegt.
 
 ### In der Lobby
 - **Jeder Spieler wählt sein Land auf seiner Seite und ein Deck dieses Landes**: Auf der NATO-Seite kann einer Deutschland nehmen, ein anderer die Vereinigten Staaten, ein dritter die Ukraine.
@@ -262,7 +311,7 @@ Die Mod hält das Spiel absichtlich von den offiziellen Servern fern und gibt ih
 
 ### In der Schlacht
 - Ein schwarzer Bildschirm **Synchronisierung**: Die Schlacht beginnt, wenn alle bereit sind, mit der geschätzten Wartezeit.
-- **F8** zeigt die Spieler, und der Host kann einen entfernen.
+- **F8** zeigt die Spieler, und der Host kann einen entfernen. Mit **Blockieren** sperrt er einen Spieler außerdem für die Partien, die er hostet: Seine Sperrliste bleibt auf seinem eigenen PC, in `UserData\RealismOverhaul_bloques.txt`, und er kann jederzeit wieder entsperren.
 - **Verbindung verloren**: Nach 15 Sekunden ohne Lebenszeichen übernimmt der PC des Hosts die Einheiten des fehlenden Spielers **in reiner Verteidigung**. Kommt er zurück, schickt ihm der Host, was er verpasst hat, und gibt ihm seine Einheiten zurück.
 
 <a id="rejoin"></a>
@@ -278,7 +327,7 @@ Starte das Spiel neu und öffne **Lobby suchen**: Die Partie deines Hosts zeigt 
 | **Schlacht-Chat** | **Alle** und **Verbündete**, mit Name und Farbe des Absenders, in jeder Sprache. |
 | **Einheiten, Timer, Spielerliste, Ziele, Punkte** | Auf jedem PC gleich, wie in einer offiziellen Partie. |
 | **Kapitulationsabstimmung** | **Esc > Kapitulieren**: Der Host zählt die Stimmen. |
-| **Geld** | Jeder Spieler hat seine eigenen Startpunkte und seinen Anteil am Einkommen; das Einheitenlimit wird geteilt. |
+| **Geld** | Jeder Spieler hat seine eigenen Startpunkte und seinen Anteil am Einkommen; das Einheitenlimit der Seite ist das Limit pro Spieler mal die Zahl ihrer Spieler. |
 | **Depots, Minen, Explosionen, Reparaturen, Niederhalten, beschädigte Komponenten** | Für alle gleich. |
 | **Skripte der Szenarien** | Einheiten, die ein offizielles PvE-Szenario verteilt, kommen beim richtigen Spieler an. |
 | **Dieselbe Schlacht** | Jeder PC baut dieselbe Karte und dieselben Werte. **Die Regeln und Einstellungen des Hosts gelten für alle.** |
@@ -311,7 +360,7 @@ Die Mod gibt dem Spiel ein eigenes Menü, aufgeräumt und in deiner Sprache. Ein
 | Kachel | Was sie öffnet |
 |---|---|
 | **Kampagne** | Die Kampagne des Spiels, unberührt, gespielt mit den Regeln der Mod. |
-| **Partie erstellen** | Links: **Mehrspielerkarten** (das Gefecht ist hier), **Spielmodi gegen die KI** (Logistikfront, Durchbruch, Jagd auf den Gefechtsstand), **Offizielle Szenarien** und **Steam Workshop**. Rechts **ein einziges Feld** für alles: Karte, Modus, Größe, empfohlener Arbeitsspeicher, **Max. Einheiten pro Seite**, **Realismus-Modus**, deine Seite, dein Land und deine Kampfgruppe, der feindliche Kommandant (Stufe und Länder), der KI-Verbündete (nur solo), die Lobby, Uhrzeit und Wetter; für ein offizielles Szenario die **Schwierigkeit** und die **Feindlichen Bots** und **Verbündeten Bots**. Dann **Solo spielen** oder **Mehrspieler spielen**. |
+| **Partie erstellen** | Links: **Mehrspielerkarten** (das Gefecht ist hier), **Spielmodi gegen die KI** (Logistikfront, Durchbruch, Jagd auf den Gefechtsstand), **Offizielle Szenarien** und **Steam Workshop**. Rechts **ein einziges Feld** für alles: Karte, Modus, Größe, empfohlener Arbeitsspeicher, die **Zahl der Spieler**, **Max. Einheiten pro Spieler**, **Realismus-Modus**, deine Seite (NATO, OVKS oder Gemischt), dein Land und deine Kampfgruppe, der feindliche Kommandant (Stufe und Länder), der KI-Verbündete (nur solo), die Lobby, Uhrzeit und Wetter; für ein offizielles Szenario die **Schwierigkeit** und die **Feindlichen Bots** und **Verbündeten Bots**. Dann **Solo spielen** oder **Mehrspieler spielen**. |
 | **Lobby suchen** | Die Lobbys der Mod (Steam und VK Play) und deine **Steam-Freunde, die die Mod spielen**. |
 
 ### Einstellungen > Mod
@@ -329,7 +378,12 @@ Alles an der Mod ist immer aktiv, außer den wenigen Dingen unten, angezeigt auf
 |---|---|---|
 | **Realismus-Modus** | Esc > Einstellungen > Mod oder **Partie erstellen** | **Realistisch** lässt die echten Werte unverändert; **Halbrealistisch** (Standard) gleicht sie aus (+60 % Leben für alle Einheiten, auch für Luftfahrzeuge, Reichweiten unverändert; Flugzeuge etwas glücklicher gegen Flugkörper, mehr Überlebende eines zerstörten Trägers, stabilere Gebäude); **Vanilla**: Jede Karte der Mod übernimmt die Werte ihrer Basiskarte aus dem Spiel. In der Schlacht festgelegt |
 | **Wracks, Gefallene, Brände und Krater** | Esc > Einstellungen > Mod | 5, 15, 30 oder 60 Minuten oder **Unbegrenzt** (standardmäßig 30). Auch die Zeit, nach der sich ein aufgegebenes Fahrzeug, das niemand birgt, selbst zerstört (bei Unbegrenzt nie) |
-| **Max. Einheiten pro Seite** | **Partie erstellen** oder Esc > Einstellungen > Mod | 90, 100, 120 oder 150 pro Seite auf den Frontkarten, unter den Spielern der Seite geteilt, oder **Dynamisch** (keine Grenze für die Spieler; die KI bleibt bei 150 pro Seite und folgt dir darüber hinaus); vor der Partie gewählt und in der Schlacht festgelegt |
+| **Zahl der Spieler** | **Partie erstellen** und Lobby-Bildschirm | Gegen die KI 1 bis 5 Spieler; zwischen Spielern auf den Frontkarten 2, 4, 6, 8 oder 10 (1 gegen 1 bis 5 gegen 5). Vom Host gewählt, beim Start festgelegt |
+| **Max. Einheiten pro Spieler** | **Partie erstellen** oder Esc > Einstellungen > Mod | 25, 50, 75, 100, 125 oder 150 pro Spieler (Standard 100). Eine Seite hat diese Zahl mal ihre Spieler, und die KI gegenüber bekommt dieselbe Summe (höchstens 450, für die Leistung); das Menü zeigt die Summe („100 pro Spieler, 4 Spieler: 400 pro Seite“). Oder **Dynamisch**: keine Grenze für die Spieler; die KI startet bei 150, steigt auf die Zahl der Spielereinheiten auf der Karte, sobald diese größer ist, und sinkt in der Schlacht nie wieder (höchstens 450). Vor der Partie gewählt und in der Schlacht festgelegt |
+| **Deine Seite** | **Partie erstellen** | NATO, OVKS oder **Gemischt** (jedes Deck in den Szenarien; die KI nimmt die Fraktion gegenüber) |
+| **Reichweiten** | Vom Host, vor der Partie | Flugabwehr: Realistisch, 25 km, 15 km oder Vanilla. Flugkörper und Artillerie: Realistisch, 50 %, 25 % oder Vanilla. Im Realismus-Modus Vanilla sind diese Zeilen ausgegraut |
+| **Erscheinen der Luftfahrzeuge** | Vom Host, vor der Partie | Flugzeuge 1, 5 oder 10 km hinter dem Kartenrand; Hubschrauber 1, 2, 3 oder 5 km |
+| **Aufgeben erlaubt** | Vom Host, vor der Partie | **Ja** oder **Nein** (Nein: Die Fahrzeuge kämpfen bis zum Tod, und die Besatzungen von Luftfahrzeugen haben ihre echten Überlebenschancen) |
 | **Fahrzeuge aufgeben** | Esc > Einstellungen > Mod | **Manuell** (Standard: ein blinkendes gelbes Dreieck und eine Schaltfläche **Aufgeben** bei 30 % Leben oder weniger) oder **Automatisch**; jeder Spieler für seine eigenen Fahrzeuge. Die KI gibt immer automatisch auf |
 | **Laser-Zielbeleuchtung** | Esc > Einstellungen > Mod | **Automatisch** (Standard; ein Laser, den du selbst setzt, wird nie verschoben) oder **Manuell** (nichts geschieht automatisch); jeder Spieler für seine eigenen Einheiten, nie vom Host vorgegeben |
 | **Grafikzeilen** | Optionen > Grafik | **Objektdistanz**, **Grasdistanz**, **Grasdichte**, **Baumdistanz**, **Schattendistanz** (0 bis 5.000 m), Schatten und Effekte einzeln, **Bilder pro Sekunde im Menü**, eine Schaltfläche **Standardwerte**; **DLSS** (NVIDIA RTX) und FSR 3 schalten sich gegenseitig ab. Jeder Spieler stellt seine eigenen ein |
@@ -339,7 +393,7 @@ Alles an der Mod ist immer aktiv, außer den wenigen Dingen unten, angezeigt auf
 | **Szenarien** | **Partie erstellen**, für ein offizielles Szenario | **Schwierigkeit** (Leicht, Normal, Schwer) und **Feindliche Bots** / **Verbündete Bots** (Keine, 1, 2 oder 3) |
 | `FacteurSonGuerre` | `UserData\MelonPreferences.cfg` | 1 realistischer Sound, 0.5 leise, 2 laut, 0 der Originalsound des Spiels |
 
-Die freie Kamera (von 6 m bis 9.000 m), die Bewegungsbefehle und die Rückfahrt leerer Lkw zur Basis sind immer aktiv, ohne Einstellung. Der Spielbereich ist die ganze Karte, und die Minikarte bleibt in jeder Schlacht der Mod genordet.
+Die freie Kamera (von 6 m bis 25.000 m), die Bewegungsbefehle und die Rückfahrt leerer Lkw zur Basis sind immer aktiv, ohne Einstellung. Der Spielbereich ist die ganze Karte, und die Minikarte bleibt in jeder Schlacht der Mod genordet.
 
 <div align="right"><a href="#top">nach oben</a></div>
 
@@ -355,11 +409,11 @@ Die freie Kamera (von 6 m bis 9.000 m), die Bewegungsbefehle und die Rückfahrt 
 |---|---|
 | **7 Karten pro Kategorie** | Für alle gleich. |
 | **50.000 Punkte pro Kategorie** | In jeder Kategorie, für jedes Land. |
-| **Echte Verfügbarkeit** | Alte, in Masse gebaute Fahrzeuge kommen in großer Zahl, moderne in kleinen Stückzahlen: zwei T-14 pro Karte gegen zwölf alte T-72. |
-| **Echte Preise** | Jede Einheit zum Preis ihres echten Kampfwerts: T-72B3 180, BMP-3 95, Bradley 100, T-90M 330, Abrams SEP v3 355, Grad 150 und der T-14 Armata, der stärkste Panzer des Spiels, 560. Flugzeuge bezahlen ihren echten Selbstschutz und ihre Bewaffnung. |
-| **Standarddecks** | Eines pro Land (12): Einheiten im Dienst, in echten Stückzahlen. Schreibgeschützt, aber du kannst eines kopieren und die Kopie bearbeiten. Deine eigenen Decks bleiben immer oben in der Liste. |
+| **Echte Verfügbarkeit** | Alte, in Masse gebaute Fahrzeuge kommen in großer Zahl, moderne in kleinen Stückzahlen: zwei der neuesten Panzer pro Karte gegen zwölf alte. |
+| **Echte Preise** | Jede Einheit zum Preis ihres echten Kampfwerts: Ein moderner Kampfpanzer kostet fast doppelt so viel wie ein alter, und der stärkste Panzer des Spiels 560. Flugzeuge bezahlen ihren echten Selbstschutz und ihre Bewaffnung. |
+| **Standarddecks** | Eines pro Land außer China (12): Einheiten im Dienst, in echten Stückzahlen. Schreibgeschützt, aber du kannst eines kopieren und die Kopie bearbeiten. Deine eigenen Decks bleiben immer oben in der Liste. |
 | **Deine Decks bleiben erhalten** | Bei jedem Start und jedem Update wird nur eine ungültig gewordene Karte korrigiert oder herausgenommen, mit einer Meldung, die sie nennt. Kein Deck wird je gelöscht, und doppelte Karten werden ausgeblendet. |
-| **Der Spezial-Reiter** | Neben Zubr und LCAC: Unterstützungseinheiten, etwa Minenleger und Minenräumer, damit sie nie den Platz von Kampfeinheiten einnehmen. |
+| **Der Spezial-Reiter** | Neben den Landungsbooten: Unterstützungseinheiten, etwa Minenleger und Minenräumer, damit sie nie den Platz von Kampfeinheiten einnehmen. |
 | **Kampagne** | Nur dein USA- oder Russland-Deck spielt in der Kampagne, zusätzlich zu dem, was dir die Mission gibt. |
 | **Überall sonst** | Szenarien, Gefecht und die Modi gegen die KI nehmen das Deck jedes Landes. |
 
@@ -371,18 +425,18 @@ Die freie Kamera (von 6 m bis 9.000 m), die Bewegungsbefehle und die Rückfahrt 
 
 ## 🌍 Nationen: NATO gegen OVKS
 
-Das Spiel kennt nur zwei Seiten, also gehört jedes Land zu einer davon: Die NATO-Länder kämpfen auf der amerikanischen Seite, die OVKS-Länder auf der russischen. Jedes Land hat seine Flagge und nur das Gerät, das es wirklich hat: im Dienst, bestellt oder aus alten Beständen. Eine Karte gibt es nur, wenn das gezeigte 3D-Modell das echte Fahrzeug ist. Kleine Armeen bekommen mehr Exemplare ihrer Panzerabwehr- und Flugabwehreinheiten. China ist seit 6.0.2 spielbar; Frankreich ist **in Vorbereitung** und noch nicht spielbar.
+Das Spiel kennt nur zwei Seiten, also gehört jedes Land zu einer davon: Die NATO-Länder kämpfen auf der amerikanischen Seite, die OVKS-Länder auf der russischen. Jedes Land hat seine Flagge und nur das Gerät, das es wirklich hat: im Dienst, bestellt oder aus alten Beständen. Kleine Armeen bekommen mehr Exemplare ihrer Panzerabwehr- und Flugabwehreinheiten. China ist seit 6.0.2 spielbar und kämpft mit eigenem Gerät: 43 Fahrzeuge auf eigenen 3D-Modellen in der 6.0.3, vom Panzer Typ 99A bis zum Jäger J-20. Frankreich ist **in Vorbereitung** und noch nicht spielbar. Es ist in etwa zehn Tagen geplant, mit vielen weiteren Fahrzeugen auf eigenen 3D-Modellen für Frankreich, Deutschland, die Ukraine, Russland und China: Die meisten Länder werden dann vollständig sein, China zu etwa 90 %, weil seine neuesten Fahrzeuge erst in wenigen Videos und auf wenigen Fotos gezeigt wurden.
 
 ### NATO
 | Land | Was es einsetzt | Braucht |
 |---|---|---|
-| **Vereinigte Staaten** | Das komplette amerikanische Arsenal des Spiels, NASAMS eingeschlossen, und den JLTV mit TOW oder Mk 19. | Grundspiel |
+| **Vereinigte Staaten** | Das komplette amerikanische Arsenal des Spiels. | Grundspiel |
 | **Ukraine** | Gerät aus sowjetischer Zeit und von Partnerländern geliefertes Gerät. | Grundspiel |
-| **Deutschland** | Die Bundeswehr 2026: Leopard 2, Vilkas (Boxer), PzH 2000, IRIS-T SLM, eigene Infanterie (G36, MG3, MG5, Panzerfaust 3). | Baltikum-DLC |
-| **Polen** | Kampfpanzer K2 und Abrams, Leopard 2, PT-91, Rosomak, koreanische und amerikanische Raketenartillerie, Patriot, F-16, der Mörser M120 Rak, das Flugabwehrsystem Poprad, die Hubschrauber AW149 und W-3 Sokół. | Grundspiel |
-| **Litauen** | Vilkas (Boxer) und M113, PzH 2000 und HIMARS, NASAMS, Black Hawk. Keine Panzer im Dienst. | Baltikum-DLC |
-| **Lettland** | CVR(T) Scimitar und Spartan, Patria 6x6, Haubitzen M109A5Ö, RBS 70, Spike und Piorun, Black Hawk. | Baltikum-DLC |
-| **Estland** | CV9035, Patria XA-180/188 und ARMA 6x6, die Haubitze K9 Kõu, HIMARS, IRIS-T SLM, Mistral und Piorun. Keine Panzer und keine Kampfjets. | Baltikum-DLC |
+| **Deutschland** | Die Bundeswehr 2026, mit eigener Infanterie (G36, MG3, MG5, Panzerfaust 3). | Baltikum-DLC |
+| **Polen** | Polnisches Gerät und Gerät seiner Partner (Korea, Vereinigte Staaten, Deutschland): Kampfpanzer, Raketenartillerie, Flugabwehr, Kampfjets und Hubschrauber. | Grundspiel |
+| **Litauen** | Radschützenpanzer, Artillerie und Raketenartillerie, Flugabwehr, Hubschrauber. Keine Panzer im Dienst. | Baltikum-DLC |
+| **Lettland** | Leichte Kettenfahrzeuge und Radfahrzeuge, Haubitzen, RBS 70, Spike und Piorun, Hubschrauber. | Baltikum-DLC |
+| **Estland** | Schützenpanzer und Radfahrzeuge, Haubitzen und Raketenartillerie, IRIS-T, Mistral und Piorun. Keine Panzer und keine Kampfjets. | Baltikum-DLC |
 | **Europa** | Echte Fahrzeuge aus West- und Nordeuropa, Polen und den baltischen Staaten, unter ihren echten Namen und mit ihren echten Werten, ohne Gerät aus sowjetischer Zeit. | Grundspiel |
 
 ### OVKS
@@ -390,8 +444,8 @@ Das Spiel kennt nur zwei Seiten, also gehört jedes Land zu einer davon: Die NAT
 |---|---|---|
 | **Russland** | Das komplette russische Arsenal des Spiels. | Grundspiel |
 | **Donbass** | Donezk und Luhansk, 2023-2026: sowjetisches und russisches Gerät, eine gemeinsame Flagge. | Grundspiel |
-| **Belarus** | Im Land modernisiertes Gerät aus sowjetischer Zeit und russische Lieferungen: T-72B3, BTR-82A, Iskander-M, Su-30SM2, Mi-35M. | Grundspiel |
-| **Kasachstan** | Gerät aus sowjetischer Zeit und russische Käufe: T-72BA, BTR-82A, BMPT, Buk-M2E, Su-30SM, Mi-35M und die Spezialkräfte SSO. | Grundspiel |
+| **Belarus** | Im Land modernisiertes Gerät aus sowjetischer Zeit und russische Lieferungen. | Grundspiel |
+| **Kasachstan** | Gerät aus sowjetischer Zeit, russische Käufe und die Spezialkräfte SSO. | Grundspiel |
 
 > [!NOTE]
 > Einheiten aus einem DLC, das du nicht besitzt, erscheinen einfach nicht. Deutschland, Litauen, Lettland und Estland brauchen das Baltikum-DLC, und manche Karten und Einheiten brauchen das DLC3.
@@ -404,17 +458,19 @@ Das Spiel kennt nur zwei Seiten, also gehört jedes Land zu einer davon: Die NAT
 
 ## 🛡️ Fahrzeuge und Arsenal
 
+Insgesamt rund 400 Modelle, die nach und nach mit der Mod dazukommen.
+
 ### Echte Motoren und echte Ausrüstung
 - **Echte Motoren zur Wahl** für jedes Fahrzeug, mit Namen und Leistung: ältere billiger, neuere teurer. Der Motor ändert die Beschleunigung, und die Höchstgeschwindigkeit nur dann, wenn er es auch in echt tut.
-- **Echter Schutz zur Wahl**, wenn das 3D-Modell ihn zeigt: Reaktivpanzerung an der T-72-Familie, Shtora, TUSK-I-Kit, Trophy, Panzerungskits für leichte Fahrzeuge.
-- **Außenschutz (+10)**: Gitterschutz an russischen, belarussischen und ukrainischen Panzern und gepanzerten Fahrzeugen, der wirklich einen Teil der Raketen und Flugkörper mit einfacher Hohlladung an Seiten und Heck aufhält. Der Gitterschutz, der an leichten Fahrzeugen schon zu sehen ist (BTR, BMP, MT-LB, BMD-4M, M113, Stryker...), schützt ebenfalls (+5).
+- **Echter Schutz zur Wahl**: Reaktivpanzerung, Shtora, Trophy, Panzerungskits für leichte Fahrzeuge.
+- **Außenschutz (+10)**: Gitterschutz an russischen, belarussischen und ukrainischen Panzern und gepanzerten Fahrzeugen, der wirklich einen Teil der Raketen und Flugkörper mit einfacher Hohlladung an Seiten und Heck aufhält. Der Gitterschutz, der an leichten Fahrzeugen schon montiert ist, schützt ebenfalls (+5).
 - **Drohnenschutzdach (+10)**: hält die erste kleine Drohne auf, die das Dach trifft, dann wird es abgerissen. Große Kamikazedrohnen kommen durch.
-- **Tarnung** an 31 Panzern und gepanzerten Fahrzeugen: geländeangepasstes Muster (+5), Büsche (+10), sehr dichte Büsche (+20). Schwerer zu entdecken, nur Dekor.
-- **Frontausrüstung**: ein Räumschild (+10) an 27 Panzern sowjetischer Schule, um sich ohne Pioniere 3-mal schneller einzugraben, oder **Minenräumer KMT-6 / KMT-8** (+10) an russischen Panzern: Eine Mine im Weg einer Kette detoniert am Räumer, und die Schaltfläche **Minenräummodus** räumt eine Gasse mit 12 km/h. Auch die KI nutzt sie.
+- **Tarnung** an Panzern und gepanzerten Fahrzeugen: geländeangepasstes Muster (+5), Büsche (+10), sehr dichte Büsche (+20). Schwerer zu entdecken, nur Dekor.
+- **Frontausrüstung**: ein Räumschild (+10) an Panzern sowjetischer Schule, um sich ohne Pioniere 3-mal schneller einzugraben, oder **Minenräumer KMT-6 / KMT-8** (+10) an russischen Panzern: Eine Mine im Weg einer Kette detoniert am Räumer, und die Schaltfläche **Minenräummodus** räumt eine Gasse mit 12 km/h. Auch die KI nutzt sie.
 - Bewaffnungen, die das echte Fahrzeug nie trug, sind ausgeblendet, und die Wahlmöglichkeiten der Flugzeug-Pylonen gehen von der stärksten zur schwächsten, mit Filtern.
 
 ### Panzer
-- **Panzerversionen mit eigener Panzerung, eigenem Preis und eigener Verfügbarkeit**: T-72M1, T-72B3 obr. 2022, T-80B, T-80BVM, T-90 (8 pro Karte), der seltene T-90AK, T-90M, T-14, Leopard 2A4 bis 2A7, M1A1 SA, SEP-Versionen des Abrams, BMPT-72 und weitere. Der T-14 Armata ist der beste Panzer des Spiels.
+- **Panzerversionen mit eigener Panzerung, eigenem Preis und eigener Verfügbarkeit**, von den ältesten bis zu den neuesten.
 - **Echte Frontpanzerung** in echten Millimetern und die echte Zahl an Granaten an Bord.
 
 ### Aktive Schutzsysteme, System für System
@@ -422,18 +478,19 @@ Das Spiel kennt nur zwei Seiten, also gehört jedes Land zu einer davon: Die NAT
 |---|:-:|:-:|
 | Trophy HV | 6 | 1 s |
 | Iron Fist | 4 | 0,5 s |
-| StrikeShield (Vilkas) | 3 | 0,2 s |
+| StrikeShield | 3 | 0,2 s |
 | Arena-M | 6 | 0,4 s |
 | Arena (1997) | 8 | 0,4 s |
 | Drozd-2 | 8 | 0,5 s |
-| Afganit (T-14, T-15) | 10 | 0,4 s |
-| Afganit (Kurganez, Bumerang) | 8 | 0,4 s |
+| Afganit (schwere Fahrzeuge) | 10 | 0,4 s |
+| Afganit (mittlere Fahrzeuge) | 8 | 0,4 s |
 
 Die Ladungen werden von Versorgungs-Lkw nachgeladen. Aktiver Schutz kann nicht aufhalten, was auf das Dach stürzt (Javelin, Spike LR, Hellfire, JAGM, Loitering Munitions). **Shtora** wirkt je nach Flugkörper: stark gegen alte drahtgelenkte Flugkörper, nutzlos gegen den Javelin; ein Panzer, der das Raketenteam sieht, schießt zuerst auf es.
 
 ### Aufgegebene Fahrzeuge, Bergung und Beute
 - Ein Bodenfahrzeug mit **30 % Leben oder weniger** kann **aufgegeben** werden: von Hand (ein gelbes Dreieck und eine Schaltfläche **Aufgeben**) oder automatisch. Seine Besatzung steigt aus und bringt die Karte zurück, sobald sie deine Basis erreicht.
 - Ein aufgegebenes Fahrzeug wird **weiß (neutral)**: Niemand schießt von selbst darauf, es ist völlig untätig, und es zerstört sich am Ende der Wrack-Dauer selbst, wenn es niemand birgt.
+- **Jedes Fahrzeug, das stark genug ist, kann abschleppen**: Es bringt ein aufgegebenes oder bewegungsunfähiges Fahrzeug nach hinten (**Abschleppen** / **Abkuppeln**), wo Bergepanzer es instand setzen.
 - Wird ein aufgegebenes Fahrzeug instand gesetzt, steigt seine Besatzung wieder ein.
 - Ein aufgegebenes **feindliches** Fahrzeug, das du birgst und reparierst, wird deine **Beute**; zur Basis gebracht, bringt es dir die Hälfte seines Preises. Die KI macht es genauso.
 
@@ -452,7 +509,7 @@ Die Ladungen werden von Versorgungs-Lkw nachgeladen. Aktiver Schutz kann nicht a
 - Panzerabwehrflugkörper mit Hohlladung feuern nicht auf Infanterie, und Panzerabwehrteams sparen ihre Flugkörper für Panzer auf.
 
 ### Beschädigte Komponenten
-Geht ein Treffer durch ein Bodenfahrzeug, kann er eine Komponente treffen, je nach getroffener Seite: **Ketten** (bewegungsunfähig), **Räder oder Motor** (verlangsamt, dann bewegungsunfähig), **Motorbrand**, **Turm** (langsameres Richten), **Kanone** (ungenau), **Optik** (sieht weniger weit), **Besatzung** (langsamer) oder die **Munition**, die explodieren kann: T-72, T-80 und T-90 60 %, Leopard 2 20 %, Abrams 10 %, T-14 0 %. Ein Treffer, der nicht durchschlägt, kann trotzdem Optik, Visiere, Turm oder Ketten beschädigen oder die Besatzung betäuben. Ein bewegungsunfähiges Fahrzeug dreht nur noch seinen Turm. Versorgungs-Lkw, Instandsetzungs-Lkw und Pioniere reparieren.
+Geht ein Treffer durch ein Bodenfahrzeug, kann er eine Komponente treffen, je nach getroffener Seite: **Ketten** (bewegungsunfähig), **Räder oder Motor** (verlangsamt, dann bewegungsunfähig), **Motorbrand**, **Turm** (langsameres Richten), **Kanone** (ungenau), **Optik** (sieht weniger weit), **Besatzung** (langsamer) oder die **Munition**, die explodieren kann: je nach Panzer zwischen 0 und 60 %. Ein Treffer, der nicht durchschlägt, kann trotzdem Optik, Visiere, Turm oder Ketten beschädigen oder die Besatzung betäuben. Ein bewegungsunfähiges Fahrzeug dreht nur noch seinen Turm. Versorgungs-Lkw, Instandsetzungs-Lkw und Pioniere reparieren.
 
 ### Niederhalten
 Der Stress steigt mit Treffern **und mit knappen Fehlschüssen**, bis **erschüttert** und dann **in Panik**: Erschütterte Infanterie schießt breiter, Infanterie in Panik viel breiter und kriecht trotzdem weiter. Fahrzeuge sind weniger betroffen. Die Ruhe kehrt etwa 40 Sekunden nach Feuerende zurück, und das Niederhalten ist im Koop für alle Spieler gleich.
@@ -474,14 +531,14 @@ Der Stress steigt mit Treffern **und mit knappen Fehlschüssen**, bis **erschüt
 
 ### Minen
 - **Pioniere** legen Panzerminen in einer Reihe; eine Mine ist scharf, sobald sie liegt, und **jedes Fahrzeug**, das darüberfährt, wird zerstört, Freund oder Feind.
-- **Fernverminung**, auf jeder Seite gleich viele: M109A6 und M109A7 mit RAAM-Granaten für die Vereinigten Staaten, ISDM Zemledeliye und Grad mit 9M28K-Raketen für Russland, 10 km Reichweite, Minen, die die ganze Partie liegen bleiben, höchstens 100 pro Seite.
-- **Minenräumen**: Minenräumfahrzeuge (M1150, MICLIC, UR-77), Sappeure und KMT-Räumer mit ihrem **Minenräummodus**.
+- **Fernverminung**, auf jeder Seite gleich viele: Haubitzen mit RAAM-Granaten für die Vereinigten Staaten, Minenwerfer und der Grad mit 9M28K-Raketen für Russland, 10 km Reichweite, Minen, die die ganze Partie liegen bleiben, höchstens 100 pro Seite.
+- **Minenräumen**: Minenräumfahrzeuge, Sappeure und KMT-Räumer mit ihrem **Minenräummodus**.
 - Minen werden im Koop von allen Spielern geteilt, mit ihrer Explosion und ihrem Krater.
 
 ### Artillerie
 - **Echte Bewaffnung und Munitionsvorräte**, gelenkte Granaten (Krasnopol-M, Excalibur, Vulcano...), echte **Richtzeiten** und **Mindestreichweiten**.
 - **In Stellung**: Nach jeder Bewegung durchläuft ein Geschütz eine echte Zeit zum Instellunggehen, bevor es feuert.
-- **Zwei Modi**, auf Wunsch zusammen: **Feuer auf aufgeklärte Einheiten** und **Konterbatterie**, auf eine Batterie, die nach Gehör geortet wird.
+- **Zwei Modi**, auf Wunsch zusammen: **Feuer frei** (jeder Feind, den deine Seite aufgeklärt hat) und **Konterbatterie**, auf eine Batterie, die nach Gehör geortet wird.
 - Granaten und Raketen zur **Fernverminung** und **Streumunition** mit ihrer echten Wirksamkeit.
 
 ### Bewegungs- und Feuerbefehle
@@ -519,23 +576,25 @@ Jedes Flugzeug und jeder Hubschrauber trägt seine **echte Selbstschutzausstattu
 In Halbrealistisch gelingt jede Gegenmaßnahme 25 % öfter. Mehrere addieren sich, nie über 95 %.
 
 ### Flugzeuge und Hubschrauber
-- **Echte Wendigkeit**: Jeder Jäger kurvt mit seiner echten Rate, die Suchois mit Schubvektorsteuerung vorne, und kann **einem Flugkörper ausweichen**. Deine Jäger ohne Befehl jagen die feindlichen Flugzeuge, die deine Seite sieht, und kehren heim, wenn sie getroffen sind oder die Munition knapp wird.
-- **Tarnkappe nur gegen Radar**: F-22, F-35, B-2, Su-57 und andere werden vom Radar viel näher gefunden, je nach Alter des Radars, während Augen und Infrarot sie wie jedes andere Flugzeug sehen.
+- **Echte Wendigkeit**: Jeder Jäger kurvt mit seiner echten Rate, die Jäger mit Schubvektorsteuerung vorne, und kann **einem Flugkörper ausweichen**. Deine Jäger ohne Befehl jagen die feindlichen Flugzeuge, die deine Seite sieht, und kehren heim, wenn sie getroffen sind oder die Munition knapp wird.
+- **Tarnkappe nur gegen Radar**: Tarnkappenflugzeuge werden vom Radar viel näher gefunden, je nach Alter des Radars, während Augen und Infrarot sie wie jedes andere Flugzeug sehen.
 - **Echte Antriebe**: echter Schub, echtes Steigen, echtes Kurven.
 - **Echte Flugdauer** auf jeder Karte und eine **echte Wartungszeit** an der Basis (5 bis 45 Minuten). Hubschrauber können **landen**, Motor aus.
-- **Flugzeuge erscheinen 1 km und Hubschrauber 500 m außerhalb der Karte, hinter ihrer eigenen Seite.**
+- **Flugzeuge erscheinen 1, 5 oder 10 km und Hubschrauber 1, 2, 3 oder 5 km außerhalb der Karte, hinter ihrer eigenen Seite**, nach Wahl des Hosts. Kein Flugzeug wird mehr beim Erscheinen abgeschossen.
+- **Steigen gegen ein Luftziel**: kein automatisches Steigen mehr gegen ein Ziel jenseits von 10 km, du steigst per Schaltfläche. Große Flugzeuge stürzen im Tiefflug nicht mehr ab.
 - **Tiefflug** verbirgt vor Radarflugkörpern großer Reichweite, liefert dich aber jeder Kanone in Reichweite aus; **hoher Flug** wird von allen gesehen, bis zur echten Gipfelhöhe der Flugabwehr.
 
 ### Luftangriff
 - **Gleitbomben** auf ihre echte Abstandsreichweite (50 bis 100 km), mit dem Befehl für Präzisionsschläge abgeworfen; gelenkte Bomben mehrerer Kaliber werden alle abgeworfen.
 - **Loft-Angriff** für die Flugzeuge, die es in echt tun; die Schaltfläche **Raketensalve** (25, 50, 75 oder 100 % der ungelenkten Raketen pro Anflug).
-- **Über 160 echte Bewaffnungen** an den richtigen Pylonen; Bewaffnungen, die das echte Flugzeug nie trug, sind ausgeblendet.
+- **Über 160 echte Bewaffnungen** an den richtigen Pylonen; Bewaffnungen, die das echte Flugzeug nie trug, sind ausgeblendet. Neu: UMPK (FAB-500 und FAB-1500), SDB und StormBreaker (bis zu 28 SDB), HARM, JSOW und GBU-54, Ataka + Verba am Hubschrauber; die StormBreaker trifft ein fahrendes Ziel, und schwere Lenkbomben fallen nicht mehr senkrecht herunter.
 - **Echte Flugprofile**: Kinschal, Zirkon und ARRW fliegen wie in echt; Javelin, Spike und Hellfire stürzen auf das Dach.
-- **Die Lasermarkierung** ist automatisch (oder manuell, nach Wahl unter Esc > Einstellungen > Mod) bei den Einheiten, die wirklich einen Laserzielbeleuchter tragen.
+- **Die Lasermarkierung** ist automatisch (oder manuell, nach Wahl unter Esc > Einstellungen > Mod) bei den Einheiten, die wirklich einen Laserzielbeleuchter tragen; der automatische Laser markiert keine aufgegebenen Fahrzeuge.
 - **Kamikazedrohnen** (Geran-2, LUCAS): fünf Antriebe, drei Gefechtsköpfe und die Schaltfläche **STURZFLUG HIERHER**. Die Geran-5 mit Strahltriebwerk kann nur von Flugkörpern abgeschossen werden.
 
 ### Flugabwehr und Radar
-- **Zwei Flugabwehrtreffer holen alles herunter, was fliegt.** Ein 12,7-mm-Maschinengewehr erreicht einen Hubschrauber im Flug bis 1.000 m; Kanonen ohne Radar erreichen Hubschrauber höchstens auf 1.500 m.
+- **Zwei Flugabwehrtreffer holen alles herunter, was fliegt.** Ein 12,7-mm-Maschinengewehr erreicht einen Hubschrauber im Flug bis 1.000 m; Kanonen ohne Radar erreichen Hubschrauber höchstens auf 1.500 m. Die Reichweite der Flugabwehr wählt der Host (Realistisch, 25 km, 15 km oder Vanilla).
+- **C-RAM** zielt auch auf Mörser- und Artilleriegranaten, Raketen und den Grad, mit seinen echten Grenzen: eine Schutzblase von 2 km, ein Ziel nach dem anderen, eine große Salve sättigt ihn, kurzer Feuerstoß und eine echte Chance pro Geschoss.
 - **Du stellst jeden Werfer ein**: Flugkörper, Hubschrauber, Flugzeuge, Drohnen. Ein Schalter **gegen Luft-Boden-Flugkörper** und **Raketen-/Bombenabwehr** bei den Systemen, die dafür gebaut sind.
 - **Ein eingeschaltetes Radar wird geortet** von feindlichen Flugzeugen; schalte es ab, um dich zu verstecken.
 
@@ -549,6 +608,7 @@ In Halbrealistisch gelingt jede Gegenmaßnahme 25 % öfter. Mehrere addieren sic
 
 Ein zweiter Kommandeur spielt in jeder Kampagnenmission neben dem Missionsskript die feindliche Seite, nimmt in Szenarien und Gefechten den Platz der Computerspieler ein und ist in den Modi gegen die KI der einzige Gegner.
 
+- **Ein Kommandeur für je zwei Spieler**: Gegen die KI an der Front gibt es bei 1-2 Spielern einen feindlichen Kommandeur, bei 3-4 zwei und bei 5 drei, und sie greifen von verschiedenen Seiten an.
 - **Die Augen eines Spielers**: Er sieht genau das, was das Spiel seiner Seite zeigt, nicht mehr, und entscheidet nach einer Stabsverzögerung. **Kein versteckter Vorteil.**
 - **Du wählst sein Land**, eines oder mehrere des anderen Lagers, und er trägt den Namen des Staatsoberhaupts (für die Vereinigten Staaten General Dan Caine).
 - **Er liest, was du einsetzt, und antwortet darauf**: Deine Hubschrauber bringen Boden-Luft-Flugkörper, deine Artillerie bringt Konterbatterie, deine Panzer bringen Panzerabwehrteams und eine Umfassungsgruppe.
@@ -556,9 +616,10 @@ Ein zweiter Kommandeur spielt in jeder Kampagnenmission neben dem Missionsskript
 - **Diszipliniertes Feuer**: Geschütze, die nach jeder Salve die Stellung wechseln, Flugabwehr nie in der Angriffskolonne, Flugzeuge, die nie in bekannte Flugabwehr fliegen.
 - **Er lernt**: Eine gescheiterte Technik wird am selben Ziel nicht wiederholt, und eine Achse, auf der er Einheiten verloren hat, meidet er.
 - **Er gibt Geld aus wie du**: eine echte Kasse, Karten wie deine, Versorgungs-Lkw, Pioniere und Sappeure.
+- **Er fordert Feuerunterstützung an** und jagt die Flugabwehr, die er gesehen hat.
 - **Er macht nie eine Mission kaputt**: Er prüft das Skript, bevor er etwas hinzufügt.
 
-**Ein KI-Verbündeter** kann an deiner Seite kämpfen, wenn du allein gegen die KI spielst, mit demselben Gehirn wie der Feind.
+**Ein KI-Verbündeter** kann an deiner Seite kämpfen, wenn du allein gegen die KI spielst, mit demselben Gehirn wie der Feind. Er ist aktiver: Im Durchbruch drängt er in die umkämpften Zonen und schickt Verstärkung; an der Front kauft er wie der Feind (Infanterie, Flugabwehr, Reserve, Operationen) und hält eine Verteidigungslinie. Auch er fordert Feuerunterstützung an und jagt die Flugabwehr, die er gesehen hat.
 
 <div align="right"><a href="#top">nach oben</a></div>
 
@@ -574,7 +635,7 @@ Der eigene Modus der Mod: zwei Basen, eine große Karte, ein einziger Gegner und
 | | Regel |
 |---|---|
 | **Karten** | Alle 22 Karten des Spiels, in Vanilla, Mittel oder Groß, und die Todesautobahn mit 10 x 150 km. |
-| **Spieler** | Solo oder bis zu 3 Spieler auf derselben Seite gegen den Kommandeur. |
+| **Spieler** | Solo oder bis zu 5 Spieler auf derselben Seite, mit einem feindlichen Kommandeur für je zwei Spieler. |
 | **Start** | 1.500 Punkte und drei Versorgungs-Lkw pro Spieler, auf einer Straße an deinem Kartenrand. |
 | **Einkommen** | Jede Minute 2,5 Punkte für jede in deinen Depots abgeladene Tonne, bis zu 3.000 pro Minute für die Seite. Eine gekaufte Tonne kostet 100. |
 | **Depots** | Deine Lkw richten Depots um deine Basis ein; der Bestand kann in Gebäuden und im Wald versteckt werden. Ein Depot wird eingenommen, indem man hineinfährt. |
@@ -588,8 +649,11 @@ Der Angreifer muss in Stadtvierteln **drei Verteidigungslinien** nacheinander ne
 Finde und zerstöre den feindlichen Gefechtsstand, mit deinem Versorgungsbestand als Geld.
 
 ### Spieler gegen Spieler und Szenarien
-- Auf den **Mehrspielerkarten**: der offizielle Modus, Front, Durchbruch oder Jagd als reines **Spieler gegen Spieler**, bis zu 3 Spieler pro Seite, ohne KI.
-- Die **16 offiziellen PvE-Szenarien** sind im Koop spielbar; der Host wählt die Schwierigkeit und die Zahl der feindlichen und verbündeten Bots.
+- Auf den **Mehrspielerkarten**: der offizielle Modus, Front, Durchbruch oder Jagd als reines **Spieler gegen Spieler**, von 1 gegen 1 bis 5 gegen 5, ohne KI.
+- **Einnahme nach Kräfteverhältnis** auf den Gefechtszonen: Ein einzelner Schütze blockiert keine Einnahme mehr; der Stärkere nimmt die Zone, umso schneller, je stärker er ist. Der Modus **Zerstörung** ist an der Front zurück, mit einer großen Zone in der Mitte.
+- Die **16 offiziellen PvE-Szenarien** sind im Koop spielbar; der Host wählt die Schwierigkeit und die Zahl der feindlichen und verbündeten Bots. Mit der Seite **Gemischt** passt jedes Deck in die Szenarien, und die KI nimmt die Fraktion gegenüber.
+- Die **offiziellen russischen und amerikanischen Missionen** sind im Koop spielbar, über den neuen Reiter **Missionen**.
+- **Ersteller von Szenarien und Submods** wählen das Deck der feindlichen KI und legen mit `baro_rules.txt` Seite, Länder, Deck der KI, Verbote, Bots, Stufe und Musik für alle Spieler fest ([Neu in der 6.0.3](#new-603)).
 - **Karten aus dem Steam Workshop** können unter Freunden gehostet werden.
 
 <a id="maps"></a>
@@ -640,12 +704,13 @@ Größen in Kilometern. **Mittel** ist 144 km² oder mehr, **Groß** 200 bis 225
 
 ## 👁️ Sichtlinie, Wetter und Wasser
 
-- **Die Sicht wird Wald für Wald gezählt**: Du siehst das erste Wäldchen und seinen Rand, nichts hinter dem zweiten. Ein dichter Wald blockiert Direktfeuer und vom Schützen gelenkte Flugkörper.
-- **Höhen werden gemessen** auf der Höhenkarte des Spiels; Bäume sind 25 m hoch, und ein eingeebnetes Gebäude verdeckt die Straße dahinter nicht mehr.
+- **Nie durch einen Wald hindurch**: Du siehst den Rand des Waldes, aber nicht, was dahinter liegt. Ein dichter Wald blockiert Direktfeuer und vom Schützen gelenkte Flugkörper.
+- **Höhen werden gemessen** auf der Höhenkarte des Spiels; die Baumkronen liegen bei 20 m, wer höher steht, sieht über den Wald hinweg, und ein eingeebnetes Gebäude verdeckt die Straße dahinter nicht mehr.
+- **Aus einem Gebäude** schaut die Infanterie von der Fassade, die dem Ziel zugewandt ist, und aus dem obersten Stockwerk.
 - **Ein nicht identifizierter Feind bleibt ein allgemeiner Kontakt**, bis du nahe genug kommst oder er das Feuer eröffnet.
 - **Stehende Infanterie sieht weiter** (Fernglas), stehende Aufklärer noch weiter (Wärmebild), Truppen im Laufschritt sehen weniger. Für die KI genauso.
 - **Wetter**: Regen und Nebel verkürzen die Sicht für alle ein wenig, und das Wetter kann sich während der Partie ändern. Ein für jede Schlacht ausgeloster **Wind** trägt den Rauch.
-- **Wasser**: Fahrzeuge, die nicht schwimmen können, fahren nie hinein und nehmen die Brücken; Schwimmfahrzeuge schwimmen mit ihrer echten Geschwindigkeit, und Infanterie watet durch die Furten. Ein Fahrzeug im Wasser wird getroffen wie an Land.
+- **Wasser**: Fahrzeuge, die nicht schwimmen können, fahren nie hinein und nehmen die Brücken; Schwimmfahrzeuge schwimmen mit ihrer echten Geschwindigkeit, und Infanterie watet durch die Furten. Ein Fahrzeug im Wasser wird getroffen wie an Land. **Schiffe** haben auf den Karten mit echtem Meer auf beiden Seiten einen eigenen Punkt zum Zuwasserlassen für jede Seite.
 - **Gefechtssymbole** bleiben beim Herauszoomen sichtbar, passend zur Kameraentfernung. Der Nebel des Krieges bleibt unverändert.
 
 <div align="right"><a href="#top">nach oben</a></div>
@@ -679,7 +744,7 @@ Größen in Kilometern. **Mittel** ist 144 km² oder mehr, **Groß** 200 bis 225
 - **Die 9-km-Grenze ist weg.** Artillerie, Raketen, ballistische und Marschflugkörper, Flugabwehr, Luft-Luft-, Luft-Boden- und Anti-Radar-Flugkörper, Panzerabwehrflugkörper, Radare und Sensoren haben ihre veröffentlichte Reichweite, bis zu technischen 100 km. Die Mindestreichweiten der Artillerie und das Minimum von 1 km der Flugabwehr bleiben für die Spielbarkeit erhalten.
 - **Jeder Flugkörper, jede Rakete, Bombe, Granate und Einheit einzeln geprüft** anhand echter Quellen: Geschwindigkeiten, Beschleunigung, Gefechtsköpfe, Durchschlag, Streuung, Kadenz, Nachladen, Panzerung, Reaktivpanzerung, Bewaffnung, Sitzplätze.
 - **Echte Geschwindigkeiten** für Fahrzeuge, Flugzeuge, Flugkörper, Kugeln und Mörsergranaten, plus 10 % für jede Einheit, um das Tempo zu halten.
-- **Echte Beschleunigung und echtes Bremsen** nach echter Leistung und echtem Gewicht jedes Fahrzeugs, **echte Steigungen** (ein Abrams fällt im Gelände auf 10 % Steigung von 48 auf 27 km/h) und echte Geländegeschwindigkeiten.
+- **Echte Beschleunigung und echtes Bremsen** nach echter Leistung und echtem Gewicht jedes Fahrzeugs, **echte Steigungen** (ein schwerer Kampfpanzer fällt im Gelände auf 10 % Steigung von 48 auf 27 km/h) und echte Geländegeschwindigkeiten.
 - **Echte Munitionsvorräte** auf beiden Seiten, nach echtem Gewicht versorgt; echte Hubschrauberkapazitäten; echte optische Reichweiten pro Einheit.
 - **Das „Feuer einstellen“ des Spiels** hält das Feuer zurück, schießt aber zurück, sobald die Einheit beschossen wird.
 - **Nichts wird in die Dateien des Spiels geschrieben.** Jeder Wert wird im Speicher geändert und zurückgegeben, wenn die Mod stoppt.
@@ -699,12 +764,27 @@ Größen in Kilometern. **Mittel** ist 144 km² oder mehr, **Groß** 200 bis 225
 |---|:-:|
 | Kampagne, amerikanisch und russisch (außer der Tutorial-Mission) | ✅ Solo |
 | Die Szenarien des Spiels | ✅ Solo, und Koop für die 16 PvE-Szenarien |
-| Logistikfront, Durchbruch, Jagd auf den Gefechtsstand | ✅ Solo oder Koop mit bis zu 3 Spielern gegen den Kommandeur |
-| Gefecht zwischen Spielern | ✅ PvP in einer Lobby der Mod, bis zu 3 Spieler pro Seite |
+| Logistikfront, Durchbruch, Jagd auf den Gefechtsstand | ✅ Solo oder Koop mit bis zu 5 Spielern gegen die KI |
+| Gefecht zwischen Spielern | ✅ PvP in einer Lobby der Mod, von 1 gegen 1 bis 5 gegen 5 |
 | Gefecht allein gegen den Kommandeur | ✅ Partie erstellen > Mehrspielerkarten > Solo spielen |
 | VK-Play-Version des Spiels | ✅ Solo, Gefecht und Kampagne; die öffentlichen Lobbys der Mod über das optionale Crossplay |
 | Offizielle Server: Lobbys, Schnellsuche, Rangliste | ⛔ Nie genutzt: im Menü ausgeblendet und von der Mod geschlossen |
 | Eine mit EasyAntiCheat gestartete Partie | ⛔ Die Mod schließt das Spiel |
+
+<div align="right"><a href="#top">nach oben</a></div>
+
+---
+
+<a id="faq"></a>
+
+## ❓ Fragen der Spieler
+
+- **Kann ich noch im offiziellen Mehrspieler spielen?** Ja, sobald die Mod und MelonLoader entfernt sind (siehe [Deinstallation](#update)). Nie mit MelonLoader im Spielordner.
+- **Brauche ich die DLCs?** Nein. Einheiten aus einem DLC, das du nicht besitzt, erscheinen einfach nicht. Deutschland und die baltischen Staaten brauchen das Baltikum-DLC.
+- **Bleiben meine Decks nach einem Update erhalten?** Ja. Hat sich eine Karte geändert, wird nur diese Karte ersetzt oder verlässt dein Deck, mit einer Meldung.
+- **Kann ich mit Freunden spielen, die die Mod nicht haben?** Nein: Alle in einer Lobby brauchen die Mod, in derselben Version.
+- **Ist es zu schwer?** Wähle Halbrealistisch (Standard) und senke die Reichweiten von Flugabwehr, Flugkörpern und Artillerie in den Einstellungen des Hosts.
+- **Wie melde ich einen Fehler?** Klicke auf die Fehler-Schaltfläche des Spiels: Das Fenster **Einen Mod-Fehler melden** stellt die Dateien zusammen, die du schicken sollst.
 
 <div align="right"><a href="#top">nach oben</a></div>
 
@@ -715,7 +795,7 @@ Größen in Kilometern. **Mittel** ist 144 km² oder mehr, **Groß** 200 bis 225
 ## 🚫 Was nicht möglich ist, und das sage ich lieber gleich
 
 - **Nur zwei Seiten.** Das Spiel kennt die amerikanische und die russische Seite, also kämpfen NATO-Länder immer gegen OVKS-Länder.
-- **Länder, deren Hauptgerät nicht im Spiel ist**, etwa das Vereinigte Königreich, lassen sich nicht für sich allein umsetzen: Eine Karte gibt es nur, wenn das 3D-Modell im Spiel das echte Fahrzeug ist. Frankreich ist in Vorbereitung.
+- **Länder, deren Hauptgerät nicht im Spiel ist**, etwa das Vereinigte Königreich, lassen sich nicht für sich allein umsetzen. Frankreich ist in Vorbereitung (in etwa zehn Tagen geplant).
 - **Kein Spiel auf den offiziellen Servern.** Die Mod spielt solo und gemeinsam nur in ihren eigenen Lobbys.
 - **Alles zurückbekommen nach einem Absturz.** Ein zurückkehrender Spieler bekommt seine Einheiten, ihr Leben und sein Geld zurück, aber gefällte Bäume, Krater und Wracks aus seiner Abwesenheit werden nicht angezeigt, und es gibt keinen Zuschauermodus.
 - **Bomben ohne Flügel fallen weiterhin ballistisch**, und in der Kampagne kommt ein Flugzeug des Kommandeurs nur dorthin, wo die Mission selbst eines fliegen lässt.
@@ -748,11 +828,12 @@ Noch etwas gefunden? Klicke auf die Fehler-Schaltfläche des Spiels 🐞: Das Fe
 
 | Version | Datum | Höhepunkte |
 |:-:|:-:|---|
-| **6.0.2** | Oktober 2026 | China spielbar (19 Karten, neue Infanterie); erzwungenes Feuer (G) auf Gebäude feuert wirklich, mit Sprenggranaten; durchdringende Raketen und GBU-39 gegen Gebäude; Durchbruch mit echtem 3 zu 1; KI-Kommandeur mit der Wirtschaft eines Spielers; echte Reichweiten von Gleitbomben, Luft-Luft-Raketen und Lenkbomben; Cope Cages ab Werk; echte Stellungszeiten der Artillerie; Bergepanzer zurück; nur lizenzfreie Musik (44 Stücke); Ladefenster beim Zurück ins Menü. |
+| **6.0.3** | Oktober 2026 | China mit 43 Fahrzeugen auf eigenen Modellen und echten Waffen daran; Abschleppen mit jedem Fahrzeug; ein sauberes Symbol für jede Schaltfläche; Zahl der Spieler vom Host gewählt (Koop bis zu 5, PvP bis zu 5 gegen 5); Einheitenlimit pro Spieler (25 bis 150) oder Dynamisch, das nie wieder sinkt; ein feindlicher Kommandeur für je zwei Spieler; offizielle Missionen im Koop; Seite Gemischt und Regeln für Szenario-Ersteller; neue Einstellungen des Hosts (Reichweiten von Flugabwehr, Flugkörpern und Artillerie, Erscheinen der Luftfahrzeuge, Aufgeben erlaubt); C-RAM gegen Granaten und Raketen; Sichtlinien nie durch den Wald; Einnahme nach Kräfteverhältnis; neue echte Bewaffnungen (UMPK, SDB, StormBreaker, HARM, JSOW); eine aktivere KI; Korrekturen nach Meldungen der Spieler. |
+| **6.0.2** | Oktober 2026 | China spielbar (neue Infanterie); erzwungenes Feuer (G) auf Gebäude feuert wirklich, mit Sprenggranaten; durchdringende Raketen und GBU-39 gegen Gebäude; Durchbruch mit echtem 3 zu 1; KI-Kommandeur mit der Wirtschaft eines Spielers; echte Reichweiten von Gleitbomben, Luft-Luft-Raketen und Lenkbomben; Cope Cages ab Werk; echte Stellungszeiten der Artillerie; Bergepanzer zurück; nur lizenzfreie Musik (44 Stücke); Ladefenster beim Zurück ins Menü. |
 | **6.0.1** | Oktober 2026 | Finales Spiel 1.2.1; Karten in gespeicherten Decks ersetzt statt entfernt; verlassene Fahrzeuge zerstörbar; Gebäude gegen Marschflugkörper; Laser automatisch / manuell; Start mit Anti-Cheat repariert. |
 | **6.0** | Oktober 2026 | Kompatibel mit dem Spiel 1.2.1 (Unity 6); der neue Realismus-Modus Vanilla und +60 % Leben im Halbrealistischen; Scheinwerfer aus; Einheitenlimit Dynamisch; eine feinere KI und Artillerie, die vor der Fahrt die Stellung abbaut; die BARO-Werkstatt für Submods; saubere Decks mit dem echten Gerät jedes Landes; Mörser M252 und 2B14 und Spezialkräfte SSO; viele Korrekturen. |
-| **5.9.5** | Oktober 2026 | Eine Korrektur: Das 12,7-mm-MG von M88A2 und Büffel feuert; Fire-and-forget-Raketen erfassen auf ihre echte Reichweite; Hubschrauber kommen immer von außerhalb der Karte, mit der neuen Einstellung Erscheinen der Luftfahrzeuge; Nebel liegt am Boden; der Typ 99A in seiner echten Form, jetzt der beste Panzer des Spiels |
-| **5.9.4** | Oktober 2026 | Der chinesische ZTZ-99A; Gitterschutz, Drohnenschutzdächer, Tarnung und Räumschilde im Arsenal; jede Waffe wie in echt und eine Zeile Reichweiten auf der Einheitenkarte; Gebäude je nach Realismus-Modus; ein Standarddeck für jedes Land; eine grünere Todesautobahn mit ihren Teichen; Kreuzungen in echter Größe; Flugzeuge, die direkt hinter ihrer Seite erscheinen; Fernverminung auf beiden Seiten gleich; optionales Crossplay Steam und VK Play. |
+| **5.9.5** | Oktober 2026 | Eine Korrektur: Das 12,7-mm-MG der Bergepanzer feuert; Fire-and-forget-Raketen erfassen auf ihre echte Reichweite; Hubschrauber kommen immer von außerhalb der Karte, mit der neuen Einstellung Erscheinen der Luftfahrzeuge; Nebel liegt am Boden. |
+| **5.9.4** | Oktober 2026 | Gitterschutz, Drohnenschutzdächer, Tarnung und Räumschilde im Arsenal; jede Waffe wie in echt und eine Zeile Reichweiten auf der Einheitenkarte; Gebäude je nach Realismus-Modus; ein Standarddeck für jedes Land; eine grünere Todesautobahn mit ihren Teichen; Kreuzungen in echter Größe; Flugzeuge, die direkt hinter ihrer Seite erscheinen; Fernverminung auf beiden Seiten gleich; optionales Crossplay Steam und VK Play. |
 | **5.9.3** | Oktober 2026 | Die Todesautobahn mit 10 x 150 km; Straßen in echter Breite und nichts mehr jenseits des Spielbereichs; die Fraktion Europa; ein realistisches Shtora; Minenräumer KMT; echte Flugdauer und Wartungszeiten in der Luft, Loft-Angriffe; bessere Sicht für stehende Infanterie, wechselndes Wetter und Wind; getrennte Grafikeinstellungen, ein neues Intro, leichtere Menüs. |
 | **5.9.2** | Oktober 2026 | G als Unterdrückungsfeuer, Bäume, die unter Feuerstößen fallen; Aufgeben von Hand oder automatisch, weiße neutrale Fahrzeuge; Hubschrauber, die landen; das Einheitenlimit vor der Partie gewählt; die Musik der Mod im Menü, die des Spiels in der Schlacht; echte Motoren und echter Schutz im Arsenal, neue Karten. |
 | **5.9.1** | Oktober 2026 | Abstürze behoben; Bergepanzer, die instand setzen und abschleppen, Beute; ein Spezial-Reiter für Unterstützungseinheiten; Artillerieortungsradare auf der Radar-Schaltfläche; Treibstoff für Hubschrauber; Karten aus dem Steam Workshop unter Freunden. |
@@ -815,12 +896,13 @@ Noch etwas gefunden? Klicke auf die Fehler-Schaltfläche des Spiels 🐞: Das Fe
 
 - Mod von **tassassinno74** (**Noichi** auf Discord).
 - Gebaut auf [MelonLoader](https://github.com/LavaGang/MelonLoader) von LavaGang.
+- Symbole der Schaltflächen nach Tabler Icons von Paweł Kuna (MIT-Lizenz).
 - Fünfzehn eigene Musikstücke und ein Intro-Thema werden mit der Mod geliefert.
 - Broken Arrow wird von Steel Balalaika entwickelt und von Slitherine veröffentlicht. Dies ist eine inoffizielle Fan-Mod, weder mit ihnen verbunden noch von ihnen unterstützt.
 
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Alle Rechte vorbehalten.** Du darfst die Mod gern herunterladen und spielen. Sie irgendwo erneut hochzuladen (Steam, Steam Workshop, Nexus Mods, ModDB oder jede andere Seite), sie weiterzuverbreiten, ihren Code oder ihre Daten wiederzuverwenden oder veränderte Versionen ohne die schriftliche Erlaubnis des Autors zu veröffentlichen, ist nicht erlaubt. Vollständige Bedingungen: [LICENSE](LICENSE). MelonLoader, im ALL-IN-ONE-Archiv enthalten, behält seine eigene Lizenz (Apache 2.0, Datei enthalten).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.0.2-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.0.2"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.0.3-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.0.3"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
 
 <div align="right"><a href="#top">nach oben</a></div>
