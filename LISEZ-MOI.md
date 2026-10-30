@@ -5,8 +5,8 @@
 <p align="center"><b>La campagne, les scénarios et l'escarmouche, menés comme le matériel a réellement été conçu pour combattre.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-6.0.3-2ea44f?style=for-the-badge" alt="Version 6.0.3">
-  <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.1-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.1">
+  <img src="https://img.shields.io/badge/version-6.1-2ea44f?style=for-the-badge" alt="Version 6.1">
+  <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.2-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.2">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
   <img src="https://img.shields.io/badge/languages-EN%20%7C%20FR%20%7C%20RU%20%7C%20DE%20%7C%20ZH-f0883e?style=for-the-badge" alt="Langues : EN, FR, RU, DE, ZH">
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.0.3-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 6.0.3"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.1-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 6.1"></a>
   <a href="https://discord.gg/brokenarrowrealism"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre le Discord"></a>
   <a href="https://ko-fi.com/brokenarrowrealism"><img src="https://img.shields.io/badge/KO--FI-SUPPORT%20THE%20MOD-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Soutenir le mod sur Ko-fi"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Chaîne YouTube"></a>
@@ -38,7 +38,9 @@ Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles et recons
 
 Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mod contre l'IA (**Front Logistique**, **Percée**, **Chasse au poste de commandement**) seul, ou ensemble dans les salons du mod : jusqu'à 5 en coop contre l'IA, ou jusqu'à 5 contre 5 en JcJ entre joueurs du mod. Les serveurs officiels ne sont jamais utilisés.
 
-**La 6.0.3** donne à la Chine **43 véhicules sur leurs propres modèles 3D**, avec leurs vraies données et de vraies armes qui tournent et tirent, laisse **tout véhicule en remorquer un autre** selon son vrai poids et donne **une icône nette à chaque bouton** du mod. Elle laisse aussi l'hôte choisir le nombre de joueurs (jusqu'à 5 en coop, jusqu'à 5 contre 5 en JcJ) et un plafond d'unités par joueur, met un commandant ennemi pour deux joueurs, ouvre les **missions officielles** à la coop, ajoute de nouveaux réglages de l'hôte (portées, apparition des aéronefs, abandon), un C-RAM qui vise aussi les obus et les roquettes, des lignes de vue plus justes, une capture au rapport de forces et de nouveaux emports réels. [Nouveautés de la 6.0.3.](#new-603) **La 6.0.2** rend **la Chine jouable**, avec une infanterie neuve, fait vraiment tirer les chars sur les bâtiments, donne à la Percée une vraie attaque à 3 contre 1 et au commandant IA du Front Logistique l'économie d'un joueur. [Nouveautés de la 6.0.2.](#new-602) **La 6.0.1** est faite pour le jeu 1.2.1 final. [Nouveautés de la 6.0.1.](#new-601) **La 6.0** passe le mod sur le jeu 1.2.1 (Unity 6) et apporte un nouveau mode de réalisme Vanilla, des phares éteints en bataille, des cartes agrandies où tu poses de nouveau tes unités partout, des hélicoptères plus vulnérables en vol bas, des portées et des vitesses revues avec les chiffres réels, un plafond d'unités « Dynamique », une IA plus fine, une artillerie qui sort de batterie avant de rouler, l'Atelier BARO pour greffer des sous-mods sur le mod sans désynchro, et des decks propres pour chaque pays. [Nouveautés de la 6.0.](#new-60)
+**La 6.1** est faite pour le jeu **1.2.2** : le plantage au chargement des cartes est réparé. Elle ajoute une **sonde** que tu règles toi-même (Désactivée, Activée ou Complète, rien n'est envoyé sur Internet), une mémoire allégée et un **mode petit PC**, un **nouvel ATH** aux blocs déplaçables et à la taille réglable, des **salons** et une **création de partie** refaits, un **Guide** et un **Centre d'entraînement** dans l'onglet Jouer, un commandant IA des scénarios qui suit la difficulté, de vrais missiles chinois et de nouveaux emports, et beaucoup de corrections. [Nouveautés de la 6.1.](#new-61)
+
+**La 6.0.3** donne à la Chine **ses propres véhicules**, avec leurs vraies données et de vraies armes qui tournent et tirent, laisse **tout véhicule en remorquer un autre** selon son vrai poids et donne **une icône nette à chaque bouton** du mod. Elle laisse aussi l'hôte choisir le nombre de joueurs (jusqu'à 5 en coop, jusqu'à 5 contre 5 en JcJ) et un plafond d'unités par joueur, met un commandant ennemi pour deux joueurs, ouvre les **missions officielles** à la coop, ajoute de nouveaux réglages de l'hôte (portées, apparition des aéronefs, abandon), un C-RAM qui vise aussi les obus et les roquettes, des lignes de vue plus justes, une capture au rapport de forces et de nouveaux emports réels. [Nouveautés de la 6.0.3.](#new-603) **La 6.0.2** rend **la Chine jouable**, avec une infanterie neuve, fait vraiment tirer les chars sur les bâtiments, donne à la Percée une vraie attaque à 3 contre 1 et au commandant IA du Front Logistique l'économie d'un joueur. [Nouveautés de la 6.0.2.](#new-602) **La 6.0.1** est faite pour le jeu 1.2.1 final. [Nouveautés de la 6.0.1.](#new-601) **La 6.0** passe le mod sur le jeu 1.2.1 (Unity 6) et apporte un nouveau mode de réalisme Vanilla, des phares éteints en bataille, des cartes agrandies où tu poses de nouveau tes unités partout, des hélicoptères plus vulnérables en vol bas, des portées et des vitesses revues avec les chiffres réels, un plafond d'unités « Dynamique », une IA plus fine, une artillerie qui sort de batterie avant de rouler, l'Atelier BARO pour greffer des sous-mods sur le mod sans désynchro, et des decks propres pour chaque pays. [Nouveautés de la 6.0.](#new-60)
 
 | 12 000+ | 100 km | 13 | 22 | 1 500 km² | 1 pour 2 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -66,7 +68,7 @@ Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mo
 
 | Le mod | Le champ de bataille | Pratique |
 |---|---|---|
-| [Nouveautés de la 6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [de la 6.0](#new-60) | [Véhicules et Arsenal](#vehicles) | [Télécharger et installer](#install) |
+| [Nouveautés de la 6.1](#new-61) · [6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [de la 6.0](#new-60) | [Véhicules et Arsenal](#vehicles) | [Télécharger et installer](#install) |
 | [Jouer ensemble](#lobbies) · [crossplay et vie privée](#privacy) | [Guerre au sol](#ground-war) | [Mettre à jour ou désinstaller](#update) |
 | [Le menu du mod](#menu) | [Guerre aérienne](#air-war) | [Réglages](#settings) |
 | [Ton deck](#deck) | [Le commandant ennemi](#commander) | [Où il fonctionne](#where-it-runs) · [Les questions des joueurs](#faq) |
@@ -76,12 +78,74 @@ Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mo
 
 ---
 
+<a id="new-61"></a>
+
+## 🆕 Nouveautés de la 6.1
+
+> **La 6.1 en cinq lignes**
+> - **Faite pour le jeu 1.2.2** : le plantage au chargement des cartes est réparé.
+> - **Une sonde** que tu règles toi-même : Désactivée, Activée ou Complète. Rien n'est envoyé sur Internet.
+> - **Un nouvel ATH** : un seul style, des blocs que tu déplaces, une taille réglable. L'ancien reste au choix.
+> - **Des salons refaits** et une nouvelle « Créer une partie », un **Guide** et un **Centre d'entraînement** dans l'onglet Jouer.
+> - **De vraies armes** : missiles chinois, nouvelles bombes, Tu-95, F-15EX, B-1B, Eurofighter.
+
+> Si tu viens de la 6.0.3, ferme le jeu, remplace `Mods\BrokenArrowRealismOverhaul.dll` et copie le nouveau dossier `RealismOverhaul_Vehicules` dans le dossier du jeu (laisse Windows remplacer les fichiers). **Tous les joueurs d'un salon doivent avoir la 6.1.** Le premier lancement après la mise à jour du jeu prend quelques minutes de plus : MelonLoader refait ses fichiers.
+
+### 🔄 Le jeu 1.2.2
+- Avec la 6.0.3 sur le jeu 1.2.2, le jeu pouvait planter ou se bloquer au chargement d'une carte. C'est réparé.
+- Tout le mod a été revérifié sur la nouvelle version du jeu.
+
+### 📝 La sonde (diagnostic)
+- Nouveau réglage dans **Échap > Options > Mod > Diagnostic** : **Désactivée**, **Activée** ou **Complète**.
+- Elle écrit un journal de chaque bataille dans `UserData\RealismOverhaul_Sonde` (les 10 dernières sont gardées). **Activée** : erreurs, ralentissements, mémoire et bilan de la bataille (environ 200 Ko). **Complète** : en plus, le détail des scripts du mod et de l'IA (environ 3 Mo).
+- Elle note l'identifiant Steam (ou le compte VK Play) et le pseudo de chaque joueur de la bataille, et le chat. Jamais d'adresse IP ; ton dossier Windows (avec ton nom de session) est masqué.
+- **Rien n'est envoyé sur Internet.** **Préparer le fichier à envoyer** met les 5 dernières batailles dans un seul `.zip` de moins de 10 Mo : c'est toi qui décides de l'envoyer, et c'est toi qui l'envoies.
+
+### 💾 Mémoire et petits PC
+- Mémoire allégée : un modèle 3D n'est lu que quand une unité de ce type apparaît sur la carte. Avant, la mémoire pouvait se remplir au début d'une bataille.
+- **Mode petit PC** (Échap > Options > Mod) : **Auto** (le mod décide selon la mémoire de ton PC), **Oui** ou **Non**.
+
+### 🖥️ Un nouvel ATH
+- **Nouvel ATH du mod** (Échap > Options > Mod > Interface (ATH)) : un seul style pour tout l'affichage du mod en bataille (les mêmes couleurs, un seul fond, la police du jeu), une seule pastille par unité.
+- **Mode disposition** : glisse chaque bloc du mod à la souris, puis **Terminé**. Les places sont gardées sur ton PC, une par forme d'écran.
+- **Taille de l'interface du mod** : de 75 % à 150 %.
+- **Nouvel ATH du mod : Non** remet l'ancien affichage, entier. Ces réglages sont ceux de ton PC seulement : rien n'est envoyé aux autres joueurs.
+
+### 🌐 Salons et création de partie
+- **Chercher un salon** refait : ta version et celle du jeu, les règles de l'hôte avant de rejoindre, des filtres (même version, amis...), et un bouton **Mauvaise version** clair pour un salon d'une autre version.
+- Un nouvel écran du salon : ton camp en bleu, l'autre en rouge.
+- **Créer une partie** est rangé en 7 sections. Ce qui est choisi à la création du salon (mode de jeu, camp) reste figé tant que le salon est ouvert.
+
+### 📖 Guide et Centre d'entraînement
+- Deux cartes neuves dans l'onglet **Jouer** : **Guide** (tout le mod expliqué : modes de jeu, réalisme, portées, blessés, génie, ravitaillement, artillerie, aviation, la sonde...) et **Centre d'entraînement** (apprends le mod pas à pas).
+- Les deux sont aussi sur la page d'accueil du mod.
+
+### 🧠 Scénarios : le commandant IA suit la difficulté
+- **Facile** : le script du scénario seul. **Normale** : le commandant ennemi du mod joue comme un joueur normal. **Difficile** : il joue beaucoup plus dur.
+- **Créer une partie > Commandant IA du mod (scénario) > Désactivé** le coupe à toutes les difficultés. Les créateurs de scénarios peuvent aussi écrire `script_only = yes` dans `baro_rules.txt`.
+
+### 🚀 Vraies armes et emports
+- **Missiles chinois** sur les avions et hélicoptères chinois, qui tiraient avant des missiles russes ou américains : PL-15, PL-10, TY-90, AKD-10, HJ-10, YJ-91, YJ-83K, KD-88, YJ-12 et KD-20.
+- **Nouvelles bombes** : GBU-38 et GBU-32 JDAM, GBU-16 Paveway II, FAB-5000M-54, OFAB-100-120.
+- **Tu-95** : de nouveau une seule carte. Tu-95M avec ses bombes FAB-5000 ou FAB-9000, Tu-95MS avec ses Kh-55.
+- **F-15EX** : jusqu'à 12 missiles air-air. **B-1B** : 24 GBU-31 en soute. **Eurofighter** : emports IRIS-T et Meteor.
+
+### 🔧 Corrections
+- **Chat** : une touche n'écrit plus deux lettres, et les messages arrivent dans le bon ordre chez tous les joueurs.
+- La fumée des épaves monte droite.
+- **WZ551** : il retrouve son canon de 25 mm. **Su-30MKK** : il tire son Kh-29 au lieu de tourner autour de la cible.
+- **Laser automatique** : il éclaire la cible de l'ordre d'attaque.
+- Un char envoyé au bord d'un lac ne va plus dans l'eau profonde.
+
+### 🚙 Nouveaux véhicules
+Ils arrivent petit à petit, chacun après son contrôle en jeu.
+
 <a id="new-603"></a>
 
 ## 🆕 Nouveautés de la 6.0.3
 
 > **La 6.0.3 en cinq lignes**
-> - La Chine reçoit **43 véhicules sur leurs propres modèles 3D**, avec leurs vraies données et de vraies armes qui tournent et tirent.
+> - La Chine reçoit **ses propres véhicules**, avec leurs vraies données et de vraies armes qui tournent et tirent.
 > - **Tout véhicule peut en remorquer un autre**, selon son vrai poids.
 > - **Une icône nette** pour chaque bouton du mod.
 > - **Jusqu'à 5 joueurs par camp**, un plafond d'unités par joueur et les missions officielles en coop.
@@ -89,17 +153,8 @@ Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mo
 
 > Si tu viens de la 6.0.2, ferme le jeu, remplace `Mods\BrokenArrowRealismOverhaul.dll` et copie le nouveau dossier `RealismOverhaul_Vehicules` dans le dossier du jeu (laisse Windows remplacer les fichiers). **Tous les joueurs d'un salon doivent avoir la 6.0.3.**
 
-### 🛡️ Chine : 43 véhicules sur leurs propres modèles
+### 🛡️ Chine : ses propres véhicules
 Chaque véhicule chinois a maintenant son propre modèle 3D, ses vraies données et les vraies armes du jeu sur lui : les mitrailleuses et les tourelleaux téléopérés sur les toits sont visibles, tournent et tirent vraiment. Le deck ne garde que ce que la Chine aligne vraiment : la carte du Tor-M1 laisse la place au HQ-17.
-- **Chars** : ZTZ-99A, ZTZ-99A2, ZTZ-20, char léger ZTQ-15.
-- **Véhicules à chenilles** : véhicules de combat d'infanterie ZBD-04A et ZBD-04AG, porte-missiles antichars AFT-10.
-- **Véhicules à roues** : WZ551, ZSL-92A, ZBL-08AG, ZBD-09, canons d'assaut PTL-02 et ZTL-11, porte-missiles antichars WZ550.
-- **Artillerie** : obusier automoteur PLZ-05 de 155 mm, mortier-obusier PLL-05 de 120 mm.
-- **Défense antiaérienne** : HQ-17, HQ-7, HQ-7B, Type 625, PGZ-09, PGZ-95, et le radar 96L6E du S-400.
-- **Véhicules légers et camions** : BJ2022, BJ212 avec missile antichar, Dongfeng EQ2050 (Mengshi), Dongfeng EQ240 / EQ2081.
-- **Chasseurs et avions d'attaque** : J-10C, J-11, J-11B, J-15, J-16, J-20, Su-30MKK, JH-7A.
-- **Bombardiers** : H-6 et H-6K.
-- **Hélicoptères** : Z-8, Z-9 avec HJ-8, Z-10, Z-10W, Z-19, Z-20A.
 
 ### ⛓️ Le remorquage par tous les véhicules
 - Tout véhicule peut maintenant en remorquer un autre, à la chaîne ou au câble d'acier, autant que son poids le permet : un char remorque n'importe quoi, certains véhicules de combat d'infanterie peuvent remorquer un char, une voiture remorque une voiture mais pas un char.
@@ -243,13 +298,13 @@ Choisis avant la partie, les mêmes chez tous.
 
 ## 📦 Télécharger et installer
 
-**Configuration requise :** Broken Arrow 1.2.1 (une copie légitime), Windows, 16 Go de mémoire conseillés (30 Go pour l'Autoroute de la mort en 10 x 150 km). Les DLC sont facultatifs. MelonLoader 0.7.3, qui marche avec le jeu 1.2.1, est inclus dans le téléchargement ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), guide sur [melonwiki.xyz](https://melonwiki.xyz/)). Une version **LITE** existe aussi sur [Nexus Mods](https://www.nexusmods.com/brokenarrow/mods/7) : le mod seul, pour les joueurs qui ont déjà MelonLoader 0.7.3.
+**Configuration requise :** Broken Arrow 1.2.2 (une copie légitime), Windows, 16 Go de mémoire conseillés (30 Go pour l'Autoroute de la mort en 10 x 150 km). Les DLC sont facultatifs. MelonLoader 0.7.3 est inclus dans le téléchargement ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), guide sur [melonwiki.xyz](https://melonwiki.xyz/)). Une version **LITE** existe aussi sur [Nexus Mods](https://www.nexusmods.com/brokenarrow/mods/7) : le mod seul, pour les joueurs qui ont déjà MelonLoader 0.7.3.
 
 ### Installation
 
-1. Clique sur le bouton vert **DOWNLOAD** en haut de cette page. Il ouvre le fichier sur Google Drive : clique sur **Télécharger**, puis décompresse l'archive (Windows 11, 7-Zip ou WinRAR). Elle contient le dossier **BROKEN ARROW REALISM OVERHAUL** : le mod, MelonLoader, la musique, l'aspect des véhicules, les guides de l'Atelier BARO et la licence (`LICENSE.txt`).
+1. Clique sur le bouton vert **DOWNLOAD** en haut de cette page. Il ouvre le fichier sur Google Drive : clique sur **Télécharger**, puis décompresse l'archive (Windows 11, 7-Zip ou WinRAR). Elle contient le dossier **BROKEN ARROW REALISM OVERHAUL** : le mod, MelonLoader, la musique, l'aspect des véhicules, les guides de l'Atelier BARO et la licence (`LICENSE BARRO.txt`).
 2. Dans Steam, fais un clic droit sur **Broken Arrow**, puis **Gérer**, puis **Parcourir les fichiers locaux**.
-3. Ouvre le dossier **BROKEN ARROW REALISM OVERHAUL** et copie `version.dll` et les dossiers `MelonLoader`, `Mods`, `UserData`, `RealismOverhaul_Vehicules` et `RealismOverhaul_SousMods` dans le dossier du jeu, à côté de `BrokenArrow.exe`. `UserData` contient la musique du mod, `RealismOverhaul_Vehicules` l'aspect des véhicules du mod et `RealismOverhaul_SousMods` les guides de l'Atelier BARO (sous-mods). `LICENSE.txt` n'a pas besoin d'être copié.
+3. Ouvre le dossier **BROKEN ARROW REALISM OVERHAUL** et copie `version.dll` et les dossiers `MelonLoader`, `Mods`, `UserData`, `RealismOverhaul_Vehicules` et `RealismOverhaul_SousMods` dans le dossier du jeu, à côté de `BrokenArrow.exe`. `UserData` contient la musique du mod, `RealismOverhaul_Vehicules` l'aspect des véhicules du mod et `RealismOverhaul_SousMods` les guides de l'Atelier BARO (sous-mods). `LICENSE BARRO.txt` n'a pas besoin d'être copié.
 4. Lance le jeu depuis Steam avec **Anti-Cheat Disabled**. Le premier lancement prend un peu plus de temps, le temps que MelonLoader se prépare, et une fenêtre de console s'ouvre : c'est normal.
 5. L'**écran d'accueil du mod** apparaît dans le menu principal, et un onglet **Mod** dans la fenêtre Options. Dans l'Arsenal, crée un deck (OTAN ou OTSC, puis ton pays), ou copie le deck par défaut de ton pays.
 
@@ -265,7 +320,7 @@ Choisis avant la partie, les mêmes chez tous.
 <a id="update"></a>
 
 ### Mettre à jour depuis une ancienne version
-Télécharge la nouvelle archive avec le bouton **DOWNLOAD**. **Si tu viens de la 6.0.2**, ferme le jeu, remplace `Mods\BrokenArrowRealismOverhaul.dll` et copie le nouveau dossier `RealismOverhaul_Vehicules` dans le dossier du jeu, en laissant Windows remplacer les fichiers : il contient les nouveaux véhicules chinois. Garde MelonLoader 0.7.3 et les autres dossiers tels quels ; tes decks sont gardés. **Depuis une version plus ancienne, supprime l'ancien dossier `RealismOverhaul_Vehicules` du jeu avant de copier** : les anciens fichiers de la 5.9.x ne servent plus. Copie ensuite les nouveaux fichiers et dossiers par-dessus les anciens, puis ouvre tes decks et vérifie-les. Pour jouer ensemble, tes amis et toi devez avoir exactement la même version, la 6.0.3 : sinon, la liste des salons affiche **Mauvaise version**.
+Télécharge la nouvelle archive avec le bouton **DOWNLOAD**. **Si tu viens de la 6.0.3 ou de la 6.0.2**, ferme le jeu, remplace `Mods\BrokenArrowRealismOverhaul.dll` et copie le nouveau dossier `RealismOverhaul_Vehicules` dans le dossier du jeu, en laissant Windows remplacer les fichiers. Garde MelonLoader 0.7.3 et les autres dossiers tels quels ; tes decks sont gardés. Le premier lancement après la mise à jour du jeu en 1.2.2 prend quelques minutes de plus : MelonLoader refait ses fichiers. **Depuis une version plus ancienne, supprime l'ancien dossier `RealismOverhaul_Vehicules` du jeu avant de copier** : les anciens fichiers de la 5.9.x ne servent plus. Copie ensuite les nouveaux fichiers et dossiers par-dessus les anciens, puis ouvre tes decks et vérifie-les. Pour jouer ensemble, tes amis et toi devez avoir exactement la même version, la 6.1 : sinon, la liste des salons affiche **Mauvaise version**.
 
 ### Désinstaller
 Supprime `Mods\BrokenArrowRealismOverhaul.dll`, les dossiers `UserData\RealismOverhaul...`, le dossier `RealismOverhaul_Vehicules` et le dossier `RealismOverhaul_SousMods`. Pour retirer aussi MelonLoader, supprime `version.dll` et le dossier `MelonLoader`. Les divisions d'origine du jeu et son menu reviennent, exactement comme avant.
@@ -364,9 +419,11 @@ Le mod donne au jeu un menu à lui, épuré et dans ta langue. Une intro verte, 
 | **Campagne** | La campagne du jeu, intacte, jouée avec les règles du mod. |
 | **Créer une partie** | À gauche : **Cartes multijoueur** (l'escarmouche est là), **Modes de jeu contre l'IA** (Front Logistique, Percée, Chasse au poste de commandement), **Scénarios officiels** et **Steam Workshop**. À droite, **un seul panneau** pour tout : la carte, le mode, la taille, la mémoire conseillée, le **nombre de joueurs**, **Unités max par joueur**, le **mode de réalisme**, ton camp (OTAN, OTSC ou Mixte), ton pays et ton groupe de combat, le commandant ennemi (niveau et pays), l'allié IA (solo seulement), le salon, l'heure et la météo ; pour un scénario officiel, la **Difficulté** et les **Bots ennemis** et **Bots alliés**. Puis **Jouer en solo** ou **Jouer en multijoueur**. |
 | **Chercher un salon** | Les salons du mod (Steam et VK Play) et tes **amis Steam qui jouent au mod**. |
+| **Guide** | Tout le mod expliqué : bien commencer, modes de jeu, modes de réalisme, réglages de portée, blessés et évacuation, génie et réparation, ravitaillement, artillerie, aviation et DCA, guerre électronique, la sonde, le commandant IA des scénarios. Aussi sur la page d'accueil du mod. |
+| **Centre d'entraînement** | Apprends le mod pas à pas. Aussi sur la page d'accueil du mod. |
 
 ### Options > Mod
-**Échap > Options > Mod** garde ce qui t'appartient : le **mode de réalisme**, la durée des **épaves, morts, feux et cratères**, le **plafond d'unités**, l'**Abandon des véhicules**, le **Laser des désignateurs** et **À propos**. [Tous les réglages.](#settings)
+**Échap > Options > Mod** garde ce qui t'appartient : le **mode de réalisme**, la durée des **épaves, morts, feux et cratères**, le **plafond d'unités**, l'**Abandon des véhicules**, le **Laser des désignateurs**, la **Sonde**, le **Mode petit PC**, l'**Interface (ATH)** et **À propos**. [Tous les réglages.](#settings)
 
 ### Signaler un bug du mod 🐞
 Le bouton de bug du jeu, dans le menu principal comme en bataille, ouvre la fenêtre **Signaler un bug du mod** : où le signaler sur le Discord, les journaux à joindre **avant de relancer le jeu** (`Latest.log`, le dossier `Logs` et le dossier `GameLogs` du jeu, chacun avec un bouton **Ouvrir le dossier**), et une ligne avec les versions à recopier dans le ticket.
@@ -392,6 +449,10 @@ Tout le mod est toujours actif, sauf les quelques éléments ci-dessous, affich�
 | **Météo** | **Créer une partie**, **Paramètres supplémentaires** | Automatique, Dégagé, Nuageux, Couvert, Pluie ou Brouillard, et **Météo pendant la partie** : **Fixe** ou **Changeante** |
 | **Commandants** | **Créer une partie** : **Commandant ennemi** et **Allié IA (solo)** | Leur niveau et leurs pays |
 | **Scénarios** | **Créer une partie**, pour un scénario officiel | **Difficulté** (Facile, Normale, Difficile) et **Bots ennemis** / **Bots alliés** (Aucun, 1, 2 ou 3) |
+| **Commandant IA du mod (scénario)** | **Créer une partie**, pour un scénario | **Selon la difficulté** (par défaut : Facile = le script seul, Normale = comme un joueur normal, Difficile = beaucoup plus dur) ou **Désactivé** (aucun commandant du mod, à toutes les difficultés). Choisi par l'hôte |
+| **Sonde** | Échap > Options > Mod > Diagnostic | **Désactivée**, **Activée** ou **Complète** : un journal de chaque bataille dans `UserData\RealismOverhaul_Sonde` (les 10 dernières), avec les identifiants Steam et les pseudos des joueurs, et le chat ; jamais d'adresse IP. Rien n'est envoyé sur Internet. **Préparer le fichier à envoyer** fait un `.zip` que tu envoies toi-même |
+| **Mode petit PC** | Échap > Options > Mod | **Auto** (le mod décide selon la mémoire de ton PC), **Oui** ou **Non** |
+| **Nouvel ATH du mod** | Échap > Options > Mod > Interface (ATH) | **Oui** (un seul style, une seule pastille par unité) ou **Non** (l'ancien affichage) ; **Taille de l'interface du mod** de 75 % à 150 % ; **Mode disposition** pour déplacer chaque bloc ; **Remettre l'interface par défaut**. Ce PC seulement |
 | `FacteurSonGuerre` | `UserData\MelonPreferences.cfg` | 1 son réaliste, 0.5 discret, 2 fort, 0 le son d'origine du jeu |
 
 La caméra libre (de 6 m à 25 000 m), les ordres de mouvement et le retour des camions vides à la base sont toujours actifs, sans réglage. La zone jouable est la carte entière, et la minicarte garde le nord en haut dans chaque bataille du mod.
@@ -427,7 +488,7 @@ La caméra libre (de 6 m à 25 000 m), les ordres de mouvement et le retour des 
 
 ## 🌍 Nations : OTAN contre OTSC
 
-Le jeu ne connaît que deux camps, donc chaque pays appartient à l'un d'eux : les pays de l'OTAN combattent du côté américain, ceux de l'OTSC du côté russe. Chaque pays a son drapeau et seulement le matériel qu'il a vraiment : en service, en commande, ou tiré de ses vieux stocks. La Chine est jouable depuis la 6.0.2 et combat avec son propre matériel : 43 véhicules sur leurs propres modèles 3D dans la 6.0.3, du char Type 99A au chasseur J-20. La France est « En préparation » : elle n'est pas encore jouable. Elle est prévue dans une dizaine de jours, avec beaucoup d'autres véhicules sur leurs propres modèles 3D pour la France, l'Allemagne, l'Ukraine, la Russie et la Chine : la plupart des pays seront complets, et la Chine à environ 90 %, parce que ses véhicules les plus récents n'ont été montrés que dans quelques vidéos et photos. Les petites armées reçoivent plus d'exemplaires de leurs unités antichars et antiaériennes.
+Le jeu ne connaît que deux camps, donc chaque pays appartient à l'un d'eux : les pays de l'OTAN combattent du côté américain, ceux de l'OTSC du côté russe. Chaque pays a son drapeau et seulement le matériel qu'il a vraiment : en service, en commande, ou tiré de ses vieux stocks. La Chine est jouable depuis la 6.0.2 et combat avec son propre matériel : depuis la 6.0.3, ses propres véhicules, avec leurs vraies données et leurs vraies armes. La France est « En préparation » : elle n'est pas encore jouable. Les nouveaux véhicules arrivent petit à petit, chacun après son contrôle en jeu. Les petites armées reçoivent plus d'exemplaires de leurs unités antichars et antiaériennes.
 
 ### OTAN
 | Pays | Ce qu'il aligne | Il faut |
@@ -793,7 +854,7 @@ Tailles en kilomètres. **Moyenne** fait 144 km² ou plus, **Grande** de 200 à 
 ## 🚫 Ce qui n'est pas possible, et je préfère le dire
 
 - **Deux camps seulement.** Le jeu connaît le camp américain et le camp russe, donc les pays de l'OTAN combattent toujours ceux de l'OTSC.
-- **Les pays dont le matériel principal n'est pas dans le jeu**, comme la France ou le Royaume-Uni, ne sont pas jouables pour l'instant : la France est « En préparation », prévue dans une dizaine de jours.
+- **Les pays dont le matériel principal n'est pas dans le jeu**, comme la France ou le Royaume-Uni, ne sont pas jouables pour l'instant : la France est « En préparation ».
 - **Pas de jeu sur les serveurs officiels.** Le mod se joue en solo et, ensemble, seulement dans ses propres salons.
 - **Tout retrouver après un plantage.** Un joueur qui revient récupère ses unités, leur vie et son argent, mais les arbres couchés, les cratères et les épaves faits pendant son absence ne s'affichent pas, et il n'y a pas de mode spectateur.
 - **Les bombes sans ailes tombent toujours de façon balistique**, et en campagne un avion du commandant ne vient que là où la mission elle-même en fait voler un.
@@ -826,7 +887,8 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 
 | Version | Date | Points forts |
 |:-:|:-:|---|
-| **6.0.3** | Octobre 2026 | La Chine avec 43 véhicules sur leurs propres modèles et leurs vraies armes ; le remorquage par tous les véhicules ; une icône nette pour chaque bouton ; nombre de joueurs au choix (jusqu'à 5 en coop, jusqu'à 5 contre 5 en JcJ) ; plafond d'unités par joueur ; un commandant ennemi pour deux joueurs ; missions officielles en coop ; camp Mixte ; nouveaux réglages de l'hôte (portées, apparition des aéronefs, abandon) ; C-RAM contre les obus et les roquettes ; lignes de vue et bâtiments plus justes ; capture au rapport de forces et retour du mode Destruction ; nouveaux emports réels ; allié IA plus actif. |
+| **6.1** | Octobre 2026 | Faite pour le jeu 1.2.2 : le plantage au chargement des cartes réparé ; une sonde Désactivée / Activée / Complète, rien n'est envoyé sur Internet ; une mémoire allégée et un mode petit PC ; un nouvel ATH aux blocs déplaçables et à la taille réglable ; salons et création de partie refaits ; un Guide et un Centre d'entraînement dans l'onglet Jouer ; un commandant IA des scénarios qui suit la difficulté ; missiles chinois, nouvelles bombes, emports du Tu-95, du F-15EX, du B-1B et de l'Eurofighter ; chat réparé et fumée des épaves droite ; corrections du WZ551, du Kh-29, du laser et des bords de lacs. |
+| **6.0.3** | Octobre 2026 | La Chine avec ses propres véhicules et leurs vraies armes ; le remorquage par tous les véhicules ; une icône nette pour chaque bouton ; nombre de joueurs au choix (jusqu'à 5 en coop, jusqu'à 5 contre 5 en JcJ) ; plafond d'unités par joueur ; un commandant ennemi pour deux joueurs ; missions officielles en coop ; camp Mixte ; nouveaux réglages de l'hôte (portées, apparition des aéronefs, abandon) ; C-RAM contre les obus et les roquettes ; lignes de vue et bâtiments plus justes ; capture au rapport de forces et retour du mode Destruction ; nouveaux emports réels ; allié IA plus actif. |
 | **6.0.2** | Octobre 2026 | Chine jouable (infanterie neuve) ; le tir forcé (G) sur un bâtiment tire vraiment, à l'explosif ; missiles perforants et GBU-39 contre les bâtiments ; Percée à un vrai 3 contre 1 ; commandant IA avec l'économie d'un joueur ; vraies portées des bombes planantes, des missiles air-air et des bombes guidées ; cages anti-drones d'office ; vrais temps de mise en batterie ; dépanneurs de retour ; musique libre de droits seulement (44 morceaux) ; fenêtre de chargement au retour au menu. |
 | **6.0.1** | Octobre 2026 | Jeu 1.2.1 final ; cartes remplacées dans les decks au lieu d'être retirées ; véhicules abandonnés destructibles ; bâtiments contre les missiles de croisière ; laser Automatique / Manuel ; lancement avec l'anti-triche réparé. |
 | **6.0** | Octobre 2026 | Le mod passe sur le jeu 1.2.1 (Unity 6) ; le mode de réalisme Vanilla ; des phares éteints en bataille ; des hélicoptères plus vulnérables en vol bas ; des portées et des vitesses revues avec les chiffres réels ; le plafond d'unités « Dynamique » ; une IA qui ne voit que ce que voient ses unités ; la sortie de batterie de l'artillerie ; l'Atelier BARO pour les sous-mods ; des decks propres pour chaque pays. |
@@ -894,13 +956,13 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 
 - Mod de **tassassinno74** (**Noichi** sur Discord).
 - Construit sur [MelonLoader](https://github.com/LavaGang/MelonLoader) de LavaGang.
-- Icônes des boutons d'après Tabler Icons de Paweł Kuna (licence MIT).
+- Textes et traductions faits avec des outils d'IA.
 - Quinze musiques originales et un thème Intro sont livrés avec le mod.
 - Broken Arrow est développé par Steel Balalaika et édité par Slitherine. Ceci est un mod de fan non officiel, ni affilié à eux ni approuvé par eux.
 
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Tous droits réservés.** Tu peux télécharger le mod et y jouer. Le remettre en ligne où que ce soit (Steam, Steam Workshop, Nexus Mods, ModDB ou tout autre site), le redistribuer, réutiliser son code ou ses données, ou publier des versions modifiées sans l'autorisation écrite de l'auteur n'est pas permis. Conditions complètes : [LICENSE](LICENSE). MelonLoader, inclus dans l'archive ALL-IN-ONE, garde sa propre licence (Apache 2.0, fichier inclus).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.0.3-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.0.3"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.1-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.1"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
 
 <div align="right"><a href="#top">retour en haut</a></div>

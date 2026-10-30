@@ -5,8 +5,8 @@
 <p align="center"><b>The campaign, the scenarios and the skirmish, fought the way the equipment was actually built to fight.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-6.0.3-2ea44f?style=for-the-badge" alt="Version 6.0.3">
-  <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.1-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.1">
+  <img src="https://img.shields.io/badge/version-6.1-2ea44f?style=for-the-badge" alt="Version 6.1">
+  <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.2-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.2">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
   <img src="https://img.shields.io/badge/languages-EN%20%7C%20FR%20%7C%20RU%20%7C%20DE%20%7C%20ZH-f0883e?style=for-the-badge" alt="Languages: EN, FR, RU, DE, ZH">
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.0.3-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 6.0.3"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.1-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 6.1"></a>
   <a href="https://discord.gg/brokenarrowrealism"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
   <a href="https://ko-fi.com/brokenarrowrealism"><img src="https://img.shields.io/badge/KO--FI-SUPPORT%20THE%20MOD-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"></a>
@@ -38,7 +38,9 @@ This mod rewrites **more than 12,000 values** with real-world data and rebuilds 
 
 You play the campaign, the official scenarios, the skirmish and the mod's own modes against the AI (**Logistics Front**, **Breakthrough**, **Command Post Hunt**) alone, or together in the mod's own lobbies: co-op against the AI with up to 5 players, or PvP between mod players up to 5 v 5. The official servers are never used.
 
-**6.0.3** gives China **43 vehicles on their own 3D models**, with their real data and real weapons that turn and fire, lets **every vehicle tow** another one by its real weight and gives **a clean icon to every button** of the mod. It also lets the host choose the **number of players** (up to 5 in co-op, up to 5 v 5 in PvP), sets the **unit cap per player**, sends **one enemy commander for every two players**, opens the **official missions** to co-op, adds host settings for ranges, aircraft spawn and abandonment, and brings a C-RAM that fights shells and rockets, real lines of sight over forests and new real loadouts. [What's new in 6.0.3.](#new-603) **6.0.2** makes **China playable**, with new infantry, makes tanks really fire on buildings, gives Breakthrough a real 3-to-1 attack and the Logistics Front AI commander a player's economy. [What's new in 6.0.2.](#new-602) **6.0.1** is built for the final game 1.2.1: it fixes saved decks, abandoned vehicles, buildings hit by cruise missiles and the launch with anti-cheat on, and adds an Automatic / Manual laser choice. [What's new in 6.0.1.](#new-601) It builds on **6.0**, made for the game's 1.2.1 update (Unity 6). 6.0 adds a Vanilla realism mode and a Dynamic unit cap, keeps vehicle headlights off in battle, makes helicopters pay for flying low, gives the AI a sharper picture of the battlefield, makes artillery leave battery before it moves, and opens the door to sub-mods with the BARO Workshop. [What's new in 6.0.](#new-60)
+**6.1** is built for game **1.2.2**: the crash while a map loads is fixed. It adds a **battle log** you control (Off, On or Full, nothing sent over the Internet), lighter memory use and a **Low-end PC mode**, a **new HUD** with movable blocks and a size setting, rebuilt **lobbies** and **Create a game**, a **Guide** and a **Training centre** in the Play tab, a scenario AI commander that follows the difficulty, real Chinese missiles and new loadouts, and many fixes. [What's new in 6.1.](#new-61)
+
+**6.0.3** gives China **its own vehicles**, with their real data and real weapons that turn and fire, lets **every vehicle tow** another one by its real weight and gives **a clean icon to every button** of the mod. It also lets the host choose the **number of players** (up to 5 in co-op, up to 5 v 5 in PvP), sets the **unit cap per player**, sends **one enemy commander for every two players**, opens the **official missions** to co-op, adds host settings for ranges, aircraft spawn and abandonment, and brings a C-RAM that fights shells and rockets, real lines of sight over forests and new real loadouts. [What's new in 6.0.3.](#new-603) **6.0.2** makes **China playable**, with new infantry, makes tanks really fire on buildings, gives Breakthrough a real 3-to-1 attack and the Logistics Front AI commander a player's economy. [What's new in 6.0.2.](#new-602) **6.0.1** is built for the final game 1.2.1: it fixes saved decks, abandoned vehicles, buildings hit by cruise missiles and the launch with anti-cheat on, and adds an Automatic / Manual laser choice. [What's new in 6.0.1.](#new-601) It builds on **6.0**, made for the game's 1.2.1 update (Unity 6). 6.0 adds a Vanilla realism mode and a Dynamic unit cap, keeps vehicle headlights off in battle, makes helicopters pay for flying low, gives the AI a sharper picture of the battlefield, makes artillery leave battery before it moves, and opens the door to sub-mods with the BARO Workshop. [What's new in 6.0.](#new-60)
 
 | 12,000+ | 100 km | 13 | 22 | 1,500 km² | 1 per 2 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -66,7 +68,7 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 
 | The mod | The battlefield | Practical |
 |---|---|---|
-| [What's new in 6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [6.0](#new-60) | [Vehicles and the Arsenal](#vehicles) | [Download and install](#install) |
+| [What's new in 6.1](#new-61) · [6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [6.0](#new-60) | [Vehicles and the Arsenal](#vehicles) | [Download and install](#install) |
 | [Playing together](#lobbies) · [crossplay and privacy](#privacy) | [Ground war](#ground-war) | [Update or uninstall](#update) |
 | [The mod's menu](#menu) | [Air war](#air-war) | [Settings](#settings) |
 | [Your deck](#deck) | [The enemy commander](#commander) | [Where it runs](#where-it-runs) · [Questions players ask](#faq) |
@@ -76,12 +78,74 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 
 ---
 
+<a id="new-61"></a>
+
+## 🆕 What's new in 6.1
+
+> **The 6.1 in five lines**
+> - **Built for game 1.2.2**: the crash while a map loads is fixed.
+> - **A battle log** you control: Off, On or Full. Nothing is sent over the Internet.
+> - **A new HUD**: one style, blocks you can move, a size you can set. The old one stays available.
+> - **Rebuilt lobbies** and Create a game, a **Guide** and a **Training centre** in the Play tab.
+> - **Real weapons**: Chinese missiles, new bombs, Tu-95, F-15EX, B-1B, Eurofighter.
+
+> From 6.0.3, close the game, replace `Mods\BrokenArrowRealismOverhaul.dll` and copy the new `RealismOverhaul_Vehicules` folder into the game folder (let Windows replace the files). **Every player in a lobby needs 6.1.** The first launch after the game update takes a few more minutes while MelonLoader rebuilds its files.
+
+### 🔄 Game 1.2.2
+- With 6.0.3 on game 1.2.2, the game could crash or get stuck while a map loads. This is fixed.
+- The whole mod has been checked again on the new game version.
+
+### 📝 Battle log (diagnostics)
+- New setting in **Esc > Options > Mod > Diagnostics**: **Off**, **On** or **Full**.
+- It writes a log of each battle to `UserData\RealismOverhaul_Sonde` (the last 10 are kept). **On**: errors, slowdowns, memory and the battle summary (about 200 KB). **Full**: also the details of the mod's scripts and of the AI (about 3 MB).
+- It records the Steam ID (or VK Play account) and nickname of every player in the battle, and the chat. Never an IP address; your Windows folder (with your user name) is hidden.
+- **Nothing is sent over the Internet.** **Prepare the file to send** puts the last 5 battles into one `.zip` under 10 MB: you decide whether to send it, and you send it yourself.
+
+### 💾 Memory and low-end PCs
+- Lighter memory use: a 3D model is only read when a unit of that type appears on the map. Before, the memory could fill up at the start of a battle.
+- **Low-end PC mode** (Esc > Options > Mod): **Auto** (the mod decides from your PC's memory), **Yes** or **No**.
+
+### 🖥️ A new HUD
+- **Mod's new HUD** (Esc > Options > Mod > Interface (HUD)): one style for all of the mod's battle display (the same colours, one background, the game's font), one badge per unit.
+- **Layout mode**: drag each block of the mod with the mouse, then **Done**. Positions are kept on your PC, one set per screen shape.
+- **Mod interface size**: 75 % to 150 %.
+- **Mod's new HUD: No** brings back the old display, unchanged. These settings are for your PC only: nothing is sent to other players.
+
+### 🌐 Lobbies and Create a game
+- **Find a lobby** rebuilt: your version and the game's, the host's rules before you join, filters (same version, friends...), and a clear **Wrong version** button for a lobby of another version.
+- A new lobby screen: your side in blue, the other side in red.
+- **Create a game** laid out in 7 sections. What is chosen when the lobby is created (game mode, side) stays locked while the lobby is open.
+
+### 📖 Guide and Training centre
+- Two new cards in the **Play** tab: **Guide** (the whole mod explained: game modes, realism, ranges, wounded, engineers, supply, artillery, air war, the battle log...) and **Training centre** (learn the mod step by step).
+- Both are also on the mod's home page.
+
+### 🧠 Scenarios: the AI commander follows the difficulty
+- **Easy**: the scenario's script alone. **Normal**: the mod's enemy commander plays like a normal player. **Hard**: it plays much harder.
+- **Create a game > Mod AI commander (scenario) > Off** turns it off at every difficulty. Scenario makers can also write `script_only = yes` in `baro_rules.txt`.
+
+### 🚀 Real weapons and loadouts
+- **Chinese missiles** on the Chinese aircraft and helicopters, which used to fire Russian or American missiles: PL-15, PL-10, TY-90, AKD-10, HJ-10, YJ-91, YJ-83K, KD-88, YJ-12 and KD-20.
+- **New bombs**: GBU-38 and GBU-32 JDAM, GBU-16 Paveway II, FAB-5000M-54, OFAB-100-120.
+- **Tu-95**: one card again. Tu-95M with its FAB-5000 or FAB-9000 bombs, Tu-95MS with its Kh-55.
+- **F-15EX**: up to 12 air-to-air missiles. **B-1B**: 24 GBU-31 in its bay. **Eurofighter**: IRIS-T and Meteor loadouts.
+
+### 🔧 Fixes
+- **Chat**: one key press no longer types two letters, and messages arrive in the right order for every player.
+- Smoke from wrecks rises straight.
+- **WZ551**: its 25 mm gun is back. **Su-30MKK**: it fires its Kh-29 instead of circling the target.
+- **Automatic laser**: it lights the target of the attack order.
+- A tank sent to a lake shore no longer drives into deep water.
+
+### 🚙 New vehicles
+They arrive step by step, each one after its check in game.
+
 <a id="new-603"></a>
 
 ## 🆕 What's new in 6.0.3
 
 > **The 6.0.3 in five lines**
-> - China gets **43 vehicles on their own 3D models**, with their real data and real weapons that turn and fire.
+> - China gets **its own vehicles**, with their real data and real weapons that turn and fire.
 > - **Every vehicle can tow** another one, by its real weight.
 > - **A clean icon** for every button of the mod.
 > - **Up to 5 players per side**, a unit cap per player and official missions in co-op.
@@ -89,17 +153,8 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 
 > From 6.0.2, close the game, replace `Mods\BrokenArrowRealismOverhaul.dll` and copy the new `RealismOverhaul_Vehicules` folder into the game folder (let Windows replace the files). **Every player in a lobby needs 6.0.3.**
 
-### 🛡️ China: 43 vehicles on their own models
+### 🛡️ China: its own vehicles
 Each Chinese vehicle now has its own 3D model, its real data and the real weapons of the game on it: the machine guns and remote weapon stations on the roofs are visible, turn and really fire. The deck only keeps what China really fields: the Tor-M1 card gives way to the HQ-17.
-- **Tanks**: ZTZ-99A, ZTZ-99A2, ZTZ-20, ZTQ-15 light tank.
-- **Tracked vehicles**: ZBD-04A and ZBD-04AG infantry fighting vehicles, AFT-10 anti-tank missile carrier.
-- **Wheeled vehicles**: WZ551, ZSL-92A, ZBL-08AG, ZBD-09, PTL-02 and ZTL-11 assault guns, WZ550 anti-tank missile carrier.
-- **Artillery**: PLZ-05 155 mm self-propelled howitzer, PLL-05 120 mm mortar-howitzer.
-- **Air defence**: HQ-17, HQ-7, HQ-7B, Type 625, PGZ-09, PGZ-95, and the 96L6E radar of the S-400.
-- **Light vehicles and trucks**: BJ2022, BJ212 with anti-tank missile, Dongfeng EQ2050 (Mengshi), Dongfeng EQ240 / EQ2081.
-- **Fighters and strike aircraft**: J-10C, J-11, J-11B, J-15, J-16, J-20, Su-30MKK, JH-7A.
-- **Bombers**: H-6 and H-6K.
-- **Helicopters**: Z-8, Z-9 with HJ-8, Z-10, Z-10W, Z-19, Z-20A.
 
 ### ⛓️ Towing with every vehicle
 - Any vehicle can now tow another one on a chain or a steel cable, as far as its weight allows: a tank tows anything, some infantry fighting vehicles can tow a tank, a car tows a car but not a tank.
@@ -236,13 +291,13 @@ Each Chinese vehicle now has its own 3D model, its real data and the real weapon
 
 ## 📦 Download and install
 
-**Requirements:** Broken Arrow 1.2.1 (a legit copy), Windows, 16 GB of memory recommended (30 GB for the Highway of Death at 10 x 150 km). The DLCs are optional. MelonLoader 0.7.3 is included in the download ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), guide at [melonwiki.xyz](https://melonwiki.xyz/)). A **LITE** version also exists on [Nexus Mods](https://www.nexusmods.com/brokenarrow/mods/7): the mod alone, for players who already have MelonLoader 0.7.3.
+**Requirements:** Broken Arrow 1.2.2 (a legit copy), Windows, 16 GB of memory recommended (30 GB for the Highway of Death at 10 x 150 km). The DLCs are optional. MelonLoader 0.7.3 is included in the download ([github.com/LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader/releases), guide at [melonwiki.xyz](https://melonwiki.xyz/)). A **LITE** version also exists on [Nexus Mods](https://www.nexusmods.com/brokenarrow/mods/7): the mod alone, for players who already have MelonLoader 0.7.3.
 
 ### Install
 
-1. Click the green **DOWNLOAD** button at the top of this page. It opens the file on Google Drive: click **Download**, then extract the archive (Windows 11, 7-Zip or WinRAR). It holds the folder **BROKEN ARROW REALISM OVERHAUL**: the mod, MelonLoader, the music, the vehicle files, the sub-mod guides and the licence (`LICENSE.txt`).
+1. Click the green **DOWNLOAD** button at the top of this page. It opens the file on Google Drive: click **Download**, then extract the archive (Windows 11, 7-Zip or WinRAR). It holds the folder **BROKEN ARROW REALISM OVERHAUL**: the mod, MelonLoader, the music, the vehicle files, the sub-mod guides and the licence (`LICENSE BARRO.txt`).
 2. In Steam, right-click **Broken Arrow**, then **Manage**, then **Browse local files**.
-3. Open the folder **BROKEN ARROW REALISM OVERHAUL** and copy `version.dll` and the `MelonLoader`, `Mods`, `UserData`, `RealismOverhaul_Vehicules` and `RealismOverhaul_SousMods` folders into the game folder, next to `BrokenArrow.exe`. `UserData` holds the mod's music, `RealismOverhaul_Vehicules` the mod's vehicle files and `RealismOverhaul_SousMods` the guides of the BARO Workshop (the sub-mods). `LICENSE.txt` does not need to be copied.
+3. Open the folder **BROKEN ARROW REALISM OVERHAUL** and copy `version.dll` and the `MelonLoader`, `Mods`, `UserData`, `RealismOverhaul_Vehicules` and `RealismOverhaul_SousMods` folders into the game folder, next to `BrokenArrow.exe`. `UserData` holds the mod's music, `RealismOverhaul_Vehicules` the mod's vehicle files and `RealismOverhaul_SousMods` the guides of the BARO Workshop (the sub-mods). `LICENSE BARRO.txt` does not need to be copied.
 4. Start the game from Steam with **Anti-Cheat Disabled**. The first launch takes a little longer while MelonLoader gets ready, and a console window opens: that is normal.
 5. The **mod's home screen** appears in the main menu, and a **Mod** tab in the Options window. In the Arsenal, create a deck (NATO or CSTO, then your country), or copy the default deck of your country.
 
@@ -258,7 +313,7 @@ Each Chinese vehicle now has its own 3D model, its real data and the real weapon
 <a id="update"></a>
 
 ### Update from an older version
-Download the new archive with the **DOWNLOAD** button. **From 6.0.2**, close the game, replace `Mods\BrokenArrowRealismOverhaul.dll` and copy the new `RealismOverhaul_Vehicules` folder into the game folder, letting Windows replace the files: it holds the new Chinese vehicles. Keep MelonLoader 0.7.3 and the other folders as they are; your decks are kept. **From an older version, delete the old `RealismOverhaul_Vehicules` folder from the game folder before you copy anything**: the old files of the 5.9.x versions are no longer used. Then copy the new files and folders over the old ones, open your decks and check them. To play together, you and your friends need exactly the same version, 6.0.3: otherwise the lobby list shows **Wrong version**.
+Download the new archive with the **DOWNLOAD** button. **From 6.0.3 or 6.0.2**, close the game, replace `Mods\BrokenArrowRealismOverhaul.dll` and copy the new `RealismOverhaul_Vehicules` folder into the game folder, letting Windows replace the files. Keep MelonLoader 0.7.3 and the other folders as they are; your decks are kept. The first launch after the game update to 1.2.2 takes a few more minutes while MelonLoader rebuilds its files. **From an older version, delete the old `RealismOverhaul_Vehicules` folder from the game folder before you copy anything**: the old files of the 5.9.x versions are no longer used. Then copy the new files and folders over the old ones, open your decks and check them. To play together, you and your friends need exactly the same version, 6.1: otherwise the lobby list shows **Wrong version**.
 
 ### Uninstall
 Delete `Mods\BrokenArrowRealismOverhaul.dll`, the `UserData\RealismOverhaul...` folders, the `RealismOverhaul_Vehicules` folder and the `RealismOverhaul_SousMods` folder. To remove MelonLoader too, delete `version.dll` and the `MelonLoader` folder. The game's own divisions and menu come back, exactly as before.
@@ -358,9 +413,11 @@ The mod gives the game a menu of its own, clean and in your language. A green in
 | **Campaign** | The game's campaign, untouched, played with the mod's rules. |
 | **Create a game** | On the left: **Multiplayer maps** (the skirmish is here), **Game modes vs AI** (Logistics Front, Breakthrough, Command post hunt), **Official scenarios** and **Steam Workshop**. On the right, **one panel** for everything: the map, the mode, the size, the recommended memory, the **number of players**, **Max units per player**, the **realism mode**, the host's ranges, aircraft spawn and abandonment settings, your side, country and battlegroup, the enemy commander (level and countries), the AI ally (solo only), the lobby, the time and the weather; for an official scenario, the **Difficulty** and the **Enemy bots** and **Allied bots**. Then **Play solo** or **Play multiplayer**. |
 | **Find a lobby** | The mod's lobbies (Steam and VK Play) and your **Steam friends playing the mod**. |
+| **Guide** | The whole mod explained: getting started, game modes, realism modes, range settings, wounded and evacuation, engineers and repair, supply, artillery, air war and air defence, electronic warfare, the battle log, the scenario AI commander. Also on the mod's home page. |
+| **Training centre** | Learn the mod step by step. Also on the mod's home page. |
 
 ### Options > Mod
-**Esc > Options > Mod** keeps what belongs to you: the **realism mode**, the duration of **wrecks, bodies, fires and craters**, the **unit cap**, **Vehicle abandonment**, **Laser designators** and **About**. [All the settings.](#settings)
+**Esc > Options > Mod** keeps what belongs to you: the **realism mode**, the duration of **wrecks, bodies, fires and craters**, the **unit cap**, **Vehicle abandonment**, **Laser designators**, the **Battle log**, the **Low-end PC mode**, the **Interface (HUD)** and **About**. [All the settings.](#settings)
 
 ### Report a mod bug 🐞
 The game's bug button, in the main menu and in battle, opens the mod's **Report a mod bug** window: where to report on the Discord, the logs to attach **before you start the game again** (`Latest.log`, the `Logs` folder and the game's `GameLogs` folder, each with an **Open folder** button), and a line with the versions to copy into the ticket.
@@ -388,6 +445,10 @@ Everything in the mod is always on, except the few things below, shown in Englis
 | **Weather** | **Create a game**, **Additional settings** | Automatic, Clear, Cloudy, Overcast, Rain or Fog, and **Weather during the game**: **Fixed** or **Changing** |
 | **Commanders** | **Create a game**: **Enemy commander** and **AI ally (solo)** | Their level and countries |
 | **Scenarios** | **Create a game**, for an official scenario | **Difficulty** (Easy, Normal, Hard) and **Enemy bots** / **Allied bots** (None, 1, 2 or 3) |
+| **Mod AI commander (scenario)** | **Create a game**, for a scenario | **By difficulty** (default: Easy = the script alone, Normal = like a normal player, Hard = much harder) or **Off** (no mod commander at any difficulty). Set by the host |
+| **Battle log** | Esc > Options > Mod > Diagnostics | **Off**, **On** or **Full**: a log of each battle in `UserData\RealismOverhaul_Sonde` (the last 10), with the players' Steam IDs and nicknames and the chat; never an IP address. Nothing is sent over the Internet. **Prepare the file to send** makes a `.zip` that you send yourself |
+| **Low-end PC mode** | Esc > Options > Mod | **Auto** (the mod decides from your PC's memory), **Yes** or **No** |
+| **Mod's new HUD** | Esc > Options > Mod > Interface (HUD) | **Yes** (one style, one badge per unit) or **No** (the old display); **Mod interface size** 75 % to 150 %; **Layout mode** to move each block; **Reset the interface**. This PC only |
 | `FacteurSonGuerre` | `UserData\MelonPreferences.cfg` | 1 realistic sound, 0.5 quiet, 2 loud, 0 the game's own |
 
 The free camera (from 6 m up to 25,000 m), the movement orders and the empty trucks driving home are always on, with no setting. The playable area is the whole map, and the minimap stays north up in every battle of the mod.
@@ -447,7 +508,7 @@ The game only knows two sides, so every country belongs to one of them: NATO cou
 | **Kazakhstan** | Soviet-era equipment and Russian purchases, and the SSO special forces. | Base game |
 
 > [!NOTE]
-> **China is playable since 6.0.2** ([what's new](#new-602)) and fights with its own equipment: 43 vehicles on their own 3D models in 6.0.3, from the Type 99A tank to the J-20 fighter ([what's new](#new-603)). **France is in preparation**: it cannot be played yet. It is planned in about ten days, with many more vehicles on their own 3D models for France, Germany, Ukraine, Russia and China: most countries will be complete, and China about 90 %, because its newest vehicles have only been shown in a few videos and photos.
+> **China is playable since 6.0.2** ([what's new](#new-602)) and fights with its own equipment: since 6.0.3, its own vehicles, with their real data and real weapons ([what's new](#new-603)). **France is in preparation**: it cannot be played yet. New vehicles arrive step by step, each one after its check in game.
 
 > [!NOTE]
 > DLC units you do not own simply do not appear. Germany, Lithuania, Latvia and Estonia need the Baltic DLC, and some cards need the DLC3.
@@ -792,7 +853,7 @@ Sizes in kilometres. **Medium** is 144 km² or more, **Large** 200 to 225 km².
 ## 🚫 What is not possible, and I'd rather say it
 
 - **Two sides only.** The game knows the American side and the Russian side, so NATO countries always fight CSTO countries.
-- **Countries whose main equipment is not in the game**, such as the United Kingdom, cannot be made on their own, and France is still in preparation (planned in about ten days).
+- **Countries whose main equipment is not in the game**, such as the United Kingdom, cannot be made on their own, and France is still in preparation.
 - **No play on the official servers.** The mod plays solo and, together, only in its own lobbies.
 - **Everything coming back after a crash.** A player who rejoins gets his units, their health and his money back, but felled trees, craters and wrecks made while he was away do not show, and there is no spectator mode.
 - **Bombs without wings still fall ballistically**, and a commander's aircraft in the campaign only comes where the mission itself flies one.
@@ -825,7 +886,8 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 
 | Version | Date | Highlights |
 |:-:|:-:|---|
-| **6.0.3** | October 2026 | China with 43 vehicles on their own models and real weapons on them; towing with every vehicle; a clean icon for every button; number of players chosen by the host: co-op up to 5, PvP up to 5 v 5; unit cap per player (25 to 150) or Dynamic; one enemy commander for every two players; official missions in co-op; host settings for air defence, missile and artillery ranges, aircraft spawn and abandonment; C-RAM against shells, rockets and mortar bombs; real lines of sight over forests; capture by balance of forces and Destruction back on the front; UMPK, SDB, StormBreaker, HARM and JSOW loadouts; a more active AI ally; fixes from player reports. |
+| **6.1** | October 2026 | Built for game 1.2.2: the map loading crash fixed; a battle log with Off / On / Full, nothing sent over the Internet; lighter memory and a Low-end PC mode; a new HUD with movable blocks and a size setting; rebuilt lobbies and Create a game; a Guide and a Training centre in the Play tab; a scenario AI commander that follows the difficulty; Chinese missiles, new bombs, Tu-95, F-15EX, B-1B and Eurofighter loadouts; chat fixed and straight smoke from wrecks; WZ551, Kh-29, laser and lake shore fixes. |
+| **6.0.3** | October 2026 | China with its own vehicles and real weapons on them; towing with every vehicle; a clean icon for every button; number of players chosen by the host: co-op up to 5, PvP up to 5 v 5; unit cap per player (25 to 150) or Dynamic; one enemy commander for every two players; official missions in co-op; host settings for air defence, missile and artillery ranges, aircraft spawn and abandonment; C-RAM against shells, rockets and mortar bombs; real lines of sight over forests; capture by balance of forces and Destruction back on the front; UMPK, SDB, StormBreaker, HARM and JSOW loadouts; a more active AI ally; fixes from player reports. |
 | **6.0.2** | October 2026 | China playable, new infantry; force fire (G) on buildings really fires, with HE; penetrating missiles and the GBU-39 vs buildings; Breakthrough at a real 3 to 1; AI commander with a player's economy; real ranges of glide bombs, air-to-air missiles and guided bombs; cope cages by default; real artillery laying times; recovery vehicles back; royalty-free music only (44 tracks); loading window back to the menu. |
 | **6.0.1** | October 2026 | Final game 1.2.1; cards replaced in saved decks instead of removed; abandoned vehicles can be destroyed; buildings vs cruise missiles; Automatic / Manual laser; anti-cheat launch fixed. |
 | **6.0** | October 2026 | Built for game 1.2.1; a Vanilla realism mode and a Dynamic unit cap; helicopters that pay for flying low; ranges and speeds checked against real figures; a sharper AI and artillery that leaves battery; sub-mods through the BARO Workshop; cleaner decks and many fixes. |
@@ -893,13 +955,13 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 
 - Mod by **tassassinno74** (**Noichi** on Discord).
 - Built on [MelonLoader](https://github.com/LavaGang/MelonLoader) by LavaGang.
-- Button icons based on Tabler Icons by Paweł Kuna (MIT licence).
+- Texts and translations are made with AI tools.
 - Fifteen original music tracks and an Intro theme ship with the mod.
 - Broken Arrow is developed by Steel Balalaika and published by Slitherine. This is an unofficial fan mod, not affiliated with or endorsed by them.
 
 > [!IMPORTANT]
 > **© 2026 tassassinno74. All rights reserved.** You are welcome to download the mod and play it. Re-uploading it anywhere (Steam, Steam Workshop, Nexus Mods, ModDB or any other site), redistributing it, reusing its code or data, or publishing modified versions without the author's written permission is not allowed. Full terms: [LICENSE](LICENSE). MelonLoader, included in the ALL-IN-ONE archive, keeps its own licence (Apache 2.0, file included).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.0.3-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.0.3"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.1-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.1"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
 
 <div align="right"><a href="#top">back to top</a></div>
