@@ -2,6 +2,23 @@
 
 All notable changes to Broken Arrow Realism Overhaul. Texts and translations are made with AI tools.
 
+## 6.2 (October 2026)
+
+**Built for Broken Arrow 1.2.2.** Needs MelonLoader 0.7.3. Every player in a lobby needs 6.2: an older version shows **Wrong version**.
+
+**Update from 6.1:** close the game, replace `Mods\BrokenArrowRealismOverhaul.dll` and copy the new `RealismOverhaul_Vehicules` folder into the game folder (let Windows replace the files). Keep MelonLoader 0.7.3 and the other folders. Your decks are kept.
+
+### Fixes
+- **Campaign**: the **Launch the campaign** button opens the campaign again (it lit up but did nothing). Your campaign save is never erased.
+- **Arsenal**: every card is back in its country's division (some lists could be empty).
+- **Nuclear aircraft cards** are put aside for now. A deck that had one still works: only that card leaves it.
+
+### Enemy commander
+- It uses its transports and its trucks, guards what it holds and attacks better.
+
+### New
+- **ZALA 421-16E2**: Russian reconnaissance drone (Russia, Recon tab).
+
 ## 6.1 (October 2026)
 
 **Built for Broken Arrow 1.2.2.** Needs MelonLoader 0.7.3. Every player in a lobby needs 6.1: an older version shows **Wrong version**.

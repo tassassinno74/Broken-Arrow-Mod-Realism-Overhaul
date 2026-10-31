@@ -5,7 +5,7 @@
 <p align="center"><b>Die Kampagne, die Szenarien und das Gefecht, geführt so, wie das Gerät tatsächlich für den Kampf gebaut wurde.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-6.1-2ea44f?style=for-the-badge" alt="Version 6.1">
+  <img src="https://img.shields.io/badge/version-6.2-2ea44f?style=for-the-badge" alt="Version 6.2">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.2-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.2">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -68,7 +68,7 @@ Du spielst die Kampagne, die offiziellen Szenarien, das Gefecht und die eigenen 
 
 | Die Mod | Das Schlachtfeld | Praktisches |
 |---|---|---|
-| [Neu in der 6.1](#new-61) · [6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [Neu in der 6.0](#new-60) | [Fahrzeuge und Arsenal](#vehicles) | [Download und Installation](#install) |
+| [Neu in der 6.2](#new-62) · [6.1](#new-61) · [6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [Neu in der 6.0](#new-60) | [Fahrzeuge und Arsenal](#vehicles) | [Download und Installation](#install) |
 | [Gemeinsam spielen](#lobbies) · [Crossplay und Datenschutz](#privacy) | [Landkrieg](#ground-war) | [Update oder Deinstallation](#update) |
 | [Das Menü der Mod](#menu) | [Luftkrieg](#air-war) | [Einstellungen](#settings) |
 | [Dein Deck](#deck) | [Der feindliche Kommandeur](#commander) | [Wo die Mod läuft](#where-it-runs) · [Fragen der Spieler](#faq) |
@@ -77,6 +77,19 @@ Du spielst die Kampagne, die offiziellen Szenarien, das Gefecht und die eigenen 
 | | [Unter der Haube](#underneath) | [Community](#community) · [Danksagungen und Lizenz](#credits) |
 
 ---
+
+<a id="new-62"></a>
+
+## 🆕 Neu in der 6.2
+
+> **Die 6.2 in fünf Zeilen**
+> - **Kampagne**: Die Schaltfläche **Kampagne starten** öffnet die Kampagne wieder (sie leuchtete auf, tat aber nichts).
+> - **Arsenal**: Jede Karte ist wieder in der Division ihres Landes (manche Listen konnten leer sein).
+> - **Ein klügerer feindlicher Kommandeur**: Er nutzt seine Transporter und Lastwagen, bewacht, was er hält, und greift besser an.
+> - **Neue Drohne**: ZALA 421-16E2, russische Aufklärungsdrohne (Russland, Reiter Aufklärung).
+> - **Die Karten der Atomflugzeuge** sind vorerst beiseitegelegt. Ein Deck mit einer davon funktioniert weiter: Nur diese Karte verlässt es.
+
+> Von 6.1 aus: Schließe das Spiel, ersetze `Mods\BrokenArrowRealismOverhaul.dll` und kopiere den neuen Ordner `RealismOverhaul_Vehicules` in den Spielordner (lass Windows die Dateien ersetzen). **Alle Spieler einer Lobby brauchen die 6.2.**
 
 <a id="new-61"></a>
 
@@ -318,7 +331,7 @@ Sie kommen nach und nach, jedes nach seiner Prüfung im Spiel.
 <a id="update"></a>
 
 ### Update von einer älteren Version
-Lade das neue Archiv mit der Schaltfläche **DOWNLOAD** herunter. **Von 6.0.3 oder 6.0.2 aus:** Schließe das Spiel, ersetze `Mods\BrokenArrowRealismOverhaul.dll` und kopiere den neuen Ordner `RealismOverhaul_Vehicules` in den Spielordner (lass Windows die Dateien ersetzen). MelonLoader 0.7.3 und die anderen Ordner bleiben, wie sie sind; deine Decks bleiben erhalten. Der erste Start nach dem Spiel-Update auf 1.2.2 dauert ein paar Minuten länger: MelonLoader baut seine Dateien neu. **Von einer älteren Version aus: Lösche vor dem Kopieren den alten Ordner `RealismOverhaul_Vehicules` aus dem Spielordner** (die alten Dateien der 5.9.x werden nicht mehr gebraucht), kopiere dann die neuen Dateien und Ordner über die alten (siehe Schritt 3, mit dem neuen Ordner `RealismOverhaul_SousMods`), öffne danach deine Decks und prüfe sie. Um gemeinsam zu spielen, brauchen du und deine Freunde genau dieselbe Version, die 6.1: Sonst zeigt die Lobbyliste **Falsche Version**.
+Lade das neue Archiv mit der Schaltfläche **DOWNLOAD** herunter. **Von 6.1, 6.0.3 oder 6.0.2 aus:** Schließe das Spiel, ersetze `Mods\BrokenArrowRealismOverhaul.dll` und kopiere den neuen Ordner `RealismOverhaul_Vehicules` in den Spielordner (lass Windows die Dateien ersetzen). MelonLoader 0.7.3 und die anderen Ordner bleiben, wie sie sind; deine Decks bleiben erhalten. Der erste Start nach dem Spiel-Update auf 1.2.2 dauert ein paar Minuten länger: MelonLoader baut seine Dateien neu. **Von einer älteren Version aus: Lösche vor dem Kopieren den alten Ordner `RealismOverhaul_Vehicules` aus dem Spielordner** (die alten Dateien der 5.9.x werden nicht mehr gebraucht), kopiere dann die neuen Dateien und Ordner über die alten (siehe Schritt 3, mit dem neuen Ordner `RealismOverhaul_SousMods`), öffne danach deine Decks und prüfe sie. Um gemeinsam zu spielen, brauchen du und deine Freunde genau dieselbe Version, die 6.1: Sonst zeigt die Lobbyliste **Falsche Version**.
 
 ### Deinstallation
 Lösche `Mods\BrokenArrowRealismOverhaul.dll`, die Ordner `UserData\RealismOverhaul...` sowie die Ordner `RealismOverhaul_Vehicules` und `RealismOverhaul_SousMods`. Um auch MelonLoader zu entfernen, lösche `version.dll` und den Ordner `MelonLoader`. Die eigenen Divisionen und das Menü des Spiels kommen genau wie vorher zurück.
@@ -889,6 +902,7 @@ Noch etwas gefunden? Klicke auf die Fehler-Schaltfläche des Spiels 🐞: Das Fe
 
 | Version | Datum | Höhepunkte |
 |:-:|:-:|---|
+| **6.2** | Oktober 2026 | Kampagnen-Schaltfläche repariert; jede Arsenal-Karte wieder in ihrer Division; ein klügerer feindlicher Kommandeur mit Transportern und Lastwagen; Aufklärungsdrohne ZALA 421-16E2 für Russland; Karten der Atomflugzeuge vorerst beiseitegelegt. |
 | **6.1** | Oktober 2026 | Für das Spiel 1.2.2 gemacht: Absturz beim Laden einer Karte behoben; ein Gefechtsprotokoll Aus / An / Vollständig, nichts wird ins Internet gesendet; weniger Speicher und ein Modus für schwache PCs; ein neues HUD mit verschiebbaren Blöcken und einstellbarer Größe; neu gemachte Lobbys und Partie erstellen; Anleitung und Ausbildungszentrum im Reiter Spielen; ein KI-Kommandant der Szenarien, der der Schwierigkeit folgt; chinesische Flugkörper, neue Bomben, Bewaffnungen von Tu-95, F-15EX, B-1B und Eurofighter; Chat repariert und gerader Rauch von Wracks; Korrekturen an WZ551, Kh-29, Laser und Seeufern. |
 | **6.0.3** | Oktober 2026 | China mit eigenen Fahrzeugen und echten Waffen daran; Abschleppen mit jedem Fahrzeug; ein sauberes Symbol für jede Schaltfläche; Zahl der Spieler vom Host gewählt (Koop bis zu 5, PvP bis zu 5 gegen 5); Einheitenlimit pro Spieler (25 bis 150) oder Dynamisch, das nie wieder sinkt; ein feindlicher Kommandeur für je zwei Spieler; offizielle Missionen im Koop; Seite Gemischt und Regeln für Szenario-Ersteller; neue Einstellungen des Hosts (Reichweiten von Flugabwehr, Flugkörpern und Artillerie, Erscheinen der Luftfahrzeuge, Aufgeben erlaubt); C-RAM gegen Granaten und Raketen; Sichtlinien nie durch den Wald; Einnahme nach Kräfteverhältnis; neue echte Bewaffnungen (UMPK, SDB, StormBreaker, HARM, JSOW); eine aktivere KI; Korrekturen nach Meldungen der Spieler. |
 | **6.0.2** | Oktober 2026 | China spielbar (neue Infanterie); erzwungenes Feuer (G) auf Gebäude feuert wirklich, mit Sprenggranaten; durchdringende Raketen und GBU-39 gegen Gebäude; Durchbruch mit echtem 3 zu 1; KI-Kommandeur mit der Wirtschaft eines Spielers; echte Reichweiten von Gleitbomben, Luft-Luft-Raketen und Lenkbomben; Cope Cages ab Werk; echte Stellungszeiten der Artillerie; Bergepanzer zurück; nur lizenzfreie Musik (44 Stücke); Ladefenster beim Zurück ins Menü. |
@@ -965,6 +979,6 @@ Noch etwas gefunden? Klicke auf die Fehler-Schaltfläche des Spiels 🐞: Das Fe
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Alle Rechte vorbehalten.** Du darfst die Mod gern herunterladen und spielen. Sie irgendwo erneut hochzuladen (Steam, Steam Workshop, Nexus Mods, ModDB oder jede andere Seite), sie weiterzuverbreiten, ihren Code oder ihre Daten wiederzuverwenden oder veränderte Versionen ohne die schriftliche Erlaubnis des Autors zu veröffentlichen, ist nicht erlaubt. Vollständige Bedingungen: [LICENSE](LICENSE). MelonLoader, im ALL-IN-ONE-Archiv enthalten, behält seine eigene Lizenz (Apache 2.0, Datei enthalten).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.1-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.1"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.2-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.2"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
 
 <div align="right"><a href="#top">nach oben</a></div>

@@ -5,7 +5,7 @@
 <p align="center"><b>The campaign, the scenarios and the skirmish, fought the way the equipment was actually built to fight.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-6.1-2ea44f?style=for-the-badge" alt="Version 6.1">
+  <img src="https://img.shields.io/badge/version-6.2-2ea44f?style=for-the-badge" alt="Version 6.2">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.2-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.2">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.1-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 6.1"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.1-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 6.2"></a>
   <a href="https://discord.gg/brokenarrowrealism"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
   <a href="https://ko-fi.com/brokenarrowrealism"><img src="https://img.shields.io/badge/KO--FI-SUPPORT%20THE%20MOD-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"></a>
@@ -68,7 +68,7 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 
 | The mod | The battlefield | Practical |
 |---|---|---|
-| [What's new in 6.1](#new-61) · [6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [6.0](#new-60) | [Vehicles and the Arsenal](#vehicles) | [Download and install](#install) |
+| [What's new in 6.2](#new-62) · [6.1](#new-61) · [6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [6.0](#new-60) | [Vehicles and the Arsenal](#vehicles) | [Download and install](#install) |
 | [Playing together](#lobbies) · [crossplay and privacy](#privacy) | [Ground war](#ground-war) | [Update or uninstall](#update) |
 | [The mod's menu](#menu) | [Air war](#air-war) | [Settings](#settings) |
 | [Your deck](#deck) | [The enemy commander](#commander) | [Where it runs](#where-it-runs) · [Questions players ask](#faq) |
@@ -77,6 +77,19 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 | | [Underneath it all](#underneath) | [Community](#community) · [Credits and licence](#credits) |
 
 ---
+
+<a id="new-62"></a>
+
+## 🆕 What's new in 6.2
+
+> **The 6.2 in five lines**
+> - **Campaign**: the **Launch the campaign** button opens the campaign again (it lit up but did nothing).
+> - **Arsenal**: every card is back in its country's division (some lists could be empty).
+> - **A smarter enemy commander**: it uses its transports and trucks, guards what it holds and attacks better.
+> - **New drone**: ZALA 421-16E2, Russian reconnaissance drone (Russia, Recon tab).
+> - **Nuclear aircraft cards** are put aside for now. A deck that had one still works: only that card leaves it.
+
+> From 6.1, close the game, replace `Mods\BrokenArrowRealismOverhaul.dll` and copy the new `RealismOverhaul_Vehicules` folder into the game folder (let Windows replace the files). **Every player in a lobby needs 6.2.**
 
 <a id="new-61"></a>
 
@@ -313,7 +326,7 @@ Each Chinese vehicle now has its own 3D model, its real data and the real weapon
 <a id="update"></a>
 
 ### Update from an older version
-Download the new archive with the **DOWNLOAD** button. **From 6.0.3 or 6.0.2**, close the game, replace `Mods\BrokenArrowRealismOverhaul.dll` and copy the new `RealismOverhaul_Vehicules` folder into the game folder, letting Windows replace the files. Keep MelonLoader 0.7.3 and the other folders as they are; your decks are kept. The first launch after the game update to 1.2.2 takes a few more minutes while MelonLoader rebuilds its files. **From an older version, delete the old `RealismOverhaul_Vehicules` folder from the game folder before you copy anything**: the old files of the 5.9.x versions are no longer used. Then copy the new files and folders over the old ones, open your decks and check them. To play together, you and your friends need exactly the same version, 6.1: otherwise the lobby list shows **Wrong version**.
+Download the new archive with the **DOWNLOAD** button. **From 6.1, 6.0.3 or 6.0.2**, close the game, replace `Mods\BrokenArrowRealismOverhaul.dll` and copy the new `RealismOverhaul_Vehicules` folder into the game folder, letting Windows replace the files. Keep MelonLoader 0.7.3 and the other folders as they are; your decks are kept. The first launch after the game update to 1.2.2 takes a few more minutes while MelonLoader rebuilds its files. **From an older version, delete the old `RealismOverhaul_Vehicules` folder from the game folder before you copy anything**: the old files of the 5.9.x versions are no longer used. Then copy the new files and folders over the old ones, open your decks and check them. To play together, you and your friends need exactly the same version, 6.1: otherwise the lobby list shows **Wrong version**.
 
 ### Uninstall
 Delete `Mods\BrokenArrowRealismOverhaul.dll`, the `UserData\RealismOverhaul...` folders, the `RealismOverhaul_Vehicules` folder and the `RealismOverhaul_SousMods` folder. To remove MelonLoader too, delete `version.dll` and the `MelonLoader` folder. The game's own divisions and menu come back, exactly as before.
@@ -886,6 +899,7 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 
 | Version | Date | Highlights |
 |:-:|:-:|---|
+| **6.2** | October 2026 | Campaign button fixed; every Arsenal card back in its division; a smarter enemy commander with its transports and trucks; ZALA 421-16E2 reconnaissance drone for Russia; nuclear aircraft cards put aside for now. |
 | **6.1** | October 2026 | Built for game 1.2.2: the map loading crash fixed; a battle log with Off / On / Full, nothing sent over the Internet; lighter memory and a Low-end PC mode; a new HUD with movable blocks and a size setting; rebuilt lobbies and Create a game; a Guide and a Training centre in the Play tab; a scenario AI commander that follows the difficulty; Chinese missiles, new bombs, Tu-95, F-15EX, B-1B and Eurofighter loadouts; chat fixed and straight smoke from wrecks; WZ551, Kh-29, laser and lake shore fixes. |
 | **6.0.3** | October 2026 | China with its own vehicles and real weapons on them; towing with every vehicle; a clean icon for every button; number of players chosen by the host: co-op up to 5, PvP up to 5 v 5; unit cap per player (25 to 150) or Dynamic; one enemy commander for every two players; official missions in co-op; host settings for air defence, missile and artillery ranges, aircraft spawn and abandonment; C-RAM against shells, rockets and mortar bombs; real lines of sight over forests; capture by balance of forces and Destruction back on the front; UMPK, SDB, StormBreaker, HARM and JSOW loadouts; a more active AI ally; fixes from player reports. |
 | **6.0.2** | October 2026 | China playable, new infantry; force fire (G) on buildings really fires, with HE; penetrating missiles and the GBU-39 vs buildings; Breakthrough at a real 3 to 1; AI commander with a player's economy; real ranges of glide bombs, air-to-air missiles and guided bombs; cope cages by default; real artillery laying times; recovery vehicles back; royalty-free music only (44 tracks); loading window back to the menu. |
@@ -962,6 +976,6 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 > [!IMPORTANT]
 > **© 2026 tassassinno74. All rights reserved.** You are welcome to download the mod and play it. Re-uploading it anywhere (Steam, Steam Workshop, Nexus Mods, ModDB or any other site), redistributing it, reusing its code or data, or publishing modified versions without the author's written permission is not allowed. Full terms: [LICENSE](LICENSE). MelonLoader, included in the ALL-IN-ONE archive, keeps its own licence (Apache 2.0, file included).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.1-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.1"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.2-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.2"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
 
 <div align="right"><a href="#top">back to top</a></div>
