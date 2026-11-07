@@ -2,6 +2,40 @@
 
 All notable changes to Broken Arrow Realism Overhaul. Texts and translations are made with AI tools.
 
+## 6.4 (November 2026)
+
+**Built for Broken Arrow 1.2.2.** Needs MelonLoader 0.7.3. Every player in a lobby needs 6.4: an older version shows **Wrong version**.
+
+**Update from 6.3 or 6.2:** close the game, replace `Mods\BrokenArrowRealismOverhaul.dll` and copy the new `RealismOverhaul_Vehicules` folder into the game folder (let Windows replace the files). Keep MelonLoader 0.7.3 and the other folders as they are. Your decks are kept.
+
+### AI commander
+- Spreads its supply over many depots across its half of the map, then fills them from the rear towards the front.
+- Keeps air defence, radars and artillery behind the line; only shoulder-fired air defence goes forward.
+- Parks its idle vehicles under cover in woods or towns, each watching a different arc, never in the open.
+- Fields more infantry, with two infantry posts in the woods of each sector.
+- Holds a thinner line in calm sectors and attacks weak points in force.
+- Crews and pilots of destroyed vehicles walk back to base, or are picked up, and their card comes back.
+- Units out of ammunition go and rearm, anti-tank and anti-air teams included.
+
+### Buildings
+- The number of places follows the building's real size: a small house no longer holds hundreds of soldiers.
+- A collapse kills fewer occupants, and bursts of fire and tank shells pin a garrison down.
+
+### Air defence and aircraft
+- Against an aircraft, the best-placed launcher fires.
+- Large missiles use a cold launch.
+- The host sets the range of short-range air defence, MANPADS and anti-aircraft guns separately.
+- Precision bombing and the AC-130's guns fire properly; the J-20 is stealthy against radar.
+
+### Fixes
+- The scenario editor shows each country only once.
+- Abandoned vehicles no longer count in the zones or at the depots.
+- The Chinese vehicle models are redone, with no see-through parts.
+
+## 6.3 (November 2026)
+
+Fixes after 6.2 and a sharper enemy commander.
+
 ## 6.2 (October 2026)
 
 **Built for Broken Arrow 1.2.2.** Needs MelonLoader 0.7.3. Every player in a lobby needs 6.2: an older version shows **Wrong version**.

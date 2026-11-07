@@ -5,7 +5,7 @@
 <p align="center"><b>La campagne, les scénarios et l'escarmouche, menés comme le matériel a réellement été conçu pour combattre.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-6.2-2ea44f?style=for-the-badge" alt="Version 6.2">
+  <img src="https://img.shields.io/badge/version-6.4-2ea44f?style=for-the-badge" alt="Version 6.4">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.2-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.2">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.1-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 6.2"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.4-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 6.4"></a>
   <a href="https://discord.gg/brokenarrowrealism"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre le Discord"></a>
   <a href="https://ko-fi.com/brokenarrowrealism"><img src="https://img.shields.io/badge/KO--FI-SUPPORT%20THE%20MOD-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Soutenir le mod sur Ko-fi"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Chaîne YouTube"></a>
@@ -37,6 +37,8 @@ Broken Arrow te donne de vrais véhicules, de vraies armes et une vraie doctrine
 Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles et reconstruit le jeu autour d'elles : vrais blindages, vrais moteurs, vraies cadences de tir, vrais emports et portées publiées jusqu'à 100 km, chaque prix fixé selon la vraie valeur au combat, et un **commandant ennemi** qui ne sait que ce que voient ses propres unités. Tu combats pour une **nation**, l'un des treize pays répartis en deux camps, l'OTAN et l'OTSC, avec le matériel qu'il aligne vraiment, et c'est toi qui **choisis ton réalisme** : Vanilla, Réaliste ou Semi-réaliste.
 
 Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mod contre l'IA (**Front Logistique**, **Percée**, **Chasse au poste de commandement**) seul, ou ensemble dans les salons du mod : jusqu'à 5 en coop contre l'IA, ou jusqu'à 5 contre 5 en JcJ entre joueurs du mod. Les serveurs officiels ne sont jamais utilisés.
+
+La **6.4** apporte un **commandant IA plus réaliste**, des **bâtiments réalistes** dont les places suivent la vraie surface, une **défense aérienne** plus fine et de nombreuses corrections. [Nouveautés de la 6.4.](#new-64)
 
 **La 6.1** est faite pour le jeu **1.2.2** : le plantage au chargement des cartes est réparé. Elle ajoute une **sonde** que tu règles toi-même (Désactivée, Activée ou Complète, rien n'est envoyé sur Internet), une mémoire allégée et un **mode petit PC**, un **nouvel ATH** aux blocs déplaçables et à la taille réglable, des **salons** et une **création de partie** refaits, un **Guide** et un **Centre d'entraînement** dans l'onglet Jouer, un commandant IA des scénarios qui suit la difficulté, de vrais missiles chinois et de nouveaux emports, et beaucoup de corrections. [Nouveautés de la 6.1.](#new-61)
 
@@ -68,7 +70,7 @@ Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mo
 
 | Le mod | Le champ de bataille | Pratique |
 |---|---|---|
-| [Nouveautés de la 6.2](#new-62) · [6.1](#new-61) · [6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [de la 6.0](#new-60) | [Véhicules et Arsenal](#vehicles) | [Télécharger et installer](#install) |
+| [Nouveautés de la 6.4](#new-64) · [6.2](#new-62) · [6.1](#new-61) · [6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [de la 6.0](#new-60) | [Véhicules et Arsenal](#vehicles) | [Télécharger et installer](#install) |
 | [Jouer ensemble](#lobbies) · [crossplay et vie privée](#privacy) | [Guerre au sol](#ground-war) | [Mettre à jour ou désinstaller](#update) |
 | [Le menu du mod](#menu) | [Guerre aérienne](#air-war) | [Réglages](#settings) |
 | [Ton deck](#deck) | [Le commandant ennemi](#commander) | [Où il fonctionne](#where-it-runs) · [Les questions des joueurs](#faq) |
@@ -77,6 +79,19 @@ Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mo
 | | [Sous le capot](#underneath) | [Communauté](#community) · [Crédits et licence](#credits) |
 
 ---
+
+<a id="new-64"></a>
+
+## 🆕 Nouveautés de la 6.4
+
+> **La 6.4 en cinq lignes**
+> - **Un commandant IA plus réaliste** : il répartit son ravitaillement dans de nombreux dépôts, garde la DCA, les radars et l'artillerie derrière la ligne, met ses véhicules à couvert en forêt ou en ville, prend plus d'infanterie et attaque en force les points faibles. Les équipages et les pilotes rentrent à la base.
+> - **Bâtiments réalistes** : le nombre de places suit la vraie taille du bâtiment (une petite maison n'accueille plus des centaines de soldats), un effondrement tue moins d'occupants, et les rafales et les obus de char clouent une garnison.
+> - **Défense aérienne** : contre un aéronef, c'est le lanceur le mieux placé qui tire ; les gros missiles partent à froid ; l'hôte règle à part la portée de la DCA courte, des missiles d'épaule et des canons antiaériens.
+> - **Aviation** : le bombardement de précision et les canons de l'AC-130 tirent bien ; le J-20 est furtif au radar.
+> - **Corrections** : l'éditeur de scénario montre chaque pays une seule fois ; les véhicules abandonnés ne comptent plus dans les zones ; les modèles des véhicules chinois sont refaits, sans pièces transparentes.
+
+> Si tu viens de la 6.3 ou de la 6.2, ferme le jeu, remplace `Mods\BrokenArrowRealismOverhaul.dll` et copie le nouveau dossier `RealismOverhaul_Vehicules` dans le dossier du jeu (laisse Windows remplacer les fichiers). **Tous les joueurs d'un salon doivent avoir la 6.4.**
 
 <a id="new-62"></a>
 
@@ -900,6 +915,8 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 
 | Version | Date | Points forts |
 |:-:|:-:|---|
+| **6.4** | Novembre 2026 | Un commandant IA plus réaliste (ravitaillement réparti dans de nombreux dépôts, DCA et artillerie derrière la ligne, véhicules à couvert, plus d'infanterie, attaques sur les points faibles) ; bâtiments réalistes selon leur vraie surface ; défense aérienne : le lanceur le mieux placé tire, départ à froid, réglages de portée séparés ; bombardement de précision, AC-130 et J-20 corrigés ; modèles des véhicules chinois refaits. |
+| **6.3** | Novembre 2026 | Corrections après la 6.2 et un commandant ennemi plus malin. |
 | **6.2** | Octobre 2026 | Bouton de la campagne réparé ; chaque carte de l'Arsenal revenue dans sa division ; un commandant ennemi plus malin avec ses transports et ses camions ; drone de reconnaissance ZALA 421-16E2 pour la Russie ; cartes d'avions nucléaires mises de côté pour l'instant. |
 | **6.1** | Octobre 2026 | Faite pour le jeu 1.2.2 : le plantage au chargement des cartes réparé ; une sonde Désactivée / Activée / Complète, rien n'est envoyé sur Internet ; une mémoire allégée et un mode petit PC ; un nouvel ATH aux blocs déplaçables et à la taille réglable ; salons et création de partie refaits ; un Guide et un Centre d'entraînement dans l'onglet Jouer ; un commandant IA des scénarios qui suit la difficulté ; missiles chinois, nouvelles bombes, emports du Tu-95, du F-15EX, du B-1B et de l'Eurofighter ; chat réparé et fumée des épaves droite ; corrections du WZ551, du Kh-29, du laser et des bords de lacs. |
 | **6.0.3** | Octobre 2026 | La Chine avec ses propres véhicules et leurs vraies armes ; le remorquage par tous les véhicules ; une icône nette pour chaque bouton ; nombre de joueurs au choix (jusqu'à 5 en coop, jusqu'à 5 contre 5 en JcJ) ; plafond d'unités par joueur ; un commandant ennemi pour deux joueurs ; missions officielles en coop ; camp Mixte ; nouveaux réglages de l'hôte (portées, apparition des aéronefs, abandon) ; C-RAM contre les obus et les roquettes ; lignes de vue et bâtiments plus justes ; capture au rapport de forces et retour du mode Destruction ; nouveaux emports réels ; allié IA plus actif. |
@@ -977,6 +994,6 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Tous droits réservés.** Tu peux télécharger le mod et y jouer. Le remettre en ligne où que ce soit (Steam, Steam Workshop, Nexus Mods, ModDB ou tout autre site), le redistribuer, réutiliser son code ou ses données, ou publier des versions modifiées sans l'autorisation écrite de l'auteur n'est pas permis. Conditions complètes : [LICENSE](LICENSE). MelonLoader, inclus dans l'archive ALL-IN-ONE, garde sa propre licence (Apache 2.0, fichier inclus).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.2-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.2"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.4-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.4"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
 
 <div align="right"><a href="#top">retour en haut</a></div>
