@@ -5,7 +5,7 @@
 <p align="center"><b>The campaign, the scenarios and the skirmish, fought the way the equipment was actually built to fight.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-6.4-2ea44f?style=for-the-badge" alt="Version 6.4">
+  <img src="https://img.shields.io/badge/version-6.5-2ea44f?style=for-the-badge" alt="Version 6.5">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.2-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.2">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.4-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 6.4"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=drive_link"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.5-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download ALL-IN-ONE 6.5"></a>
   <a href="https://discord.gg/brokenarrowrealism"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord"></a>
   <a href="https://ko-fi.com/brokenarrowrealism"><img src="https://img.shields.io/badge/KO--FI-SUPPORT%20THE%20MOD-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"></a>
@@ -70,7 +70,7 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 
 | The mod | The battlefield | Practical |
 |---|---|---|
-| [What's new in 6.4](#new-64) · [6.2](#new-62) · [6.1](#new-61) · [6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [6.0](#new-60) | [Vehicles and the Arsenal](#vehicles) | [Download and install](#install) |
+| [What's new in 6.5](#new-65) · [6.4](#new-64) · [6.2](#new-62) · [6.1](#new-61) · [6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [6.0](#new-60) | [Vehicles and the Arsenal](#vehicles) | [Download and install](#install) |
 | [Playing together](#lobbies) · [crossplay and privacy](#privacy) | [Ground war](#ground-war) | [Update or uninstall](#update) |
 | [The mod's menu](#menu) | [Air war](#air-war) | [Settings](#settings) |
 | [Your deck](#deck) | [The enemy commander](#commander) | [Where it runs](#where-it-runs) · [Questions players ask](#faq) |
@@ -79,6 +79,17 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 | | [Underneath it all](#underneath) | [Community](#community) · [Credits and licence](#credits) |
 
 ---
+
+<a id="new-65"></a>
+
+## 🆕 What's new in 6.5
+
+> **The 6.5 in three lines**
+> - **Guided missiles**: Javelin, JAGM, Spike LR, Hellfire Longbow and PARS 3 LR are fire-and-forget again: they are no longer lost when their shooter moves, loses sight or dies.
+> - **Crash fixed**: in some scenarios the game closed a few seconds after the AI's precision strikes. Precision strikes now work exactly like in the base game.
+> - **HD vehicle textures**: our vehicles' images are loaded at 2048 px at most (HD) instead of 4K or 8K: much less memory, the same clean look.
+
+> From 6.4, close the game and replace `Mods\BrokenArrowRealismOverhaul.dll`. **Every player in a lobby needs 6.5.**
 
 <a id="new-64"></a>
 
@@ -914,6 +925,7 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 
 | Version | Date | Highlights |
 |:-:|:-:|---|
+| **6.5** | November 2026 | Crash after the AI's precision strikes in some scenarios fixed (precision strikes as in the base game); vehicle textures in HD (2048 px at most). |
 | **6.4** | November 2026 | A more realistic AI commander (supply spread over many depots, air defence and artillery behind the line, vehicles under cover, more infantry, attacks on weak points); realistic buildings sized by their real floor area; air defence: the best-placed launcher fires, cold launch, separate range settings; precision bombing, AC-130 and J-20 fixed; Chinese vehicle models redone. |
 | **6.3** | November 2026 | Fixes after 6.2 and a sharper enemy commander. |
 | **6.2** | October 2026 | Campaign button fixed; every Arsenal card back in its division; a smarter enemy commander with its transports and trucks; ZALA 421-16E2 reconnaissance drone for Russia; nuclear aircraft cards put aside for now. |
@@ -993,6 +1005,6 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 > [!IMPORTANT]
 > **© 2026 tassassinno74. All rights reserved.** You are welcome to download the mod and play it. Re-uploading it anywhere (Steam, Steam Workshop, Nexus Mods, ModDB or any other site), redistributing it, reusing its code or data, or publishing modified versions without the author's written permission is not allowed. Full terms: [LICENSE](LICENSE). MelonLoader, included in the ALL-IN-ONE archive, keeps its own licence (Apache 2.0, file included).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.4-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.4"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.5-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.5"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="by tassassinno74"></p>
 
 <div align="right"><a href="#top">back to top</a></div>

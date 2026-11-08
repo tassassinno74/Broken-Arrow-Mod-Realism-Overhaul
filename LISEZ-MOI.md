@@ -5,7 +5,7 @@
 <p align="center"><b>La campagne, les scénarios et l'escarmouche, menés comme le matériel a réellement été conçu pour combattre.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-6.4-2ea44f?style=for-the-badge" alt="Version 6.4">
+  <img src="https://img.shields.io/badge/version-6.5-2ea44f?style=for-the-badge" alt="Version 6.5">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.2-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.2">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.4-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 6.4"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=drive_link"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.5-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Télécharger ALL-IN-ONE 6.5"></a>
   <a href="https://discord.gg/brokenarrowrealism"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre le Discord"></a>
   <a href="https://ko-fi.com/brokenarrowrealism"><img src="https://img.shields.io/badge/KO--FI-SUPPORT%20THE%20MOD-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Soutenir le mod sur Ko-fi"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Chaîne YouTube"></a>
@@ -38,7 +38,7 @@ Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles et recons
 
 Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mod contre l'IA (**Front Logistique**, **Percée**, **Chasse au poste de commandement**) seul, ou ensemble dans les salons du mod : jusqu'à 5 en coop contre l'IA, ou jusqu'à 5 contre 5 en JcJ entre joueurs du mod. Les serveurs officiels ne sont jamais utilisés.
 
-La **6.4** apporte un **commandant IA plus réaliste**, des **bâtiments réalistes** dont les places suivent la vraie surface, une **défense aérienne** plus fine et de nombreuses corrections. [Nouveautés de la 6.4.](#new-64)
+La **6.4** apporte un **commandant IA plus réaliste**, des **bâtiments réalistes** dont les places suivent la vraie surface, une **défense aérienne** plus fine et de nombreuses corrections. [Nouveautés de la 6.5.](#new-65) · [6.4](#new-64)
 
 **La 6.1** est faite pour le jeu **1.2.2** : le plantage au chargement des cartes est réparé. Elle ajoute une **sonde** que tu règles toi-même (Désactivée, Activée ou Complète, rien n'est envoyé sur Internet), une mémoire allégée et un **mode petit PC**, un **nouvel ATH** aux blocs déplaçables et à la taille réglable, des **salons** et une **création de partie** refaits, un **Guide** et un **Centre d'entraînement** dans l'onglet Jouer, un commandant IA des scénarios qui suit la difficulté, de vrais missiles chinois et de nouveaux emports, et beaucoup de corrections. [Nouveautés de la 6.1.](#new-61)
 
@@ -79,6 +79,17 @@ La **6.4** apporte un **commandant IA plus réaliste**, des **bâtiments réalis
 | | [Sous le capot](#underneath) | [Communauté](#community) · [Crédits et licence](#credits) |
 
 ---
+
+<a id="new-65"></a>
+
+## 🆕 Nouveautés de la 6.5
+
+> **La 6.5 en trois lignes**
+> - **Missiles guidés** : Javelin, JAGM, Spike LR, Hellfire Longbow et PARS 3 LR sont de nouveau « tire et oublie » : ils ne sont plus perdus quand leur tireur bouge, perd la vue ou meurt.
+> - **Plantage corrigé** : dans certains scénarios, le jeu se fermait quelques secondes après des frappes de précision de l'IA. Les frappes de précision fonctionnent maintenant exactement comme dans le jeu de base.
+> - **Textures des véhicules en HD** : les images de nos véhicules sont chargées en 2048 px au plus (HD) au lieu de 4K ou 8K : beaucoup moins de mémoire, le même rendu propre.
+
+> Si tu viens de la 6.4, ferme le jeu et remplace `Mods\BrokenArrowRealismOverhaul.dll`. **Tous les joueurs d'un salon doivent avoir la 6.5.**
 
 <a id="new-64"></a>
 
@@ -915,6 +926,7 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 
 | Version | Date | Points forts |
 |:-:|:-:|---|
+| **6.5** | Novembre 2026 | Plantage après les frappes de précision de l'IA dans certains scénarios corrigé (frappes de précision comme dans le jeu de base) ; textures des véhicules en HD (2048 px au plus). |
 | **6.4** | Novembre 2026 | Un commandant IA plus réaliste (ravitaillement réparti dans de nombreux dépôts, DCA et artillerie derrière la ligne, véhicules à couvert, plus d'infanterie, attaques sur les points faibles) ; bâtiments réalistes selon leur vraie surface ; défense aérienne : le lanceur le mieux placé tire, départ à froid, réglages de portée séparés ; bombardement de précision, AC-130 et J-20 corrigés ; modèles des véhicules chinois refaits. |
 | **6.3** | Novembre 2026 | Corrections après la 6.2 et un commandant ennemi plus malin. |
 | **6.2** | Octobre 2026 | Bouton de la campagne réparé ; chaque carte de l'Arsenal revenue dans sa division ; un commandant ennemi plus malin avec ses transports et ses camions ; drone de reconnaissance ZALA 421-16E2 pour la Russie ; cartes d'avions nucléaires mises de côté pour l'instant. |
@@ -994,6 +1006,6 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Tous droits réservés.** Tu peux télécharger le mod et y jouer. Le remettre en ligne où que ce soit (Steam, Steam Workshop, Nexus Mods, ModDB ou tout autre site), le redistribuer, réutiliser son code ou ses données, ou publier des versions modifiées sans l'autorisation écrite de l'auteur n'est pas permis. Conditions complètes : [LICENSE](LICENSE). MelonLoader, inclus dans l'archive ALL-IN-ONE, garde sa propre licence (Apache 2.0, fichier inclus).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.4-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.4"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.5-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.5"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="par tassassinno74"></p>
 
 <div align="right"><a href="#top">retour en haut</a></div>

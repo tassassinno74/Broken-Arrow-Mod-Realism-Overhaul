@@ -2,6 +2,18 @@
 
 All notable changes to Broken Arrow Realism Overhaul. Texts and translations are made with AI tools.
 
+## 6.5 (November 2026)
+
+**Built for Broken Arrow 1.2.2.** Needs MelonLoader 0.7.3. Every player in a lobby needs 6.5: an older version shows **Wrong version**.
+
+**Update from 6.4:** close the game and replace `Mods\BrokenArrowRealismOverhaul.dll`. Keep MelonLoader 0.7.3 and the other folders as they are. Your decks are kept.
+
+$1- Javelin, JAGM, Spike LR, Hellfire Longbow and PARS 3 LR are fire-and-forget again: they are no longer lost when their shooter moves, loses sight or dies.
+- The Arsenal armoury list no longer stays empty after a battle.
+
+### Vehicles
+- Our vehicles' images are loaded at 2048 px at most (HD) instead of 4K or 8K: much less memory, the same clean look.
+
 ## 6.4 (November 2026)
 
 **Built for Broken Arrow 1.2.2.** Needs MelonLoader 0.7.3. Every player in a lobby needs 6.4: an older version shows **Wrong version**.

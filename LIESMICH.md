@@ -5,7 +5,7 @@
 <p align="center"><b>Die Kampagne, die Szenarien und das Gefecht, geführt so, wie das Gerät tatsächlich für den Kampf gebaut wurde.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-6.4-2ea44f?style=for-the-badge" alt="Version 6.4">
+  <img src="https://img.shields.io/badge/version-6.5-2ea44f?style=for-the-badge" alt="Version 6.5">
   <img src="https://img.shields.io/badge/Broken%20Arrow-1.2.2-1f6feb?style=for-the-badge&logo=steam&logoColor=white" alt="Broken Arrow 1.2.2">
   <img src="https://img.shields.io/badge/MelonLoader-0.7.3-8957e5?style=for-the-badge" alt="MelonLoader 0.7.3">
   <br>
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.4-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 6.1 herunterladen"></a>
+  <a href="https://drive.google.com/file/d/1rWGtMX0Nxlk2haDhgqK-qkFdArTtVQFB/view?usp=drive_link"><img src="https://img.shields.io/badge/DOWNLOAD-ALL--IN--ONE%206.5-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="ALL-IN-ONE 6.1 herunterladen"></a>
   <a href="https://discord.gg/brokenarrowrealism"><img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Dem Discord beitreten"></a>
   <a href="https://ko-fi.com/brokenarrowrealism"><img src="https://img.shields.io/badge/KO--FI-SUPPORT%20THE%20MOD-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Die Mod auf Ko-fi unterstützen"></a>
   <a href="https://www.youtube.com/@FrenchBaguette0609"><img src="https://img.shields.io/badge/YOUTUBE-THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube-Kanal"></a>
@@ -70,7 +70,7 @@ Die **6.4** bringt einen **realistischeren KI-Kommandanten**, **realistische Geb
 
 | Die Mod | Das Schlachtfeld | Praktisches |
 |---|---|---|
-| [Neu in der 6.4](#new-64) · [6.2](#new-62) · [6.1](#new-61) · [6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [Neu in der 6.0](#new-60) | [Fahrzeuge und Arsenal](#vehicles) | [Download und Installation](#install) |
+| [Neu in der 6.5](#new-65) · [6.4](#new-64) · [6.2](#new-62) · [6.1](#new-61) · [6.0.3](#new-603) · [6.0.2](#new-602) · [6.0.1](#new-601) · [Neu in der 6.0](#new-60) | [Fahrzeuge und Arsenal](#vehicles) | [Download und Installation](#install) |
 | [Gemeinsam spielen](#lobbies) · [Crossplay und Datenschutz](#privacy) | [Landkrieg](#ground-war) | [Update oder Deinstallation](#update) |
 | [Das Menü der Mod](#menu) | [Luftkrieg](#air-war) | [Einstellungen](#settings) |
 | [Dein Deck](#deck) | [Der feindliche Kommandeur](#commander) | [Wo die Mod läuft](#where-it-runs) · [Fragen der Spieler](#faq) |
@@ -79,6 +79,17 @@ Die **6.4** bringt einen **realistischeren KI-Kommandanten**, **realistische Geb
 | | [Unter der Haube](#underneath) | [Community](#community) · [Danksagungen und Lizenz](#credits) |
 
 ---
+
+<a id="new-65"></a>
+
+## 🆕 Neu in der 6.5
+
+> **Die 6.5 in drei Zeilen**
+> - **Lenkflugkörper**: Javelin, JAGM, Spike LR, Hellfire Longbow und PARS 3 LR sind wieder „Fire and Forget“: Sie gehen nicht mehr verloren, wenn sich der Schütze bewegt, die Sicht verliert oder stirbt.
+> - **Absturz behoben**: In einigen Szenarien schloss sich das Spiel wenige Sekunden nach Präzisionsschlägen der KI. Präzisionsschläge funktionieren jetzt genau wie im Grundspiel.
+> - **Fahrzeugtexturen in HD**: Die Bilder unserer Fahrzeuge werden mit höchstens 2048 px (HD) statt 4K oder 8K geladen: viel weniger Speicher, das gleiche saubere Bild.
+
+> Von 6.4 aus: Schließe das Spiel und ersetze `Mods\BrokenArrowRealismOverhaul.dll`. **Alle Spieler einer Lobby brauchen die 6.5.**
 
 <a id="new-64"></a>
 
@@ -917,6 +928,7 @@ Noch etwas gefunden? Klicke auf die Fehler-Schaltfläche des Spiels 🐞: Das Fe
 
 | Version | Datum | Höhepunkte |
 |:-:|:-:|---|
+| **6.5** | November 2026 | Absturz nach Präzisionsschlägen der KI in einigen Szenarien behoben (Präzisionsschläge wie im Grundspiel); Fahrzeugtexturen in HD (höchstens 2048 px). |
 | **6.4** | November 2026 | Ein realistischerer KI-Kommandant (Nachschub auf viele Depots verteilt, Flugabwehr und Artillerie hinter der Linie, Fahrzeuge in Deckung, mehr Infanterie, Angriffe auf Schwachstellen); realistische Gebäude nach ihrer echten Fläche; Flugabwehr: der am besten platzierte Werfer feuert, Kaltstart, getrennte Reichweiten-Einstellungen; Präzisionsbombardement, AC-130 und J-20 korrigiert; Modelle der chinesischen Fahrzeuge überarbeitet. |
 | **6.3** | November 2026 | Korrekturen nach der 6.2 und ein klügerer feindlicher Kommandeur. |
 | **6.2** | Oktober 2026 | Kampagnen-Schaltfläche repariert; jede Arsenal-Karte wieder in ihrer Division; ein klügerer feindlicher Kommandeur mit Transportern und Lastwagen; Aufklärungsdrohne ZALA 421-16E2 für Russland; Karten der Atomflugzeuge vorerst beiseitegelegt. |
@@ -996,6 +1008,6 @@ Noch etwas gefunden? Klicke auf die Fehler-Schaltfläche des Spiels 🐞: Das Fe
 > [!IMPORTANT]
 > **© 2026 tassassinno74. Alle Rechte vorbehalten.** Du darfst die Mod gern herunterladen und spielen. Sie irgendwo erneut hochzuladen (Steam, Steam Workshop, Nexus Mods, ModDB oder jede andere Seite), sie weiterzuverbreiten, ihren Code oder ihre Daten wiederzuverwenden oder veränderte Versionen ohne die schriftliche Erlaubnis des Autors zu veröffentlichen, ist nicht erlaubt. Vollständige Bedingungen: [LICENSE](LICENSE). MelonLoader, im ALL-IN-ONE-Archiv enthalten, behält seine eigene Lizenz (Apache 2.0, Datei enthalten).
 
-<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.4-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.4"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
+<p align="center"><img src="https://img.shields.io/badge/Broken%20Arrow%20Realism%20Overhaul-6.5-2ea44f?style=flat-square" alt="Broken Arrow Realism Overhaul 6.5"> <img src="https://img.shields.io/badge/by-tassassinno74-555555?style=flat-square" alt="von tassassinno74"></p>
 
 <div align="right"><a href="#top">nach oben</a></div>
