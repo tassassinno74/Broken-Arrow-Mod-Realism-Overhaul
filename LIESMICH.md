@@ -34,9 +34,11 @@
 
 Broken Arrow gibt dir echte Fahrzeuge, echte Waffen und echte Doktrin, und dann lässt es eine 152-mm-Haubitze eine Granate auf den Panzer fallen, der direkt neben ihr parkt, lässt ein Maschinengewehr ein Flugzeug in drei Kilometern Höhe vom Himmel holen und begrenzt jeden Flugkörper auf die 9 km seiner alten Karten.
 
-Diese Mod schreibt **mehr als 12.000 Werte** mit echten Daten neu und baut das Spiel um sie herum auf: echte Panzerung, Motoren, Kadenzen, Bewaffnungen und veröffentlichte Reichweiten bis 100 km, jeder Preis nach dem echten Kampfwert, und ein **feindlicher Kommandeur**, der nur weiß, was seine eigenen Einheiten sehen. Du kämpfst als **Nation**, eines von dreizehn Ländern in zwei Lagern, NATO und OVKS, mit dem Gerät, das es wirklich einsetzt, und du **wählst deinen Realismus**: Realistisch, Halbrealistisch oder Vanilla.
+Diese Mod schreibt **mehr als 12.000 Werte** mit echten Daten neu und baut das Spiel um sie herum auf: echte Panzerung, Motoren, Kadenzen, Bewaffnungen und veröffentlichte Reichweiten bis 100 km, jeder Preis nach dem echten Kampfwert, und ein **feindlicher Kommandeur**, der wie ein echter Stab spielt. Du kämpfst als **Nation**, eines von dreizehn Ländern in zwei Lagern, NATO und OVKS, mit dem Gerät, das es wirklich einsetzt, und du **wählst deinen Realismus**: Realistisch, Halbrealistisch oder Vanilla.
 
 Du spielst die Kampagne, die offiziellen Szenarien, das Gefecht und die eigenen Modi der Mod gegen die KI (**Logistikfront**, **Durchbruch**, **Jagd auf den Gefechtsstand**) allein oder gemeinsam in den eigenen Lobbys der Mod: im Koop gegen die KI oder im PvP zwischen Mod-Spielern. Die offiziellen Server werden nie genutzt.
+
+Die **6.5** macht **Javelin, JAGM, Spike LR, Hellfire Longbow und PARS 3 LR** wieder zu „Fire and Forget“, behebt einen Absturz nach Präzisionsschlägen der KI und bringt **Karten** zurück: Polens Schilka, die Geran-2, Boden-Boden-Raketen und die Kamikaze-Drohnen der NATO. [Neu in der 6.5.](#new-65)
 
 Die **6.4** bringt einen **realistischeren KI-Kommandanten**, **realistische Gebäude**, deren Plätze sich nach der echten Fläche richten, eine genauere **Flugabwehr** und viele Korrekturen.
 
@@ -84,12 +86,14 @@ Die **6.4** bringt einen **realistischeren KI-Kommandanten**, **realistische Geb
 
 ## 🆕 Neu in der 6.5
 
-> **Die 6.5 in drei Zeilen**
-> - **Lenkflugkörper**: Javelin, JAGM, Spike LR, Hellfire Longbow und PARS 3 LR sind wieder „Fire and Forget“: Sie gehen nicht mehr verloren, wenn sich der Schütze bewegt, die Sicht verliert oder stirbt.
+> **Die 6.5 in fünf Zeilen**
+> - **Lenkflugkörper**: Javelin, JAGM, Spike LR, Hellfire Longbow und PARS 3 LR sind wieder „Fire and Forget“: Sie gehen nicht mehr verloren, wenn sich der Schütze bewegt, die Sicht verliert oder stirbt. Wald oder Tarnung lassen sie im Endanflug nicht mehr ihr Ziel verlieren. Rauch stoppt weiterhin die Infrarot-Modelle (Javelin, Spike LR, PARS 3 LR); die Radar-Modelle (Longbow, JAGM) sehen hindurch.
 > - **Absturz behoben**: In einigen Szenarien schloss sich das Spiel wenige Sekunden nach Präzisionsschlägen der KI. Präzisionsschläge funktionieren jetzt genau wie im Grundspiel.
-> - **Fahrzeugtexturen in HD**: Die Bilder unserer Fahrzeuge werden mit höchstens 2048 px (HD) statt 4K oder 8K geladen: viel weniger Speicher, das gleiche saubere Bild.
+> - **Arsenal und Testbank**: Das Arsenal bleibt nach einer Schlacht nicht mehr leer, und das Fenster „Test bench (F9)“ öffnet sich wieder.
+> - **Fahrzeuge**: Die Bilder werden mit höchstens 2048 px (HD) statt 4K oder 8K geladen: viel weniger Speicher, das gleiche saubere Bild. PLL-05, WZ551 und ZBD-09 haben die Räder des Grundspiels. Die Modelle von ZBL-08, Z-8 und Z-10W werden wieder angezeigt.
+> - **Karten zurück**: Polens ZSU-23-4 Schilka, Russlands Drohne Geran-2 mit eigenem 3D-Modell, Boden-Boden-Raketen (Bastion-P, Neptune, NSM, KN-23, Bal, DF-17) und die Kamikaze-Drohnen der NATO (LUCAS, Liutyi, Warmate, HX-2, Switchblade 600, Mini Harpy, mit dem Aussehen einer Drohne des Grundspiels, bis ihre eigenen Modelle fertig sind). Belarus erhält die ZSU-23-4 Schilka (alte Bestände, selten).
 
-> Von 6.4 aus: Schließe das Spiel und ersetze `Mods\BrokenArrowRealismOverhaul.dll`. **Alle Spieler einer Lobby brauchen die 6.5.**
+> Von 6.4 aus: Schließe das Spiel, ersetze `Mods\BrokenArrowRealismOverhaul.dll` und kopiere den neuen Ordner `RealismOverhaul_Vehicules` in den Spielordner (lass Windows die Dateien ersetzen). **Alle Spieler einer Lobby brauchen die 6.5.**
 
 <a id="new-64"></a>
 
@@ -296,7 +300,6 @@ Sie kommen nach und nach, jedes nach seiner Prüfung im Spiel.
 - Die verbündeten Bots der Szenarien sind repariert; an der Logistikfront ist solo ein KI-Verbündeter möglich.
 
 ### 🧠 Eine feinere KI
-- Sie sieht nur, was ihre Einheiten sehen.
 - Sie schickt mehr Aufklärer, kehrt dorthin zurück, wo sie den Kontakt verloren hat, und merkt sich Minenfelder.
 - Ihre Hubschrauber haben denselben Treibstoff wie deine.
 
@@ -346,6 +349,8 @@ Sie kommen nach und nach, jedes nach seiner Prüfung im Spiel.
 5. Im Hauptmenü erscheint der **Startbildschirm der Mod** und im Fenster Einstellungen ein Reiter **Mod**. Erstelle im Arsenal ein Deck (NATO oder OVKS, dann dein Land), oder kopiere das Standarddeck deines Landes.
 
 > [!CAUTION]
+> **Bann-Risiko: Starte das Spiel nie mit Easy Anti-Cheat, solange die Mod im Spielordner liegt.** Das Anti-Cheat des Spiels kann dein Konto sperren, und wir können diese Sperre nicht aufheben.
+>
 > **Wähle immer Anti-Cheat Disabled.** Läuft EasyAntiCheat, zeigt die Mod eine Meldung und schließt das Spiel, bevor etwas geladen wird: Starte es einfach mit der richtigen Option neu. Die Mod hält das Spiel absichtlich von den offiziellen Servern fern; um wieder offiziell im Mehrspieler zu spielen, entferne zuerst die Mod und MelonLoader.
 
 > [!WARNING]
@@ -928,7 +933,7 @@ Noch etwas gefunden? Klicke auf die Fehler-Schaltfläche des Spiels 🐞: Das Fe
 
 | Version | Datum | Höhepunkte |
 |:-:|:-:|---|
-| **6.5** | November 2026 | Absturz nach Präzisionsschlägen der KI in einigen Szenarien behoben (Präzisionsschläge wie im Grundspiel); Fahrzeugtexturen in HD (höchstens 2048 px). |
+| **6.5** | November 2026 | Absturz nach Präzisionsschlägen der KI in einigen Szenarien behoben (Präzisionsschläge wie im Grundspiel); Fahrzeugtexturen in HD (höchstens 2048 px); Lenkflugkörper wieder „Fire and Forget“; Polens Schilka, Geran-2, Boden-Boden-Raketen und die Kamikaze-Drohnen der NATO zurück. |
 | **6.4** | November 2026 | Ein realistischerer KI-Kommandant (Nachschub auf viele Depots verteilt, Flugabwehr und Artillerie hinter der Linie, Fahrzeuge in Deckung, mehr Infanterie, Angriffe auf Schwachstellen); realistische Gebäude nach ihrer echten Fläche; Flugabwehr: der am besten platzierte Werfer feuert, Kaltstart, getrennte Reichweiten-Einstellungen; Präzisionsbombardement, AC-130 und J-20 korrigiert; Modelle der chinesischen Fahrzeuge überarbeitet. |
 | **6.3** | November 2026 | Korrekturen nach der 6.2 und ein klügerer feindlicher Kommandeur. |
 | **6.2** | Oktober 2026 | Kampagnen-Schaltfläche repariert; jede Arsenal-Karte wieder in ihrer Division; ein klügerer feindlicher Kommandeur mit Transportern und Lastwagen; Aufklärungsdrohne ZALA 421-16E2 für Russland; Karten der Atomflugzeuge vorerst beiseitegelegt. |

@@ -34,9 +34,11 @@
 
 Broken Arrow te donne de vrais véhicules, de vraies armes et une vraie doctrine, puis laisse un obusier de 152 mm faire tomber un obus sur le char garé juste à côté de lui, laisse une mitrailleuse abattre un avion à trois kilomètres d'altitude, et plafonne chaque missile à 9 km, le bord de ses anciennes cartes.
 
-Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles et reconstruit le jeu autour d'elles : vrais blindages, vrais moteurs, vraies cadences de tir, vrais emports et portées publiées jusqu'à 100 km, chaque prix fixé selon la vraie valeur au combat, et un **commandant ennemi** qui ne sait que ce que voient ses propres unités. Tu combats pour une **nation**, l'un des treize pays répartis en deux camps, l'OTAN et l'OTSC, avec le matériel qu'il aligne vraiment, et c'est toi qui **choisis ton réalisme** : Vanilla, Réaliste ou Semi-réaliste.
+Ce mod réécrit **plus de 12 000 valeurs** avec des données réelles et reconstruit le jeu autour d'elles : vrais blindages, vrais moteurs, vraies cadences de tir, vrais emports et portées publiées jusqu'à 100 km, chaque prix fixé selon la vraie valeur au combat, et un **commandant ennemi** qui joue comme un vrai état-major. Tu combats pour une **nation**, l'un des treize pays répartis en deux camps, l'OTAN et l'OTSC, avec le matériel qu'il aligne vraiment, et c'est toi qui **choisis ton réalisme** : Vanilla, Réaliste ou Semi-réaliste.
 
 Tu joues la campagne, les scénarios officiels, l'escarmouche et les modes du mod contre l'IA (**Front Logistique**, **Percée**, **Chasse au poste de commandement**) seul, ou ensemble dans les salons du mod : jusqu'à 5 en coop contre l'IA, ou jusqu'à 5 contre 5 en JcJ entre joueurs du mod. Les serveurs officiels ne sont jamais utilisés.
+
+La **6.5** rend à **Javelin, JAGM, Spike LR, Hellfire Longbow et PARS 3 LR** leur « tire et oublie », corrige un plantage après les frappes de précision de l'IA et ramène des **cartes** : la Shilka polonaise, le Geran-2, des missiles sol-sol et les drones kamikazes de l'OTAN. [Nouveautés de la 6.5.](#new-65)
 
 La **6.4** apporte un **commandant IA plus réaliste**, des **bâtiments réalistes** dont les places suivent la vraie surface, une **défense aérienne** plus fine et de nombreuses corrections. [Nouveautés de la 6.5.](#new-65) · [6.4](#new-64)
 
@@ -84,12 +86,14 @@ La **6.4** apporte un **commandant IA plus réaliste**, des **bâtiments réalis
 
 ## 🆕 Nouveautés de la 6.5
 
-> **La 6.5 en trois lignes**
-> - **Missiles guidés** : Javelin, JAGM, Spike LR, Hellfire Longbow et PARS 3 LR sont de nouveau « tire et oublie » : ils ne sont plus perdus quand leur tireur bouge, perd la vue ou meurt.
+> **La 6.5 en cinq lignes**
+> - **Missiles guidés** : Javelin, JAGM, Spike LR, Hellfire Longbow et PARS 3 LR sont de nouveau « tire et oublie » : ils ne sont plus perdus quand leur tireur bouge, perd la vue ou meurt. La forêt ou le camouflage ne leur font plus perdre leur cible en fin de vol. La fumée arrête toujours les modèles infrarouges (Javelin, Spike LR, PARS 3 LR) ; ceux à radar (Longbow, JAGM) voient à travers.
 > - **Plantage corrigé** : dans certains scénarios, le jeu se fermait quelques secondes après des frappes de précision de l'IA. Les frappes de précision fonctionnent maintenant exactement comme dans le jeu de base.
-> - **Textures des véhicules en HD** : les images de nos véhicules sont chargées en 2048 px au plus (HD) au lieu de 4K ou 8K : beaucoup moins de mémoire, le même rendu propre.
+> - **Arsenal et banc d'essai** : l'armurerie ne reste plus vide après une bataille, et le panneau « Test bench (F9) » s'ouvre de nouveau.
+> - **Véhicules** : les images sont chargées en 2048 px au plus (HD) au lieu de 4K ou 8K : beaucoup moins de mémoire, le même rendu propre. Le PLL-05, le WZ551 et le ZBD-09 ont les roues du jeu de base. Les modèles du ZBL-08, du Z-8 et du Z-10W s'affichent de nouveau.
+> - **Cartes de retour** : la ZSU-23-4 Shilka polonaise, le drone russe Geran-2 avec son propre modèle 3D, les missiles sol-sol (Bastion-P, Neptune, NSM, KN-23, Bal, DF-17) et les drones kamikazes de l'OTAN (LUCAS, Liutyi, Warmate, HX-2, Switchblade 600, Mini Harpy, avec l'apparence d'un drone du jeu de base en attendant leurs propres modèles). La Biélorussie reçoit la ZSU-23-4 Shilka (vieux stock, rare).
 
-> Si tu viens de la 6.4, ferme le jeu et remplace `Mods\BrokenArrowRealismOverhaul.dll`. **Tous les joueurs d'un salon doivent avoir la 6.5.**
+> Si tu viens de la 6.4, ferme le jeu, remplace `Mods\BrokenArrowRealismOverhaul.dll` et copie le nouveau dossier `RealismOverhaul_Vehicules` dans le dossier du jeu (laisse Windows remplacer les fichiers). **Tous les joueurs d'un salon doivent avoir la 6.5.**
 
 <a id="new-64"></a>
 
@@ -310,7 +314,7 @@ Choisis avant la partie, les mêmes chez tous.
 
 ### 🧠 Plafond d'unités et IA
 - **Plafond d'unités « Dynamique »** : aucune limite pour les joueurs ; l'IA se limite à 150 par camp et te suit au-delà. Les bots alliés des scénarios sont réparés, et en Front Logistique solo, un allié IA est possible.
-- **Une IA plus fine, qui ne voit que ce que voient ses unités** : elle envoie davantage d'éclaireurs, retourne voir là où elle a perdu le contact, retient les champs de mines, et ses hélicoptères ont le même carburant que les tiens.
+- **Une IA plus fine** : elle envoie davantage d'éclaireurs, retourne voir là où elle a perdu le contact, retient les champs de mines, et ses hélicoptères ont le même carburant que les tiens.
 
 ### 🧩 Atelier BARO
 - Des **sous-mods se greffent sur le mod sans désynchro**. Le dossier `RealismOverhaul_SousMods` contient les guides, en 5 langues. Les salons affichent « Partie moddée ».
@@ -348,6 +352,8 @@ Choisis avant la partie, les mêmes chez tous.
 5. L'**écran d'accueil du mod** apparaît dans le menu principal, et un onglet **Mod** dans la fenêtre Options. Dans l'Arsenal, crée un deck (OTAN ou OTSC, puis ton pays), ou copie le deck par défaut de ton pays.
 
 > [!CAUTION]
+> **Risque de ban : ne lance jamais le jeu avec Easy Anti-Cheat tant que le mod est dans le dossier du jeu.** L'anti-triche du jeu peut bannir ton compte, et nous ne pouvons pas lever ce ban.
+>
 > **Choisis toujours Anti-Cheat Disabled.** Si EasyAntiCheat tourne, le mod affiche un message et ferme le jeu avant que rien ne se charge : relance-le avec la bonne option. Le mod tient le jeu à l'écart des serveurs officiels, exprès ; pour rejouer au multijoueur officiel, retire d'abord le mod et MelonLoader.
 
 > [!WARNING]
@@ -926,7 +932,7 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 
 | Version | Date | Points forts |
 |:-:|:-:|---|
-| **6.5** | Novembre 2026 | Plantage après les frappes de précision de l'IA dans certains scénarios corrigé (frappes de précision comme dans le jeu de base) ; textures des véhicules en HD (2048 px au plus). |
+| **6.5** | Novembre 2026 | Plantage après les frappes de précision de l'IA dans certains scénarios corrigé (frappes de précision comme dans le jeu de base) ; textures des véhicules en HD (2048 px au plus) ; missiles guidés de nouveau « tire et oublie » ; retour de la Shilka polonaise, du Geran-2, des missiles sol-sol et des drones kamikazes de l'OTAN. |
 | **6.4** | Novembre 2026 | Un commandant IA plus réaliste (ravitaillement réparti dans de nombreux dépôts, DCA et artillerie derrière la ligne, véhicules à couvert, plus d'infanterie, attaques sur les points faibles) ; bâtiments réalistes selon leur vraie surface ; défense aérienne : le lanceur le mieux placé tire, départ à froid, réglages de portée séparés ; bombardement de précision, AC-130 et J-20 corrigés ; modèles des véhicules chinois refaits. |
 | **6.3** | Novembre 2026 | Corrections après la 6.2 et un commandant ennemi plus malin. |
 | **6.2** | Octobre 2026 | Bouton de la campagne réparé ; chaque carte de l'Arsenal revenue dans sa division ; un commandant ennemi plus malin avec ses transports et ses camions ; drone de reconnaissance ZALA 421-16E2 pour la Russie ; cartes d'avions nucléaires mises de côté pour l'instant. |
@@ -934,7 +940,7 @@ Tu as trouvé autre chose ? Clique sur le bouton de bug du jeu 🐞 : la fenêtr
 | **6.0.3** | Octobre 2026 | La Chine avec ses propres véhicules et leurs vraies armes ; le remorquage par tous les véhicules ; une icône nette pour chaque bouton ; nombre de joueurs au choix (jusqu'à 5 en coop, jusqu'à 5 contre 5 en JcJ) ; plafond d'unités par joueur ; un commandant ennemi pour deux joueurs ; missions officielles en coop ; camp Mixte ; nouveaux réglages de l'hôte (portées, apparition des aéronefs, abandon) ; C-RAM contre les obus et les roquettes ; lignes de vue et bâtiments plus justes ; capture au rapport de forces et retour du mode Destruction ; nouveaux emports réels ; allié IA plus actif. |
 | **6.0.2** | Octobre 2026 | Chine jouable (infanterie neuve) ; le tir forcé (G) sur un bâtiment tire vraiment, à l'explosif ; missiles perforants et GBU-39 contre les bâtiments ; Percée à un vrai 3 contre 1 ; commandant IA avec l'économie d'un joueur ; vraies portées des bombes planantes, des missiles air-air et des bombes guidées ; cages anti-drones d'office ; vrais temps de mise en batterie ; dépanneurs de retour ; musique libre de droits seulement (44 morceaux) ; fenêtre de chargement au retour au menu. |
 | **6.0.1** | Octobre 2026 | Jeu 1.2.1 final ; cartes remplacées dans les decks au lieu d'être retirées ; véhicules abandonnés destructibles ; bâtiments contre les missiles de croisière ; laser Automatique / Manuel ; lancement avec l'anti-triche réparé. |
-| **6.0** | Octobre 2026 | Le mod passe sur le jeu 1.2.1 (Unity 6) ; le mode de réalisme Vanilla ; des phares éteints en bataille ; des hélicoptères plus vulnérables en vol bas ; des portées et des vitesses revues avec les chiffres réels ; le plafond d'unités « Dynamique » ; une IA qui ne voit que ce que voient ses unités ; la sortie de batterie de l'artillerie ; l'Atelier BARO pour les sous-mods ; des decks propres pour chaque pays. |
+| **6.0** | Octobre 2026 | Le mod passe sur le jeu 1.2.1 (Unity 6) ; le mode de réalisme Vanilla ; des phares éteints en bataille ; des hélicoptères plus vulnérables en vol bas ; des portées et des vitesses revues avec les chiffres réels ; le plafond d'unités « Dynamique » ; une IA plus fine ; la sortie de batterie de l'artillerie ; l'Atelier BARO pour les sous-mods ; des decks propres pour chaque pays. |
 | **5.9.5** | Octobre 2026 | Un correctif : la mitrailleuse de 12,7 mm des dépanneurs tire ; les missiles « tire et oublie » accrochent à leur vraie portée ; les hélicoptères viennent toujours de hors de la carte, avec un nouveau réglage Apparition des aéronefs ; le brouillard posé au sol. |
 | **5.9.4** | Octobre 2026 | Grilles anti-roquettes, toits anti-drones, camouflage et lames de terrassement dans l'Arsenal ; toutes les armes comme en vrai et une ligne Portées sur la fiche d'unité ; des bâtiments selon le mode de réalisme ; un deck par défaut pour chaque pays ; une Autoroute de la mort plus verte avec ses étangs ; des carrefours à leur vraie taille ; des avions qui arrivent juste derrière leur camp ; le minage à distance égal des deux côtés ; le crossplay facultatif Steam et VK Play. |
 | **5.9.3** | Octobre 2026 | L'Autoroute de la mort en 10 x 150 km ; des routes à leur vraie largeur et plus rien au-delà de la zone jouable ; la faction Europe ; un Shtora réaliste ; les chasse-mines KMT ; la vraie autonomie et les vrais temps de remise en état dans les airs, les frappes en cabré ; une meilleure vue pour l'infanterie à l'arrêt, une météo qui change et du vent ; des réglages graphiques séparés, une nouvelle intro, des menus plus légers. |

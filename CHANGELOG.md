@@ -6,13 +6,23 @@ All notable changes to Broken Arrow Realism Overhaul. Texts and translations are
 
 **Built for Broken Arrow 1.2.2.** Needs MelonLoader 0.7.3. Every player in a lobby needs 6.5: an older version shows **Wrong version**.
 
-**Update from 6.4:** close the game and replace `Mods\BrokenArrowRealismOverhaul.dll`. Keep MelonLoader 0.7.3 and the other folders as they are. Your decks are kept.
+**Update from 6.4:** close the game, replace `Mods\BrokenArrowRealismOverhaul.dll` and copy the new `RealismOverhaul_Vehicules` folder into the game folder (let Windows replace the files). Keep MelonLoader 0.7.3 and the other folders as they are. Your decks are kept.
 
-$1- Javelin, JAGM, Spike LR, Hellfire Longbow and PARS 3 LR are fire-and-forget again: they are no longer lost when their shooter moves, loses sight or dies.
+### Fixes
+- In some scenarios the game closed a few seconds after the AI's precision strikes. Precision strikes now work exactly like in the base game.
+- Javelin, JAGM, Spike LR, Hellfire Longbow and PARS 3 LR are fire-and-forget again: they are no longer lost when their shooter moves, loses sight or dies. Forest or camouflage no longer break their lock in the last metres. Smoke still stops the infrared ones (Javelin, Spike LR, PARS 3 LR); the radar-guided ones (Longbow, JAGM) see through it.
 - The Arsenal armoury list no longer stays empty after a battle.
+- The Test bench (F9) panel opens again.
 
 ### Vehicles
 - Our vehicles' images are loaded at 2048 px at most (HD) instead of 4K or 8K: much less memory, the same clean look.
+- The ZBL-08, Z-8 and Z-10W models display again.
+- The PLL-05, WZ551 and ZBD-09 use the base game's wheels.
+- Leopard 2A6: real mass of 62.3 t.
+- Belarus: the ZSU-23-4 Shilka joins its divisions (old stock, rare).
+- Poland's ZSU-23-4 Shilka is back, and Russia's Geran-2 drone returns with its own 3D model.
+- Surface-to-surface missile cards are back: Bastion-P, Neptune, NSM, KN-23, Bal, DF-17.
+- NATO kamikaze drones are back (LUCAS, Liutyi, Warmate, HX-2, Switchblade 600, Mini Harpy), with the look of a base-game drone until their own models are ready.
 
 ## 6.4 (November 2026)
 

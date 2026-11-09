@@ -34,9 +34,11 @@
 
 Broken Arrow gives you real vehicles, real weapons and real doctrine, and then lets a 152 mm howitzer drop a shell on the tank parked next to it, lets a machine gun swat an aircraft three kilometres up, and caps every missile at the 9 km edge of its old maps.
 
-This mod rewrites **more than 12,000 values** with real-world data and rebuilds the game around them: real armour, engines, rates of fire, loadouts and published ranges up to 100 km, every price set on real combat value, and an **enemy commander** who only knows what his own units see. You fight as a **nation**, one of thirteen countries in two camps, NATO and CSTO, with the equipment it really fields, and you **choose your realism**: Vanilla, Realistic or Semi-realistic.
+This mod rewrites **more than 12,000 values** with real-world data and rebuilds the game around them: real armour, engines, rates of fire, loadouts and published ranges up to 100 km, every price set on real combat value, and an **enemy commander** who plays like a real staff. You fight as a **nation**, one of thirteen countries in two camps, NATO and CSTO, with the equipment it really fields, and you **choose your realism**: Vanilla, Realistic or Semi-realistic.
 
 You play the campaign, the official scenarios, the skirmish and the mod's own modes against the AI (**Logistics Front**, **Breakthrough**, **Command Post Hunt**) alone, or together in the mod's own lobbies: co-op against the AI with up to 5 players, or PvP between mod players up to 5 v 5. The official servers are never used.
+
+**6.5** makes **Javelin, JAGM, Spike LR, Hellfire Longbow and PARS 3 LR** fire-and-forget again, fixes a crash after the AI's precision strikes and brings **cards** back: Poland's Shilka, the Geran-2, surface-to-surface missiles and NATO kamikaze drones. [What's new in 6.5.](#new-65)
 
 **6.4** brings a **more realistic AI commander**, **realistic buildings** sized by their real floor area, a sharper **air defence** and many fixes.
 
@@ -84,12 +86,14 @@ You play the campaign, the official scenarios, the skirmish and the mod's own mo
 
 ## 🆕 What's new in 6.5
 
-> **The 6.5 in three lines**
-> - **Guided missiles**: Javelin, JAGM, Spike LR, Hellfire Longbow and PARS 3 LR are fire-and-forget again: they are no longer lost when their shooter moves, loses sight or dies.
+> **The 6.5 in five lines**
+> - **Guided missiles**: Javelin, JAGM, Spike LR, Hellfire Longbow and PARS 3 LR are fire-and-forget again: they are no longer lost when their shooter moves, loses sight or dies. Forest or camouflage no longer break their lock in the last metres. Smoke still stops the infrared ones (Javelin, Spike LR, PARS 3 LR); the radar-guided ones (Longbow, JAGM) see through it.
 > - **Crash fixed**: in some scenarios the game closed a few seconds after the AI's precision strikes. Precision strikes now work exactly like in the base game.
-> - **HD vehicle textures**: our vehicles' images are loaded at 2048 px at most (HD) instead of 4K or 8K: much less memory, the same clean look.
+> - **Arsenal and Test bench**: the armoury list no longer stays empty after a battle, and the Test bench (F9) panel opens again.
+> - **Vehicles**: images are loaded at 2048 px at most (HD) instead of 4K or 8K: much less memory, the same clean look. The PLL-05, WZ551 and ZBD-09 use the base game's wheels. The ZBL-08, Z-8 and Z-10W models display again.
+> - **Cards back**: Poland's ZSU-23-4 Shilka, Russia's Geran-2 drone with its own 3D model, surface-to-surface missiles (Bastion-P, Neptune, NSM, KN-23, Bal, DF-17) and NATO kamikaze drones (LUCAS, Liutyi, Warmate, HX-2, Switchblade 600, Mini Harpy, with the look of a base-game drone until their own models are ready). Belarus gets the ZSU-23-4 Shilka (old stock, rare).
 
-> From 6.4, close the game and replace `Mods\BrokenArrowRealismOverhaul.dll`. **Every player in a lobby needs 6.5.**
+> From 6.4, close the game, replace `Mods\BrokenArrowRealismOverhaul.dll` and copy the new `RealismOverhaul_Vehicules` folder into the game folder (let Windows replace the files). **Every player in a lobby needs 6.5.**
 
 <a id="new-64"></a>
 
@@ -306,7 +310,7 @@ Each Chinese vehicle now has its own 3D model, its real data and the real weapon
 - **A "Dynamic" unit cap**: no limit for the players, while the AI stops at 150 per side and follows you beyond that. The allied bots of the scenarios work again, and in solo Logistics Front you can have an AI ally.
 
 ### 🧠 AI and artillery
-- **A sharper AI that only sees what its units see**: more scouts, it goes back to look where it lost contact, it remembers minefields, and its helicopters burn the same fuel as yours.
+- **A sharper AI**: more scouts, it goes back to look where it lost contact, it remembers minefields, and its helicopters burn the same fuel as yours.
 - **Artillery, for you and for the AI**: guns leave battery before they drive off (30 s for self-propelled guns, 120 s for towed ones). The AI calls for its fire (60 s) and adjusts it.
 
 ### 🧩 Sub-mods and decks
@@ -341,6 +345,8 @@ Each Chinese vehicle now has its own 3D model, its real data and the real weapon
 5. The **mod's home screen** appears in the main menu, and a **Mod** tab in the Options window. In the Arsenal, create a deck (NATO or CSTO, then your country), or copy the default deck of your country.
 
 > [!CAUTION]
+> **Risk of a ban: never start the game with Easy Anti-Cheat while the mod is in the game folder.** The game's anti-cheat may ban your account, and we cannot lift that ban.
+>
 > **Always choose Anti-Cheat Disabled.** If EasyAntiCheat is running, the mod shows a message and closes the game before anything loads: launch it again with the right option. The mod keeps the game off the official servers on purpose; to play official multiplayer again, remove the mod and MelonLoader first.
 
 > [!WARNING]
@@ -925,7 +931,7 @@ Found something else? Click the game's bug button 🐞: the **Report a mod bug**
 
 | Version | Date | Highlights |
 |:-:|:-:|---|
-| **6.5** | November 2026 | Crash after the AI's precision strikes in some scenarios fixed (precision strikes as in the base game); vehicle textures in HD (2048 px at most). |
+| **6.5** | November 2026 | Crash after the AI's precision strikes in some scenarios fixed (precision strikes as in the base game); vehicle textures in HD (2048 px at most); guided missiles fire-and-forget again; Poland's Shilka, the Geran-2, surface-to-surface missiles and NATO kamikaze drones back. |
 | **6.4** | November 2026 | A more realistic AI commander (supply spread over many depots, air defence and artillery behind the line, vehicles under cover, more infantry, attacks on weak points); realistic buildings sized by their real floor area; air defence: the best-placed launcher fires, cold launch, separate range settings; precision bombing, AC-130 and J-20 fixed; Chinese vehicle models redone. |
 | **6.3** | November 2026 | Fixes after 6.2 and a sharper enemy commander. |
 | **6.2** | October 2026 | Campaign button fixed; every Arsenal card back in its division; a smarter enemy commander with its transports and trucks; ZALA 421-16E2 reconnaissance drone for Russia; nuclear aircraft cards put aside for now. |
